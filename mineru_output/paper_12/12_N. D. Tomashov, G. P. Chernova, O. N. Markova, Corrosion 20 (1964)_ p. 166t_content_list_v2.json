@@ -1,0 +1,2197 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of Supplementary Alloying Elements On Pitting Corrosion Susceptibility Of 18Cr-14Ni Stainless Steel*"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                183,
+                20,
+                858,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By N. D. TOMASHOV,* G. P. CHERNOVA* and O. N. MARCOVA*"
+                    }
+                ]
+            },
+            "bbox": [
+                216,
+                164,
+                780,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                207,
+                230,
+                314,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and alloys are often subject to pitting corrosion, i.e., distinct deterioration of metal at separate local points, leaving the remainder of the surface intact."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                250,
+                489,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The tremendous volume of experimental material at present available on the subject warrants the conclusion that pitting is primarily due to an imperfect state of passivity at various local points on the metal surface. Thus, it must be recognized that the main cause of pitting is that, for some reason, steadily functioning corrosion couples develop: active metal (anode)-passive metal (cathode).1-10 Therefore, studies of pitting corrosion and pursued in two directions:"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                308,
+                489,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The establishment of specific causes for the initiation on the passive metal surface of distinct points of breakdown or weakening of the passive state."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                439,
+                489,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Investigation of optimum conditions for the stable operation of the corrosion couples: active metal (anode)- passive metal (cathode) ."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                481,
+                489,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The general viewpoint is that local breakdown of the passive state, usually observed in pitting corrosion, is primarily due to the presence of halogen ions in the external passivating medium."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                524,
+                489,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It has been proved time and again by direct experiments that the breakdown of passivity is preceded by the adsorption of halogen ions on the metal surface.1, 5, 7 This, however, does not explain the well-defined local nature of pitting corrosion. The theories advanced on pitting corrosion offer different explanations for the local nature of this type of corrosion, namely: penetration of active anions through the defects in the phase passive film,3,6 replacement of oxygen atoms at seperate points of the adsorption film by active anions,1, 5,7,8 emergence of dislocations on the metal surface,11 and even the development of an instantaneous difference in potential in the double layer, due to fluctuations in the thermal mobility of molecules.12 In fact, all of these theories attribute the process of pitting developments to the establishment of more or less stable anodic areas on the passive metal surface."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                582,
+                490,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Of particular practical importance are the investigations on the pitting corrosion phenomenon of stainless steels, inasmuch as this type of corrosion destruction definitely limits the utilization of this important structural material in modern technology."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                826,
+                490,
+                900
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                703,
+                230,
+                783,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This investigation was conducted because the development of new alloys with increased resistance to pitting corrosion appears to be largely dependent on an understanding of the effects of various concentrations of alloying elements on the initiation and steady operation of localized pitting sites on the metal surface."
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                251,
+                950,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion tests in 0.5N FeCl3 and determinations of passivity breakdown potentials in 0.1N NaCl were employed to study the pitting tendencies of 18 Cr-14Ni stainless steels to which alloying elements in various concentrations had been added. The alloying elements, chosen for their stability in solutions containing chloride ions and their solubility in austenite, were: Mo, Si, V, W, Ti, Ce, Nb, Ta, Zr and Re."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                361,
+                952,
+                505
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mo, Si and V, respectively, at 5 percent concentration, had the most marked effect in increasing resistance to pitting. Re, even in concentrations below 1 percent, was also very effective. The other elements tested had either a negative influence or no effect."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                503,
+                950,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Heat treatment in the dangerous temperature zone (650 C for 2 hours) greatly impaired the resistance of steel alloyed with 5 percent Mo, Si or V, which is not susceptible to pitting corrosion in the quenched state."
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                598,
+                952,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although, as pointed out above, there may be a number of reasons for the breach in passivity of separate local points on the stainless steel surface, the primary, basic reason must be the possible, if not practically the invariable, existence of heterogeneity in the metal struc ture and composition."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                694,
+                972,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thus, according to the data in Reference 9, pitting occurs mainly at the grain boundaries. It is a well known fact that, as far as physical structure and chemical composition are concerned, the grain boundaries differ from the bulk of the grain and precipitation of secondary phases and accumulation of impurities are liable to occur at the grain boundaries. For this reason the passive state at the grain boundaries is lower in proctetive properties than on the grain proper. It seems that the site where pitting develops also depends on the character of the surface pretreatment and on the aggressiveness of the electrolyte."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                781,
+                974,
+                954
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "★ Submitted for publication April 16, 1963. A paper presented at the Second International Congress on Metallic Corrosion, March 11-15, 1963, New York, N. Y."
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                911,
+                489,
+                940
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Institute of Physical Chemistry, Academy of Sciences, Moscow, U.S.S.R."
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                943,
+                476,
+                955
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "166t"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                962,
+                523,
+                976
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a6e2062e856d1964ea453ba2e1fc361e5cd5af1e9030ec3a396d4c720f7aad16.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1—Percentages of Alloying Elements in Experimental Alloys with 18Cr-14Ni Stainless Steel Base"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "* Based on content in the charge."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>Supplementary Alloying Element</td><td rowspan=1 colspan=1>Weight Percent</td></tr><tr><td rowspan=1 colspan=1>Ti...</td><td rowspan=1 colspan=1>0.190.220.31</td></tr><tr><td rowspan=1 colspan=1>Zr..</td><td rowspan=1 colspan=1>0.60</td></tr><tr><td rowspan=1 colspan=1>Ta.</td><td rowspan=1 colspan=1>0.6300.7351.0002.070</td></tr><tr><td rowspan=1 colspan=1>Nb.</td><td rowspan=1 colspan=1>0.921.302.18</td></tr><tr><td rowspan=1 colspan=1>Ce.</td><td rowspan=1 colspan=1>0.2*0.5*1.0*</td></tr><tr><td rowspan=1 colspan=1>Re.</td><td rowspan=1 colspan=1>0.220.500.992.5*</td></tr><tr><td rowspan=1 colspan=1>Si.</td><td rowspan=1 colspan=1>1.453.304.74</td></tr><tr><td rowspan=1 colspan=1>V.</td><td rowspan=1 colspan=1>1.002.254.75</td></tr><tr><td rowspan=1 colspan=1>W.</td><td rowspan=1 colspan=1>0.181.502.67</td></tr><tr><td rowspan=1 colspan=1>Mo..</td><td rowspan=1 colspan=1>1.472.755.0*</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                34,
+                79,
+                487,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In some instances, pitting may be due to the precipitation of secondary phases resulting in heterogeneity of metal composition. In the presence of ferritic inclusions, austenitic steels become increasingly susceptible to pitting corrosion. This may be due to the fact that at the boundaries with the ferritic inclusions, austenitic areas are depleted in chromium, because of the increase in chromium content of the ferrite."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                446,
+                487,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The compositions of stainless steels along with their structures play a decisive role as far as pitting corrosion is concerned. A most positive effect on the resistance of stainless steels to pitting corrosion can be observed by alloying these steels with elements capable of increasing the stability of their passive state, such as chromium, and molybdenum.9,13 An increase in the nickel and nitrogen contents of chromium-nickel steels also increases their resistance to pitting corrosion. The positive effect shown by these elements is believed to be due to the formation of a more stable, homogeneous austenitic structure.9 According to Reference 9, alloying with small concentrations of silicon (up to 2.5 percent) increases the resistance of the alloy to pitting corrosion, due to the changes produced at the grain boundaries. According to other data,14 the positive effect produced by silicon is due to the increased stability of the passive state, resulting from the increase in the silicon content of the protective film."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                560,
+                489,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There still remains a broad field for research on the problem of fighting corrosion of stainless steels by special alloying. First of all, the effect of various alloying elements on the variations in the intensity and the nature of pitting corrosion has not as yet been adequately studied. Secondly, there is still no clear concept about the mechanisms involved in rendering stainless steels less susceptible to pitting corrosion by the specific effect of the alloying elements. To date, there is still no clean-cut answer to the question of whether the main and primary effect of alloying elements is to reduce the probability of the development of pits in initial corrosion sites, or whether the effect is purely that of retardation of the rate of development of these pitting sites. Solution of these problems is naturally of great importance to the development of new alloys endowed with increased resistance to pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                832,
+                489,
+                976
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1292b3f57673f072d3dc65395854efce025529db734975adf7ba9736f50131b2.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1—Effect of alloying elements on the rate of corrosion of 18Cr-14Ni steel in 0.5N FeCl3. The test lasted 68 hours at room temperature."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                516,
+                52,
+                963,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                509,
+                435,
+                967,
+                537
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental Work"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                657,
+                542,
+                820,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This work, therefore, is primarily devoted to the effects produced by different alloying elements in increasing the resistance of austenitic chromium-nickel steels to pitting corrosion and to site initiation and spread of pitting corrosion, depending on the steel composition The first experimental alloys were based on CRES steels of the type 18Cr-14Ni, which had the following percentage composition: Cr,17.93; Ni,14.38; C,0.036; additional alloying elements: Mo, Si, V, W, Ti, Ce, Nb, Ta, Zr, Re, i.e., elements possessing some degree of stability in solutions containing Cl ions and endowed with marked solubility in austenite. Each of these supplemental alloying elements was introduced in the following concentrations: Mo, W, Si, V,1, 2 and 5, respectively; Ce,0.2, 0.5, 1 and 1.5; Ti, Nb, Ta, 0.5, 1 and 1.5, respectively; Re, 0.5, 1, 1.5 and 2.5 percent. The content of these alloying elements in the alloys, according to chemical analysis data, is presented in Table 1. Considering that Mo, W and V are ferrite-forming elements, the aforementioned steel, with increased Ni content, was taken to preserve the austenitic structure. Thirty different compositions were thus prepared and investigated. The steels were smelted in an electric induction furnace under slag. The ingots were forged, rolled into bars 2 mm thick, then tempered at 1150 C (heating for 15 minutes) and quenched in water. Metallographic examination after quenching showed that the steel had an austenitic structure and that only the steel with 5 percent Si exhibited an α phase."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                562,
+                971,
+                976
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May, 1964 EFFECT OF SUPPLEMENTARY ALLOYING ELEMENTS ON PITTING OF 18 Cr-14 Ni STAINLESS STEEL"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                23,
+                900,
+                38
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "167t"
+                    }
+                ]
+            },
+            "bbox": [
+                925,
+                23,
+                965,
+                38
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0c9be0ab7708ed7a3e7848d34f9c4af601c5f2bbfa308408ddba5f39e1561943.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2—Samples of 18Cr-14 Ni steels alloyed with Mo, V, Si, Re, W, Ti, Ta, Ce, Nb and Zr after corrosion testing in 0.5N FeCl3 for 68 hours at room temperature. The figures below the photographs show the content (weight percent) of the alloying element."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                43,
+                52,
+                961,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Susceptibility of the investigated steels to pitting corrosion was established by the rate of corrosion in 0.5N FeCl3. Inasmuch as under the experimental conditions the stainless steels were only subject to pitting corrosion and there was practically no over-all corrosion, the weight losses simply characterize the rate of pitting corrosion. Figure 1 shows the dependence of the corrosion rate of 18Cr-14Ni stainless steels in a 0.5N FeCl3 solution on supplementary alloying with the investigated elements. In Figure 2 are presented photographs of the test specimens at the end of the experiments."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                664,
+                486,
+                822
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                226,
+                825,
+                290,
+                839
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting Corrosion Resistance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                30,
+                841,
+                263,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It follows from the data obtained that the alloys most resistant to pitting corrosion are the steels alloyed with 5 percent Mo, 5 percent V and 5 percent Si. The corrosion rate of these steel specimens was of the order of magnitude 0.01 gm/sq m/hour, with external appearance unchanged and the same as before experimental exposures. Considerable increase in resistance to pitting corrosion is also exhibited by steels alloyed with 2.5 percent V, 2.5 percent Si, 2.5 percent Mo and 0.2-1 percent Re. It must be pointed out that unlike other metals, Re produces a considerable effect in enhancing the resistance of steels to pitting corrosion at much lower concentrations of the element in the alloy, compared to Mo, V and Si. A number of alloying elements such as Ti, Ce or Nb, have a negative effect. For Ta and W completely indeterminate results were obtained. Apparently, these elements affect the susceptibility of the steel to pitting corrosion but little."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                859,
+                486,
+                974
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                506,
+                663,
+                967,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Susceptibility to pitting corrosion was also established by way of determining the breakdown potentials in anodic polarization in 0.1N NaCl solution, using a technique described earlier in References 13, 15 and 16."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                806,
+                967,
+                865
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Passivity Breakdown Potentials"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                870,
+                756,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The data obtained in these anodic breakdown potentials of the passive film (Figure 3) in 0.1N NaCl basically correspond to the data obtained in the corrosion experiments. Thus, steels alloyed with 5 percent V or 5 percent Si did not break down up to a potential of 1.5v (relative to the normal hydrogen electrode)."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                888,
+                969,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "168t"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                24,
+                72,
+                37
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NATIONAL ASSOCIATION OF CORROSION ENGINEERS"
+                    }
+                ]
+            },
+            "bbox": [
+                239,
+                24,
+                738,
+                37
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 20"
+                    }
+                ]
+            },
+            "bbox": [
+                911,
+                21,
+                965,
+                33
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3a09e5edbb64a92ee571b1c8993c9bd814358c8868bf598c17e85024f0a96b50.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3—Effect of alloying elements on the breakdown potential (E) of 18Cr-14Ni steel in 0.1N NaCl. Temperature, 25 C"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                34,
+                57,
+                476,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Steel with 5 percent Mo did break down at a potential of 1.2v. In steels containing 1 percent and 2.5 percent "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { R e } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a considerable rise in the breakdown potentials was observed, compared to those of 18Cr-14Ni steels without the supplemental allowing element, the breakdown potential of which is + 0.64v. Some deviation from the data was obtained in the corrosion experiments on steels alloyed with Ti and Ce, in that there was no specific effect on the breakdown potential."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                427,
+                485,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It follows from the data obtained that steels containing about 2.5 and 5 percent Si, 2.5 and 5 percent Mo, 5 percent V and 0.2-1 percent Re are most resistant to pitting corrosion. The results obtained on the effect of Mo are in agreement with data reported in the literature. There is also information in the literature on the effect of Si on the susceptibility of steels to pitting corrosion, when the amount alloyed is 2.5 percent.ª However, there are no data on the effect of enhancing the resistance to pitting corrosion by increasing the Si content beyond 2.5 percent, as was observed in the authors' experiments. The considerable reduction in the susceptibility of stainless steels to pitting corrosion by alloying with vanadium and rhenium was first established in the present investigation."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                556,
+                485,
+                773
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effects of Alloying Elements on Pit Distribution"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                778,
+                416,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to determine the effect of supplementary alloying on the character of pit distribution over the steel surface, an investigation was made of the initiation sites of pitting on chromium-nickel steels alloyed with Mo, Si and V. These experiments were performed both in the process of anodic polarization in 0.1N NaC1 and 0.01N NaBr solutions, as well as in corrosion tests in 0.5N FeCl3."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                795,
+                485,
+                910
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting Initiation Sites During Polarization"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                914,
+                363,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to determine the sites of pitting initiation during the anodic polarization process, an experimental assembly was used, schematic diagram of which is shown in Figure 4. Pitting initiation was observed through a microscope on the anodic zone of a polished test specimen surface, limited by an orifice of 1 mm diameter in the funnel of the vessel. The first pit observed on the weakest spot of the passive film was recorded as pitting initiation. In the case of steels alloyed with 2.5 percent Mo, 2.5 percent Si and 2.5 percent V, the experiments were conducted in 0.1N NaC1. On steels alloyed with 5 percent Mo, 5 percent V and 5 percent Si, the experiments were conducted in a 0.01N NaBr solution because no pitting was observed on these steels in 0.1N NaC1."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                932,
+                483,
+                976
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5031e8eae241ba237a776e129eb4218af772c388201f6f4a48b4043408045b74.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4—Installation for observing under the microscope the site of the initiation of pitting during anodic polarization: (1) microscope lens; (2) circular wire electrode, Pt (cathode); (3) platinum electrode (anode); (4) sample; (5) capillary for measuring potentials; (6) organic glass funnel whose lower plane was fixed on the surface of the sample; (7) porous glass filter; (8) cathodic voltmeter; (9) organic glass vessel."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                520,
+                53,
+                958,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                507,
+                371,
+                969,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Once pitting was initiated, the voltage in the circuit was disconnected, the solution sucked out of the funnel and the specimen surface etched directly under the funnel without changing the position of the specimen. This was done for the purpose of establishing surface structure and the pit initiation site. The probability of pitting distribution in anodic polarization was calculated in percent of the total number of experiments (the number of experiments varied between 9 and 11). The character of pitting distribution over the surface of quenched steels was also investigated, using polished steel specimens in 0.5N FeCl3 solutions. The probability of pit distribution in this case was calculated as percentage of the total number of pits that appeared on each specimen. (The number of pits per sq cm varied from 8 to 30.)"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                545,
+                969,
+                761
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The data of both investigations on the distribution of pits over the structure of quenched 18Cr-14Ni steels, as well as on the steels alloyed with supplementary elements Si, V and Mo, are presented in Table 2. The data in this table show that most pitting on 18Cr-14Ni steels including no alloy additions, by anodic polarization in 0.1N NaC1, occurs at the peripheral areas of the grains proper. For steels with additional 2.5 percent Si, V or Mo, most of the pitting occurs directly in the grain boundaries. For steels with 5 percent Si, V or Mo, tested by anodic polarization in 0.01N NaBr solutions, pitting basically occurs along the grain boundaries. In tests with 0.5N FeCl3 on steel with no alloying additions, there is a characteristic pitting distribution in the grain peripheral region, and, in the case of additionally alloyed steels, directly at the grain boundaries. The authors accepted as peripheral grain regions the areas directly adjacent to the grain boundaries, the widths of such regions being not more than 10 percent of the linear dimensions of the grain proper."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                761,
+                969,
+                976
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May, 1964 EFFECT OF SUPPLEMENTARY ALLOYING ELEMENTS ON PITTING OF 18 Cr-14 Ni STAINLESS STEEL"
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                23,
+                894,
+                38
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "169t"
+                    }
+                ]
+            },
+            "bbox": [
+                927,
+                24,
+                965,
+                37
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e78409fbcdaee2c540f8239389239e35f8adaf0c8bb15a92838766fea0f5232b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2—Pitting Distribution on Quenched 18Cr-14 Ni Stainless Steel Alloyed with Si, V or Mo"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Experimental Conditions</td><td rowspan=\"2\">Supplementary Ålloying Element, Wt %</td><td colspan=\"3\">Pitting Distribution Over Steel Structure, %</td></tr><tr><td>Mid-Grain</td><td>Peripheral Areas</td><td>At Grain Boundaries</td></tr><tr><td rowspan=\"3\">Anodic Polarization in 0.1N NaCl</td><td>None</td><td>9.1</td><td>81.8</td><td>9.1</td></tr><tr><td>2.5 Si 2.5 V</td><td>22.2</td><td>22.2</td><td>77.8 77.8</td></tr><tr><td>2.5 Mo</td><td>1i.i</td><td>22.2</td><td>66.7</td></tr><tr><td rowspan=\"3\">Anodic Polarization in 0.01N NaBr</td><td>None</td><td></td><td></td><td></td></tr><tr><td>5 Si</td><td>16.7</td><td></td><td>83.3</td></tr><tr><td>5 V</td><td></td><td></td><td>100.0</td></tr><tr><td rowspan=\"3\">Corrosion Tests</td><td>5Mo</td><td></td><td></td><td>100.0</td></tr><tr><td>None</td><td>22.7</td><td>52</td><td>25.3</td></tr><tr><td>2.5 Si</td><td>6.4</td><td>0.7</td><td>92.9</td></tr><tr><td rowspan=\"3\">in 0.5N FeCl3</td><td>2.5 V</td><td>15.6</td><td>3.5</td><td>80.9</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                185,
+                75,
+                805,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                27,
+                255,
+                484,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5 shows photomicrographs of the sites where pitting initiated. It can be seen that on 18Cr-14Ni steel anodically polarized in a 0.1N NaCl solution, pitting occurs in the peripheral areas of the grain. On steels alloyed with 2.5 percent Mo or 2.5 percent Si, by anodic polarization in 0.01N NaBr pitting occurs at the grain boundaries. After corrosion testing of 18Cr-14Ni steel alloyed with 2.5 percent Si in 0.5N FeCl3, pitting occurs along the grain boundaries."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                326,
+                486,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thus it can be seen that alloying of chromium-nickel steel with Mo, V or Si simultaneously increases its resistance to pitting corrosion and shifts the zone of probable pit initiation from the peripheral areas of the grain to the grain boundary material. This may be regarded as an increase in stability of the passive state of the austenite grain proper. In chromium-nickel steels additionally alloyed with Mo, V or Si only a narrow grain boundary zone remains suceptible to pitting corrosion under very aggressive test conditions. This attests to the greater stability of the passive film on steels alloyed with the above elements, with the grain boundaries remaining the weakest spots in the oxide film. In 18Cr-14Ni steels without additional alloying elements, the passive state for the austenite is less stable, so that a larger zone near the grain boundaries is subject to pitting, thus resulting in pit initiation in the grain peripheral areas."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                454,
+                486,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                506,
+                255,
+                967,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effects of Heat Treatment"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                408,
+                722,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These experiments have shown that heat treatment of steel in the dangerous temperature zone (650 C for 2 hours) strongly enhances their susceptibility to pitting corrosion. This applies not only to 18 Cr-14Ni steel, but also to such steels additionally alloyed with Mo, V or Si. In annealed steels, pitting is also confined to the grain boundaries. Figure 6 shows the external appearance of both quenched and annealed steels after the test in 0.5N FeCl3. It can be seen that even steels alloyed with 5 percent Mo, V or Si, which are most stable in FeCl3 in the quenched state, corrode strongly in the annealed state. After an anneal the steels alloyed with V or Si are very susceptible to pitting corrosion, while the same steels alloyed with Mo or Re are susceptible to intergranular corrosion. The breakdown potentials of the steels additionally alloyed with Mo, V or Si drop considerably after an anneal, almost to the same potential as that of 18Cr-14Ni steel without additional alloying elements (Table 3). On annealed steel alloyed with Mo, after anodic polarization in 0.1N NaCl solution at a potential of + 0.81 v, the etched phase, precipitated along the grain boundaries, can be clearly observed."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                424,
+                967,
+                556
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/346c91ea7a824540589937dfd10cd262f98a67c55d83077eb692b7d026ef310f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5—Site of pitting initiation on 18Cr-14Ni steels additionally alloyed with Mo and Si. The perpendicular lines on the photograph represent the cross-hairs of the microscope eyepiece. 700X, except photo at extreme right, which is 200X."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                170,
+                570,
+                825,
+                927
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "170t"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                22,
+                72,
+                36
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NATIONAL ASSOCIATION OF CORROSION ENGINEERS"
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                24,
+                738,
+                36
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 20"
+                    }
+                ]
+            },
+            "bbox": [
+                909,
+                21,
+                965,
+                35
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f709aad9f95099bcc8ba2f2f7afbaf0b87ccc351af594d485912c4819b13bf7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 6—The effect of annealing on the sensitivity of 18Cr-14Ni steels to pitting corrosion in 0.5N FeCl3 solution. The experiment lasted 68 hours at room temperature. Upper row of specimens were quenched; lower row, annealed at 650 C for 2 hours."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                37,
+                58,
+                481,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                34,
+                392,
+                489,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An investigation was made of the effect of Mo, V, Si, Re and heat treatment on the stability of the passive state of chromium-nickel steels, plotting anodic potentiostatic curves. An electronic potentiostat was used in the experimental technique.17 The electrolyte was 0.1N HCl, because most pitting occurs in acidulated media in the presence of Cl ions. The pH of the HCl solution was the same as that of a 0.5N FeCl3 solution (~1.2). The curves obtained for quenched and annealed steels alloyed with 5 percent Mo, 5 percent Si and 2.5 percent Re are shown in Figures 7 and 8."
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                591,
+                489,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the quenched state (Figure 7), steel with Mo exhibits complete spontaneous passivity. There is not a single area of anodic dissolution on the anodic polarization curve. In 18Cr-14Ni steel and that alloyed with V, Si or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R e } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "regions of active anodic dissolution can be observed. In steels with 2.5 percent Re or with 5 percent V, the density of the passivating current, i.e., the maximum density of the anodic dissolution current, before the onset of the passive state, is considerably lower than for 18Cr-14Ni without additional alloying elements. The passivating current density of steels alloyed with 5 percent Si is approximately the same as that of 18Cr-14Ni steel. The complete passivation potentials of the alloyed steels (the potentials at the least anodic current density) are less positive (more active) than the potentials for 18Cr-14Ni steels. In the region of zero to + 0.15v, the alloyed steels exhibit regions of cathodic current densities which indicate a tendency to spontaneous passivation at the indicated potential values.81"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                748,
+                489,
+                977
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b4d5076f5dd63883a38632daedf006cd56dfc8bd86ec3c3110dd312cba89c752.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 3—Breakdown Potentials of 18Cr-14Ni Stainless Steel Alloyed with 5 Percent Mo, V or Si, in the Annealed and Quenched States in O.1N NaCI Solution"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Supplementary Alloying Element</td><td colspan=\"2\">Breakdown Potential, Volts</td></tr><tr><td>Annealed 2 Hours at 650 C</td><td>Quenched in Water from 1150 C</td></tr><tr><td>None..</td><td>0.659</td><td>0.644</td></tr><tr><td>Mo.</td><td>0.810</td><td>1.20</td></tr><tr><td>V..</td><td>0.744</td><td>&gt;1.50</td></tr><tr><td>Si..</td><td>0.659</td><td>&gt;1.50</td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                512,
+                94,
+                965,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                195,
+                969,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As can be seen from Figure 7, there is no stable passive state region for 18Cr-14Ni steel, which is characteristic for this steel for the simple reason that on reaching the complete passivation potential at an increase in the positive potential values, there is a continuous increase in the current, corresponding to pitting initiation on the steel surface. On steels alloyed with Mo, V, Si or Re, however, there is a passive state region. Steel with 5 percent Mo maintains its stable passive state up to a potential of + 1.0v; steel with 2.5 percent Re, up to 0.6v; and on steel alloyed with V and Si an increase in the anodic current can be observed at +0.35v due to the development of pitting."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                252,
+                969,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Studies on the anodic behavior of annealed steels (Figure 8) show that the initial segments of the anodic curves practically coincide with the curves for quenched steels up to complete passivation potentials. The only difference is that the annealed steels which are alloyed with V, Si or Re have no region of stable passive state. In the case of steel alloyed with Mo, the passive state is maintained in a large enough region of potentials up to + 0.55v, beyond which anodic current begins to increase because of anodic dissolution, usually characteristic of intergranular corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                437,
+                969,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It follows from the experimental results obtained that susceptibility to pitting corrosion due to structural heterogeneity caused by the anneal is expressed in the anodic curves by the absence on them of the region of a stable passive state, as shown by the annealed steels alloyed with V, Si or Re, or in the narrowing of the region of the stable passive state. Addition of Mo, V, Si and Re to chromium-nickel steels enhances their capability to passivate in 0.1N HCl solutions. Si as an alloying element has no effect on the passivating current density of 18Cr-14Ni steels. However, on further anodic polarization of steel with 5 percent Si, a region of cathodic current densities as well as a region of a stable passive state can be observed. This indicates that anodic polarization of steels with Si as an alloying element results in the formation of an oxide film with higher protective properties than that formed on nonalloyed 18Cr-14Ni steel. The enhanced resistance to pitting corrosion of 18Cr-14Ni steels alloyed with Mo, V, Si and Re can be explained by the increased stability of the passive protective film due to the presence of these alloying elements in the composition of the film. It is known,14 for instance, that Mo, Si and some other additive elements in stainless steels may be present in the protective film in higher concentrations than in the alloy proper. Diminution of the concentration of the main passivating component, namely chromium, in separate structural areas of the steel may greatly lower its resistance to pitting corrosion. This was actually observed for annealed Cr-Ni steels in which, during the annealing process in the region of the dangerous temperature of 650 C, chromium carbide precipitated at the grain boundaries so that the peripheral regions of the solid solution became depleted in chromium. As a result of this impoverishment in chromium, the film formed at the grain boundaries has inferior protective properties."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                593,
+                971,
+                977
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May, 1964 EFFECT OF SUPPLEMENTARY ALLOYING ELEMENTS ON PITTING OF 18 Cr-14 Ni STAINLESS STEEL"
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                29,
+                902,
+                42
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "171t"
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                28,
+                967,
+                42
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/34b77942e69116331f386a494e19b13971363c136701606ef3e42c4d4fa511d4.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 7—Anodic polarization curves of quenched 18Cr-14Ni steels alloyed with Mo, Si, V or Re in 0.1N HCI. Temperature, 20 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                39,
+                52,
+                464,
+                453
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                27,
+                505,
+                484,
+                635
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Such heterogeneity in the film greatly increases the probability of pitting initiation. Therefore, chromiumnickel steels after an anneal exhibit greater susceptibility to pitting corrosion. In chromium-nickel steels alloyed with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "V, or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { R e } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the anneal may precipitate complex carbides at the grain boundaries, including carbides of these alloying elements along with chromium carbide. As a result of this the peripheral regions become depleted not only in chromium but also in these alloying elements. Thus, it can be assumed that the passive film will also be impoverished in these elements in the indicated regions, so that their corrosion resistance will be impaired. It seems, however, that depletion in chromium concentration in the peripheral regions is the decisive factor in lowering the resistance of the alloy to pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                635,
+                484,
+                880
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is confirmed by the behavior of steels alloyed with Si. Silicon is not a carbide-forming element in steel, and a marked decrease in Si content cannot be expected in the annealing process in which the carbides precipitate in the grain boundaries. Yet, silicon-containing steels exhibit intense pitting after an anneal."
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                880,
+                484,
+                974
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/dac84c0f3f37826995fc22b1df8922874a0dbbf37934a36d06a617a07587af7a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 8—Anodic polarization curves of annealed 18Cr-14Ni steels alloyed with Mo, Si, V or Re in 0.1N HCI. Temperature, 20 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                502,
+                58,
+                961,
+                452
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                695,
+                491,
+                780,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Investigations were conducted on the effect of supplementary alloying of 18Cr-14Ni stainless steels with Mo, Si, V, Re, W, Ti, Ce, Nb, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Z \\mathrm { r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Ta with respect to susceptibility to pitting corrosion. Corrosion tests in 0.5N FeCl3 and determinations of the breakdown potentials in 0.1N NaCl solutions were employed."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                505,
+                967,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. It was demonstrated that the most positive effect is exerted by Mo, Si and V. At a concentration of 5 percent in 18Cr-14Ni steels, these elements impart high resistance to pitting corrosion. Alloying with Re, even in small concentrations (up to 1 percent) is highly effective in increasing the resistance of the steel to pitting corrosion. Ti, Nb and Ce have a negative effect on the resistance to pitting corrosion; Zr, Ta and W have no effect."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                591,
+                967,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. In 18Cr-14Ni steels, pitting initiates in the peripheral regions of the grains. On alloying this steel with Mo, V or Si, pitting most probably initiates directly at the grain boundaries."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                719,
+                965,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Enhanced pitting corrosion resistance exhibited by steels alloyed with 5 percent Mo, 5 percent Si, 5 percent V or 2.5 percent Re can be explained by the greater :tability of the passive state, due to the higher corrosion resistance of the passive film, resulting from the inclusion of these alloying elements in the composition of the protective film."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                775,
+                965,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Heat treatment in the dangerous temperature zone (650 C for 2 hours) of steel not susceptible to pitting corrosion in the quenched state (alloyed with 5 percent "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Si or V) strongly impairs the resistance of the steel to pitting corrosion when alloyed with Si and V. Steels alloyed with Mo or Re become susceptible to intergranular corrosion after annealing."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                874,
+                967,
+                976
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "172t"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                21,
+                70,
+                35
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NATIONAL ASSOCIATION OF CORROSION ENGINEERS"
+                    }
+                ]
+            },
+            "bbox": [
+                245,
+                23,
+                745,
+                37
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 20"
+                    }
+                ]
+            },
+            "bbox": [
+                909,
+                23,
+                965,
+                35
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                210,
+                57,
+                301,
+                70
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. A. N. Frumkin, V. S. Bagotsky, Z. A. Iofa, B. N. Kabanov. Kinetics of Electrode Processes. Moscow University Press (1952)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. H. H. Uhlig. The Corrosion Handbook, p 165. John Wiley and Sons, New York (1948)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. U. R. Evans. J. of the Electrochemical Soc., 103, No. 1 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. N. D. Greene and M. G. Fontana. Corrosion, 15, No. 1, 39t-44t (1959) January."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. J. L. Rosenfeld and W. R. Maximtschuk. Zeitscher. Phys. Chemie, 215, 25-47 (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. H. Graefen. Metalloberflaeche, 19, No. 6, 161 (1959)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. A. V. Vanyukova and B. N. Kabanov. Doklady AK. NAUK SSSR, 59, No. 5, p 917 (1948)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Y. M. Kolotyrkin and Y. Gilman. Doklady AK. NAUK SSR, 137, No. 3, p 642 (1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. M. A. Streicher. J. of the Electr. Soc., 103, No. 7, 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. F. P. A. Robinson. Corrosion Technology, 7, No. 8 (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. M. Maeda. Die Natur Wiessenschaften, No. 21, 44 (1957)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. T. N. Sharonova, N. I. Fedulova and A. I. Krasilshchikov. Transac. of GIAP. Scientific-Technical Publishers of Chemical Literature, v.X., p 407 (1959)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. N. D. Tomashov, N. P. Zuk and N. K. Kornich. Production and Treatment of Steels and Alloys. v.XXXVIII, M., p 584 (1958)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. T. N. Rhodin. Corrosion, 12, No. 3, 123t-135t (1956) March."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. S. Brennert. Jernkontores Annals, 119, p 287 (1935)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. G. V. Akimov. The Theory and Methods of Investigating the Corrosion of Metals. Publishers of the USSR Academy of Sciences (1949)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. M. N. Fokin and A. F. Vinogradov. Electronic Potentiostat for Electrochemical Studies. Branch of the AUSRTI, Subject 39, No. 11-59-12/1 (1959)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. N. D. Tomashov. Symp. Corrosion and Protection of Alloys. Metallurgizdat."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. N. D. Greene. Corrosion, 18, No. 4, 136t-142t (1962) April."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                75,
+                482,
+                93
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                190,
+                360,
+                323,
+                375
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question by J. Kruger, National Bureau of Standards, Washington, D.C.:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                380,
+                482,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Did the heterogeneity you mentioned as the effect of the addition elements refer to the effect of the heterogeneity of the metal on the properties of the oxide film?"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                410,
+                486,
+                455
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reply by N. D. Tomashov:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                460,
+                243,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The heterogeneity of the 18 Cr-14 Ni stainless steel was not decreased by the additional alloying with Mo, Si, V or Re. We suppose that the increase in resistance to pitting corrosion of these alloys is a result of improving the passive film corrosion resistance due to presence of the alloying elements in the protective film composition."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                476,
+                486,
+                562
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question by G. Trabanelli, University of Ferrara, Italy:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                54,
+                967,
+                70
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I would like to know the opinion of Professor Tomashov about an influence of the alloying component quoted on the secondary passivity range of the anodic polarization curves of stainless steel."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                70,
+                967,
+                128
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reply by N. D. Tomashov:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                134,
+                724,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The influence of additional alloying components such as Mo, Si, V and Re on the secondary passivity range of 18 Cr-14 Ni stainless steel was not examined in this study."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                148,
+                967,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Question by R. B. Mears, United States Steel Corp., Pittsburgh, Pa.:"
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                210,
+                965,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Have you also exposed these stainless steels to sea water?"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                240,
+                965,
+                268
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reply by N. D. Tomashov:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                273,
+                724,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We did not carry out such tests with these stainless steels in sea water. But later on we are about to put to the test the most resistant-to-pitting corrosion steels in sea water, too."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                291,
+                967,
+                348
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Questions by A. Dravnieks, Armour Research Foundation, Chicago, Ill.:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                353,
+                965,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Have you studied the effect of two alloying components simultaneously? Could it occur that pitting inhibition by, for instance, 5.0 percent Mo and 2.0 percent Re, is much larger than simply additive? Is there any indication of such synergistic effects?"
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                383,
+                967,
+                455
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reply by N. D. Tomashov:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                460,
+                724,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The eventual effect of two alloying components simultaneously introduced was not investigated in this work. There are reasons to expect that such an influence may be larger or more effective than that of a singular added alloying component. We intend to confirm it experimentally in our subsequent work."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                476,
+                967,
+                562
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May, 1964 EFFECT OF SUPPLEMENTARY ALLOYING ELEMENTS ON PITTING OF 18 Cr-14 Ni STAINLESS STEEL"
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                28,
+                901,
+                43
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "173t"
+                    }
+                ]
+            },
+            "bbox": [
+                927,
+                27,
+                965,
+                41
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussions submitted too late for inclusion with articles will be published in either June or December issues."
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                694,
+                702,
+                720
+            ]
+        }
+    ]
+]

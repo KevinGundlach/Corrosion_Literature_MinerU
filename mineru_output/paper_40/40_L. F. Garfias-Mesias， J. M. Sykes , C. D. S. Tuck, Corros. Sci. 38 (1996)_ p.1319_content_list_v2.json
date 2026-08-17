@@ -1,0 +1,2377 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PII: S0010-938X(96)00022-4"
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                131,
+                634,
+                147
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "THE EFFECT OF PHASE COMPOSITIONS ON THE PITTING CORROSION OF 25 Cr DUPLEX STAINLESS STEEL IN CHLORIDE SOLUTIONS"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                111,
+                185,
+                901,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. GARFIAS-MESIAS,†1 J. M. SYKES‡* and C. D. S. TUCK‡"
+                    }
+                ]
+            },
+            "bbox": [
+                166,
+                258,
+                844,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "† Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, U.K. ‡ Langley Alloys Ltd, Alloys House, Cordwallis Park, Maidenhead SL6 7BU, U.K."
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                289,
+                829,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract-The effect of annealing temperature on pitting resistance of 25% Cr duplex UNS S32550 was investigated. CPT and pitting potential were determined for this alloy after annealing at 1020, 1060, 1100 and 1 140°C. The higher values of CPT and pitting potential were found after annealing at the lower temperatures. Pitting was always observed preferentially in the ferrite phase. The results can be partially explained by the changes in chemical composition of ferrite and austenite phases. Copyright © 1996 Elsevier Science Ltd"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                339,
+                925,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: A. alloy, A. stainless steel, C. pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                418,
+                521,
+                435
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                412,
+                460,
+                600,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The development of duplex stainless steels (DSS) has been linked strongly with the increasing requirements of the chemical industry for materials resistance to highly aggressive environments. Duplex stainless steels are widely used in marine environments because of their good resistance to pitting corrosion and stress corrosion cracking. The alloy content and the microstructure are both important variables in determining the pitting corrosion resistance of the DSS. In general, C, P, S and non-metallic inclusions have a negative effect on the pitting resistance, whereas Cr, Mo, N, Si and W are beneficial alloying elements against pitting corrosion. A common way to rank the piting susceptibility in stainless steels is by the use of the pitting resistance number (PREN).¹Indeed, this idea has begun to be applied to duplex steels in recent years.2,3 The PREN is linked to the content of three most important elements Cr, Mo and N, each of them weighted according to its influence on pitting:"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                488,
+                925,
+                697
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { P R E N } = \\% \\mathrm { C r } + 3 . 3 \\% \\mathrm { M o } + 1 6 \\% \\mathrm { N }\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8c97ca9c1e40ff5e40d9f2f40d08276cd6e1ff0b3572a20b8ff6151d8efd2a45.jpg"
+                }
+            },
+            "bbox": [
+                333,
+                698,
+                675,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although this is a considerable simplification of elemental influences on corrosion resistance, it has been found to be extremely useful as an index of likely alloy performance purely from the alloy chemical analysis.²"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                730,
+                923,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The difficulty with duplex steels is that there are two phases present with different compositions, with the three key elements partitioned between them (chromium and molybdenum are enhanced in the ferrite and nitrogen is enhanced in the austenite). Thus, it is clear³ that a PREN for each phase should be calculated, with the actual performance governed by whichever phase gives the lower figure. Bernhardsson³ has calculated from thermodynamic data how increasing the temperature at which the alloy is annealed can change the compositions and proportions of the two phases. These calculations show that, whereas the PREN for ferrite falls with temperature, that for austenite rises, so that there is an optimum annealing temperature where the two PREN curves cross. If PREN provides a reliable measure of pitting resistance then above this temperature pitting is expected to initiate in the ferrite phase and the alloy resistance falls as the PREN for ferrite falls. Below the optimum temperature the PREN of ferrite is improving, but the pitting resistance is limited by the austenite. The latter will have a smaller PREN than ferrite, and it will further fall with decreasing temperature. Solomon and Devine⁴ have discussed how changing the proportions of the two phases influences pitting resistance through altering the phase compositions."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                783,
+                923,
+                820
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                94,
+                59,
+                162,
+                105
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pergamon"
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                73,
+                273,
+                90
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion Science, Vol. 38, No. 8, pp. 1319–1330, 1996 Copyright © 1996 Elsevier Science Ltd Printed in Great Britain. All rights reserved 0010-938X/96 $15.00 + 0.00"
+                    }
+                ]
+            },
+            "bbox": [
+                568,
+                64,
+                925,
+                112
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1319"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                918,
+                525,
+                932
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript received 11 September 1995."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                862,
+                416,
+                878
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Corresponding author."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                877,
+                301,
+                893
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "' Permanent address: CINVESTAV-Merida, A.P. 73, Cordemex, CP 97310 Mérida Yucatán, México."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                891,
+                858,
+                907
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                83,
+                92,
+                923,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The work described in this paper examines the pitting behaviour of UNS S32550 in chloride solutions, in order to determine how changing the ferrite/austenite ratio influences pitting resistance for a particular duplex steel, to find the optimum annealing temperature for maximum pitting resistance and whether the site of pitting switches from ferrite to austenite above the optimum annealing temperature, as predicted by the theory of Bernhardsson."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                334,
+                923,
+                442
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL METHOD"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                354,
+                464,
+                655,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                494,
+                183,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloy of the type UNS S32550 produced in a wrought form were annealed at four different temperatures. Table 1 shows the cast composition of the alloy used.The alloy was solution treated for 2 h using the following temperatures: 1020, 1060, 1100 and 1140°C to vary microstructure (ferrite/austenite ratio) and then water quenched. In order to study the influence of the solution treatment time and quenching method, the sample annealed at 1060°C was also annealed for 5 h followed by water or oil quenching."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                510,
+                923,
+                615
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Samples were supplied in the form of a bar approximately 10 mm in diameter. The outer part of the bar was removed after annealing by machining to produce samples in the form of rods 8.5 mm in diameter. The end face of each rod (the surface to be tested) was carefully machined to give a smooth finish and further wet ground to 4000 mesh finish then degreased. A few samples were polished to 1 μm finish before testing for metallographic observations and microanalysis. The chemical composition of the different phases was detected by using a Cameca SEMPROBE and using a current of 10 μA at 20 keV. Analysis was made at intervals of 2 μm."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                614,
+                925,
+                754
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/52ca66a2020ba17bb0e565b04ec5117093d1538a3bff26b0f093b6a5cd958ffc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Cast composition of UNS S32550 alloy used in the present work"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td></td><td></td><td colspan=\"2\">Composition (wt%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Cr</td><td>Ni</td><td>Mo</td><td>Cu</td><td>N</td><td>Mn</td><td>Si</td><td>C</td><td>S</td><td>P</td></tr><tr><td>25.92</td><td>5.9</td><td>3.19</td><td>1.62</td><td>0.2</td><td>0.96</td><td>0.47</td><td>0.03</td><td>0.007</td><td>0.024</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                826,
+                920,
+                900
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1320"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                59,
+                128,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                58,
+                602,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Critical pitting temperature determination"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                92,
+                476,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Critical pitting temperature determination (CPT) test was done using a method similar to the zero resistance amperometry (ZRA) test as suggested by Salinas-Bravo and Newman.5 In the test, two similar duplex stainless steel samples were connected through a sensitive micro-ammeter and the potential of one recorded again a standard calomel electrode (SCE) connected via a high impedance buffer amplifier. The test solution was 250 ml of 10% FeCl3 prepared according to the ASTM G 48 method in a glass cell. To avoid crevices, the cell was arranged so that both specimens could be lowered just to touch the liquid surface with only the end face wetted. This defined the area under test (no attack was ever seen on the sides of the bar), whilst avoiding any crevices. A potential output from the ammeter (1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\nabla } \\mu \\mathbf { A } \\equiv 1 0 \\mathbf { m } \\mathbf { V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was used to record the current and the temperature, measured with a digital temperature sensor ic-LM35DZ (accurate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\ t o \\ pm 0 . 2 5 ^ { \\circ } C ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "calibrated within the range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { - } 1 0 0 ^ { \\circ } \\mathbf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the potential were logged simultaneously on a PC by using a 16 bit ADC Card. In cach test, the CPT was determined by coupling a sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(which was found to have the highest pitting resistance) with the test sample. The criterion used to determine the CPT of the samples was the temperature at which the current measured increased to a value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mu \\mathbf { A }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "For this work, a heating rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min- was chosen. This was sufficiently slow to obtain an accurate CPT."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                109,
+                927,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting potential determination"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                423,
+                376,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic sweeps in hot 3.5% NaCl solution were carried out at a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 1 \\mathrm { m V } \\mathrm { s } ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The tests were carried out in a glass three-electrode cell held in a water bath at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "In all experiments the rod under test was supported in a holder on the lid of the cell such that the end face just touched the surface of the test solution as described above. The counter electrode was a platinum wire, the reference electrode a saturated calomel electrode (SCE) at the same solution temperature; all potentials are given against the SCE. The potential at which the current density exceeded "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\mu \\mathrm { A c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was defined as the pitting potential, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathfrak { p } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "After testing, some samples were electrolytically etched for3 s in 40% KOH at applied voltage of 2 V, to allow the ferrite and austenite to be distinguished in the optical microscope, then examined for pits."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                441,
+                925,
+                618
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL RESULTS AND DISCUSSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                250,
+                641,
+                760,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of annealing temperature on the CPT of the duplex steel is shown in Fig. 1. The plots show the potential of the coupled electrodes against the SCE and the galvanic current between the two electrodes as a function of the temperature. When samples annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were first coupled at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { { ^ \\circ C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the galvanic current observed was very low, less than 1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mu \\Lambda"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and constant. Similarly, the potential measured between the galvanic couple and the SCE was constant at about 480 mV. As the temperature was raised, the current was stable until just below the CPT when some small current activity (suggested to be metastable "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { e v e n t s } ^ { 5 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "started to appear until finally the current steadily increased when stable pitting events started. As current transients begin, the potential starts to fluctuate downwards until a steady decrease occurs simultaneously with the increase in the galvanic current between the samples. This simultaneous drop of potential and increase in couple current indicates the onset of pitting and is used to define the CPT. The CPT obtained for sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 . 3 ^ { \\circ } \\mathrm { C }"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                666,
+                923,
+                890
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The initial potential of coupled electrodes was changed when a sample annealed at"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                890,
+                920,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of phase compositions"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                58,
+                632,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1321"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                59,
+                923,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2a51211e73e8724dcc3020915ec6bddaa614c3ccc922a519809a702f132b80fb.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                168,
+                92,
+                835,
+                225
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/108a2bcdc698add1dcd3461d773a924917528e222eb0df9e7bdb8496c43d5fcb.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                166,
+                230,
+                833,
+                362
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/84c840b4274c961152488c630b123e229306cda4a248c808d4659ddd580ccde7.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                164,
+                368,
+                831,
+                500
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/df244e9da8a9e12b4292a53f5cd200be9dd416ed0eced8550705ca7c409ed7e3.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. The critical pitting temperature of alloy UNS S32550 annealed at temperatures indicated, determined by using the ZRA test. () Potential (mV(SCE) × 10); () current (μA)"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                166,
+                502,
+                829,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was coupled with samples annealed at different temperatures, being 470, 460 and 425 mV (SCE) for samples annealed at 1060, 1100 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } C"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                736,
+                918,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As the temperature of the solution was increased, the potential of the coupled electrodes and the galvanic current for the samples annealed at 1060, 1100 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "followed the same behaviour as described above for sample "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The sample annealed at the lowest temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 2 0 ^ { \\circ } \\mathrm { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "gives the highest CPT value, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 . 3 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 . 8 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the sample annealed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "higher, at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". On increasing the annealing temperature another "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 ^ { \\circ } \\mathbf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": " a very drastic decrease in the CPT results, to the value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 4 . 1 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 0 0 ^ { \\circ } \\mathrm { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "A further increase in the annealing temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\tan 1 1 4 0 ^ { \\circ } \\mathbf { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", results in a greater decrease in the CPT, to a value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 2 . 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "These results clearly showed that at low annealing temperatures (1020 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the influence of the annealing temperature on the CPT is small. However, at higher annealing temperatures (1100 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the influence on the CPT of the alloy is greater. Throughout, the trend is that the lower CPT corresponds with increasing annealing temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                770,
+                923,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1322"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                59,
+                134,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                410,
+                59,
+                608,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                92,
+                925,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of the annealing conditions (time and method of quenching) was studied by determining the CPT for the alloy annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "This alloy was annealed for 5 h followed by water or oil quenching (Fig. 2). The CPT for the sample annealed for 5 h followed by water quenching showed no difference with the value obtained for the sample annealed during 2 h. However, in the case of the oil-quenched sample, the CPT was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 8 . 8 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "less than the water-quenched."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                162,
+                925,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic curves for all samples in 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are shown on Fig. 3. This temperature was chosen because it lies above the CPT of all the samples. The passive current was less than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\mu \\mathbf { A } \\thinspace \\mathrm { c m } ^ { - 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The highest value of pitting potential was obtained for the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathbf { C } \\left( E _ { \\mathsf { p } } = 3 2 2 \\mathsf { m V } \\left( \\mathbf { S } \\mathbf { C } \\mathbf { E } \\right) \\right) ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "annealing at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "gave a lower value "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p } } { = } 2 5 5 \\mathrm { m V ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", that for the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 0 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was even lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathsf { p } } = 2 0 9 \\ : \\mathrm { m V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and that for the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { 1 1 4 0 ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was lowest of all "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p } } { = } 1 7 6 \\mathrm { m V ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Again, pitting resistance falls with increasing annealing temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                266,
+                923,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When analysing these results, it is very important to know the phase where pitting corrosion occurs. Figures 4 and 5 show the etched surface of the samples annealed at 1020 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after the potentiodynamic sweep. The austenite phase is shown as light grains"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                388,
+                923,
+                442
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0e30f95060d8dc658b1dea68186afbaec831a41c527bf3cb0841fe333e7fbcc6.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                96,
+                483,
+                910,
+                659
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3679940bbe1679825b6bbc31dfa3f1e29d69ce3e9f1f3e639f684abfc4382047.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. The critical pitting temperature of alloy UNS S32550 annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and quenched under the conditions indicated, determined by using the ZRA test. () Potential (mV(SCE) × 10); () current (μA)"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                100,
+                662,
+                910,
+                830
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of phase compositions"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                59,
+                632,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1323"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                61,
+                925,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a39b1721adc80b101b81b71a9858e25791d931ae49dad6e80bd844190db271fb.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Potential (mV vs SCE)"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                143,
+                90,
+                863,
+                225
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1115a5046b93578ecb6f42c0c09bd06b8dec8845a7b0dd90de8cd28d3226cdb9.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                138,
+                228,
+                861,
+                362
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3c29a9f761f6bcc657331417d8ed173627e397c96d82a31ab948bb6bfad659cf.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                138,
+                365,
+                865,
+                501
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/952cc1c9ae34b30f0e3eff7d62a81547cb0d5126774e51fd25cc683867664f06.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Anodic polarization of alloy UNS S32550 in a 3.5% NaCl, annealed at temperatures indicated. Test temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 ^ { \\circ } \\mathrm { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": " scan rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { | } \\mathtt { m V } \\mathtt { s } ^ { - 1 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                138,
+                504,
+                863,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "in a matrix of ferrite (dark in comparison). The size of both the ferrite and austenite grains increases with raising the annealing temperature and the proportion of ferrite increases from 47 to 64%. It was found that for all the samples pitting was initiated in the ferrite or at the ferrite side of the ferrite-austenite boundary."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                769,
+                920,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Analyses of the microstructure of the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 5 h followed by oil quenching showed a small increase in the ferrite content of this sample compared with the water quenched. This small increase in the volume fraction of the weakest phase, could possibly account for the reduction of the CPT in the case of the oil quenched sample."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                837,
+                920,
+                907
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1324"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                59,
+                132,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                59,
+                606,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aa33bf4434f384ba4cd246b4c3bb0beda097a83f50fdc2263ff83859c67a1e5e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. A photomicrograph of sample annealed at 1020°C after potentiodynamic test, showing attack on the ferrite matrix (dark phase)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                90,
+                848,
+                404
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8e99d66f56aca366758a240f72d0a96ae4ccd7c58148c90da231e2e5d9b4c50b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. A photomicrograph of sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after potentiodynamic test, showing attack on a localized area in the ferrite matrix (dark phase)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                141,
+                557,
+                839,
+                866
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of phase compositions"
+                    }
+                ]
+            },
+            "bbox": [
+                378,
+                58,
+                623,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1325"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                59,
+                916,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting in the ferrite phase is contrary to the findings of most of previous works already published, where austenite was usually attacked.4,6 In order to assess the relative pitting resistance of the phases their compositions were determined."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                92,
+                920,
+                144
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The distribution of the alloying elements in samples annealed at 1020 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are shown in Figs 6 and 7. It can be observed that the ferrite grains are larger than austenite grains in the sample annealed at the higher temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( > 1 0 \\mu \\mathrm { m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", whereas in the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the austenite grains are just slightly larger than the ferrite. As expected, the composition profiles show that the ferrite grains are enriched in Cr and Mo and depleted in Ni and Cu. Similarly, in the austenite grains the Ni and Cu are enriched, whereas the Cr and Mo signals are lower. All elements were evenly distributed within the grains and no segregation of the alloying elements was noticed. The average composition of the important elements in austenite and ferrite in all four samples annealed at 1020, 1060, 1100 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are shown in Table 2 together with the average bulk composition of the alloy analysed. The levels of N presented in the ferrite have been assumed to be around 0.05% saturation with the rest partitioned to the austenite.²"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                144,
+                923,
+                217
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2ad92fdd6f61a78100e56244ae865fd2561d01ea02ff75f3c5d0b20cddaeb85e.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. The chemical composition profile for sample annealed 2 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "followed by water quenching."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                215,
+                239,
+                745,
+                517
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fc16758d2551c0bc448e3256c8dcf34bb8b68f6a61852deae3bb28530c393dc9.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. The chemical composition profile for sample annealed 2 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "followed by water quenching."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                217,
+                584,
+                747,
+                865
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1326"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                58,
+                130,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                59,
+                604,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                92,
+                927,
+                232
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The first important point to discuss is the relative PREN value of the two phases in each sample. The PREN for austenite in sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(36.23) is lower by more than three units than the value of 39.35 calculated for the ferrite, suggesting that pitting should occur only in austenite, but experimental results showed that pitting is confined to the ferrite in all samples."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                232,
+                925,
+                320
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The same is true for samples annealed at 1060 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 0 0 ^ { \\circ } \\mathbf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "where the PREN for the ferrite is higher than the austenite by 2.3 and 0.5 units, respectively. Only in the sample annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the PREN of the austenite higher than in the ferrite. As expected, the PREN for the ferrite phase decreases as both the annealing temperature and the ferrite content increases, whereas in contrast, the PREN of austenite increases as the annealing temperature increases."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                320,
+                927,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 8 also shows the plots of the PREN calculated by using the average composition of the alloy (calculated from the analyses shown in Table 2) and the partition coefficients suggested by Charles² compared with the real values calculated directly from the analyses. The calculated values for ferrite and the real values obtained show good agreement at low and high annealing temperatures. The austenite lines shows good agreement at low temperatures, but some deviations at higher temperatures. The discrepancy at high temperatures arises because the partition coefficients of Cr and Mo were found to be sensitive to higher annealing temperatures. At lower annealing temperatures, the partition coefficients are less affected by temperature and are closer to those results reported before."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                423,
+                927,
+                584
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/45c48eb0cec8e68b62f7da384373a45b6bcb38d9f02dc37fb8e98a7a510213ce.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2. Average composition of ferrite and austenite phases and bulk"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "¹Nitrogen in ferrite is taken as the saturation value ≈0.05%, the rest partitions to austenite.2"
+                    }
+                ],
+                "html": "<table><tr><td></td><td colspan=\"10\">Composition in wt%</td></tr><tr><td>Annealing temperature</td><td>Phase</td><td>%</td><td>Cr</td><td>Ni</td><td>Mo</td><td> ${ \\bf N } ^ { \\bf a }$ </td><td>Cu</td><td>S</td><td>P</td><td>PRENb</td></tr><tr><td>1020°C</td><td>Ferrite</td><td>47</td><td>26.36</td><td>4.63</td><td>3.70</td><td>0.05</td><td>1.27</td><td>0.073</td><td>0.043</td><td>39.35</td></tr><tr><td></td><td>Austenite</td><td>53</td><td>23.14</td><td>7.36</td><td>2.35</td><td>0.33</td><td>1.95</td><td>0.035</td><td>0.025</td><td>36.23</td></tr><tr><td>1060℃</td><td>Ferrite</td><td>51</td><td>26.39</td><td>4.69</td><td>3.57</td><td>0.05</td><td>1.31</td><td>0.085</td><td>0.046</td><td>38.96</td></tr><tr><td></td><td>Austenite</td><td>49</td><td>23.26</td><td>7.24</td><td>2.33</td><td>0.36</td><td>1.85</td><td>0.037</td><td>0.027</td><td>36.64</td></tr><tr><td>1100℃</td><td>Ferrite</td><td>60</td><td>26.39</td><td>4.83</td><td>3.38</td><td>0.05</td><td>1.34</td><td>0.074</td><td>0.042</td><td>38.34</td></tr><tr><td></td><td>Austenite</td><td>40</td><td>23.44</td><td>7.15</td><td>2.30</td><td>0.43</td><td>1.84</td><td>0.042</td><td>0.022</td><td>37.82</td></tr><tr><td>1140℃</td><td>Ferrite</td><td>64</td><td>26.37</td><td>5.05</td><td>3.36</td><td>0.05</td><td>1.36</td><td>0.082</td><td>0.038</td><td>38.26</td></tr><tr><td></td><td>Austenite</td><td>36</td><td>24.04</td><td>7.15</td><td>2.33</td><td>0.47</td><td>1.83</td><td>0.037</td><td>0.027</td><td>39.19</td></tr><tr><td>Average</td><td>Both phases</td><td>一</td><td>25.06</td><td>5.89</td><td>2.97</td><td>0.20</td><td>1.57</td><td>0.060</td><td>0.035</td><td>38.06</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                654,
+                920,
+                872
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "²According to equation (1)."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                891,
+                320,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of phase compositions"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                59,
+                632,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1327"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                59,
+                925,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f8dacd78999a26569ad078095920f9cf36efed73b5d598bd0f3af6e9272b657e.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Calculated PREN values, using equation (1), for austenite and ferrite from theoretical and experimental values of Cr and Mo content."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                100,
+                92,
+                912,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It has been clearly shown that the pitting resistance of this duplex stainless steel decreases as the annealing temperature is increased consistent with the decreasing PREN for ferrite; this can be associated with the lower levels of the important alloying elements Mo and Cr which partition preferentially to the ferrite, but are diluted as the total concentration of ferrite increases."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                510,
+                920,
+                597
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The important question is whether pitting occurs in ferrite because austenite has higher pitting resistance than predicted, or because that for ferrite is lower."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                596,
+                918,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The difference in relative resistance of ferrite and austenite might be influenced by the presence of high levels of Cu in the austenite (Table 2) which has been shown to enhance the pitting resistance of austenitic and duplex stainless steels.7-9 Cu has been suggested to improve the pitting resistance of DSS in acid environments,′ and the combination of Cu and N is believed to enhance corrosion resistance.8 Further work is in hand to assess experimentally the effect of Cu in the pitting resistance of these steels. On the other hand, the high levels of sulphur in the ferrite, which are more than double that in the austenite, probably reduces the pitting resistance of the ferrite phase. Similarly, the presence of phosphorus, which also has been suggested to have detrimental effects on the performance of these alloys,1º is higher in the ferrite than in the austenite. Therefore, pitting susceptibility of the ferrite phase may be reduced, relative to the austenite. Certainly, a weighting factor of — 123 applied to phosphorus and sulphur in PREN calculations,1º could account for preferential pitting of ferrite, but would imply poor performance rather than high pitting resistance, as shown here."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                631,
+                923,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A full explanation of this behaviour may also require consideration of synergy between elements, rather than considering single elements in isolation. One weakness of the PREN approach is that it fails to take such effects into account. Lu et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 1 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "have shown a strong synergism between molybdenum and nitrogen in austenitic stainless steel. In these duplex steels molybdenum levels are highest in the ferrite, but nitrogen levels are much lower than in austenite. These enhanced levels of nitrogen could increase the potency of molybdenum such that a lower level of molybdenum actually has greater pit inhibiting power than the higher molybdenum content in the ferrite. Further work is needed to establish whether this synergism alone can account for the improved pitting resistance of the austenite phase"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                871,
+                920,
+                907
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1328"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                59,
+                128,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                58,
+                602,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                83,
+                92,
+                923,
+                217
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CONCLUSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                425,
+                239,
+                585,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The pitting potential and CPT of UNS S32550 duplex stainless steel are strongly influenced by the solution treatment temperature. Raising the annealing temperature lowers both parameters. The maximum CPT reached was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", obtained by annealing 2 h at 1020°C followed by water quenching."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                267,
+                923,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Pitting corrosion of UNS S32550 in chloride solutions takes place preferentially in the ferrite phase rather than in the austenite phase."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                337,
+                920,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. High annealing temperatures (above "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 6 0 ^ { \\circ } \\mathrm { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increase the ferrite content and dilute the key alloying elements in the ferrite lowering the corrosion resistance of the ferrite."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                372,
+                920,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. PREN calculated from bulk composition is unlikely to be a good guide to assess pitting resistance of duplex stainless steels; a better understanding can be achieved through calculating PREN values for the two phases."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                407,
+                923,
+                459
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. At low annealing temperatures, the partition coefficients of the alloying elements are in good agreement with those reported before.² Some deviation from these values is observed at higher annealing temperatures (higher ferrite contents)."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                460,
+                923,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. PREN values for austenite and ferrite calculated from bulk analysis using known partition coefficients can provide a useful first approximation in assessing pitting resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                511,
+                920,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Additional factors beyond the concentration of Cr, Mo and N may need to be considered to fully understand the relative pitting resistances of austenite and ferrite. These could include levels of other beneficial elements such as copper, levels of harmful elements such as sulphur or phosphorus and synergism between elements such as nitrogen and molybdenum."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                546,
+                923,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements—The authors would like to thank Langley Alloys Ltd for funding, provision of samples and permission to publish this research and Professor D. G. Pettifor for the provision of the laboratory facilities. One of the authors, L. F. Garfias-Mesias would like to thank the Consejo Nacional de Ciencia y Tecnologia (CONACyT. Mexico) for the financial support. We would like to acknowledge Dr O. Khaselev for useful discussions and Mr C. Salter for analyses of the samples in the Cameca SEMPROBE."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                646,
+                923,
+                720
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                427,
+                754,
+                583,
+                770
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. K. Lorenz and G. Medawar, Thyssen Forsch. 1, 97 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. J. Charles, Proc. Duplex Stainless Steel Conf., Beaune France, p. 3 (1991)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. S. Bernhardsson, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 185 (1991)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. H. D. Solomon and T. M. Devine, Duplex Stainless Steels (ed. R. A. Lula), p. 693. American Society for Metals (1983)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. V. M. Salinas-Bravo and R. C. Newman, Corros. Sci. 36, 67 (1994)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. J. O. Nilsson and A. Wilson, Mater. Sci. Technol. 9, 545 (1993)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. P. Guha and C. A. Clark, Duplex Stainless Steels (ed. R. A. Lula), p. 355. American Society for Metals (1983)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                779,
+                547,
+                793
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of phase compositions"
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                59,
+                628,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1329"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                59,
+                920,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. P. Combrade and J. -P. Audouard, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 257 (1991)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. A. A. Hermas, K. Ogura, S. Takagi and T. Adachi, Corrosion 51, 3 (1995)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. R. Dölling, V. Neubert and P. Knoll, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 1341 (1991)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Y. C. Lu, M. B. Ives and C. R. Clayton, Corros. Sci. 35, 89 (1993)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                90,
+                878,
+                105
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1330"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                59,
+                126,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "L. F. Garfias-Mesias et al."
+                    }
+                ]
+            },
+            "bbox": [
+                403,
+                59,
+                600,
+                73
+            ]
+        }
+    ]
+]

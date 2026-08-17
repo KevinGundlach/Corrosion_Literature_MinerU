@@ -1,0 +1,3726 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A BIPOLAR MODEL OF THE PASSIVITY OF STAINLESS STEELS—II. THE INFLUENCE OF AQUEOUS MOLYBDATE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                106,
+                161,
+                880,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu,* C. R.CLAYToN and A. R. BRoOKs"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                217,
+                715,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "*Department of Materials Science and Engineering, State University of New York at Stony Brook, Stony Brook, NY 11794, U.S.A."
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                247,
+                863,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract—The passive films formed on Fe-19Cr-9Ni in solutions of 0.3 M NaCl (pH 5.4) and 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0) have been characterized by variable angle XPS. Additional studies were conducted to determine the effect of the pH change on the passive film and which agent was responsible for the deprotonation found in the film produced in the molybdate solution. It is proposed that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "anions reinforce the action of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in enhancing the bipolarity of the film and thereby significantly increasing the deprotonation of the inner "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "region, forming a more protective "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "barrier layer."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                300,
+                884,
+                389
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                410,
+                420,
+                581,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FoR MANY years, it has been known that molybdates may act as corrosion inhibitors, increasing, for example, the resistance of stainless steels to localized corrosion. Several workers¹-6 have explored the possible effect of aqueous molybdate ions on corrosion product membranes and passive films. Sakashita and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { S a t o , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1 studying the ion-selective nature of thick porous corrosion product membranes, suggested that passivity should in principle be reinforced when the film becomes bipolarized with an anion-selective inner layer and a cation-selective outer layer. Under these conditions, the outer layer would allow univalent cations such as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ~ H ~ } ^ { + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to escape while inhibiting the ingress of anions such as OH- and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C l } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Significantly, in another work by Sakashita and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S a t o } , \\mathsf { \\Omega } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "hydrated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oxide membranes were found to be anion-selective in mono-monovalent solutions but cation-selective in the presence of multivalent anions such as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This indicated that the adsorption of molybdate on the membrane produced a cation-selective outer layer which it was suggested should enhance deprotonation of the film. Applying this model to the study of thin passive films, this group3,7,8 has shown that with the cation migration from the metal hindered by the anion-selective inner layer, a positive space charge will develop, causing the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\partial } ^ { \\cdot \\mathrm { \\ i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions formed by deprotonation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O H } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to migrate to the metal surface and create a dehydrated oxide. We also note that Larkin, Rozenfeld and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { o t h e r s } ^ { 4 - 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "have performed quantum chemical calculations that indicated the molybdate ion acts as an electron acceptor, which when adsorbed on the surface of the film, would strengthen the metal-oxygen bonds of the film. Consequently, both the structural strengthening of the passive film's crystal lattice and an increase in the negative fixed charge on the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "species would be expected. The latter would be important in enhancing the cation-selective property of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\bar { M } o O } _ { 4 } ^ { 2 - }"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                439,
+                886,
+                854
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion Science, Vol. 29, No. 7, pp. 863–880, 1989 Printed in Great Britain"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                61,
+                450,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "0010-938X/89 $3.00 + 0.00 © 1989 Pergamon Press ple"
+                    }
+                ]
+            },
+            "bbox": [
+                698,
+                61,
+                884,
+                87
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* On leave from the Guangzhou Research Institute of Electrical Appliances, P.R.C."
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                889,
+                760,
+                905
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript received 10 February 1988; in amended form 18 October 1988."
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                904,
+                690,
+                919
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "863"
+                    }
+                ]
+            },
+            "bbox": [
+                482,
+                924,
+                512,
+                937
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "More specifically in our recent work on Mo-bearing alloys,3.7 it was shown that the addition of Mo to a stainless steel produced a less hydrated passive film with a more developed chromium oxide barrier layer. As previously discussed,8 this inner oxide layer appears to be the primary barrier layer responsible for the passivation of stainless steels and appears to be an amorphous mixed chromium oxide consisting of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } { \\bf O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It was also found that the Mo oxidizes by solid state reactions to a hydrated Mo oxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left[ \\mathrm { o r } \\mathbf { M o O ( O H ) } _ { 2 } \\right]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which resides in the outer hydroxide layer as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The proposed reaction for this behavior was given' as:"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                94,
+                884,
+                236
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { \\bf M o O ( O H ) } _ { 2 } + 4 \\mathrm { O H } ^ { - }  \\mathrm { M o O } _ { 4 } ^ { 2 - } + 3 \\mathrm { H } _ { 2 } \\mathrm { O } + 2 \\mathrm { e } ^ { - } .\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/51ba9bbb08e548681cbc5dda7f581787f887ae5676ecceeff1dadd47a218a642.jpg"
+                }
+            },
+            "bbox": [
+                258,
+                241,
+                728,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Further work on defining the series of solid state reactions is being completed and will be published in a future study.º"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                267,
+                882,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This behavior is similar to that produced by the chromium constituent of stainless steel which has been shown in a previous work to form a relatively low concentration of chromates in the passive films. The proposed reaction for this behavior was given8 as:"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                301,
+                884,
+                371
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { C r ( O H ) } _ { 3 } + 5 \\mathrm { O H } ^ { - }  \\mathrm { C r O } _ { 4 } ^ { 2 - } + 4 \\mathrm { H } _ { 2 } \\mathrm { O } + 3 \\mathrm { e } ^ { - } .\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1ee486fd6b52a9fb9fc0af7f130552b893b01fdc56826c257f5f4c5a9d79d192.jpg"
+                }
+            },
+            "bbox": [
+                273,
+                379,
+                709,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the previous work,7 it was proposed that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "aided "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in reversing the anion-selectivity of the outer hydroxide layer, thereby enhancing its efficiency. Under this condition, univalent cations would be able to escape through the outer film allowing the anodic potential to deprotonate the film by removing protons from OH⁻. In addition, the cation-selectivity of the outer film would hinder the ingress of OH⁻ and Cl⁻ effectively stopping rehydration."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                403,
+                884,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The object of this paper is to further evaluate the model previously proposed for the role of Mo in the corrosion resistance of Mo bearing alloys, by comparing it with the passivating behavior of aqueous molybdates, thereby developing a comprehensive understanding for the action of Mo as both an alloying agent and a corrosion inhibitor. For this study, variable angle XPS was used to analyse the composition of the passive films formed on Fe-19Cr-9Ni stainless steel at -0.180 V(SCE) in de-aerated NaCl solutions. The primary film studied was the one resulting when the film formed in 0.3 M NaCl after passivation for 60 min is subjected to an additional 15 min of passivation following the addition of molybdate. Since the addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to the NaCl solution causes a pH change from 5.4 to 9.0, a second study was performed which repeated the experiment using a 0.3 M NaCl solution adjusted to pH 9.0 with NaOH in order to determine the effect of the increase in pH on the nature of the passive film. Comparison of the films formed in 0.3 M NaCl solution (pH 5.4) for 60 and 75 min were also made. Since the partial reduction of molybdate to hydrated Mo dioxide was observed, further work was performed to determine which Mo species was responsible for the deprotonation."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                509,
+                884,
+                785
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL METHOD"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                358,
+                802,
+                634,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The composition of Fe-19Cr-9Ni stainless steel (SS) investigated in this paper is given in Table 1. The samples "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 \\times 1 0 \\times 1 \\ \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were sealed in a pre-evacuated quartz tube and annealed at 1100+C for 3 h followed by a water quench, carried out by breaking the quartz tube under water. Since previous work1º by this group found that electropolishing could cause surface artifacts due to anodic segregation, the samples were mechanically polished up the grades from 600 grit to a 0.25 μm diamond polish finish."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                819,
+                884,
+                891
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization was performed in a conventional Greene cell which was de-aerated by purging with argon for 2 h. All potentials were measured against a saturated calomel electrode (SCE). Specimens were cathodically polarized at —1.150 V(SCE) for 15 min to reduce the polish-formed film. The specimens were then either potentiodynamically polarized in the anodic direction at 1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { m } \\mathbf { V } \\thinspace \\thinspace \\mathsf { s } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to obtain the polarization curves or were pulsed to —0.180 V(SCE) and maintained there for a specified period of time in order to grow the passive films to be studied by XPS. The entire procedure was executed in an argon-purged glove box. It has been previously shown that the transfer of freshly passivated stainless steel through the atmosphere can lead to a minor structural modification of the iron component of the passive film.\" Following the passivation treatment, the specimens were removed from the cell, washed with de-aerated doubly distilled water, dried in argon, and mounted onto the XPS holder. The samples were then transferred under argon from the glove box to the spectrometer. Each of the XPS analyses were performed on separate freshly prepared samples."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                891,
+                884,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "864"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                62,
+                138,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                61,
+                551,
+                77
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac7b47c37d128898acff52ade7d47725e5e321fe860bdfb9c163021481e6f91a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. CoMPOSITION OF Fe-19Cr-9Ni STAINLESS STEEL"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Chemical</td><td>Cr</td><td>Ni</td><td>C</td><td>N</td><td>S</td><td>Fe</td></tr><tr><td>wt%</td><td>19.2</td><td>9.0</td><td>&lt;0.05</td><td>&lt;0.002</td><td>&lt;0.025</td><td>balance</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                141,
+                114,
+                816,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                188,
+                884,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The solutions used in this study were 0.3 M NaCl (pH 5.4), 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf N a } _ { 2 } { \\bf M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9), and 0.3 M NaCl (pH 9 adjusted by adding 0.1 M NaOH). The solution used for the cathodic branch of all the polarization curves was 0.3 M NaCl (pH 5.4). At the open circuit potential, the solution was adjusted with NaOH or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to the appropriate concentration for passivation. This was done to protect against the possible reduction of molybdate during cathodic polarization. The two doped films were grown for 60 min in 0.3 M NaCl at –180 mV; then the solution was adjusted to the pertinent composition and a further 15 min of passivation was carried out. No notable change in current density was observed during the adjustment of the solutions, indicating that the procedure did not unduly disrupt the previously formed film."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                333,
+                884,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The decision to apply the molybdate solution after the formation of the passive film in the 0.3 M NaCl (pH 5.4) solution was made to insure that the molybdate resided in the outer region of the film as was found in our previous work.7 Thus it was possible to compare the effect on passivity of the aqueous molybdate and the Mo alloy addition."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                463,
+                884,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All XPS measurements were performed with a V.G. Scientific ESCA 3 MK II controlled by a V.G. 1000 data system. A Mg "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf K } _ { a 1 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1253.6 eV) source was used for XPS and operated at 200 W. The base pressure was 1 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\times 1 0 ^ { - 9 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "torr. All XPS measurements were carried out at high and low take-off angles (50° and 20°, measured with respect to the plane of the sample) to observe the inner and outer layers of the films, respectively.12 For reference the binding energy of the Au 4f 7/2 line was taken as 83.8 eV and was found to have a FWHM of 1.4 eV under the experimental conditions. The XPS spectra were corrected for charge shifting by taking the carbon 1s spectrum from the adventitious carbon as 284.6 eV. The entrance and exit slit widths of the hemispherical analyser were 4 mm. According to Seah,13 this would make the half angle of the spectrometer for photo-electron emission 0.095 radians."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                520,
+                884,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All data were smoothed utilizing a 15 point quadratic/cubic least squares program following the method developed by Savitsky and Golay,14 which has been modified to cover the truncation errors at the end of the spectra. Since the Cr 2p peak produces a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { \\bf M g K } } _ { a 3 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "satellite on the high binding energy side of the Cr 2p peak, a satellite subtraction program dependent on the pass energy of the analyser was used to eliminate the satellite."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                650,
+                884,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The background caused by the rising tail on the high binding energy side of the spectra was simulated using the curve fitting parameters. The two background parameters of the synthesis program, which provide a straight background with a specifiable slope, would be primarily set to the background of the low energy side of the spectra with some consideration to the high energy side for slight adjustments. The resulting difference would then be handled by adjusting the intensities of the standardized peaks to compensate for the rising high energy tails. This would prove consistent within an elemental series since the same background procedure would have been used in developing the parameters for the standards."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                721,
+                884,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The curve-fitting program allowed the operator to synthesize peaks by specifying the peak's position, height, width and shape. The optional shape parameters included the peak's Gaussian/Lorentzian ratio and tail characteristics which are height, slope and exponential to linear tail mix.1⁵As stated above, the program also included y-axis intercept and background slope parameters bringing the total of fitting parameters used to nine. The parameters used came from the group's work on standards supplemented by those given in the literature. In general, our instrumentation gave FWHM 10–25% narrower than those given in Allen et al.16"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                821,
+                884,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                60,
+                698,
+                75
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "865"
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                62,
+                886,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To aid in the correct fitting of the peaks, the simpler peaks such as oxygen were fitted first to provide information as to how the more complex peaks should be fitted. Since curve fitting can provide several solutions to the same spectrum, spectral resolution was enhanced by applying variable angle XPS in order to determine the best fit. As an additional precaution against spurious fittings, restrictions were placed on manipulating the remaining fitting parameters. The peak position was allowed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf a } \\pm 0 . 1 \\ \\mathrm { e V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "margin, since from our standards work this was the uncertainty in values obtained. The FWHM also was considered to have an uncertainty "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathrm { o f } \\pm 0 . 1 e \\mathbf { V } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and a correction of 0.3 eV was made if the standard was taken with Al "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf K } _ { \\alpha 1 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "radiation instead of Mg "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf K } _ { \\alpha 1 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "radiation. While our software provides no specific statistical tests for peak independence, comparisons of the peak area ratios of peaks to the peak areas of their neighboring peaks have failed to show a correspondence indicating any dependence of one peak on another due to possible satellite or energy loss phenomena."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                97,
+                884,
+                258
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL RESULTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                354,
+                273,
+                634,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiodynamic traces for the solutions involved are presented in Fig. 1. The pertinent electrochemical features of the traces are tabulated in Table 2."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                291,
+                878,
+                326
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "General interpretation of XPS spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                343,
+                457,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Selected spectra of Cr, Mo and O are presented in Figs 2–8. To aid in the comparison of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra, the peak areas for each of the main spectra obtained from the passive films in Tables 3-5 have been presented. The peak areas were normalized to the total peak area of the oxidized metal signals. This semiquantitative analysis provides a convenient guide to the relative abundance of the various species in the inner and outer regions of the passive films. No attempt was made to convert the peak areas to atomic percentages."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                360,
+                884,
+                449
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d7fa948838fa258d097354c868bd63da89d21365c04267e4e6e8ff2ba46614db.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FıG. 1. Polarization diagrams for Fe-19Cr-9Ni alloy obtained in de-aerated 0.3 M NaCl (pH 5.4), 0.3 M NaCl (pH 9.0) and 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                196,
+                462,
+                797,
+                879
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "866"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                62,
+                138,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                61,
+                551,
+                77
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4a05ea3046d1be7a200d8dc8fd2404831f737c6fa749e146b095142edd98d40b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2. ANODIC POLARIZATION PARAMETERS FOR Fe-19Cr–9Ni ALLOY IN AERATED 0.3 M NaCl (pH 5.4), 0.3 M NaCl (pH 9.0), AND 0.3 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N a C l } + 0 . 1 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0) SOLUTIONS"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Solution</td><td> $E _ { \\mathrm { c o r r } }$  (mV)</td><td> $\\begin{array} { c } { E _ { \\mathrm { { p p } } } } \\\\ { ( \\mathrm { { m V } ) } } \\end{array}$ </td><td> $I _ { \\mathrm { c r i t } }$   $( \\mu \\mathbf { A } \\mathbf { c m } ^ { - 2 } )$ </td><td> $I _ { \\mathrm { p a s s i v e } }$   $( \\mu \\mathbf { A } \\mathbf { c m } ^ { - 2 } )$ </td><td> $E _ { \\mathrm { t r a n s } }$   $( \\mathrm { m V } )$ </td><td> $E _ { \\mathfrak { p i t } }$  (mV)</td></tr><tr><td>0.3MNaCl(pH5.4)</td><td>-792</td><td>-705</td><td>6.4</td><td>3.7</td><td>一</td><td>-50</td></tr><tr><td>0.3MNaCl(pH9.0)</td><td>-843</td><td>-775</td><td>7.2</td><td>3.3</td><td></td><td>525</td></tr><tr><td>0.3MNaCl+0.16M  $\\mathrm { N a _ { 2 } M o O _ { 4 } ( p H 9 . 0 ) }$ </td><td>-863</td><td>一</td><td>5.7</td><td>2.3</td><td>838</td><td>一</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                104,
+                134,
+                878,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                266,
+                882,
+                303
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cr "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                319,
+                254,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Five components were found in each case corresponding to the following species: (i) metallic Cr from the substrate, (ii) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", corresponding to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } , ( \\mathrm { \\bar { i } \\bar { i } \\bar { i } } ) \\mathrm { C r } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corresponding to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r ( O H ) } _ { 3 } , ( \\mathrm { i v ) \\mathrm { C r } ^ { 6 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", corresponding to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } { \\bf O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { ( v ) \\thinspace C r ^ { 6 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", corresponding to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O } _ { 4 } ^ { 2 - }"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                336,
+                882,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general, the spectra of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were stronger at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicating that they form as a mixed oxide phase at the metal-film interface. Previous RHEED analysis by this group on non-Mo bearing stainless steels,8 indicate that this phase is probably amorphous. The spectra of the Cr(OH)3 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were not as prominent at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "suggesting that they form a layer above the oxide one."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                404,
+                884,
+                490
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The film formed in 0.3 M NaCl (pH 9.0) showed the greatest hydration of all the films studied as indicated by the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } / \\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratios. Using the same ratio, the film found to be deprotonated the most was the one produced in 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N a } _ { 2 } \\mathrm { M o O } _ { 4 } \\left( \\mathrm { p H } 9 . 0 \\right)"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                490,
+                884,
+                560
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 } s p e c t r a"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                576,
+                254,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Three valence states formed the components of the spectra: metallic, 2+ and 3 +."
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                593,
+                869,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Comparing the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e } ^ { 3 + } / \\mathrm { F e } ^ { 2 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratios, all the films showed a stronger contribution from the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e } ^ { 2 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at both take-off angles. Unlike the other films, the one exposed for 15 min to the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf N a } _ { 2 } { \\bf M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution showed no angular dependence in its "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e } ^ { \\cdot 3 + } / \\mathrm { F e } ^ { 2 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratio."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                610,
+                884,
+                680
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                698,
+                254,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Besides the metallic state, some films exhibited evidence of Ni oxidizing to the 3+ valence state. The film exposed to the molybdate solution for 15 min displayed no oxidation of Ni, while the NaOH doped solution shows the greatest oxidation relative to the metal signal. Only slight oxidation was found in the other films. However, it should be noted that the signal to noise of these spectra were poor, making their analysis difficult."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                715,
+                884,
+                819
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                835,
+                260,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At room temperature, the Mo spectra show two components: 4+ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 6 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\mathrm { { } ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 4 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "disappears. On the basis of other work currently in progress in this laboratory, the 4+ is assumed to be a hydrated form of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 2 } \\left( \\mathbf { M o O } ( \\mathbf { \\bar { O } H } ) _ { 2 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while the 6+ is identified as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Comparing the relative ratios of the two valence states,"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                852,
+                884,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                61,
+                696,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "867"
+                    }
+                ]
+            },
+            "bbox": [
+                850,
+                62,
+                882,
+                75
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                326,
+                742,
+                358,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A 1  MIN"
+                    }
+                ]
+            },
+            "bbox": [
+                301,
+                437,
+                324,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "P4S           S.A AL  I R   R S I  T . =    0 = +1  0 = _2  = +/+ = (/210)"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                173,
+                309,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                784,
+                339,
+                816,
+                902
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "868"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                61,
+                181,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                474,
+                64,
+                596,
+                80
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 =     = +1 _  = _/-  = ++ = (/210)"
+                    }
+                ]
+            },
+            "bbox": [
+                668,
+                336,
+                702,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " =    0 = + _ 0 = _/-  = +2/+  = '(0)"
+                    }
+                ]
+            },
+            "bbox": [
+                412,
+                336,
+                446,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AP  N    T --  O  AS   I RS       I) AI  -     H     N    S  II  MO  L N  O S  E"
+                    }
+                ]
+            },
+            "bbox": [
+                158,
+                128,
+                215,
+                908
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } { \\mathbf { \\bar { \\mu } } _ { 1 } ^ { \\mathrm { R } } } & { : = } & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 1 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 2 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { = } & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 1 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 2 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { : = } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 3 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 4 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { : = } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 4 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 5 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { = } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 5 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 7 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { = } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 4 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 7 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { \\leq } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 5 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 8 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { = } \\\\ & { | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 7 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 7 } ^ { \\mathrm { R } } } \\end{array} | } \\\\ & { \\leq } \\\\ &  | \\begin{array} { l } { \\mathbf { \\bar { \\mu } } _ { 1 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 8 } ^ { \\mathrm { R } } } \\\\ { \\mathbf { \\bar { \\mu } } _ { 7 } ^ { \\mathrm { R } } } \\end{array} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1e9dcee090912bf33c39bfcb3681843ccc9a841a368ed382adff5da51b09ebd0.jpg"
+                }
+            },
+            "bbox": [
+                504,
+                123,
+                664,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                60,
+                636,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "869"
+                    }
+                ]
+            },
+            "bbox": [
+                788,
+                61,
+                822,
+                75
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } & { \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\end{array} \\} , } \\\\ { \\frac { 1 } { 2 \\tau _ { 2 } } } & { { } = } &  \\frac { 1 } { 2 \\tau _ { 2 } } \\{ \\begin{array} { l l } { 1 } & { 0 } \\\\   \\end{array} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1c3ad1e42fbee9212de3368f20544d6cb4ea5c2fea0b7b2201ed29188d57a1a5.jpg"
+                }
+            },
+            "bbox": [
+                239,
+                113,
+                773,
+                898
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "870"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                61,
+                151,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                444,
+                64,
+                564,
+                80
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the greatest relative percentage of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "occurs at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicating it is in the outer region of the film closer to the solution than the substrate."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                94,
+                884,
+                131
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "O 1s spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                148,
+                226,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In all the spectra three components could be clearly discerned: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } ^ { 2 - } , \\mathrm { O H } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and adsorbed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H } _ { 2 } \\mathbf { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". From the sensitivity factors involved, the oxygen contribution from the molybdenum species is roughly 1.19 times the Mo signal. The low concentration of the Mo species found indicated that its contribution to the oxygen envelope was only 2-3% and it was not included in the syntheses. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } ^ { 2 - } / \\mathrm { O H } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratios are angularly dependent which suggests the oxides are located at the metal-film interface while the hydroxides are in the outer region. It should be noted that the highest production of oxides occurred in the films formed in the molybdate solutions. The lowest ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } / \\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "occurred in the film produced in the 0.3 M NaCl (pH 9) solution. This trend is also observable in the chromium spectra."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                164,
+                886,
+                339
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cl 2p spectra"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                354,
+                235,
+                371
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These spectra appeared strongest in the case of the 0.3 M NaCl (pH 5.4) solution suggesting the adsorption or partial incorporation of Cl⁻ ions in the passive film. The films formed in the molybdate and the pH adjusted solutions showed the least chlorine."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                370,
+                884,
+                440
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                425,
+                457,
+                566,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study is concerned with the changes caused to passive films already formed in 0.3 M NaCl (pH 5.4) by additional 15 min passivations in different solutions. To ensure that this additional 15 min of passivation required for the studies did not result in any significant aging phenomena, two films formed in the 0.3 M NaCl (pH 5.4) solution for different passivation times were investigated. The differing times were 60 and 75 min. By comparing the Cr and O spectra from the 60 min film in Fig. 2 to the spectra of the 75 min film in Figs 3 and 4, one sees that there are no significant differences between the films formed by passivating for 60 or for 75 min in 0.3 M NaCl (pH 5.4)."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                474,
+                886,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One should explore three questions to determine whether the changes brought about in the films by additional 15 min passivations in different solutions were due to the presence of molybdate, a reduced Mo species or to the pH of the molybdate solution. First, are the films produced in the 0.3 M NaCl (pH 9.0) solution and the molybdate (pH 9.0) the same? If so, then the resulting films are probably the product of the pH change. Secondly, if the films are not the same, what species from the molybdate solution is responsible for the difference? Thirdly, if the film produced in the molybdate solution is not the product of the pH change and a Mo species is responsible for the difference, what mechanism is forming the film? In the following three subsections, an attempt is made to answer these questions."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                630,
+                886,
+                804
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "pH Effects on 0.3 M NaCl film"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                818,
+                395,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As stated previously, Sakashita and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S a t o } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "have found that anion-selective films reverse to cation-selective when oxyanions of the form "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M e O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are adsorbed on the film. They have also reported¹7 that this reversal of the ion selectivity of a film can be produced by increasing the pH of a solution beyond a certain level. The specific pH at which this occurs is called the iso-selective pH or point of iso-selectivity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathsf { p H } _ { \\mathsf { p i s } } \\right)"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                835,
+                886,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                62,
+                696,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "871"
+                    }
+                ]
+            },
+            "bbox": [
+                852,
+                62,
+                882,
+                75
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/11de8be030c27a47b75af612b354878c8cc3a4edfcc02f5301dacb5ec94285b7.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 2. O 1s and Cr 2p spectra obtained from the passive film formed on Fe-19Cr-9Ni alloy at –180 mV(SCE) in 0.3 M NaCl (pH 5.4) for 60 min. The peak numbers correspond to: O 1s: 1, O²- 529.9 eV; 2, OH⁻ 531.4 eV; 3, H2O 532.9 eV. Cr 2p: 1, Metal 574.1 eV; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 , \\mathbf { C r } _ { 2 } \\mathbf { O } _ { 3 } 5 7 6 . 3 \\mathbf { e V } ; 3 , \\mathbf { C r } ( \\mathbf { O H } ) _ { 3 } 5 7 7 . 0 \\mathbf { e V } ; 4 , \\mathbf { C r O } _ { 3 } 5 7 8 . 1 \\mathbf { e V } ; 5 , \\mathbf { C r O } _ { 4 } ^ { 2 - } 5 7 9 . 3 \\mathbf { e V } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                232,
+                92,
+                777,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to Sato, 18 the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { p H } _ { \\mathsf { p i s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the oxides and hydroxides of the first row transition metals generally fall in a range of 10–13. However, he also reported that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { p H } _ { \\mathsf { p i s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { F e } ^ { ( 2 + , 3 + ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oxide membranes drops to 5.8. Therefore it was necessary to determine whether the changes brought about in the films analysed in this study were due to the presence of molybdate or to the pH of the molybdate solution."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                748,
+                880,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The results (given in Figs 3 and 4, and Tables 4 and 5) show the two films are significantly different. The molybdate film shows the greatest development of the chromium oxide layer relative to the chromium hydroxide layer of all the films studied. This behavior is consistent with the development of cation-selectivity in the outer layers of the film. By contrast, the film produced in the 0.3 M NaCl (pH 9.0)"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                834,
+                884,
+                919
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "872"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                61,
+                138,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                62,
+                551,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/76bb9dea4b8fdf3e8183f138e6c7c98d00e72d8507af16cb33fe6012299f57ad.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 3. O 1s photo-electron spectra obtained from the passive films formed on Fe-19Cr-9Ni alloy at −180 mV(SCE): (A) in 0.3 M NaCl (pH 5.4) for 75 min; (B) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0) for 15 min; (C) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3M NaCl (pH 9.0) for 15 min. 1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ", { \\bf O } ^ { 2 - } 5 2 9 . 9 \\mathrm { e V } ; 2 , { \\mathrm { O H } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "531.4 eV; 3, H2O 532.9 eV."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                230,
+                91,
+                775,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "solution shows the least development of the chromium oxide layer relative to the chromium hydroxide layer than any of the other films studied. This behavior suggests that the film has not reverted to a cation-selective film and that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\ p H _ { \\mathrm { p i s } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of this film is higher than pH 9.0."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                579,
+                882,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is surprising, however, that the film produced in the 0.3 M NaCl (pH 9.0) is not bipolar, considering the relative increase of chromate seen in this film. As would be expected from reaction 2, the increase in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { \\ o H ^ { - } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration drives the reaction to the right producing the largest relative ratio of chromate to total "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "species (Tables 3-5) found in any of the films studied. From the discussion on bipolarity in the introduction, one would expect increased deprotonation due to the presence of significant amounts of chromates. However, the expected deprotonation of the chromium hydroxide layer did not occur. This failure to deprotonate the hydroxide layer in the film indicates that the bipolar effect of the chromate was overpowered by hydroxyl ion influx."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                646,
+                884,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrochemical data (Fig. 1) show that the 0.3 M NaCl (pH 9.0) solution is a less aggressive pitting environment than the 0.3 M NaCl (pH 5.4) solution. The pitting resistance is improved despite the fact that the XPS data for a passive film formed at -180 mV show evidence of rehydration of the Cr-rich inner region of the film. The mechanism involved is indicated by the point that this film showed the least Cl⁻ contamination of all the films. The sole mechanism here appears to be the competition for adsorption offered by OH⁻ to the Cl⁻ due to the increase of more than three orders of magnitude in the OH⁻ concentration. This mechanism has been reported earlier by Rozenfeld and Maksimtchuk,19 and has been discussed by Szklarska-Smialowska.20"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                818,
+                884,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                61,
+                698,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "873"
+                    }
+                ]
+            },
+            "bbox": [
+                852,
+                61,
+                884,
+                75
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0b458fb591aebd60f3c1c6e328d3020767381260aa8efddc785bb43d77005adb.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 4. Cr 2p photo-electron spectra obtained from the passive films formed on Fe-19Cr-9Ni alloy at −180 mV(SCE): (A) in 0.3 M NaCl (pH 5.4) for 75 min; (B) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3 M NaCl + 0.16M Na2MoO4 (pH 9.0) for 15 min; (C) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3 M NaCl (pH 9.0) for 15 min. 1, Metal 574.1 eV; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 , \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } 5 7 6 . 3 \\ : \\mathrm { e V } ; 3 , \\mathrm { C r } ( \\mathrm { O H } ) _ { 3 } 5 7 7 . 0 \\ : \\mathrm { e V } ; 4 , \\mathrm { C r O } _ { 3 } 5 7 8 . 1 \\ : \\mathrm { e V } ; 5 , \\mathrm { C r O } _ { 4 } ^ { 2 - } 5 7 9 . 3 \\ : \\mathrm { e V } ,"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                134,
+                91,
+                867,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                735,
+                882,
+                802
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Determination of deprotonating agent"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                819,
+                457,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As in the previous work on Mo bearing alloys,7 Mo was found both as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O ( O H ) } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", as can be seen in Fig. 5. This raises the question as to which Mo species is the cause of the deprotonation. To see if the reversal of reaction 1 is temperature dependent, an additional 15 min molybdate doping experiment at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 7 0 ^ { \\circ } } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was performed. At the higher temperature, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 \\cdot }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "species proved to be stable, as can be seen in Fig. 6. Since significant evidence of deprotonation was also found in Figs 7 and 8, it was concluded that the molybdate was responsible for the deprotonation."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                836,
+                882,
+                922
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "874"
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                62,
+                141,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                61,
+                555,
+                77
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/9c992b36523f0674af6c9df34d8b01aed04b7d6bba5bff4ddcd823db6f008aaa.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 5. Mo 3d photo-electron spectra obtained from the passive film formed at room temperature on Fe-19Cr-9Ni alloy at -180 mV(SCE) in 0.3 M NaCl (pH 5.4) for 60 min followed by a further passivation of 15 min in 0.3 M NaCl + 0.16 M Na2MoO4 (pH 9.0). "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 , \\mathbf { M } \\mathbf { o } ^ { 4 + } 3 d _ { \\widetilde { s } / 2 } ^ { ' } 2 3 0 . 2 \\mathbf { e V } ; \\widetilde { 2 } , \\mathbf { M } \\mathbf { o } ^ { 4 + } 3 d _ { 3 / 2 } 2 3 3 . 4 \\mathbf { e V } ; 3 , \\mathbf { M } \\mathbf { o } ^ { 6 + } 3 d _ { \\widetilde { s } / 2 } 2 3 1 . 9 \\mathbf { e V } ; 4 , \\mathbf { M } \\widetilde { \\mathbf { o } ^ { 6 + } 3 } d _ { 3 / 2 } 2 3 5 . 1 \\mathbf { e V } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                354,
+                98,
+                655,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                699,
+                882,
+                735
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Fifteen minute molybdate film"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                751,
+                386,
+                768
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tables 3-5 offer strong evidence that increased deprotonation occurs when molybdates are contained in the film. This is indicated by the significant increases in the chromium oxide to hydroxide ratios when molybdate is present. Supplemental to this is the reduction in the concentration of Cl⁻ entering the films when compared to the film formed in 0.3 M NaCl (pH 5.4). Inspection of Fig. 5 indicates that the relative position of the molybdate is in the outer region of the film. This behavior strongly resembles that found in previous work on stainless steels.3,7,8"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                768,
+                884,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to Sato18 and the pH work done in this paper, one would expect the 0.3 M NaCl (pH 5.4) film to be anion-selective at the pH studied. This means it contains fixed positive charges on its surface and along its diffusion pathways, which hinder the transport of cations across the film while allowing anions to penetrate the film. In previous work,3,7 it was proposed that the adsorption of molybdate on the outer region of the passive film will either replace or mask the original positive charges thereby eliminating the anion selective properties of that region of the film. In addition, the strongly electronegative oxygens of the molybdate will act as fixed negative charges, effectively making the outer region of the film cation selective. This bipolarizes the film with an outer cation-selective region and an inner anion-selective region. As noted in the introduction, this essentially causes a rectification of the film's ion transport in that protons will be able to escape from the film while the ingress of anions will be hindered. The resultant bipolar film should show strong deprotonation of the inner chromium hydroxide layer, insignificant anion penetration and molybdate residing in the outer region of the film. All three of these results are observed in the film produced by the additional passivation in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 3 \\mathbf { M } \\mathbf { N a C l } + 0 . 1 6 \\mathbf { M } \\mathbf { N a } _ { 2 } \\mathbf { M } \\mathbf { o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                888,
+                884,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                60,
+                698,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "875"
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                62,
+                886,
+                77
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f2e2504f7e9d8d95ddc35f4645c0875216a9576f1c8dcc9a7d83c3e56a559bd2.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 6. Mo 3d photo-electron spectra obtained from the passive film formed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\mathrm { { } ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on Fe-19Cr-9Ni alloy at −180 mV(SCE) in 0.3 M NaCl (pH 5.4) for 60 min followed by a further passivation of 15 min in 0.3 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N a C l } + 0 . 1 6 \\mathrm { ~ M ~ } \\mathrm { N a _ { 2 } M o O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0). The only two peaks observed are the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } 3 } d _ { 5 / 2 } \\left( 2 3 1 . 9 \\mathrm { e V } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 3 / 2 } \\left( 2 3 5 . 1 \\mathrm { e V } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", numbered as in Fig. 5."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                354,
+                94,
+                643,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                612,
+                884,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Examination of the deprotonation reaction suggests that deprotonation of a previously formed film should cause a reduction in the film's thickness. Essentially, the reaction proceeds through three stages. In the first two, field-induced migration causes the protons to migrate through the cation selective outer region and out of the film:"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                866,
+                882,
+                918
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "876"
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                62,
+                141,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                62,
+                553,
+                78
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fa8c53fb81b7c55d6d19af915ffe4c34cafda664af52d5b8e668a4d0988935f5.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                215,
+                92,
+                493,
+                336
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/93d9826e656bafd113f9a33ed11ffbf35608b9f0be92817578f8b6cb08e6f1f9.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                500,
+                92,
+                790,
+                323
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/eef2c6b337aae2af2a0bb2048f6dee4ae2033bd16e7e8b85939c65c90b5634a3.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                198,
+                344,
+                491,
+                597
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/015dd6753cd82f3c0466b12d4c304acaf63c3ff80403c76d87a5e9001c689e03.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 7. O 1s photo-electron spectra obtained from the passive films formed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\mathrm { { } ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on Fe−19Cr–9Ni alloy at − 180 mV(SCE): (A) in 0.3 M NaCl (pH 5.4) for 75 min; (B) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0) for 15 min. 1, O²− 529.9 eV; 2, OH− 531.4 eV; 3, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf H } _ { 2 } { \\bf O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "532.9 eV."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                502,
+                344,
+                790,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                689,
+                880,
+                722
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 \\mathrm { C r ( O H ) } _ { 3 }  \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } + 3 \\mathrm { O H } ^ { - } + 3 \\mathrm { H } ^ { + }\\tag{3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c8e705e30a516bcff9ef18d687e20b2cea78461c2a9fbdf78ec51e1cc37edee8.jpg"
+                }
+            },
+            "bbox": [
+                314,
+                731,
+                668,
+                749
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "3 { \\bf O } { \\bf H } ^ { - }  3 { \\bf O } ^ { 2 - } + 3 { \\bf H } ^ { + } .\\tag{4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ca4a02dddeb439b0b67ca3ec2223fadc5bb24826a11d2f098c0e487f333a2fc1.jpg"
+                }
+            },
+            "bbox": [
+                350,
+                756,
+                576,
+                773
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Influenced by the substrate's electric field, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "then migrates through the anion selective region to the substrate, where it reacts with Cr to form more "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                782,
+                880,
+                818
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 \\mathrm { C r } _ { \\mathrm { s u b s t r a t e } } + 3 \\mathrm { O } ^ { 2 - }  \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } + 6 \\mathrm { e } ^ { - } .\\tag{5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eae15c749ab3e0fddc0a7b77ea30db000dcb8e1f4b84d6726ba335a9a407f01b.jpg"
+                }
+            },
+            "bbox": [
+                320,
+                825,
+                662,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Therefore the overall deprotonation reaction becomes:"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                851,
+                619,
+                868
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { C r } _ { \\mathrm { s u b s t r a t e } } + \\mathrm { C r } ( \\mathrm { O H } ) _ { 3 } \\to \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } + 3 \\mathrm { H } ^ { + } + 6 \\mathrm { e } ^ { - } .\\tag{6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8e9720a2f1031ec7dc6a07ca8524430c8d844b14dd754d787232e76e6d78cec9.jpg"
+                }
+            },
+            "bbox": [
+                271,
+                875,
+                711,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From equation (6), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "deprotonates to equal moles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Since the densities of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are different (2.9 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 . 1 \\ \\mathrm { g } \\ \\mathrm { c m } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively), it is evident that the deprotonation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "also results in a volume reduction of 16%. However, since only part of the film is composed of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and only part of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "layer deprotonates, the reduction in the overall film thickness should be less but still noticeable."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                901,
+                882,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                61,
+                700,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "877"
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                62,
+                886,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a526596d11b1a98794cc7adfa6bf7d4bc4be2ea8adfeef90b365f868b956a1bc.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                226,
+                95,
+                504,
+                341
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/09798f486b06c27e9815eba28ca800c1aaf8023480e7e917ab689187ffe0cef2.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                506,
+                97,
+                786,
+                340
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7ed746324cb0ab025ae0bc5615fc4ae43041b7a15efb29f13f317d7dcb18cba5.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                217,
+                349,
+                502,
+                600
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2e2f41c6893f948e3a1c0f5d42bf5153ad03e9d2fc9dd584578ab1af9b7768a8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIG. 8. Cr "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "photo-electron spectra obtained from the passive films formed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 7 0 ^ { \\circ } } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on Fe–19Cr–9Ni alloy at −180 mV(SCE): (A) in 0.3 M NaCl (pH 5.4) for 75 min; (B) in 0.3 M NaCl (pH 5.4) for 60 min then in 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(pH 9.0) for 15 min. 1, Metal 574.1 eV; 2, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "576.3 eV; 3, Cr(OH)₃ 577.0 eV; 4, CrO3 578.1 eV; 5, CrO2− 579.3 eV."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                500,
+                347,
+                792,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                702,
+                882,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is verified by comparing the metal to ionic species ratios presented in Tables 3–5. In XPS, the metal signal from the substrate is attenuated by the overlayer. This allows one to relate attenuation of the metal signal to the film thickness; the thinner the overlayer the greater the ratio of the metal signal to the ionic signal. In Tables 3–5, the metal to ionic species ratios for each angle are calculated by summing all metal signals and dividing by the sum of all ionic signals. These show that the greatest metal to ionic signal was obtained when the film formed in 0.3 M NaCl (pH 5.4) is exposed to the molybdate solution. The ratios for the film produced by the additional passivation in the 0.3 M NaCl (pH 9.0) solution show no reduction in attenuation, indicating that the effect is not produced by the pH change of the solution."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                788,
+                882,
+                925
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "878"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                62,
+                138,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                61,
+                551,
+                77
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                95,
+                882,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It should be noted that the thinning of the film is not caused by the dissolution of the previous formed film. If the thinning was due simply to dissolution, the current density would be expected to increase when the solutions were changed for the additional 15 min passivation studies. However, as noted in the results section, no appreciable change in the current density was observed upon the changing of the solution."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                131,
+                886,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Comparing this film to the one formed in the 0.3 M NaCl (pH 9.0) solution, one notices a complete reversal of the results. The presence of molybdate causes significant deprotonation, indicating that it is a far stronger cation selective agent than the chromate species. If one compares the film exposed to molybdate for 15 min to the films formed in previous work on Mo bearing alloys,7 one finds similar levels of deprotonation. This indicates that the bipolarity introduced after the film is fully formed in a non-molybdate solution can still operate and the same modifications expected from the Mo bearing alloy case may be achieved."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                234,
+                884,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CONCLUSIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                414,
+                389,
+                576,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) Molybdate is seen to absorb onto the passive film formed on Fe-19Cr-9Ni stainless steel in 0.3 M NaCl + 0.16 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a } _ { 2 } \\mathbf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at pH 9."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                406,
+                882,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) At room temperature, partial reduction of molybdate is observed resulting in the formation of a hydrated molybdenum dioxide, probably MoO(OH)2. This reduction was not observed when the passivation was performed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 7 0 } ^ { \\circ } \\mathbf C"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                440,
+                884,
+                493
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) The absorption of molybdate on the film changes the inherent anion selectivity of the outer region of the film to cation selective. This effectively produces a bipolar film, which allows univalent cations to migrate out of the passive film while hindering the ingress of anions such as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C l } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O H ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This results in: (a) deprotonation of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } ( \\mathrm { O H } ) _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "component of the passive film leading to a significantly enhanced barrier layer composed of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } { \\bf O } _ { 3 } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(b) improvement in pitting resistance due to the reduction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "adsorption and subsequent penetration of the passive film."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                493,
+                884,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4) Increasing pH gives enhanced protection in Cl⁻ containing solutions by reducing Cl⁻ adsorption and penetration of the passive film. This is due to neither of the above mechanisms but stems from the increased competition between "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O H ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Cl⁻ for adsorption sites. While this does lead to an improvement in the film's pitting resistance, it is not as effective as molybdate adsorption."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                629,
+                884,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements—This work was supported by the National Science Foundation under Grant No. DMR 8418873 (administered by Dr Bruce MacDonald). The VGS Electron Spectrometer and VGS 1000 Data System were acquired from NSF equipment awards DMR 7718319 and 8117321."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                732,
+                884,
+                776
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                418,
+                793,
+                564,
+                808
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. M. SAKASHITA and N. SATO, in Passivity of Metals (eds R. P. FRANKENTHAL and J. KRUGER), p. 740. The Electrochemical Society, Corrosion Monograph Series, Princeton, NJ (1978)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. M. SAKAsHITA and N. SATo, Corros. Sci. 17, 473 (1977)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Y. C. Lu and C. R. CLAYToN, J. Chin. Soc. Corr. Prot. 18, 30 (1988)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. B. M. LARKIN and I. L. RozENFELD, Prot. Metals 15, 552 (1979)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. B. M. LARKIN and I. L. RozENFELD, Prot. Metals 17, 408 (1981)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. S. F. TImAsHEv, Prot. Metals 16, 176 (1980)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. C. R. CLAYToN and Y. C. Lu, J. Electrochem. Soc. 133, 2465 (1986)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                809,
+                878,
+                838
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A bipolar model of the passivity of stainless steels—II"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                61,
+                700,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "879"
+                    }
+                ]
+            },
+            "bbox": [
+                854,
+                62,
+                886,
+                75
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. A. R. Brooks, C. R. CLAYToN, K. Doss and Y. C. Lu, J. Electrochem. Soc. 133, 2459 (1986)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. C. R. CLAYToN and Y. C. Lu, Corros. Sci. 29, 881 (1989)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. K. Doss, A. Brooks and C. R. CLAytoN, Proc. Int. Congress on Metallic Corrosion, Vol. 1, p. 138. National Research Council, Toronto, Canada (1984)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. C. R. CLAYTON, K. G. K. Doss, Y. F. WANG, J. B. WARREN and G. K. HUBLER, Ion Implantation into Metals (eds V. AsHwoRTí, W. A. GRANT and R. P. M. PRoCToR), p. 67. Pergamon Press, Oxford (1982)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. J. E. CAsTLE and C. R. CLAYToN, Corros. Sci. 17, 7 (1977)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. M. P. SEAí, Surf. Interface Anal. 2, 222 (1980)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. A. SAvITsKY and M. J. E. GoLAY, Analyt. Chem. 36, 1627 (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. P. M. A. SHERwooD, Practical Surface Analysis (eds D. BRIGGs and M. P. SEAí), p. 445. John Wiley, New York (1983)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. G. C. ALLEN, M. T. CURTIs, A. J. HooPER and P. M. TuCkER, J. Chem. Soc., Dalton Trans. 1675 (1973)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. M. SAKAsHITA and N. SATO, Corrosion 35, 351 (1979)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. N. SATo, Corros. Sci. 27, 421 (1987)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. I. L. RozENFELD and V. P. MAKsımTCHUK, Dokl. Akad. Nauk. SSSR 131, 354 (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Z. SzKLARsKA-SmIALowsKA, Pitting Corrosion of Metals, p. 297. NACE, Houston (1986)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                100,
+                831,
+                114
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "880"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                62,
+                138,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. C. Lu et al."
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                64,
+                551,
+                78
+            ]
+        }
+    ]
+]

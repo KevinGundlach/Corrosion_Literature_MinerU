@@ -1,0 +1,1018 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of Alloying Additions on the Pitting Resistance of 18% Cr Austenitic Stainless Steel\\*",
+        "text_level": 1,
+        "bbox": [
+            147,
+            19,
+            851,
+            69
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "R. J. BRIGHAM and E. W. TOZER\\*",
+        "bbox": [
+            360,
+            127,
+            641,
+            143
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            459,
+            186,
+            542,
+            203
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using temperature as a pitting criterion, the effects of Mo and other supplementary alloying additions on the pit initiation resistance of wholly austenitic stainless steel containing nominally 18% Cr have been evaluated. Quantitative results for Mo, Cu, Ni, Mn, N, and Si alloy additions are presented and empirical relationships are given which describe the pitting resistance of several families of alloys. Both experimental and commercial alloys have been evaluated.",
+        "bbox": [
+            163,
+            215,
+            838,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Austenitic stainless steels containing nominally 18% Cr, but with wide variations in the amounts of alloyed Mo, Si, N, Cu, and Mn have been evaluated for resistance to pitting corrosion. The evaluation has been based on the parameter critical pitting temperature (CPT), the temperature above which pitting has been observed to occur in oxidizing acid chloride media and below which the stainless steel is immune to the initiation of pits. This CPT parameter has been developed using the excellent correlation between pit initiation conditions determined by potentiostatically controlled anodic polarization scans carried out at various temperatures¹ and exposåre tests in oxidizing acid chloride media performed over the same temperature range.²",
+        "bbox": [
+            29,
+            298,
+            481,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Potential on CPT",
+        "text_level": 2,
+        "bbox": [
+            31,
+            509,
+            237,
+            524
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In exposure tests to oxidizing acid chloride media of different oxidizing power and in anodic polarization experiments carried out in chloride solutions but extrapolated to infinitely slow scan rates, an intermediate potential range has been observed² in which the CPT of an alloy does not vary with potential. An example of this type of behavior for exposure tests is shown in Figure 1. These go-no-go pitting data were obtained with 317L stainless steel (analysis in Table 1), exposed for 24 hours in three solutions of very different oxidizing power (potential) but similar chloride activity. The relative oxidizing power of each solution has been plotted in Figure 1. For example, at 25 C (77 F), the steady state potentials of 317L immersed in the ferric chloride and potassium ferricyanide solutions relative to the saturated calomel electrode (SCE) were +660 mV and +440 mV, respectively. The oxidizing power of the sodium hypochlorite solution was assumed to be limited by transpassive reactions to the value shown.",
+        "bbox": [
+            29,
+            524,
+            481,
+            805
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In each solution, no pitting of the steel was observed after exposure at 27.5 C (82 F) but in each case, pitting was observed after exposure at 30 C (86 F) as indicated by the left and right ends of the error bars in Figure 1. For convenience, 10% $\\mathrm { F e C l } _ { 3 }$ solution was chosen as a representative test solution for evaluation of pitting resistance of stainless steels in terms of CPT.",
+        "bbox": [
+            31,
+            805,
+            481,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/323c02f0b363f5f1cfaec736d79a38baac1cecde00438e73392e15170dd3e613.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 1 — Pitting temperature range of 317L austenitic stainless steel tested in chloride solutions of different oxidizing power (potential) for 24 and 66 hours. Dashed portion of the curve is based on potentiodynamic polariza-1 tion data."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            520,
+            302,
+            965,
+            612
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Chloride Concentration on $C P T$",
+        "bbox": [
+            516,
+            731,
+            832,
+            747
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Figure 2, the CPT values for two alloys, AISI Types 304 and 317L, are plotted as a function of $\\mathrm { F e C l } _ { 3 }$ concentration for 24 and 66 hour exposure tests. Over the range 4 to 10% $\\mathrm { F e C l } _ { 3 }$ (which includes the concentration 10% $\\mathrm { F e C l } _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ used in some laboratories), the CPT has been found to be independent of chloride concentration as shown. For chloride concentrations below 1%, test times in excess of 24 hours are needed to exceed the incubation period for pit initiation as shown in Figure 2. However, the choice of 10% $\\mathrm { F e C l } _ { 3 }$ as testing solution facilitates reliable results in a test period of 24 hours. Small variations in $\\mathrm { F e C l } _ { 3 }$ concentration from batch to batch have no effect on CPT data.",
+        "bbox": [
+            514,
+            747,
+            968,
+            948
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication July, 1973.",
+        "bbox": [
+            33,
+            918,
+            292,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "161",
+        "bbox": [
+            935,
+            962,
+            965,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Endako Mines, Ottawa, Ontario, Canada K1A 0G1.",
+        "bbox": [
+            33,
+            932,
+            375,
+            945
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 30, No. 5, May, 1974",
+        "bbox": [
+            34,
+            960,
+            233,
+            976
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f6a5f6b6cb3ec2c47b8c6cca8fc5fdf6ade4d9e28631a4ff9a256b45713cac6.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "NOTES:",
+            "1. Alloys 1, 2, 3, 4, 8, 22, 26, and 27 are commercially available alloys.",
+            "2. Alloy 12 was an experimental 500 pound heat.",
+            "3. The other alloys were produced as splits from 50 pound heats.",
+            "4. Experimental alloys were deoxidized with Al (up to 2 pounds/ton).",
+            "5. NA = Not analyzed but no intentional addition.",
+            "6. \\* = Not analyzed but extrapolated from values for other splits of the same heat which were analyzed,"
+        ],
+        "table_body": "<table><tr><td colspan=\"11\">Heat</td></tr><tr><td>Alloy</td><td>or AISI No.</td><td>Cr</td><td>Ni</td><td>Mn</td><td>C</td><td>N</td><td>Si</td><td>P</td><td>S</td><td>Cu</td><td>Mo</td></tr><tr><td>1</td><td>304</td><td>18.08</td><td>8.60</td><td>&lt;2</td><td>0.06</td><td>NA</td><td>&lt;1</td><td>&lt;0.045</td><td>&lt;0.030</td><td>NA</td><td>0.05</td></tr><tr><td>2</td><td>304</td><td>18-20</td><td>8-12</td><td>&lt;2</td><td>&lt;0.08</td><td>NA</td><td>&lt;1</td><td>&lt;0.045</td><td>&lt;0.030</td><td>NA</td><td>NA</td></tr><tr><td>3</td><td>321</td><td>17-19</td><td>9-12</td><td>&lt;2</td><td>&lt;0.08</td><td>NA</td><td>&lt;1</td><td>&lt;0.045</td><td>&lt;0.030</td><td>NA</td><td>0.50</td></tr><tr><td>4</td><td>316L</td><td>16-18</td><td>12.33</td><td>NA</td><td>&lt;0.03</td><td>NA</td><td>NA</td><td>&lt;0.045</td><td>&lt;0.030</td><td>NA</td><td>2.47</td></tr><tr><td>5</td><td>8427-1</td><td>17.94</td><td>12.79</td><td>1.74</td><td>0.02</td><td>0.07</td><td>0.70</td><td>0.012</td><td>0.012</td><td>NA</td><td>2.60</td></tr><tr><td>6</td><td>8427-2</td><td>18.05</td><td>12.58</td><td>1.71</td><td>0.02</td><td>0.08</td><td>0.71</td><td>0.012</td><td>0.013</td><td>NA</td><td>2.99</td></tr><tr><td>7</td><td>7579-1</td><td>19.32</td><td>20.46</td><td>0.99</td><td>0.02</td><td>0.06</td><td>0.50</td><td>0.010</td><td>0.015</td><td>0.02</td><td>3.07</td></tr><tr><td>8</td><td>317L</td><td>18-20</td><td>14.03</td><td>&lt;2</td><td>&lt;0.03</td><td>NA</td><td>&lt;1</td><td>&lt;0.045</td><td>&lt;0.030</td><td>NA</td><td>3.11</td></tr><tr><td>9</td><td>8427-3</td><td>17.8*</td><td>12.4*</td><td>1.7*</td><td>0.02*</td><td>0.07*</td><td>0.71*</td><td>0.012*</td><td>0.013*</td><td>NA</td><td>3.35</td></tr><tr><td>10</td><td>8427-4</td><td>17.62</td><td>12.51</td><td>1.66</td><td>0.02</td><td>0.07</td><td>0.71</td><td>0.012</td><td>0.013</td><td>NA</td><td>3.85</td></tr><tr><td>11</td><td>7579-2</td><td>19.0*</td><td>19.5*</td><td>0.95*</td><td>0.02*</td><td>0.06*</td><td>0.50*</td><td>0.010*</td><td>0.015*</td><td>0.02*</td><td>4.56</td></tr><tr><td>12</td><td>G1111</td><td>19.91</td><td>20.47</td><td>1.25</td><td>0.02</td><td>0.03</td><td>0.77</td><td>0.022</td><td>0.017</td><td>NA</td><td>4.69</td></tr><tr><td>13</td><td>7579-3</td><td>18.0*</td><td>19.0*</td><td>0.95*</td><td>0.02*</td><td>0.06*</td><td>0.48*</td><td>0.011#</td><td>0.015*</td><td>0.02°</td><td>6.18</td></tr><tr><td>14</td><td>7579-4</td><td>17.64</td><td>18.32</td><td>0.90</td><td>0.02</td><td>0.06</td><td>0.48</td><td>0.011</td><td>0.015</td><td>0.02</td><td>7.56</td></tr><tr><td>15</td><td>8428-1</td><td>18.5*</td><td>13.0*</td><td>1.7*</td><td>0.02*</td><td>0.23*</td><td>0.63*</td><td>0.013*</td><td>0.012*</td><td>NA</td><td>2.42</td></tr><tr><td>16</td><td>8428-2</td><td>18.0*</td><td>12.8*</td><td>1.7*</td><td>0.02*</td><td>0.23*</td><td>0.63*</td><td>0.013*</td><td>0.012*</td><td>NA</td><td>2.83</td></tr><tr><td>17</td><td>7580-1</td><td>19.17</td><td>20.24</td><td>0.99</td><td>0.03</td><td>0.19</td><td>0.44</td><td>0.012</td><td>0.012</td><td>0.01</td><td>3.04</td></tr><tr><td>18</td><td>8428-3</td><td>18.0*</td><td>12.5*</td><td>1.7*</td><td>0.02*</td><td>0.23*</td><td>0.63*</td><td>0.013*</td><td>0.012*</td><td>NA</td><td>3.20</td></tr><tr><td>19</td><td>8428-4 7580-2</td><td>17.76</td><td>12.30</td><td>1.66</td><td>0.02</td><td>0.23</td><td>0.63</td><td>0.013</td><td>0.012</td><td>NA</td><td>3.55</td></tr><tr><td>20</td><td></td><td>19.0*</td><td>20.0*</td><td>0.96*</td><td>0.03*</td><td>0.20*</td><td>0.44*</td><td>0.012*</td><td>0.012*</td><td>0.01</td><td>4.48</td></tr><tr><td>21</td><td>7580-3 Alloy B</td><td>18.0*</td><td>19.0*</td><td>0.93*</td><td>0.03* &lt;0.08</td><td>0.20*</td><td>0.44*</td><td>0.012*</td><td>0.012*</td><td>0.02*</td><td>5.60</td></tr><tr><td>22 23</td><td>7580-4</td><td>15-17 17.88</td><td>24-27 18.96</td><td>&lt;2.0 0.89</td><td>0.03</td><td>0.10-0.20 0.20</td><td>&lt;1.0 0.43</td><td>NA 0.012</td><td>NA 0.013</td><td>NA</td><td>6.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.02</td><td>7.30</td></tr><tr><td>24</td><td>7581-1</td><td>18.37</td><td>20.17</td><td>1.02</td><td>0.02</td><td>0.06</td><td>0.53</td><td>0.013</td><td>0.013</td><td>1.92</td><td>3.06</td></tr><tr><td>25</td><td>7581-2</td><td>18.0*</td><td>20.0*</td><td>1.0*</td><td>0.02*</td><td>0.06*</td><td>0.53*</td><td>0.013*</td><td>0.013*</td><td>1.9#</td><td>4.43</td></tr><tr><td>26</td><td>Alloy C</td><td>18.8</td><td>24.86</td><td>1.64</td><td>0.018</td><td>0.032</td><td>0.44</td><td>0.016</td><td>0.005</td><td>1.32</td><td>4.33</td></tr><tr><td>27</td><td>Alloy A</td><td>17.3</td><td>23.8</td><td>1.72</td><td>0.018</td><td>0.034</td><td>0.44</td><td>0.010</td><td>0.004</td><td>NA</td><td>4.60</td></tr><tr><td>29</td><td>7582-1</td><td>19.10</td><td>20.18</td><td>1.08</td><td>0.02</td><td>0.05</td><td>1.52</td><td>0.012</td><td>0.014</td><td>0.05</td><td>3.00</td></tr><tr><td>30</td><td>7582-2</td><td>19.0*</td><td>20.0*</td><td>1.0*</td><td>0.02*</td><td>0.05*</td><td>1.5*</td><td>0.012*</td><td>.0.014#</td><td>0.05#</td><td>4.35</td></tr><tr><td>31</td><td>8429-1</td><td>17.95</td><td>12.71</td><td>0.53</td><td>0.03</td><td>0.07</td><td>0.71</td><td>0.012</td><td>0.012</td><td>NA</td><td>2.50</td></tr><tr><td>32</td><td>8429-2</td><td>17.9*</td><td>12.6*</td><td>0.53*</td><td>0.03*</td><td>0.07*</td><td>0.7*</td><td>0.012*</td><td>0.012*</td><td>NA</td><td>2.75</td></tr><tr><td>33</td><td>8430-2</td><td>17.74</td><td>12.63</td><td>0.46</td><td>0.03</td><td>0.23</td><td>0.58</td><td>0.013</td><td>0.014</td><td>NA</td><td>2.85</td></tr><tr><td>34</td><td>8430-3</td><td>17.5*</td><td>12.5*</td><td>0.46*</td><td>0.03*</td><td>0.23*</td><td>0.57*</td><td>0.013*</td><td>0.014*</td><td>NA</td><td>3.26</td></tr><tr><td>35</td><td>8426</td><td>19.38</td><td>22.68 23.8</td><td>0.38 0.46</td><td>0.04 0.043</td><td>0.20 0.224</td><td>0.47 0.33</td><td>0.014 0.013</td><td>0.014 0.008</td><td>NA NA</td><td>6.04 6.3</td></tr><tr><td>36</td><td>7995</td><td>18.67</td></table>",
+        "bbox": [
+            33,
+            47,
+            963,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of Alloy Additions on Pitting Resistance",
+        "text_level": 2,
+        "bbox": [
+            47,
+            735,
+            460,
+            752
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alloys",
+        "text_level": 2,
+        "bbox": [
+            31,
+            766,
+            88,
+            781
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A number of wholly austenitic stainless steels containing nominally 18% Cr and systematic variations in other alloying additions were evaluated. The grid of alloys with compositions given in Table 1 include both commercial and experimental alloys.",
+        "bbox": [
+            29,
+            782,
+            480,
+            856
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental alloys were melted from virgin materials in either 50 or 500 pound heats. The 50 pound heats were poured as four 12 pound splits containing increases in Mo concentration. All experimental alloys were deoxidized with Al up to 2 pounds/ton of metal. The ingots were cropped, conditioned by grinding and hot rolled to sheet.",
+        "bbox": [
+            29,
+            856,
+            480,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of the alloys were tested in the single phase quench annealed condition. The surface finish of all the stainless steel coupons tested for pitting resistance was prepared by abrading with 120 grit silicon carbide paper.",
+        "bbox": [
+            515,
+            735,
+            968,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Testing",
+        "text_level": 2,
+        "bbox": [
+            517,
+            811,
+            581,
+            826
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As discussed above, the CPT parameter is an easily determinable and reliable criterion with which to evaluate quantitatively the effect of alloy chemistry changes on the resistance of stainless steels to pit initiation. The insensitivity of CPT to such variables as potential, test time, and chloride concentration facilitates quantitative comparisons with data by other investigators³,4 who have used slightly different values of the variables.",
+        "bbox": [
+            515,
+            826,
+            968,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "TABLE 1 — Chemical Analyses (Wt %)",
+        "bbox": [
+            330,
+            22,
+            623,
+            37
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "162",
+        "bbox": [
+            33,
+            962,
+            67,
+            976
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            796,
+            963,
+            963,
+            977
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/001e684896096a4c8803c0df1fb3af5c86e19d876030996c07d82668fbbc56c0.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 2 – Critical pitting temperature of 304 and 317L stainless steels as a function of $F e C l _ { 3 }$ concentration in 24 and 66 hour tests."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            34,
+            22,
+            476,
+            356
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The CPT for a particular alloy can be determined most readily by a series of 24 hour isothermal exposure tests in 10% FeCl3. The metal coupon is placed on a layer of glass beads at the bottom of an open flask containing a minimum of 10 ml of 10% $\\mathrm { F e C l } _ { 3 }$ solution for each square centimeter of coupon surface. The temperature of the test solution is increased in 2.5 C steps every 24 hours until pitting is observed on the flat surface parallel to the rolling plane of the immersed coupon at the end of one such exposure period. For high temperature exposure tests, the flask is equipped with a reflux condenser. For low temperature exposure tests (below ambient), it is essential that the coupon be chilled to the test temperature before immersion in order to obtain reliable results.",
+        "bbox": [
+            25,
+            424,
+            478,
+            639
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the conclusion of any 24 hour test at a particular temperature, the CPT is shown to have been exceeded if localized attack has occurred on the surface parallel to the rolling plane as discrete pits, well removed from and not connected to the edges or other surfaces. These discrete pits are invariably capped, and contain greenish colored electrolyte. They are easily visible to the naked eye, particularly after probing the surface with a needle. In all but the most resistant alloys, they are macroscopic (at least 1 mm in diameter) after 24 hours. At temperatures below the CPT edge, end-grain, or crevice attack may be extensive, but the test is considered a no-go with respect to pitting unless discrete pits which are not connected to these other localized corrosion phenomena exist on the rolling surface. Preliminary results have shown that there exists a temperature below which no attack of any form will occur. This temperature, called the crevice corrosion temperature, is less than CPT for any steel.",
+        "bbox": [
+            29,
+            642,
+            479,
+            916
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results",
+        "text_level": 2,
+        "bbox": [
+            223,
+            917,
+            293,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Molybdenum has been found¹,2,5 to play a primary",
+        "bbox": [
+            65,
+            932,
+            481,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0713f71229a807ddff4b1d7d93ed044a73e7cf9b3a9b2ccff217eca775746cf9.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 3 — Critical pitting temperature as a function of molybdenum content for an average family of 18% Cr, low $\\mathbf { C r } ,$ nitrogen, experimental and commercial stainless steels which are representative of steels made by present commercial practice. Unbracketed numbers refer to alloys listed in Table 1. Bracketed numbers refer to data cited in the literature."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            516,
+            24,
+            957,
+            332
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "role in increasing resistance to pitting and consequently has been used throughout as the ordinate in plotting CPT for the alloys.",
+        "bbox": [
+            516,
+            432,
+            967,
+            479
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effect of Molybdenum",
+        "text_level": 2,
+        "bbox": [
+            516,
+            493,
+            694,
+            508
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Figure 3, the CPT values for a number of commercial and experimental stainless steels containing nominally 18% Cr, 9 to 20% Ni, 0.9 to 1.8% Mn, 0.5 to 0.7% Si, and low Cu and N values, are plotted as a function of their molybdenum contents. The unbracketed numbers in this and subsequent figures are used to identify the alloys listed in Table 1. The bracketed numbers have been used to identify the reference for data taken from the literature. Over the range 0 to 7.5% Mo, the behavior of all of these wholly austenitic steels is adequately described by the empirical relationship",
+        "bbox": [
+            514,
+            509,
+            967,
+            678
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/b229d83450c6740832fa21c39febccdf00901ab0e75d5a4cdcdaf7b598cf6af2.jpg",
+        "text": "$$\n\\mathbf { C P T } \\left( \\mathbf { C } \\right) = \\boldsymbol { 5 } + 7 \\textbf { x } \\% \\mathbf { M o }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            648,
+            691,
+            835,
+            707
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "as shown. These steels are representative of present-day commercial practice, and therefore this line describes the average family of 18% Cr austenitic stainless steels with which other alloys of different chemistry can be compared. At temperatures to the left of this line, pitting was not observed for this family of steels. On the other hand, exposures at temperatures higher than (to the right of) the empirical line resulted in the formation of pits.",
+        "bbox": [
+            514,
+            723,
+            967,
+            843
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bond and ${ \\mathrm { L i z l o v s } } ^ { 3 }$ and Tomashov et $a l , ^ { 4 }$ testing within the range of $\\mathrm { F e C l } _ { 3 }$ (4 to 10%) shown to provide temperature independent results in Figure 2, found go-no-go pitting behavior for austenitic stainless steel alloys of increasing Mo content (but similar in composition to the alloys described here) at fixed temperatures near ambient. Their results (vertical error bars) are plotted in Figure 3. In each case, the alloy containing the lower Mo concentration pitted while the higher Mo alloy (top of error bar) was not attacked.",
+        "bbox": [
+            514,
+            841,
+            967,
+            950
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 30, No. 5, May, 1974",
+        "bbox": [
+            32,
+            962,
+            228,
+            977
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "163",
+        "bbox": [
+            937,
+            963,
+            968,
+            977
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/a8f3e75495ddac2ca99af856b469044066563de5081ff6bdda7ac5301ddb1340.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 4 – Critical pitting temperature as a function of molybdenum content for a family of 18% Cr, 0.2% nitrogen austenitic stainless steels. The numbers refer to alloys listed in Table 1."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            29,
+            21,
+            475,
+            337
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            31,
+            425,
+            480,
+            472
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of Nitrogen",
+        "text_level": 2,
+        "bbox": [
+            33,
+            486,
+            176,
+            502
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 4, the pitting resistance of another family of wholly austenitic alloys containing higher nitrogen (0.2% as opposed to 0.06%) is presented. These alloys are similar to the average family of alloys discussed above in other respects. The behavior of this family of alloys can be described by",
+        "bbox": [
+            31,
+            501,
+            482,
+            594
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/63bb5a804c21908b7d46c4b751e5535aa27428df457ab5fed0ed4851195ed303.jpg",
+        "text": "$$\n\\mathbf { C P T } \\left( \\mathbf { C } \\right) = 1 0 + 7 \\mathrm { ~ x ~ } \\mathcal { \\% } \\mathrm { ~ M o ~ }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            157,
+            607,
+            352,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The addition of nitrogen has increased the resistance of the alloys by approximately 5 C (9 F) at every Mo level. In addition to this effect, nitrogen has been shown earlier⁵ to play an important role in maintaining the alloys in the single phase austenitic condition.",
+        "bbox": [
+            31,
+            639,
+            480,
+            717
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of Copper",
+        "text_level": 2,
+        "bbox": [
+            33,
+            730,
+            165,
+            745
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 5, the behavior of two alloys, numbers 24 and 25, each containing approximately 2% Cu, is compared with the response of the average family of alloys which contain no copper and which have been described as shown in Figure 3 by",
+        "bbox": [
+            31,
+            744,
+            480,
+            822
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/df56730a5027bb91e911250a4da9290c0cdc894964e778b1b032711935676d55.jpg",
+        "text": "$$\n\\mathbb { C P T } \\left( \\mathbb { C } \\right) = 5 + 7 \\mathrm { ~ \\mathbf { x } ~ } \\mathcal { \\% } \\mathrm { ~ M o ~ }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            163,
+            834,
+            348,
+            850
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The addition of 2% Cu has had no measurable effect on the pit initiation resistance of alloys of this type, and the CPT values of alloys 24 and 25 coincide with those of the average family. Two other alloys, numbers 26, containing 1.32% Cu, and 27, containing only residual levels of Cu, have CPT values which place them both in another family Again no effect of copper can be observed although both alloys exhibit slightly higher resistance than expected on the basis of Figure 3. These commercial low nitrogen alloys, with and without Cu additions, exhibit pitting resistance similar to the nitrogen family shown in Figure 4 described by",
+        "bbox": [
+            31,
+            864,
+            480,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/30e3ad3b1716913481fe8b6840c35a442da88d81171509aa7605eef54a0a4aee.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 5 - Critical pitting temperature as a function of molybdenum content for three families of austenitic stainless steels showing the effect of increasing Si content. The numbers refer to alloys listed in Table 1. Alloys 24, 25, and 26 contain alloyed Cu but fall in the same families as other similar steels which do not contain Cu."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            517,
+            21,
+            963,
+            339
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            451,
+            966,
+            560
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/b3a779f33b7a7215603f484e353abf8a37a9a4abb765c9e0373c2ccda3a31587.jpg",
+        "text": "$$\n\\mathbf { C P T } \\left( \\mathbf { C } \\right) = 1 0 + 7 \\mathrm { ~ \\mathbb { x } ~ \\mathcal { P } ~ M \\mathbb { o } ~ }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            645,
+            574,
+            840,
+            591
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of Silicon",
+        "text_level": 2,
+        "bbox": [
+            517,
+            605,
+            649,
+            621
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The alloys discussed above, numbers 1 to 27 (including the average family), contain approximately 0.6% Si. Two higher Si alloys (1.5% Si) are shown in Figure 5 also, Their behavior can be described by",
+        "bbox": [
+            515,
+            621,
+            966,
+            683
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e488bbabc1174286f8f40b67206397dae5bcb1a2805fada41693b944a39ea458.jpg",
+        "text": "$$\n\\mathrm { C P T } \\left( \\mathrm { C } \\right) = 1 5 + 7 \\mathrm { ~ x ~ } \\% \\ \\mathrm { M o }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            644,
+            696,
+            838,
+            712
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This increase in CPT of 10 C (18 F) above that for the average family, which differs only in Si content, is additive over the Mo range investigated and agrees qualitatively with the results found by Tomashov et $a l ^ { 4 }$ for austenitic stainless steels with increasing Si contents.",
+        "bbox": [
+            515,
+            732,
+            966,
+            811
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of Manganese",
+        "text_level": 2,
+        "bbox": [
+            515,
+            837,
+            677,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All of the steels discussed above (numbers 1 to 30) have contained Mn in the approximate range 1 to 2% (AISI specifies 2% Mn maximum for 304, 316, and 317L stainless steels). The results for a family of alloys with lower Mn (<0.5%) are plotted in Figure 6. In this case, a large and synergistic improvement in resistance relative to the average family has been found when low Mn is used in combination with increasing Mo and the behavior is described by",
+        "bbox": [
+            515,
+            853,
+            966,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "164",
+        "bbox": [
+            33,
+            958,
+            66,
+            972
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            798,
+            958,
+            965,
+            974
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/14c057c2b9c08da72dc124603f9c1f2a423b40f953372d85d6824f307ef13f9e.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 6 — Critical pitting temperature as a function of molybdenum content for a family of low (<0.5%) Mn stainless steels which exhibit superior pit initiation resistance. The numbers refer to alloys listed in Table 1."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            31,
+            22,
+            473,
+            338
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            31,
+            432,
+            477,
+            465
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/027c7b2e35dfcfa503e5e76568200c2df0f4b59a683f80293cc379a48c983916.jpg",
+        "text": "$$\n\\mathbf { C P T } \\left( \\mathbf { C } \\right) = \\bar { \\mathbf { 5 } } + 1 1 \\mathbf { x } \\mathrm { \\% } \\mathbf { M o }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            157,
+            478,
+            351,
+            493
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effect of Nickel",
+        "text_level": 2,
+        "bbox": [
+            31,
+            508,
+            157,
+            523
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The alloys in any one family investigated have varied in Ni content by as much as 11% (from 9 to 20%), but in all cases, the alloys have been wholly austenitic. Although Ni is an important additive for stabilizing the austenite phase, it has been found to have no measurable effect on resistance to pit initiation in alloys already completely austenitic. For example, alloy 6 (12.58% Ni) and alloy 7 (20.46% Ni), which differ substantially only in Ni content, have the same CPT values. The occurrence of second phase (α or σ) has been shown previously⁵ to limit the resistance of alloys of the type discussed here.",
+        "bbox": [
+            29,
+            523,
+            478,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Summary of Results",
+        "text_level": 2,
+        "bbox": [
+            160,
+            706,
+            343,
+            721
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using temperature as the pitting criterion, the pitting resistance of austenitic stainless steels containing 0 to 7.5% Mo has been quantitatively evaluated. As a result, the broad behavior trends of whole families of alloys can be described by simple empirical relationships as shown in Figures 3 to 6. In all cases, Mo additions have exerted the dominant beneficial effect which increases linearly with Mo content when the pitting resistance is stated in terms of the CPT parameter. The data in Figure 3 are representative of alloys manufactured by present practice, and in this case the monotonic relationship between % Mo and CPT has been confirmed over the whole Mo and temperature range of interest. These data demonstrate quantitatively the beneficial effect of Mo additions which is qualitatively well known.",
+        "bbox": [
+            29,
+            722,
+            478,
+            947
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The addition of Cu, Ni, N, or Si to the average family has not been observed to have any effect on the slope of the CPT vs % Mo curve, although the intercept may be changed. On the other hand, with low (<0.5%) Mn levels, the beneficial effect of Mo has been enhanced as demonstrated by the change in slope of the CPT vs % Mo curve in the direction of increased resistance at any Mo level. The beneficial effect of low Mn levels has been observed previously in the case of resulfurized steel,6 and the difference in behavior apparently results from the presence of different sulfide phases in equilibrium with alloys of different Mn content. Unfortunately, Mn concentrations in the range 0.5 to 2%, the range which includes most commercial alloys, result in steels with less than optimum pitting resistance.",
+        "bbox": [
+            515,
+            21,
+            968,
+            252
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            691,
+            281,
+            791,
+            296
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this presentation, the effects of many of the common supplementary alloying additions to austenitic stainless steel have been summarized. Using these data, accurate predictions of the pitting resistance of any steel should be possible, provided that the steel is wholly austenitic and falls within the composition ranges discussed here. As an example, the sixteen austenitic steels evaluated by Degerbeck7 can be assigned CPT values based on their compositions using the empirical relationships above. On the basis of these inferred CPT values, seven of the alloys had CPTs higher than the test temperature and should have been resistant to pitting in $1 0 \\% \\cdot \\mathrm { F e C l } _ { 3 }$ solution. In fact, Degerbeck, using the same criterion of discrete pits on the rolling surface as used here, found that five of these alloys were resistant to pit initiation in this solution. Of the remaining two, for which inferred CPT values do not correspond with the results obtained, at least one can be suspected on the basis of chemistry of containing some second phase, a condition which has been shown to limit the pitting resistance of alloys.⁵",
+        "bbox": [
+            513,
+            296,
+            967,
+            601
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the results obtained using the CPT parameter and results from other laboratory techniques and field tests deserve comment. First, it should be emphasized that the CPT parameter has been shown to correlate exactly with pitting potential results obtained by potentiodynamic anodic polarization curves when the latter are carried out over a sufficient temperature range and extrapolated to slow scan rates.² No inconsistencies have been observed in the results from these two laboratory tests. On the other hand, conclusive field test data on pit initiation conditions which are not partially obscured by the onset of crevice corrosion are not available with which to test CPT data. However, qualitative comparisons can be made. For example, Kügler et $a l , ^ { 8 }$ who exposed 18% Cr austenitic stainless steels (compositions similar to the average family shown in Figure 3) in sea water (chloride activity comparable to $1 0 \\% \\mathrm { F e C l } _ { 3 } )$ at Heligoland for three years, found that a steel containing 2.93% Mo was readily attacked while a similar alloy containing 3.29% Mo was unpitted although it suffered crevice corrosion. Assuming a maximum ambient temperature of 20 C (68 F), these go-no-go points are close to the CPT line in Figure 3. Certainly the data in Figure 3, obtained with 10% FeCl₃ exposures, would not be expected to underestimate the aggressiveness of sea water with respect to pit initiation. Alloy number 20 in Table 1 [CPT in the range 40 to 42.5 C (104 to 109 F)] has been unattacked after one year exposure in 10% FeCl3 solution in the laboratory at ambient temperatures as high as 35 C (95 F), and would not be expected to fail by pitting in sea water limited to the same temperature. However, crevice corrosion would continue to be a possible failure mechanism for this stainless steel at much lower temperatures and this form of localized corrosive attack is presently under investigation using techniques similar to those described here.",
+        "bbox": [
+            513,
+            600,
+            967,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 30, No. 5, May, 1974",
+        "bbox": [
+            31,
+            961,
+            228,
+            976
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "165",
+        "bbox": [
+            932,
+            962,
+            965,
+            975
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            27,
+            22,
+            478,
+            211
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            197,
+            224,
+            308,
+            239
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. The CPT parameter has been used to define quantitatively the pitting resistance of several families of austenitic stainless steels containing Mo and other supplementary alloying elements.",
+        "bbox": [
+            27,
+            240,
+            477,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Molybdenum additions in the. range 0 to 7.5% exert a dominant and progressive beneficial role in providing resistance to pit initiation in all of the steels studied but particularly in steels of lower (<0.5%) Mn content. Other alloying additions have no effect (Cu and Ni) or an additive beneficial effect (N and Si).",
+        "bbox": [
+            27,
+            300,
+            477,
+            391
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Correlations between CPT data and results from other laboratory tests and field exposures have been discussed in cases where crevice corrosion, a form of localized attack which is operative to temperatures lower than CPT, does not obscure observation of pit initiation.",
+        "bbox": [
+            27,
+            391,
+            478,
+            470
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments",
+        "text_level": 2,
+        "bbox": [
+            658,
+            25,
+            824,
+            40
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cooperation of the Physical Metallurgy Division, Department of Energy, Mines and Resources in making their facilities available to us and helpful discussions with Drs. G. J. Biefer (Head) and J. B. Gilmour (Research Scientist) of the Corrosion Section, Physical Metallurgy Division, are gratefully acknowledged.",
+        "bbox": [
+            513,
+            41,
+            965,
+            135
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            691,
+            182,
+            791,
+            197
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. R. J. Brigham. Pitting of Molybdenum Bearing Stainless Steel, Corrosion, 28, 177 (1972).",
+            "2. R. J. Brigham and E. W. Tozer. Temperature as a Pitting Criterion, Corrosion, 29, 33 (1973).",
+            "3. A. P. Bond and E. A. Lizlovs. Anodic Polarization of Austenitic Steels in Chloride Media, J. Electrochem. Soc., 115, 1130 (1968).",
+            "4. N. D. Tomashov, G. P. Chernova, and O. N. Marcova. Effect of Supplementary Alloying Elements on Pitting Corrosion Susceptibility of 18Cr-14Ni Stainless Steel, Corrosion, 20, 166t (1964).",
+            "5. R. J. Brigham and E. W. Tozer. Effect of Microstructure on Pitting of Stainless Steel, Canadian Met. Quarterly, 12, 171 (1973).",
+            "6. M. Henthorne. Corrosion of Resulphurized Free-Machining Stainless Steel, Corrosion, 26, 511 (1970).",
+            "7. J. Degerbeck. On Accelerated Pitting and Crevice Corrosion Tests, J. Electrochem. Soc., 120, 175 (1973)",
+            "8. Von A. Kügler, K. Bohnenkamp, G. Lennartz, and K. Schäfer. Einfluss des Molybdängehaltes nichtrostender austenitischer Stähle auf die Korrosionsbeständigkeit in Seewasser bei Naturversuchen auf Helgoland, Stahl u. Eisen, 92, 1026 (1972)."
+        ],
+        "bbox": [
+            519,
+            197,
+            963,
+            224
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "166",
+        "bbox": [
+            34,
+            963,
+            67,
+            976
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            800,
+            961,
+            967,
+            976
+        ],
+        "page_idx": 5
+    }
+]

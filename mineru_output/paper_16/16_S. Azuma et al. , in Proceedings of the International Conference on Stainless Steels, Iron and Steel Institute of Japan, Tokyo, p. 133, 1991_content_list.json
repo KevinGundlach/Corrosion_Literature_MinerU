@@ -1,0 +1,1349 @@
+[
+    {
+        "type": "text",
+        "text": "Thank you for using our service!",
+        "bbox": [
+            321,
+            194,
+            681,
+            217
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interlibrary Services The Ohio State University Libraries (614)292-9077 osuill@osu.edu",
+        "bbox": [
+            331,
+            232,
+            665,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article Express documents are delivered 24/7 directly to your ILLiad account from scanning libraries around the world. If there is a problem with a PDF you receive, please contact our office so we might report it to the scanning location for resolution.",
+        "bbox": [
+            150,
+            321,
+            844,
+            373
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NOTICEWARNING CONCERNING COPYRIGHT RESTRICTIONS",
+        "text_level": 2,
+        "bbox": [
+            240,
+            433,
+            758,
+            473
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material.",
+        "bbox": [
+            169,
+            486,
+            810,
+            541
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be “used for any purpose other than private study, scholarship, or research.\" If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of “fair use,\" that user may be liable for copyright infringement.",
+        "bbox": [
+            169,
+            556,
+            831,
+            681
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of the order would involve violation of copyright law.",
+        "bbox": [
+            169,
+            695,
+            851,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Article Express",
+        "bbox": [
+            400,
+            104,
+            612,
+            179
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "0",
+        "bbox": [
+            349,
+            791,
+            382,
+            824
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "THE OHIO STATE UNIVERSITY",
+        "bbox": [
+            387,
+            796,
+            627,
+            814
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LINDA HALL LIBRARY5109 CHERRY STREETKANSAS CITY, MISSOURI 64110-2498PHONE (816) 363-4600FAX: (816) 926-8785",
+        "bbox": [
+            90,
+            17,
+            405,
+            93
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SHIP TO:",
+        "text_level": 2,
+        "bbox": [
+            92,
+            104,
+            216,
+            128
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interlibrary Services Ohio State University Libraries 1858 Neil Avenue Mall Columbus, Ohio 43210 United States",
+        "bbox": [
+            90,
+            143,
+            403,
+            242
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OSU Patron:",
+        "bbox": [
+            87,
+            271,
+            147,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Odyssey: 206.107.43.112 Phone: Ariel: E: osuill@osu.edu",
+        "bbox": [
+            90,
+            317,
+            312,
+            372
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Regular",
+        "text_level": 2,
+        "bbox": [
+            97,
+            403,
+            211,
+            429
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FedEx 3Day",
+        "bbox": [
+            97,
+            437,
+            211,
+            457
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CCL",
+        "bbox": [
+            94,
+            487,
+            142,
+            506
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Max Cost: 65.00IFM",
+        "bbox": [
+            97,
+            519,
+            290,
+            539
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notes: Borrowing Notes: SHARES Member; \\*\\*Please scan image pages in color or grayscale\\*\\*",
+        "bbox": [
+            92,
+            552,
+            436,
+            606
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6bc6f91e226db90ca61bf75c43a26670fcdb7618a24a0cb5a6a7c552ed41f03.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            695,
+            15,
+            887,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3/22/18DocServ #: 797347",
+        "bbox": [
+            603,
+            53,
+            889,
+            74
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15:54",
+        "text_level": 2,
+        "bbox": [
+            484,
+            74,
+            552,
+            96
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shelved as: csa materials (TA479 .S7S76 1991",
+        "bbox": [
+            482,
+            91,
+            872,
+            140
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Location:",
+        "bbox": [
+            482,
+            145,
+            573,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Title: Stainless steels '91 : International Conference on Stainless Steels, June 10-13, 1991, Nippon Convention Center, Chiba, Japan : proceedings.",
+        "bbox": [
+            482,
+            177,
+            885,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Volume:",
+        "text_level": 2,
+        "bbox": [
+            482,
+            258,
+            563,
+            279
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Issue:",
+        "bbox": [
+            482,
+            292,
+            539,
+            311
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Date: 1991",
+        "bbox": [
+            484,
+            324,
+            591,
+            344
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "S. Azuma et al.",
+        "bbox": [
+            484,
+            356,
+            613,
+            378
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Article/Paper:   \nPages: 133-/38   \nTokyo, Japan : Iron and Steel Institute of Japan,   \n1991",
+        "bbox": [
+            482,
+            391,
+            878,
+            475
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OCLC #: 35495514 ISSN:",
+        "bbox": [
+            484,
+            487,
+            657,
+            524
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lender string: \\*LHL,CAI",
+        "bbox": [
+            484,
+            569,
+            715,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IL:186698988",
+        "bbox": [
+            484,
+            602,
+            615,
+            623
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/68215566321c65d47cb8c93aff966e39f5df8bb52f67ed773184845a1ccf7fa7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            485,
+            627,
+            747,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OCLC",
+        "text_level": 2,
+        "bbox": [
+            423,
+            722,
+            556,
+            758
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/968821dae6864fb7d146d368230835ab180c1743c1ce37399c4d3fd89d23cf3d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            766,
+            782,
+            887,
+            871
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            221,
+            72,
+            764,
+            90
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CORROSION RESISTANCE OF 28%CR DUPLEX STAINLESS STEEL TUBE",
+        "text_level": 1,
+        "bbox": [
+            236,
+            170,
+            741,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XN HOT SEAWATER APPLICATIONS",
+        "bbox": [
+            352,
+            208,
+            615,
+            225
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Shigeki Azuma\\*, Kazuhiro Ogawa\\*, Hideaki Miyuki\\*, Takeo Kudo\" and Michio Nishi\\*\\*",
+        "bbox": [
+            278,
+            247,
+            712,
+            277
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sumitomo Metal Industries, Ltd. \\* Iron & Steel Research Laboratories, Amagasaki, Japan \\*\\* Specialty Tubing Technology Section, Head Office, Tokyo, Japan",
+        "bbox": [
+            208,
+            285,
+            786,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Synopsis: A new duplex stainless steel containing $2 8 \\% \\approx 2 . 7 2 3 . 8 \\% = 2 . 7 2 \\times 2 = 1 . 7 2 3$ was developed. The tube of the duplex stainless steel was manufactured by a powder metallurgical process which was introduced to avoid the sigma-emblittlement of the billet. The developed steel was superior to a conventional 25%Cr duplex stainless steel and equalto super-ferritic or super-austenitic stainless steels on the resistance to pitting and crevice corrosion in hot seawater environments. Further, the corrosion resistance of the weldment was investigated and the effect of the welding procedure was clarified. Consequently, the developed steel was considered to be suitable for hot seawater applications such as heat exchanger tube.",
+        "bbox": [
+            92,
+            384,
+            900,
+            488
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/668f73c1f8fa208f51ebbcf9ead06eff079e68431fd425ecc45c8472a260ee69.jpg",
+        "text": "$$\n1 6 4 e ^ { 5 } + A F \\cdot G\n$$",
+        "text_format": "latex",
+        "bbox": [
+            507,
+            486,
+            692,
+            500
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words: duplex stainless steel, super-stainless steel, powder metallurgy, pitting corrosion, crevice corrosion, seawater, heat exchanger tube",
+        "bbox": [
+            92,
+            498,
+            900,
+            525
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction",
+        "text_level": 2,
+        "bbox": [
+            94,
+            548,
+            233,
+            562
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ferritic-austenitic duplex stainless steels(SSs) have been used as the tubular products in chemical industries, for example, heat exchanger tubes and various pipings [1]- [3]. They are superior to ferritic SSs in toughness and weldability, and to austenitic SSs in stress corrosion cracking resistance. Duplex SSs have another advantage over austenitic SSs in cost saving, because they need less Ni content than austenitic SSs when their contents of Cr and Mo are increased for improving the corrosion resistance. For this reason, duplex SSs of high Cr and Mo contents have been applied to severely corrosive environments as a substitute for expensive austenitic SSs.",
+        "bbox": [
+            90,
+            573,
+            900,
+            676
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recently, ferritic and austenitic SSs which are called 'super-SSs' have been developed for the application in the highly corrosive environments containing chloride ion such as seawater [4]-[8]. They contain more Cr, Mo (and N for super-austenitic SSs) as alloying elements than conventional SSs to improve the corrosion resistance. On the other hand the commercial duplex SSs, in general, contain less Cr and Mo than the super-SSs, and do not always have enough corrosion resistance on the hot seawater application [3]. It is thought to be worthwhile to develop a super-duplex SS which contains high Cr and Mo and has the corrosion resistance equal to super-ferritic and austenitic SSs[9]. As for duplex SSs, however, the increase in the Cr and Mo contents for improving the corrosion resistance accelerates the sigma phase precipitation to bring the embrittlement of the billet on tube making process. This is the reason why the super-duplex SS has been difficult to manufacture by the conventional process.",
+        "bbox": [
+            90,
+            686,
+            902,
+            838
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this report a new duplex SS containing 28%Cr and 3.8%Mo is introduced which has been developed by applying a powder metallurgical method by which the sigma-embrittlement of the billet can be avoided.The corrosion resistance of the developed steel including its weldment is also presented on the application in hot seawater environment.",
+        "bbox": [
+            90,
+            847,
+            902,
+            901
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            0,
+            2,
+            42,
+            988
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "133",
+        "bbox": [
+            477,
+            952,
+            507,
+            964
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Development of 28%Cr duplex stainless steel",
+        "bbox": [
+            94,
+            99,
+            505,
+            115
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2-1. Background",
+        "text_level": 2,
+        "bbox": [
+            94,
+            124,
+            235,
+            139
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The addition of Cr and Mo is necessary to improve the resistance to the localized corrosion by chloride attack. When a index, which is called pitting index(P. I.) and calculated by (%Cr) + 3(%Mo) + 10(%N), is introduced to estimate the resistance to pitting corrosion of SSs, some typical super-SSs proves to have the P. I. value over 40 [5],[10]. On the other hand the conventional duplex SS containing 25%Cr and 3%Mo only have the P. I. value around 36. Therefore a super-duplex SS with the corrosion resistance equal to superferritic and austenitic SSs is necessary to contain much higher contents of Cr and Mo. However the duplex SS tube of higher Cr and Mo contents cannot be easily manufactured by the usual process because the sigma-emblittlement of the billet becomes a serious problem.",
+        "bbox": [
+            92,
+            149,
+            904,
+            275
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To avoid the sigma-emblittlement problem a powder metallurgical(P/M) technique was introduced to the tube manufacturing process. In the P/M process the billet consists of the powder which is packed in a steel capsule and consequently no sigma-emblittlement occurs.",
+        "bbox": [
+            94,
+            274,
+            504,
+            351
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2-2. Alloy design",
+        "text_level": 2,
+        "bbox": [
+            94,
+            361,
+            253,
+            375
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The optimum chemical composition of the super-duplex SS of high Cr and Mo contents was investigated. At first the basic composition of 27.5%Cr and 3.8%Mo was selected from the viewpoint of necessary corrosion resistance mentioned above, namely P. I. value higher than 40, and the balance in Cr and Mo contents. The weldment performance was investigated on the 27.5%Cr-3.8%Mo alloys containing various amounts of Ni and N shown in Table 1 to clarify the optimum contents of those elements.",
+        "bbox": [
+            92,
+            398,
+            502,
+            551
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The weldment performance was investigated on the toughness and the pitting resistance at their heat affected zone(HAZ). The welded joints were produced employing multipass gas tungsten arc welding(GTAW) with the welding conditions shown in Fig. 1. The toughness was evaluated by the Charpy impact test at 273K(0°C) using a specimen with a V notch at the position 2mm distant from the fusion line where the absorbed energy was most decreased.  The pitting corrosion resistance was evaluated by the pitting potential(Vc') of the simulated HAZ specimen which was affected by the thermal cycle with the peak temperature of 1648K(1375°C) shown in Fig. 2.The pitting potential was measured by the potential sweep method at the rate of 20mV/min in synthetic seawater.at 353K(80°C)",
+        "bbox": [
+            90,
+            560,
+            504,
+            789
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 shows the effect of the Ni and N contents on the Charpy impact values of the weldment. The N content was found to make little influence on the toughness. The Ni content, on the other hand, remarkably affected the toughness. The impact value showed the maximum value at about 7% Ni. The mechanism of the toughness deterioration at the HAZ was clarified by transmission electron microscopic(TEM) observation [11l. It was caused by the Cr carbo-nitride precipitation in the lower Ni region and by the sigma phase precipitation in the higher Ni one. Fig. 4 shows the effect of N content on the pitting potential of the simulated HAZ of alloys containing 6 to 8%Ni. The pitting potential reached 0.6V with the 0.3%N addition. It was confirmed that the addition of N was beneficial to improve the pitting corrosion resistance as has been reported in references [12],[13].",
+        "bbox": [
+            92,
+            797,
+            504,
+            913
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a70464f215659487770171ba2ef2efd293fbaed05945a5c8efb38e76e854e298.jpg",
+        "table_caption": [
+            "Table 1 Chemical compositions of materials used for alloy design"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>Si</td><td rowspan=1 colspan=1>Mn</td><td rowspan=1 colspan=1>Ni</td><td rowspan=1 colspan=1>Cr</td><td rowspan=1 colspan=1>Mo</td><td rowspan=1 colspan=1>N</td></tr><tr><td rowspan=1 colspan=1>0.0030.013</td><td rowspan=1 colspan=1>0.40.7</td><td rowspan=1 colspan=1>1.41.6</td><td rowspan=1 colspan=1>2.89.9</td><td rowspan=1 colspan=1>2728</td><td rowspan=1 colspan=1>3.74.0</td><td rowspan=1 colspan=1>0.140.36</td></tr></table>",
+        "bbox": [
+            532,
+            317,
+            867,
+            378
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc47d680a0193a603a80b2f4dca389b2232f46c66770f4cd3a272c9214176db3.jpg",
+        "image_caption": [
+            "Fig.1 Welded joint for evaluation of HAZ emblittlement"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            517,
+            386,
+            885,
+            450
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b0c9e45fffab4cab70eea3a17b4232fd0e836a287ac0eaf6d6ea7f371839c2fe.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.2 Thermal cycle applied to simulated HAZ specimen"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            573,
+            491,
+            862,
+            651
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/be40732eb106642f29bbdafb9b0cd03e3f80df9c96fed5baa529e2d866220e69.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.3 Effect of Ni and N content on HAZ toughness at 273K"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            522,
+            682,
+            870,
+            881
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            225,
+            74,
+            769,
+            90
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "134",
+        "bbox": [
+            482,
+            952,
+            510,
+            965
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            0,
+            980,
+            221,
+            991
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/94082058f032828a88d02004f796778935fba5d5f7f48a955e9637a7eba8d90b.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.4 Effect of N content on pitting potential of simulated HAZ specimen in synthetic seawater at 353K"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            134,
+            109,
+            433,
+            305
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c04cffb890312806d92809e3c3cab9bc9fda136b7d440dc2e303826a845255b2.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.5 Optimum Ni and N content range determined by HAZ performance"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            514,
+            110,
+            852,
+            300
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            373,
+            900,
+            451
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effect of Ni and N contents on the HAZ performance is summarized in Fig. 5. From the viewpoint of the HAZ performance the optimum contents of Ni and N were found to be 7% and 0.3%, respectively. Consequently, The principal composition of the super-duplex SS was decided to be 27.5%Cr-7%Ni-3.8%Mo-0.3%N.",
+        "bbox": [
+            92,
+            461,
+            902,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2-3. Tube manufacturing",
+        "text_level": 2,
+        "bbox": [
+            94,
+            523,
+            305,
+            538
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The seamless tube of the 28%Cr duplex SS with the optimum chemical composition was manufactured through the P/M process shown in Fig. 6 [14]. The duplex SS powder was atomized by nitrogen gas and packed into a mild steel capsule. The powder billet was processed by cold isostatic pressing(CIP) and hot extruded to the tube. The tube was acid pickled in order to remove the capsule and then heat treated at 1373K(1100°C) followed by water quenching.",
+        "bbox": [
+            90,
+            548,
+            902,
+            625
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Corrosion resistance of developed steel",
+        "text_level": 2,
+        "bbox": [
+            94,
+            648,
+            467,
+            663
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3-1. Corrosion resistance of base metal",
+        "text_level": 2,
+        "bbox": [
+            94,
+            673,
+            442,
+            688
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The materials used are shown in Table 2. The 28%Cr duplex SS was the seamless tube mentioned above. The other materials were conventional 25%Cr duplex SS(25Cr, JIS SUS329J2L, UNS S31250), super-ferritic SS(2942, UNS S44800) and super-austenitic SS(254, UNS S31254). The 28%Cr duplex SS and the two super-SSs have nearly the same P. I. value higher than 40. The pitting potential of the materials was measured in synthetic seawater at various temperature by the potential sweep method at the rate of 20 mV/min. The crevice corrosion potential was measured using the specimen with metal/metal crevice in the same manner as the pitting potential measurement. Immersion test was carried out in natural seawater at 308K(35°C) for 6 months using a multiple crevice type specimen according to ASTM G78.",
+        "bbox": [
+            85,
+            699,
+            482,
+            914
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/272677bde24f977e12f5ad540e305fcd67fa34162ab2512c0e6748419ad74a0b.jpg",
+        "table_caption": [
+            "Fig.6 P/M process for tube manufacturing"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Inert gas atomization</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Packing in capsule</td></tr><tr><td rowspan=1 colspan=1>Cold isostatic pressing</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Hot extrusion</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Capsule removing by pickling</td></tr></table>",
+        "bbox": [
+            561,
+            621,
+            816,
+            740
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/87c62a1f55c935bdea047f70b19af97c763679c807bcbc33b4e5a9c0c309d80e.jpg",
+        "table_caption": [
+            "Table 2 Principal compositions of materials tested"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Steels</td><td rowspan=1 colspan=1>Cr</td><td rowspan=1 colspan=1>Ni</td><td rowspan=1 colspan=1>Mo</td><td rowspan=1 colspan=1>N</td><td rowspan=1 colspan=1>P.I.</td></tr><tr><td rowspan=1 colspan=1>28Cr</td><td rowspan=1 colspan=1>27.3</td><td rowspan=1 colspan=1>7.3</td><td rowspan=1 colspan=1>3.8</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>41.7</td></tr><tr><td rowspan=1 colspan=1>2942</td><td rowspan=1 colspan=1>28.4</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>4.2</td><td rowspan=1 colspan=1>一</td><td rowspan=1 colspan=1>41.0</td></tr><tr><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=1>19.8</td><td rowspan=1 colspan=1>18.6</td><td rowspan=1 colspan=1>6.4</td><td rowspan=1 colspan=1>0.20</td><td rowspan=1 colspan=1>41.0</td></tr><tr><td rowspan=1 colspan=1>329J2L</td><td rowspan=1 colspan=1>25.2</td><td rowspan=1 colspan=1>7.1</td><td rowspan=1 colspan=1>3.0</td><td rowspan=1 colspan=1>0.14</td><td rowspan=1 colspan=1>35.6</td></tr></table>",
+        "bbox": [
+            541,
+            809,
+            836,
+            908
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            0,
+            1,
+            38,
+            986
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            221,
+            74,
+            764,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "135",
+        "bbox": [
+            480,
+            952,
+            510,
+            964
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            98,
+            472,
+            139
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of temperature on the pitting potential was clarified as shown in Fig. 7. The 28%Cr duplex SS marked much higher pitting potential than the conventional 25%Cr duplex SS as is expected from the difference in their P. I. values. The pitting resistance of the 28%Cr duplex was equal to that of the super-austenitic super SS and superior to the super-ferritic SS as can be seen in the pitting potential at 373K(100°C).",
+        "bbox": [
+            82,
+            148,
+            472,
+            288
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Crevice corrosion is more important problem than pitting corrosion for SSs because the former occurs more frequently than the latter in chloride containing environments such as seawater. The crevice corrosion potential of the all materials became less noble than the pitting potential at the same temperature.as shown in Fig. 8. The results obtained at 353K(80°C) gave the following rank on the crevice corrosion resistance: 25%Cr duplex SS < super-austenitic SS(254) < 28%Cr duplex SS < super-ferritic SS(2942) which indicates that the ferritic SS is more resistant to crevice corrosion than the austenitic one even with the same P. I. value in contrast to the .pitting corrosion resistance shown in Fig. 8 [5], [15]. Fig. 9 shows the effect of temperature and chloride concentration on the crevice corrosion behavior of the alloys by the constant potential test at 0.4V in NaCl solutions for 48h. The difference in the critical chloride concentration among the alloys was consistent with the rank obtained from the crevice corrosion potential in Fig. 8. The 28%Cr duplex SS and the super-ferritic SS were the most resistant to crevice corrosion. The 28%Cr duplex SS showed a good corrosion resistance in the immersion test for 6 months in the actual seawater; it suffered no crevice corrosion.",
+        "bbox": [
+            82,
+            297,
+            473,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3-2. Corrosion resistance of weldment",
+        "text_level": 2,
+        "bbox": [
+            84,
+            709,
+            418,
+            724
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The corrosion resistance of the weldment is important for duplex SSs. It has been reported that the corrosion resistance of duplex SSs is deteriorated by the microstructure change and the precipitation of carbo-nitride and intermetallic compound at the weldment [11],[12],[16]. Fig. 10 shows the ferrite content and the pitting potential of the 25%Cr and the 28%Cr duplex SSs after heat treatment for 10s at various temperature. The ferrite content of the 25%Cr duplex SS increased with increasing temperature to reach about 80% after 1623K(1350°C) heating. The ferrite content of the 28%Cr duplex SS did not change so much; it was still only 65% after 1623K(1350°C) heating. That is attributed to the rapid austenite phase formation during the cooling on the 28%Cr duplex SS which contains high N of 0.3%. Nitrogen atom is the potential element for stabilizing the austenitic phase and diffuses more rapidly than the metal element atoms such as Ni, Cr and Mo. Although the pitting potentials of the both duplex SSs were decreased in the same manner, the 28%Cr duplex SS after 1623K(1350°C) heating was still more resistant to pitting corrosion than the 25%Cr duplex SS's base metal.",
+        "bbox": [
+            82,
+            734,
+            473,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/8c26ab875e7aa8b7938b97911ea4f1c7a8b6e2f34fc119315b373591c23490e4.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.7 Effect of temperature on pitting potential in synthetic seawater"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            527,
+            109,
+            850,
+            326
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/f6ba9e6ba4649442397799fd5e0b5f6fad5040445cbb5483c1b3b97d9cc57260.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.8 Effect of temperature on crevice corrosion potential in synthetic seawater"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            509,
+            374,
+            847,
+            592
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9920a0e6ee4d974a53b3f0f6264bd57fc301cf9a97bcfe110e1684a3d72342cb.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.9 Effect of temperature and chloride concentration on crevice corrosion resistance at 0.4V for 48h"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            519,
+            656,
+            843,
+            864
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            213,
+            73,
+            757,
+            89
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            0,
+            938,
+            272,
+            992
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "136",
+        "bbox": [
+            472,
+            950,
+            502,
+            963
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            101,
+            462,
+            317
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The corrosion resistance of the welded joint was investigated to clarify the effect of the welding procedure. Firstly, the girth welding was performed by GTAW with the heat input of 6 to 13.5kJ/cm using the similar filler metal to the 28%Cr duplex SS. The results are shown in Fig. 11 where the pitting potential is plotted against the heat input. The pitting potential decreased with increasing heat input. However even when the heat input was 12kJ/cm, the pitting potential was about 0.5V vs SCE and still higher than that of the 25%Cr duplex SS's base metal.",
+        "bbox": [
+            94,
+            324,
+            462,
+            516
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next, the corrosion resistance of the tube-to-tube sheet weldment was investigated to evaluate the corrosion resistance of the seal weldment to be employed on the construction of a tubular heat exchanger. It is necessary before the testing to select a tube sheet material matching with the 28%Cr duplex SS tube. The corrosion of the tube sheet is in general thought to be less serious than the tube itself because the tube sheet is exposed to the lower temperature environment and the cathodic protection is more effeetively applied. For that reason the 25%Cr duplex SS plate was employed as the tube sheet material applicable to the 28%Cr duplex SS tube in this work. The edge preparation for welding was shown in Fig. 12. The welding was performed by GTAW with the heat input of 5.8kJ/cm using the 28%Cr or the 25%Cr duplex SS filler metal. The pitting potential was measured and the P. I. value of the weld metal was calculated based on the dilution of the weld metal by the tube and the tube sheet materials. Fig. 13 shows the correlation between the pitting potential and the calculated P. I. value. It was found that the pitting potential depended on the calculated",
+        "bbox": [
+            94,
+            524,
+            465,
+            915
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ac9f08c0f6d29cf358a8e23ab7e369b263e084cc1235f9adf28f9b1e2b25105e.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.10 Effect of heating temperature on ferrite content and pitting potential of duplex SSs"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            504,
+            110,
+            857,
+            376
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/89aeeab0bae26a67545c5651de526361738896f5e1d8d24846a60494a649c560.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.11 Effect of welding condition on pitting potential of girth weldment"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            524,
+            444,
+            840,
+            627
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fda3864de3da7757c687b17cb8011580858e079e3ef94a25f14ca13cb1e9be58.jpg",
+        "image_caption": [
+            "Fig.12 Edge preparation for tube-to-tube sheet welding"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            509,
+            741,
+            875,
+            829
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            0,
+            3,
+            47,
+            990
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            223,
+            76,
+            768,
+            91
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "137",
+        "bbox": [
+            485,
+            952,
+            512,
+            965
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P. I. value. The pitting corrosion resistance of the seal weldment of the 28%Cr duplex SS tube to the 25%Cr duplex SS tube sheet was superior to the 25%Cr duplex $\\mathrm { S S ^ { \\prime } s }$ base metal. Consequently, the superiority of the corrosion resistance of the 28%Cr duplex SS is considered to be maintained even at the seal weldment in which the conventional 25%Cr duplex SS is employed as the tube sheet material.",
+        "bbox": [
+            92,
+            98,
+            462,
+            237
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions",
+        "text_level": 2,
+        "bbox": [
+            94,
+            298,
+            226,
+            311
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "chart",
+        "img_path": "images/d65066d06b50fe08be0e3eea6d6be554c25d3ba43c7182f3a3ac73c78632a76f.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig.13 Pitting potential of tube-totube sheet weldment"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            509,
+            102,
+            828,
+            281
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1) A super-duplex stainless steel which was composed of 27.5%Cr-7%Ni-3.8%Mo-0.3%N was developed from the investigation of the weldment performance. The seamless tube of the alloy was successfully manufactured by the powder metallurgical process.",
+        "bbox": [
+            92,
+            322,
+            902,
+            363
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2) The corrosion resistance of the 28%Cr duplex SS in hot seawater environments was superior to the conventional 25%Cr duplex SS and almost equal to those of super-ferritic and super-austenitic stainless steels.",
+        "bbox": [
+            92,
+            372,
+            902,
+            412
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3) The 25%Cr duplex SS was found to be applicable as the tube sheet material matching with the 28%Cr duplex SS tube from the viewpoint of the pitting corrosion resistance of the seal weldment.",
+        "bbox": [
+            92,
+            422,
+            900,
+            462
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4) The developed alloy was concluded to be suitable for the application in the highly corrosive environments such as hot seawater.",
+        "bbox": [
+            92,
+            470,
+            904,
+            499
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. References",
+        "text_level": 2,
+        "bbox": [
+            94,
+            521,
+            216,
+            536
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1) R. R. Irving: IRON AGE, Dec.(1983), 68.",
+            "2) R. M. Davison and J. D. Redmond: Mater. Perform., Jan.(1990), 57.",
+            "3) H. Egashira, T. kudo and H. Miyuki: 3rd Asian-Pacific Corr. Cont. Conf., Taipei, 1983.",
+            "4) I. A. Franson and M. J. Johnson: CORROSION/89, New Orleans, 1989, No. 296.",
+            "5) H. Miyuki, K. Ohta and N. Yano: EVALMAT'89, Kobe, 1989, A1-2, to be published.",
+            "6) A. P. Bond: CORROSION/85, Boston, 1985, No. 206.",
+            ".7) T. S. Lee and R. M. Kain: CORROSION/83, Anaheim, 1983, No. 69.",
+            "8) A. Garner: CORROSION/80, Chicago, 1980, No. 35.",
+            "9) J. Charles, J. P. Audouard, F. Dopoison, J. M. Lardon, P. Soulignac and D. Catelin: CORROSION/89, New Orleans, 1989, No. 110.",
+            "10) P. Dillon and Associates: Performance of Tubular Alloy Heat Exchangers in Seawater Service in the Chemical Process Industries, MTI, St. Louis, 1987, 26.",
+            "11) Y. Komizo, K. Ogawa and S. Azuma: Quarterly J. of Japan Weld. Soc., 8(1990), 242.",
+            "12) H. Tsuge, Y. Tarutani and T. Kudo: Corrosion, 44(i988), 305.",
+            "13) H. Miyuki, T. Kudo, M. Koso, M. Miura and T. Moroishi: ASM Metal Congress, St. Louis, 1982, 8201-005.",
+            "14) M. Nishiguchi, T. Kudo, T. Fukuda, Y. Ohashi and K. Asabe: Sumitomo Search, (1990), in printing.",
+            "15) J. R. Maurer and D. L. Vuillaume: International Colloquium, Choice of Materials for Condenser Tubes and Plates, Avinion, 1982.",
+            "16) M. Miura, M. Koso, T. Kudo and H. Tsuge: Quarterly J. of Japan Weld. Soc., 7(1989), 94."
+        ],
+        "bbox": [
+            104,
+            546,
+            478,
+            560
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Proceedings of International Conference on Stainless Steels, 1991, Chiba, ISIJ",
+        "bbox": [
+            221,
+            72,
+            766,
+            87
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "138",
+        "bbox": [
+            480,
+            948,
+            510,
+            961
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            0,
+            963,
+            307,
+            992
+        ],
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,5209 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9476,
+                "bbox": [
+                    118,
+                    124,
+                    204,
+                    207
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9091,
+                "bbox": [
+                    213,
+                    154,
+                    342,
+                    186
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9597,
+                "bbox": [
+                    634,
+                    133,
+                    1114,
+                    226
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5463,
+                "bbox": [
+                    484,
+                    264,
+                    740,
+                    295
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9706,
+                "bbox": [
+                    177,
+                    369,
+                    1046,
+                    442
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9359,
+                "bbox": [
+                    164,
+                    476,
+                    1056,
+                    509
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711,
+                "bbox": [
+                    140,
+                    535,
+                    1083,
+                    623
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5507,
+                "bbox": [
+                    113,
+                    753,
+                    257,
+                    781
+                ],
+                "index": 8,
+                "latex": "( 0 . 5 \\mathrm { M } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } )"
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9882,
+                "bbox": [
+                    107,
+                    667,
+                    1115,
+                    1010
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.942,
+                "bbox": [
+                    490,
+                    1055,
+                    732,
+                    1087
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    104,
+                    1106,
+                    1116,
+                    1547
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9419,
+                "bbox": [
+                    416,
+                    1604,
+                    804,
+                    1636
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9018,
+                "bbox": [
+                    588,
+                    1844,
+                    637,
+                    1869
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9611,
+                "bbox": [
+                    106,
+                    1652,
+                    1115,
+                    1711
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8351,
+                "bbox": [
+                    107,
+                    1738,
+                    1113,
+                    1794
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.6887,
+                "bbox": [
+                    140,
+                    1794,
+                    480,
+                    1822
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    122,
+                    197,
+                    207
+                ],
+                "score": 0.749,
+                "text": "O"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    156,
+                    339,
+                    188
+                ],
+                "score": 1.0,
+                "text": "Pergamon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    635,
+                    135,
+                    1110,
+                    156
+                ],
+                "score": 0.992,
+                "text": "Corrosion Science, Vol. 36, No. 11, pp. 1825–1834, 1994"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    777,
+                    159,
+                    1110,
+                    178
+                ],
+                "score": 0.989,
+                "text": "Copyright © 1994 Elsevier Science Ltd"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    741,
+                    184,
+                    1110,
+                    201
+                ],
+                "score": 0.99,
+                "text": "Printed in Great Britain. All rights reserved"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    206,
+                    1109,
+                    223
+                ],
+                "score": 0.955,
+                "text": "0010-938X/94 $7.00+0.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    489,
+                    269,
+                    734,
+                    294
+                ],
+                "score": 0.989,
+                "text": "0010-938X(94)00095-6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    375,
+                    1044,
+                    411
+                ],
+                "score": 0.99,
+                "text": "THE ROLE OF NITROGEN IN THE PASSIVITY OF"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    328,
+                    411,
+                    895,
+                    443
+                ],
+                "score": 0.993,
+                "text": "AUSTENITIC STAINLESS STEELS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    478,
+                    1054,
+                    510
+                ],
+                "score": 0.966,
+                "text": "A. SADOUGH VANINI*†, J.-P. AUDOUARD‡ and P. MARCUS*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    538,
+                    1079,
+                    564
+                ],
+                "score": 0.994,
+                "text": "*Laboratoire de Physico-Chimie des Surfaces, CNRS (URA 425), Ecole Nationale Supérieure de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    566,
+                    1030,
+                    592
+                ],
+                "score": 1.0,
+                "text": "Chimie de Paris, Université Paris VI, 11 rue Pierre et Marie Curie, 75005 Paris, France"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    350,
+                    595,
+                    872,
+                    620
+                ],
+                "score": 0.99,
+                "text": "‡IRSID-Unieux, BP 50, 42702 Firminy Cedex, France"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    670,
+                    1111,
+                    694
+                ],
+                "score": 0.983,
+                "text": "Abstract—Three austenitic stainless steels (a Fe-17Cr-13Ni-0.15N alloy, an ultra pure Fe-18Cr-10Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    699,
+                    1111,
+                    723
+                ],
+                "score": 0.99,
+                "text": "alloy and a type 304 stainless steel) were used in this study in order to investigate the effect of nitrogen on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    727,
+                    1111,
+                    752
+                ],
+                "score": 0.999,
+                "text": "the electrochemical behaviour and on the nature of the passive film formed on the steels in acidic solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    258,
+                    757,
+                    1111,
+                    780
+                ],
+                "score": 0.996,
+                "text": ". The presence of nitrogen in the alloy does not apparently have a significant influence on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    783,
+                    1110,
+                    809
+                ],
+                "score": 0.999,
+                "text": "the response of the material to anodic polarization in the acid electrolyte. Surface analysis of the alloys by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    811,
+                    1111,
+                    837
+                ],
+                "score": 0.982,
+                "text": "XPS after passivation shows that nitrogen is enriched at the surface by anodic segregation during"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    840,
+                    1111,
+                    864
+                ],
+                "score": 0.992,
+                "text": "dissolution and passivation of the nitrogen-bearing alloys. After passivation of the alloys three chemical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    867,
+                    1110,
+                    893
+                ],
+                "score": 0.991,
+                "text": "states of nitrogen are detected in the N 1s spectrum. The peak at low binding energy (397.7 ± 0.1 eV)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    896,
+                    1111,
+                    920
+                ],
+                "score": 0.997,
+                "text": "corresponds to nitrogen bonded essentially to chromium under the form of a nitride which is incorporated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    924,
+                    1110,
+                    948
+                ],
+                "score": 0.983,
+                "text": "in the passive film. The N 1s peaks observed at higher binding energies (400.2 ± 0.1 and 402 ± 0.1 cV)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    953,
+                    1110,
+                    977
+                ],
+                "score": 0.993,
+                "text": "correspond to nitrogen species located on the surface of the passivated alloys, which are produced by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    982,
+                    551,
+                    1001
+                ],
+                "score": 0.99,
+                "text": "reaction of the alloy surface with the solution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    492,
+                    1062,
+                    729,
+                    1094
+                ],
+                "score": 0.999,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1109,
+                    1109,
+                    1137
+                ],
+                "score": 0.994,
+                "text": "In the presence of both nitrogen and molybdenum, significant improvements in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1143,
+                    1109,
+                    1172
+                ],
+                "score": 0.998,
+                "text": "resistance of stainless steels to general and localized corrosion have been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1173,
+                    1113,
+                    1206
+                ],
+                "score": 0.993,
+                "text": "reported.1-5 However, it remains unclear if nitrogen alone (i.e. in the absence of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1212,
+                    1109,
+                    1237
+                ],
+                "score": 0.999,
+                "text": "molybdenum) is capable of improving the corrosion resistance. It has been shown in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1245,
+                    1109,
+                    1272
+                ],
+                "score": 0.989,
+                "text": "a recent study that nitrogen implanted into a type 304 stainless steel does not improve"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1278,
+                    1109,
+                    1305
+                ],
+                "score": 0.991,
+                "text": "the dissolution and passivation behaviour in acid solution.º Nitrogen can be added to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1308,
+                    1112,
+                    1341
+                ],
+                "score": 0.997,
+                "text": "stainless steels in order to stabilize the austenite phase and thus it is important to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1346,
+                    1109,
+                    1373
+                ],
+                "score": 0.996,
+                "text": "elucidate the role of this element in the passivity of the alloy. The aim of this work"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1377,
+                    1109,
+                    1409
+                ],
+                "score": 0.997,
+                "text": "was to investigate, by electrochemical and surface analytical measurements, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1412,
+                    1110,
+                    1440
+                ],
+                "score": 0.992,
+                "text": "effect of nitrogen on the dissolution and passivation of austenitic stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1446,
+                    1110,
+                    1475
+                ],
+                "score": 0.994,
+                "text": "without molybdenum. In order to clearly identify the effect of nitrogen, two"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1480,
+                    1108,
+                    1507
+                ],
+                "score": 0.995,
+                "text": "synthetic alloys were studied, one without and the other with nitrogen. A type 304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1512,
+                    675,
+                    1541
+                ],
+                "score": 0.994,
+                "text": "stainless steel was also studied for comparison."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    421,
+                    1611,
+                    798,
+                    1639
+                ],
+                "score": 0.98,
+                "text": "EXPERIMENTAL METHOD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    588,
+                    1845,
+                    637,
+                    1874
+                ],
+                "score": 1.0,
+                "text": "1825"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1653,
+                    1111,
+                    1680
+                ],
+                "score": 0.983,
+                "text": "The Fe-17Cr-13Ni–0.15N alloy used in this work was provided by IRSID Unieux (France). As"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1681,
+                    1107,
+                    1708
+                ],
+                "score": 0.984,
+                "text": "reference materials we used an ultra pure Fe-18Cr-10Ni alloy with less than 10 ppm of nitrogen in the bulk"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1739,
+                    1110,
+                    1767
+                ],
+                "score": 0.995,
+                "text": "†Permanent address: Mechanical Enginecring Department, Amirkabir University of Technology,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1770,
+                    475,
+                    1790
+                ],
+                "score": 0.988,
+                "text": "Hafez Avenue No. 424, Tehran, Iran."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1797,
+                    478,
+                    1820
+                ],
+                "score": 0.999,
+                "text": "Manuscript received 12 June 1994."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9123,
+                "bbox": [
+                    109,
+                    121,
+                    161,
+                    148
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9476,
+                "bbox": [
+                    358,
+                    121,
+                    861,
+                    151
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9484,
+                "bbox": [
+                    348,
+                    183,
+                    870,
+                    214
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9829,
+                "bbox": [
+                    107,
+                    218,
+                    1108,
+                    447
+                ],
+                "index": 4,
+                "html": "<table><tr><td></td><td>Fe</td><td>Cr</td><td>Ni</td><td>N</td><td>Mo</td><td>Mn</td><td>Si</td><td>Cu</td><td>B,C,Al,P,S</td></tr><tr><td>Fe-17Cr-13Ni-0.15N</td><td>69.8</td><td>17</td><td>13</td><td>0.157</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fe-18Cr-10Ni (ultra pure)</td><td>72</td><td>18</td><td>10</td><td>&lt;10 ppm</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Type 304 stainless steel</td><td>72.01</td><td>17.38</td><td>8.28</td><td>0.04</td><td>0.14</td><td>1.43</td><td>0.49</td><td>0.15</td><td>&lt;0.1</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    104,
+                    491,
+                    1112,
+                    579
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8025,
+                "bbox": [
+                    556,
+                    607,
+                    587,
+                    634
+                ],
+                "index": 6,
+                "latex": "\\mathbf { N } _ { 2 } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7555,
+                "bbox": [
+                    1035,
+                    577,
+                    1106,
+                    605
+                ],
+                "index": 7,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    102,
+                    577,
+                    1114,
+                    1141
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8544,
+                "bbox": [
+                    492,
+                    744,
+                    581,
+                    772
+                ],
+                "index": 9,
+                "latex": "1 \\mathrm { m } \\mathrm { V } \\mathrm { s } ^ { - 1 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8437,
+                "bbox": [
+                    648,
+                    970,
+                    1107,
+                    1001
+                ],
+                "index": 10,
+                "latex": "\\begin{array} { r } { 2 { \\bf p } _ { 3 / 2 } , \\mathrm { C r } 2 { \\bf p } _ { 3 / 2 } , \\mathrm { N i } 2 { \\bf p } _ { 3 / 2 } , \\mathrm { O } 1 { \\bf s } _ { 1 / 2 } , \\mathrm { N } 1 { \\bf s } _ { 1 / 2 } , \\mathrm { S } 2 { \\bf p } _ { 3 / 2 , 1 / 2 } } \\end{array}"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8683,
+                "bbox": [
+                    149,
+                    999,
+                    215,
+                    1027
+                ],
+                "index": 11,
+                "latex": "\\mathrm { C } 1 \\mathbf { s } _ { 1 / 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7496,
+                "bbox": [
+                    222,
+                    1055,
+                    386,
+                    1082
+                ],
+                "index": 12,
+                "latex": "( \\mathsf { h } \\nu = 1 4 8 6 . 6 \\mathsf { e V } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5579,
+                "bbox": [
+                    181,
+                    1110,
+                    341,
+                    1138
+                ],
+                "index": 13,
+                "latex": "( \\mathbf { B E } ) = 8 4 . 0 \\ : \\mathrm { e V } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.534,
+                "bbox": [
+                    418,
+                    1110,
+                    634,
+                    1139
+                ],
+                "index": 14,
+                "latex": "2 \\mathrm { p } _ { 3 / 2 } \\left( \\mathrm { B E } = 9 3 2 . 7 \\mathrm { e V } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8145,
+                "bbox": [
+                    941,
+                    1083,
+                    1020,
+                    1112
+                ],
+                "index": 15,
+                "latex": "\\mathbf { A u } 4 \\mathrm { f } _ { 7 / 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    102,
+                    1139,
+                    1112,
+                    1227
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8892,
+                "bbox": [
+                    588,
+                    1193,
+                    714,
+                    1222
+                ],
+                "index": 17,
+                "latex": "0 . 5 \\mu \\mathrm { A } \\mathrm { c m } ^ { - 2 }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9492,
+                "bbox": [
+                    283,
+                    1290,
+                    933,
+                    1324
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9234,
+                "bbox": [
+                    106,
+                    1342,
+                    437,
+                    1374
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    103,
+                    1375,
+                    1113,
+                    1513
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8877,
+                "bbox": [
+                    518,
+                    1441,
+                    649,
+                    1475
+                ],
+                "index": 21,
+                "latex": "( 1 \\mathrm { m } \\mathrm { V } \\mathrm { s } ^ { - 1 } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5577,
+                "bbox": [
+                    948,
+                    1409,
+                    1108,
+                    1442
+                ],
+                "index": 22,
+                "latex": "0 . 5 \\mathrm { M } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.945,
+                "bbox": [
+                    451,
+                    1544,
+                    767,
+                    1574
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9824,
+                "bbox": [
+                    105,
+                    1578,
+                    1109,
+                    1805
+                ],
+                "index": 24,
+                "html": "<table><tr><td>Alloys</td><td>Corrosion potential (mV(SHE))</td><td>Potential at the peak maximum (mV(SHE))</td><td>Current at the peak maximum <eq>( \\mu \\mathbf { A } \\ \\mathsf { c m } ^ { - 2 } )</eq></td><td>Current in the passive state <eq>( \\mu \\mathbf { A } \\thinspace \\thinspace \\mathbf { c m } ^ { - 2 } )</eq></td></tr><tr><td>Fe-17Cr-13Ni-0.15N</td><td>-159</td><td>-40</td><td>1225</td><td>2</td></tr><tr><td>Fe-18Cr-10Ni</td><td>-180</td><td>-40</td><td>600</td><td>2.7</td></tr><tr><td>Type 304 stainless steel</td><td>-130</td><td>-70</td><td>18</td><td>1.8</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    124,
+                    160,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1826"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    364,
+                    125,
+                    856,
+                    148
+                ],
+                "score": 0.986,
+                "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    351,
+                    186,
+                    867,
+                    212
+                ],
+                "score": 0.989,
+                "text": "Table 1. Elemental composition of the alloys (wt%)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    496,
+                    1107,
+                    520
+                ],
+                "score": 0.998,
+                "text": "prepared at Ecole des Mines de St Etienne (France) and a type 304 stainless steel supplied by UGINE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    522,
+                    1107,
+                    546
+                ],
+                "score": 0.992,
+                "text": "(France). The chemical analysis of the alloys is reported in Table 1. The alloys were mechanically polished"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    554,
+                    684,
+                    574
+                ],
+                "score": 0.991,
+                "text": "with 0.5 μm diamond paste, giving them a mirror-like finish"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    580,
+                    1032,
+                    603
+                ],
+                "score": 0.987,
+                "text": "The electrochemical experiments were carried out in an inert gas glove box by using a 0.5 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    608,
+                    555,
+                    631
+                ],
+                "score": 0.989,
+                "text": "solution which was de-aerated by purging with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    588,
+                    608,
+                    1107,
+                    631
+                ],
+                "score": 0.994,
+                "text": "Sample disks of 10 mm diameter were mounted in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    637,
+                    1107,
+                    660
+                ],
+                "score": 0.989,
+                "text": "electrochemical glass cell equipped with a platinum counter electrode and a mercurous sulfate reference"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    664,
+                    1107,
+                    687
+                ],
+                "score": 0.994,
+                "text": "electrode. The electrode potentials reported in this work are referenced to the standard hydrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    694,
+                    1105,
+                    714
+                ],
+                "score": 0.993,
+                "text": "electrode (SHE). Following insertion of the samples into the electrochemical cell, they were cathodically"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    721,
+                    1108,
+                    744
+                ],
+                "score": 0.99,
+                "text": "reduced (-1 V, 300 s) prior to measurement of the anodic polarization curve. Polarization curves were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    748,
+                    491,
+                    771
+                ],
+                "score": 0.998,
+                "text": "recorded using a voltage sweep rate of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    585,
+                    748,
+                    1108,
+                    771
+                ],
+                "score": 0.995,
+                "text": "while sample passivation prior to surface analysis was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    776,
+                    1108,
+                    799
+                ],
+                "score": 0.994,
+                "text": "carried out by a potential step to 650 or 1050 mV(SHE) for different times of passivation (1, 15, 30 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    806,
+                    1107,
+                    826
+                ],
+                "score": 0.991,
+                "text": "120 min). The passivated electrodes were removed from solution under applied potential, rinsed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    832,
+                    1108,
+                    856
+                ],
+                "score": 1.0,
+                "text": "immediately in ultra-pure water, dried in nitrogen gas and then transferred to the surface analysis system"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    862,
+                    1106,
+                    882
+                ],
+                "score": 0.994,
+                "text": "using the transfer vessel and the fast entry port located on the preparation chamber of the spectrometer. A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    889,
+                    1107,
+                    912
+                ],
+                "score": 0.997,
+                "text": "survey XPS spectrum of each sample was immediately recorded to determine its surface cleanliness. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    918,
+                    1107,
+                    941
+                ],
+                "score": 0.989,
+                "text": "presence of a C 1s signal reveals the existence of a contamination layer; the only metallic elements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    945,
+                    1107,
+                    969
+                ],
+                "score": 0.999,
+                "text": "detected were the constituting elements of the alloys. High resolution XPS spectra were acquired for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    974,
+                    647,
+                    995
+                ],
+                "score": 0.991,
+                "text": "seven energy regions corresponding to the core levels: Fe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1002,
+                    148,
+                    1022
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1002,
+                    1107,
+                    1025
+                ],
+                "score": 0.992,
+                "text": " The data processing was carried out using curve-fitting procedures based on reference spectra"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1030,
+                    1107,
+                    1053
+                ],
+                "score": 0.992,
+                "text": "obtained for the clean and oxidized stainless steels. XPS measurements were obtained using an Al Kα X-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1061,
+                    215,
+                    1080
+                ],
+                "score": 0.988,
+                "text": "ray source"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    387,
+                    1057,
+                    1107,
+                    1080
+                ],
+                "score": 0.991,
+                "text": "and a hemispherical analyser, with a pass energy of 20 eV for the high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1085,
+                    940,
+                    1108
+                ],
+                "score": 0.996,
+                "text": "resolution spectra. The spectrometer (VG ESCALAB MK II) was calibrated using the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1023,
+                    1081,
+                    1111,
+                    1113
+                ],
+                "score": 1.0,
+                "text": "(binding"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1112,
+                    179,
+                    1141
+                ],
+                "score": 1.0,
+                "text": "energy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    343,
+                    1113,
+                    417,
+                    1137
+                ],
+                "score": 0.992,
+                "text": "and Cu"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    635,
+                    1113,
+                    702,
+                    1137
+                ],
+                "score": 1.0,
+                "text": "peaks."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1142,
+                    1108,
+                    1165
+                ],
+                "score": 0.998,
+                "text": "Composition depth profiles of passive films on the stainless steels were obtained by ion sputtering the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1170,
+                    1108,
+                    1194
+                ],
+                "score": 0.997,
+                "text": "surface, using a VG AG60 ion gun mounted in the analysis chamber, under the following conditions: an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1199,
+                    586,
+                    1219
+                ],
+                "score": 0.99,
+                "text": "ion beam voltage of 4 kV and a current density of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1297,
+                    927,
+                    1328
+                ],
+                "score": 0.998,
+                "text": "EXPERIMENTAL RESULTS AND DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1347,
+                    428,
+                    1371
+                ],
+                "score": 1.0,
+                "text": "Electrochemical behaviour"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1378,
+                    1107,
+                    1404
+                ],
+                "score": 0.981,
+                "text": "Figure 1 shows the potentiodynamic (i-E) curves for the Fe-17Cr-13Ni-0.15N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1412,
+                    947,
+                    1439
+                ],
+                "score": 0.992,
+                "text": "alloy, the ultra-pure alloy (Fe-18Cr-10Ni) and the 304 stainless steel in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1446,
+                    497,
+                    1475
+                ],
+                "score": 0.999,
+                "text": "solution. The potential scan"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    669,
+                    1445,
+                    1109,
+                    1474
+                ],
+                "score": 0.985,
+                "text": "was carried out from -350 to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1479,
+                    1107,
+                    1506
+                ],
+                "score": 0.991,
+                "text": "1350 mV(SHE). The salient electrochemical features are reported in Table 2. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    456,
+                    1548,
+                    762,
+                    1570
+                ],
+                "score": 0.997,
+                "text": "Table 2. Electrochemical data"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.931,
+                "bbox": [
+                    398,
+                    123,
+                    817,
+                    153
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8969,
+                "bbox": [
+                    1060,
+                    121,
+                    1110,
+                    148
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9821,
+                "bbox": [
+                    293,
+                    191,
+                    868,
+                    840
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9494,
+                "bbox": [
+                    215,
+                    851,
+                    998,
+                    884
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6625,
+                "bbox": [
+                    812,
+                    852,
+                    991,
+                    882
+                ],
+                "index": 6,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } ( 1 \\mathrm { m V } \\mathrm { s } ^ { - 1 } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    105,
+                    948,
+                    1114,
+                    1083
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773,
+                "bbox": [
+                    106,
+                    1083,
+                    1116,
+                    1188
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9837,
+                "bbox": [
+                    215,
+                    1239,
+                    994,
+                    1761
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9484,
+                "bbox": [
+                    194,
+                    1772,
+                    1023,
+                    1804
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8116,
+                "bbox": [
+                    761,
+                    1773,
+                    833,
+                    1802
+                ],
+                "index": 11,
+                "latex": "\\mathrm { H _ { 2 } S O _ { 4 } }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    404,
+                    127,
+                    811,
+                    150
+                ],
+                "score": 0.99,
+                "text": "The role of N2 on austenitic stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1061,
+                    122,
+                    1109,
+                    151
+                ],
+                "score": 1.0,
+                "text": "1827"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    856,
+                    810,
+                    880
+                ],
+                "score": 0.997,
+                "text": "Fig. 1. Potentiodynamic curves for the three alloys in 0.5 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    951,
+                    1107,
+                    979
+                ],
+                "score": 0.998,
+                "text": "current at the peak maximum varies in the following order:alloy with 0.15%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    985,
+                    1111,
+                    1013
+                ],
+                "score": 0.987,
+                "text": "N > alloy without N » 304 stainless steel. The major difference is mainly associated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1018,
+                    1111,
+                    1046
+                ],
+                "score": 0.99,
+                "text": "with the presence of a small amount of molybdenum (0.14%) in the 304 stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1052,
+                    1051,
+                    1080
+                ],
+                "score": 0.988,
+                "text": "steel. The residual currents in the passive state are similar for the three alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1084,
+                    1109,
+                    1116
+                ],
+                "score": 0.998,
+                "text": "For the XPS analysis of passive films, the passivation was carried out by stepping"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1122,
+                    1110,
+                    1147
+                ],
+                "score": 0.998,
+                "text": "the potential from the corrosion potential to the passivation potential of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1153,
+                    1109,
+                    1183
+                ],
+                "score": 1.0,
+                "text": "650 mV(SHE). The recorded current versus time plots are shown in Fig. 2. Inspec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1777,
+                    760,
+                    1800
+                ],
+                "score": 0.998,
+                "text": "Fig. 2. Potentiostatic curves for the three alloys in 0.5 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    834,
+                    1778,
+                    1019,
+                    1799
+                ],
+                "score": 0.972,
+                "text": "(at 650 mV(SHE))."
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9022,
+                "bbox": [
+                    116,
+                    122,
+                    166,
+                    147
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9445,
+                "bbox": [
+                    364,
+                    121,
+                    865,
+                    152
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9828,
+                "bbox": [
+                    263,
+                    187,
+                    964,
+                    688
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9626,
+                "bbox": [
+                    175,
+                    698,
+                    1049,
+                    759
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.872,
+                "bbox": [
+                    903,
+                    700,
+                    971,
+                    730
+                ],
+                "index": 5,
+                "latex": "\\mathbf { H } _ { 2 } \\mathbf { S } \\mathbf { O } _ { 4 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6381,
+                "bbox": [
+                    996,
+                    700,
+                    1045,
+                    728
+                ],
+                "index": 6,
+                "latex": "6 0 \\mathrm { { ^ \\circ C } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9756,
+                "bbox": [
+                    106,
+                    794,
+                    1114,
+                    863
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4696,
+                "bbox": [
+                    277,
+                    895,
+                    542,
+                    927
+                ],
+                "index": 8,
+                "latex": "\\mathrm { F e } { - } 1 7 \\mathrm { C r } { - } 1 3 \\mathrm { N i } { - } 0 . 1 5 \\mathrm { N }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    105,
+                    863,
+                    1116,
+                    1136
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7603,
+                "bbox": [
+                    536,
+                    1031,
+                    624,
+                    1065
+                ],
+                "index": 10,
+                "latex": "{ \\bf H } _ { 2 } { \\bf S O } _ { 4 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6689,
+                "bbox": [
+                    654,
+                    1030,
+                    717,
+                    1062
+                ],
+                "index": 11,
+                "latex": "6 0 \\mathrm { { ^ \\circ C } }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9474,
+                "bbox": [
+                    106,
+                    1166,
+                    453,
+                    1200
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5749,
+                "bbox": [
+                    479,
+                    1267,
+                    522,
+                    1300
+                ],
+                "index": 13,
+                "latex": "9 0 ^ { \\circ }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    105,
+                    1201,
+                    1116,
+                    1436
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8942,
+                "bbox": [
+                    247,
+                    1438,
+                    308,
+                    1470
+                ],
+                "index": 15,
+                "latex": "2 { \\tt p } _ { 3 / 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9088,
+                "bbox": [
+                    674,
+                    1432,
+                    733,
+                    1465
+                ],
+                "index": 16,
+                "latex": "\\mathsf { F e } ^ { 2 + }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9174,
+                "bbox": [
+                    793,
+                    1432,
+                    854,
+                    1465
+                ],
+                "index": 17,
+                "latex": "\\mathsf { F e } ^ { 3 + }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9136,
+                "bbox": [
+                    530,
+                    1466,
+                    591,
+                    1498
+                ],
+                "index": 18,
+                "latex": "{ \\mathrm { C r } } ^ { 3 + }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8872,
+                "bbox": [
+                    966,
+                    1439,
+                    1025,
+                    1470
+                ],
+                "index": 19,
+                "latex": "2 { \\bf p } _ { 3 / 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    105,
+                    1434,
+                    1115,
+                    1634
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.621,
+                "bbox": [
+                    920,
+                    1469,
+                    1110,
+                    1500
+                ],
+                "index": 21,
+                "latex": "\\mathrm { F e { - } } 1 7 \\mathrm { C r { - } } 1 3 \\mathrm { N i - }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6865,
+                "bbox": [
+                    508,
+                    1532,
+                    776,
+                    1568
+                ],
+                "index": 22,
+                "latex": "\\dot { \\mathrm { C r } } ^ { 3 + } { \\bf o x } \\left( { \\bf C r } _ { 2 } { \\bf O } _ { 3 } \\mathrm { \\Delta t y p e } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9294,
+                "bbox": [
+                    111,
+                    1565,
+                    395,
+                    1601
+                ],
+                "index": 23,
+                "latex": "\\mathbf { C r ^ { 3 + } h y } \\left( \\mathbf { C r ( O H ) } _ { 3 } \\mathbf { t y p e } \\right)"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9127,
+                "bbox": [
+                    981,
+                    1631,
+                    1055,
+                    1666
+                ],
+                "index": 24,
+                "latex": "( 0 ^ { 2 - } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8185,
+                "bbox": [
+                    161,
+                    1696,
+                    224,
+                    1731
+                ],
+                "index": 25,
+                "latex": "\\mathsf { S O } _ { 4 } ^ { 2 - }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868,
+                "bbox": [
+                    105,
+                    1632,
+                    1115,
+                    1801
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8945,
+                "bbox": [
+                    1049,
+                    1667,
+                    1110,
+                    1698
+                ],
+                "index": 27,
+                "latex": "{ \\bf H } _ { 2 } \\mathrm { O }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8986,
+                "bbox": [
+                    1056,
+                    1729,
+                    1108,
+                    1761
+                ],
+                "index": 28,
+                "latex": "O ^ { 2 - }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    123,
+                    164,
+                    152
+                ],
+                "score": 1.0,
+                "text": "1828"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    368,
+                    123,
+                    862,
+                    149
+                ],
+                "score": 0.993,
+                "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    703,
+                    901,
+                    725
+                ],
+                "score": 0.998,
+                "text": "Fig. 3. Potentiodynamic curves for 304L and 304LN stainless steels in 1 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    972,
+                    704,
+                    995,
+                    726
+                ],
+                "score": 1.0,
+                "text": "at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    538,
+                    730,
+                    682,
+                    756
+                ],
+                "score": 0.983,
+                "text": "(0.25 mV s−1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    798,
+                    1110,
+                    826
+                ],
+                "score": 0.991,
+                "text": "tion of the curves reveals that the three alloys exhibit similar behaviours in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    833,
+                    443,
+                    861
+                ],
+                "score": 1.0,
+                "text": "potentiostatic experiments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    863,
+                    1109,
+                    893
+                ],
+                "score": 0.994,
+                "text": "If the results of the potentiodynamic and potentiostatic experiments are com-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    899,
+                    275,
+                    927
+                ],
+                "score": 1.0,
+                "text": "pared for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    546,
+                    899,
+                    1109,
+                    927
+                ],
+                "score": 0.99,
+                "text": "and the ultra-pure alloy, nitrogen added to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    933,
+                    1110,
+                    961
+                ],
+                "score": 0.987,
+                "text": "alloy does not apparently influence markedly on the response of the material to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    966,
+                    1108,
+                    994
+                ],
+                "score": 0.995,
+                "text": "anodic polarization. Additional experiments have been carried out to compare the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1001,
+                    1109,
+                    1029
+                ],
+                "score": 0.991,
+                "text": "general corrosion behaviour of 304L and 304LN stainless steels (containing 0.068"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1034,
+                    535,
+                    1062
+                ],
+                "score": 0.989,
+                "text": "and 0.145% N, respectively) in 1 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    625,
+                    1036,
+                    653,
+                    1061
+                ],
+                "score": 1.0,
+                "text": "at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    718,
+                    1034,
+                    1107,
+                    1062
+                ],
+                "score": 0.99,
+                "text": ". The results are presented in Fig."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1068,
+                    1109,
+                    1095
+                ],
+                "score": 0.998,
+                "text": "3. They show that the addition of N to the 304L stainless steel is detrimental in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1102,
+                    888,
+                    1129
+                ],
+                "score": 0.986,
+                "text": "active state. No significant effect is observed in the passive state."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1168,
+                    446,
+                    1200
+                ],
+                "score": 0.982,
+                "text": "Analysis of the passive films"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    1203,
+                    1110,
+                    1231
+                ],
+                "score": 0.988,
+                "text": "The spectra recorded after argon ion sputter cleaning of the Fe-17Cr-13Ni–"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1237,
+                    1109,
+                    1265
+                ],
+                "score": 1.0,
+                "text": "0.15N alloy and after passivation of the three alloys at 650 mV(SHE) are shown in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1272,
+                    478,
+                    1300
+                ],
+                "score": 0.994,
+                "text": "Fig. 4 for the take-off angle of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    523,
+                    1272,
+                    1109,
+                    1300
+                ],
+                "score": 0.993,
+                "text": "(angle of the sample surface with the direction in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1306,
+                    1110,
+                    1334
+                ],
+                "score": 0.986,
+                "text": "which the electrons are analysed). The detection of XPS signals emitted by the alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1338,
+                    1112,
+                    1366
+                ],
+                "score": 0.992,
+                "text": "elements (Fe,Cr,Ni) indicates that the passive film is very thin. The curve fitting of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1372,
+                    1109,
+                    1400
+                ],
+                "score": 0.998,
+                "text": "the spectra in Fig. 4 was performed in the way described previously, using reference"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1406,
+                    630,
+                    1431
+                ],
+                "score": 0.989,
+                "text": "spectra recorded with reference materials.'"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1437,
+                    246,
+                    1466
+                ],
+                "score": 1.0,
+                "text": "The Fe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    312,
+                    1438,
+                    670,
+                    1466
+                ],
+                "score": 0.998,
+                "text": "signal has been resolved into"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    738,
+                    1437,
+                    792,
+                    1467
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1437,
+                    964,
+                    1466
+                ],
+                "score": 0.945,
+                "text": ". The Cr"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1029,
+                    1438,
+                    1112,
+                    1468
+                ],
+                "score": 1.0,
+                "text": "region"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1472,
+                    529,
+                    1499
+                ],
+                "score": 0.989,
+                "text": "indicates a marked enrichment of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    594,
+                    1472,
+                    914,
+                    1499
+                ],
+                "score": 0.992,
+                "text": "in the passive film for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1505,
+                    1112,
+                    1532
+                ],
+                "score": 0.994,
+                "text": "0.15N alloy as well as for the ultra pure and the 304 alloys. The chromium signal was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1538,
+                    498,
+                    1564
+                ],
+                "score": 0.99,
+                "text": "resolved into chromium oxide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1538,
+                    1109,
+                    1564
+                ],
+                "score": 0.998,
+                "text": "and chromium hydroxide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    396,
+                    1564,
+                    1112,
+                    1601
+                ],
+                "score": 0.997,
+                "text": ".7 Nickel oxide is not detected in the passive films of the three"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1600,
+                    730,
+                    1632
+                ],
+                "score": 1.0,
+                "text": "alloys, in agreement with other reported results.7.8"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1634,
+                    974,
+                    1664
+                ],
+                "score": 0.995,
+                "text": "The oxygen (O 1s) region clearly shows the presence of the oxide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1060,
+                    1634,
+                    1114,
+                    1666
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1668,
+                    1045,
+                    1698
+                ],
+                "score": 0.989,
+                "text": "hydroxide (OH⁻) states. A third peak is present corresponding to oxygen in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1702,
+                    160,
+                    1729
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1702,
+                    1109,
+                    1730
+                ],
+                "score": 0.996,
+                "text": "ions. These results are in agreement with XPS analysis of the passive film"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1732,
+                    1049,
+                    1761
+                ],
+                "score": 0.995,
+                "text": "on austenitic stainless steels reported by others.8 It is observed here that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1767,
+                    996,
+                    1795
+                ],
+                "score": 0.992,
+                "text": "signal is lower on the alloy with nitrogen than on the Fe-18Cr-10Ni alloy."
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9244,
+                "bbox": [
+                    403,
+                    124,
+                    821,
+                    154
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8868,
+                "bbox": [
+                    1066,
+                    122,
+                    1116,
+                    147
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5047,
+                "bbox": [
+                    173,
+                    212,
+                    241,
+                    235
+                ],
+                "index": 4,
+                "latex": "F \\in 2 p _ { 3 / 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5009,
+                "bbox": [
+                    377,
+                    208,
+                    442,
+                    233
+                ],
+                "index": 5,
+                "latex": "C r 2 p _ { 3 / 2 }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9605,
+                "bbox": [
+                    115,
+                    194,
+                    1113,
+                    1120
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9647,
+                "bbox": [
+                    180,
+                    1137,
+                    1056,
+                    1198
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7812,
+                "bbox": [
+                    557,
+                    1398,
+                    611,
+                    1432
+                ],
+                "index": 8,
+                "latex": "O ^ { 2 - }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    114,
+                    1267,
+                    1126,
+                    1637
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5805,
+                "bbox": [
+                    1060,
+                    1436,
+                    1121,
+                    1468
+                ],
+                "index": 10,
+                "latex": "2 { \\tt p } _ { 3 / 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5731,
+                "bbox": [
+                    423,
+                    1734,
+                    614,
+                    1766
+                ],
+                "index": 11,
+                "latex": "3 9 7 . 7 \\pm 0 . 1 \\mathrm { e V } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    115,
+                    1635,
+                    1129,
+                    1804
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    408,
+                    128,
+                    817,
+                    151
+                ],
+                "score": 0.992,
+                "text": "The role of N2 on austenitic stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1067,
+                    122,
+                    1115,
+                    151
+                ],
+                "score": 1.0,
+                "text": "1829"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    1143,
+                    1051,
+                    1164
+                ],
+                "score": 0.995,
+                "text": "Fig. 4. XPS spectra recorded at a take-off angle of 90° (the curve fitting of the N 1s spectra"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    515,
+                    1171,
+                    721,
+                    1195
+                ],
+                "score": 1.0,
+                "text": "is reported in Fig. 5)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    1270,
+                    1118,
+                    1296
+                ],
+                "score": 0.971,
+                "text": "For the clean, unpassivated Fe-17Cr-13Ni-0.15N alloy the N 1s spectrum,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1304,
+                    1120,
+                    1330
+                ],
+                "score": 0.996,
+                "text": "recorded after 10 min of ion etching, shows a N 1s signal at 397.6 eV. After"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1339,
+                    1120,
+                    1363
+                ],
+                "score": 0.992,
+                "text": "passivation the nitrogen XPS signal is considerably more intense. This result shows"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1372,
+                    1119,
+                    1397
+                ],
+                "score": 0.993,
+                "text": "that nitrogen is enriched at the surface and incorporated in the passive film and the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1407,
+                    550,
+                    1432
+                ],
+                "score": 0.996,
+                "text": "previous observation of the lower"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    617,
+                    1405,
+                    1119,
+                    1431
+                ],
+                "score": 0.988,
+                "text": "signal is an indication that the nitrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1440,
+                    1059,
+                    1463
+                ],
+                "score": 0.999,
+                "text": "enrichment in the film takes place at the expense of the oxide content. In the Cr"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1472,
+                    1120,
+                    1498
+                ],
+                "score": 0.991,
+                "text": "spectrum of the nitrogen-containing alloy a broad intense peak at low binding energy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1506,
+                    1120,
+                    1531
+                ],
+                "score": 0.994,
+                "text": "is believed to be associatd with chromium in the underlying alloy and chromium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1539,
+                    1121,
+                    1565
+                ],
+                "score": 0.988,
+                "text": "located in the film and bonded to nitrogen.º The intensity of this peak is lower for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1574,
+                    1120,
+                    1598
+                ],
+                "score": 0.998,
+                "text": "ultra pure and the 304 alloys, which indicates that chromium nitride is formed on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1607,
+                    431,
+                    1633
+                ],
+                "score": 1.0,
+                "text": "alloy containing nitrogen."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1638,
+                    1121,
+                    1664
+                ],
+                "score": 1.0,
+                "text": "In an attempt to obtain a clearer picture of the chemical states of nitrogen in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1673,
+                    1122,
+                    1697
+                ],
+                "score": 0.982,
+                "text": "passive film, the N 1s spectra were fitted by three peaks. The curve-fitted spectra are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1705,
+                    1122,
+                    1729
+                ],
+                "score": 0.991,
+                "text": "shown in Fig. 5. On the basis of previously reported resultsº the peak located at low"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1739,
+                    419,
+                    1768
+                ],
+                "score": 0.978,
+                "text": "binding energy (N(1) at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    621,
+                    1736,
+                    1122,
+                    1764
+                ],
+                "score": 0.997,
+                "text": "is assigned to nitride incorporated in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1771,
+                    1122,
+                    1795
+                ],
+                "score": 0.996,
+                "text": "passive film. A significant N(1) peak is detected only on the alloys with bulk nitrogen"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8974,
+                "bbox": [
+                    151,
+                    121,
+                    202,
+                    148
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9387,
+                "bbox": [
+                    400,
+                    121,
+                    902,
+                    153
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.643,
+                "bbox": [
+                    314,
+                    251,
+                    963,
+                    1667
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9686,
+                "bbox": [
+                    211,
+                    1680,
+                    1084,
+                    1767
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    124,
+                    199,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1830"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    404,
+                    124,
+                    898,
+                    149
+                ],
+                "score": 0.995,
+                "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    1684,
+                    1080,
+                    1708
+                ],
+                "score": 0.981,
+                "text": "Fig. 5. Curve fitting of the N 1s spectra of: (a) the 304-type alloy, (b) the Fe-–18Cr-10Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1712,
+                    1078,
+                    1736
+                ],
+                "score": 0.981,
+                "text": "(ultra-pure) alloy and (c) the Fe-17Cr-13Ni–0.15N alloy. (cps) counts per second; (θ) take-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    526,
+                    1741,
+                    769,
+                    1761
+                ],
+                "score": 0.989,
+                "text": "off angle of the electrons."
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9408,
+                "bbox": [
+                    400,
+                    122,
+                    817,
+                    152
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.897,
+                "bbox": [
+                    1062,
+                    121,
+                    1110,
+                    147
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9832,
+                "bbox": [
+                    306,
+                    198,
+                    939,
+                    872
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9672,
+                "bbox": [
+                    172,
+                    883,
+                    1047,
+                    942
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7515,
+                "bbox": [
+                    483,
+                    1096,
+                    673,
+                    1129
+                ],
+                "index": 6,
+                "latex": "4 0 0 . 2 \\pm 0 . 1 \\ : \\mathrm { e V } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8161,
+                "bbox": [
+                    931,
+                    1130,
+                    1100,
+                    1162
+                ],
+                "index": 7,
+                "latex": "4 0 2 \\pm 0 . 1 \\ : \\mathrm { e V } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    105,
+                    994,
+                    1117,
+                    1570
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6101,
+                "bbox": [
+                    784,
+                    1164,
+                    853,
+                    1198
+                ],
+                "index": 9,
+                "latex": "\\mathrm { N H } _ { 4 } ^ { + } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9085,
+                "bbox": [
+                    817,
+                    1233,
+                    889,
+                    1265
+                ],
+                "index": 10,
+                "latex": "{ \\mathrm { N } } _ { 2 } { \\mathrm { H } } _ { 4 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838,
+                "bbox": [
+                    106,
+                    1569,
+                    1117,
+                    1701
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9785,
+                "bbox": [
+                    106,
+                    1701,
+                    1118,
+                    1802
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6061,
+                "bbox": [
+                    647,
+                    1731,
+                    800,
+                    1767
+                ],
+                "index": 13,
+                "latex": "( \\mathsf { p O } _ { 2 } = 1 0 ^ { - 5 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    404,
+                    125,
+                    814,
+                    149
+                ],
+                "score": 0.983,
+                "text": "The role of N2 on austenitic stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1064,
+                    123,
+                    1110,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1831"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    889,
+                    1043,
+                    912
+                ],
+                "score": 0.984,
+                "text": "Fig. 6. XPS sputter depth profile for the passive film formed at 650 mV(SHE) (30 min) on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    457,
+                    914,
+                    763,
+                    940
+                ],
+                "score": 0.977,
+                "text": "the Fe-17Cr-13Ni-0.15N alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    998,
+                    1113,
+                    1025
+                ],
+                "score": 0.979,
+                "text": "(i.e. the Fe-17Cr-13Ni–0.15N and the 304 stainless steel which contains 0.04% of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1033,
+                    1110,
+                    1060
+                ],
+                "score": 0.983,
+                "text": "nitrogen). The intensity of N(1) is higher for the alloy with higher N content. This"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1066,
+                    1111,
+                    1094
+                ],
+                "score": 0.988,
+                "text": "observation confirms that N(1) originates from bulk nitrogen. The peak located at a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1101,
+                    482,
+                    1129
+                ],
+                "score": 1.0,
+                "text": "higher binding energy (N(2) at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1134,
+                    927,
+                    1162
+                ],
+                "score": 0.991,
+                "text": "The third peak located at an even higher binding energy (N(3) at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1168,
+                    783,
+                    1194
+                ],
+                "score": 0.997,
+                "text": "originates from nitrogen which may be under the form of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1162,
+                    1112,
+                    1199
+                ],
+                "score": 0.937,
+                "text": "9 Similar N 1s binding"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1201,
+                    1113,
+                    1229
+                ],
+                "score": 0.994,
+                "text": "energy (399.9 and 402.5 eV) have been reported for the molecular adsorption of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1234,
+                    815,
+                    1262
+                ],
+                "score": 0.946,
+                "text": "inhibitors (-NR3 and -N⁺R4) on gold surfaces1⁰ and for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1234,
+                    1110,
+                    1262
+                ],
+                "score": 0.981,
+                "text": "on Fe(111).11 The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1269,
+                    1109,
+                    1296
+                ],
+                "score": 0.985,
+                "text": "results for the N 1s XPS spectra at different depths in the passive film on the alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1303,
+                    1110,
+                    1331
+                ],
+                "score": 0.992,
+                "text": "show that the intensities of the high binding energy species decrease rapidly upon ion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1337,
+                    1110,
+                    1365
+                ],
+                "score": 0.995,
+                "text": "sputtering (Fig. 6). This confirms the location of these species to be at the passive film"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1370,
+                    1109,
+                    1398
+                ],
+                "score": 0.988,
+                "text": "surface and supports the view that they are produced by reaction with electrolyte."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1401,
+                    1110,
+                    1435
+                ],
+                "score": 0.997,
+                "text": "The peaks N(2) and N(3) were detected on the three alloys after passivation (Fig. 5)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1437,
+                    1111,
+                    1466
+                ],
+                "score": 0.987,
+                "text": "The fact that they are detected even on the ultra-pure alloy with a nominal nitrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1472,
+                    1110,
+                    1499
+                ],
+                "score": 0.993,
+                "text": "content less than 10 ppm indicates that these species may come not only from the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1504,
+                    1110,
+                    1533
+                ],
+                "score": 1.0,
+                "text": "bulk nitrogen but also from nitrogen-containing species present at trace level in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1536,
+                    221,
+                    1569
+                ],
+                "score": 1.0,
+                "text": "solution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    667,
+                    1094,
+                    1114,
+                    1132
+                ],
+                "score": 0.965,
+                "text": ") may originate from N–H or N–O.6.9"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1572,
+                    1111,
+                    1600
+                ],
+                "score": 0.988,
+                "text": "Complementary experiments have revealed that N(2) and N(3) are also observed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1605,
+                    1110,
+                    1633
+                ],
+                "score": 0.99,
+                "text": "when the nitrogen atmosphere in the glove box is replaced by argon, showing that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1639,
+                    1111,
+                    1666
+                ],
+                "score": 0.987,
+                "text": "these species do not come from reaction with gaseous nitrogen or nitrogen dissolved"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1671,
+                    323,
+                    1697
+                ],
+                "score": 0.984,
+                "text": "in the electrolyte."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1701,
+                    1111,
+                    1733
+                ],
+                "score": 0.996,
+                "text": "For comparison between wet and dry oxidation an oxide layer was formed on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1735,
+                    641,
+                    1764
+                ],
+                "score": 0.997,
+                "text": "304 stainless steel in pure oxygen at 500°C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    804,
+                    1736,
+                    1112,
+                    1765
+                ],
+                "score": 1.0,
+                "text": "mbar) in the preparation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1768,
+                    1114,
+                    1799
+                ],
+                "score": 0.995,
+                "text": "chamber of the XPS spectrometer. The spectrum (Fig. 5a) shows that the intensity of"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8941,
+                "bbox": [
+                    111,
+                    121,
+                    162,
+                    148
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9452,
+                "bbox": [
+                    361,
+                    121,
+                    862,
+                    152
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.808,
+                "bbox": [
+                    111,
+                    314,
+                    203,
+                    349
+                ],
+                "index": 3,
+                "latex": "\\mathbb { H } ^ { \\check { 9 } , 1 2 , 1 3 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5874,
+                "bbox": [
+                    368,
+                    285,
+                    566,
+                    319
+                ],
+                "index": 4,
+                "latex": "3 9 9 . 2 \\ : \\mathrm { e V } \\left[ \\mathrm { N } ( 2 ^ { \\prime } ) \\right]"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877,
+                "bbox": [
+                    105,
+                    185,
+                    1114,
+                    591
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8194,
+                "bbox": [
+                    845,
+                    452,
+                    975,
+                    485
+                ],
+                "index": 6,
+                "latex": "T = 5 0 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    104,
+                    589,
+                    1116,
+                    995
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6541,
+                "bbox": [
+                    243,
+                    721,
+                    366,
+                    756
+                ],
+                "index": 8,
+                "latex": "\\mathrm { O H } ^ { - } / \\mathrm { O } ^ { 2 - }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8511,
+                "bbox": [
+                    894,
+                    654,
+                    943,
+                    687
+                ],
+                "index": 9,
+                "latex": "{ \\mathsf { O } } ^ { 2 - }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    105,
+                    995,
+                    1115,
+                    1198
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7225,
+                "bbox": [
+                    630,
+                    1060,
+                    673,
+                    1092
+                ],
+                "index": 11,
+                "latex": "9 0 ^ { \\circ }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4924,
+                "bbox": [
+                    732,
+                    1061,
+                    774,
+                    1093
+                ],
+                "index": 12,
+                "latex": "5 0 ^ { \\circ }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8684,
+                "bbox": [
+                    286,
+                    1462,
+                    339,
+                    1496
+                ],
+                "index": 13,
+                "latex": "O ^ { 2 - }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6067,
+                "bbox": [
+                    347,
+                    1363,
+                    471,
+                    1398
+                ],
+                "index": 14,
+                "latex": "{ \\cal O } ^ { 2 - } , { \\bf N } ( 1 )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    105,
+                    1197,
+                    1117,
+                    1663
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98,
+                "bbox": [
+                    107,
+                    1662,
+                    1116,
+                    1797
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    124,
+                    161,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1832"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    364,
+                    123,
+                    858,
+                    149
+                ],
+                "score": 0.989,
+                "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    189,
+                    1107,
+                    216
+                ],
+                "score": 1.0,
+                "text": "the N(3) peak on the oxide layer is much lower than the intensity observed after the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    223,
+                    1107,
+                    250
+                ],
+                "score": 0.987,
+                "text": "passivation experiments which supports the view that this species is formed by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    256,
+                    1109,
+                    283
+                ],
+                "score": 0.988,
+                "text": "reaction with the aqueous solution. It is noted that two new peaks were detected after"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    291,
+                    366,
+                    315
+                ],
+                "score": 0.983,
+                "text": "dry oxidation: one at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    571,
+                    290,
+                    1107,
+                    317
+                ],
+                "score": 0.996,
+                "text": "which may correspond to nitrogen bonded to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    320,
+                    1109,
+                    351
+                ],
+                "score": 0.998,
+                "text": "and the other at 404 eV [N(4)] which may correspond to nitrogen bonded to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    355,
+                    1110,
+                    386
+                ],
+                "score": 0.99,
+                "text": "oxygen.9 The chemical state of nitrogen segregated on the alloy surface during high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    389,
+                    1110,
+                    420
+                ],
+                "score": 0.991,
+                "text": "temperature annealing in UHV was also investigated on the 304 alloy. After cleaning"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    423,
+                    1110,
+                    452
+                ],
+                "score": 0.996,
+                "text": "the surface by argon ion sputtering, the alloy was heated for 60 min in ultra-high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    457,
+                    841,
+                    486
+                ],
+                "score": 0.997,
+                "text": "vacuum in the preparation chamber of the XPS system at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    976,
+                    453,
+                    1111,
+                    486
+                ],
+                "score": 0.946,
+                "text": ".The N 1s"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    491,
+                    1111,
+                    520
+                ],
+                "score": 0.995,
+                "text": "spectrum is shown in Fig. 5a. An intense N 1s signal at the position of N(1) is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    526,
+                    1110,
+                    553
+                ],
+                "score": 0.992,
+                "text": "observed. It corresponds clearly to N-metal bonds formed by surface segregation of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    558,
+                    284,
+                    589
+                ],
+                "score": 1.0,
+                "text": "bulk nitrogen."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    593,
+                    1108,
+                    620
+                ],
+                "score": 0.997,
+                "text": "To aid in locating the different nitrogen species in the passive film, composition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    626,
+                    1110,
+                    654
+                ],
+                "score": 0.994,
+                "text": "depth profiles were recorded by ion sputtering and XPS analysis. The results are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    661,
+                    893,
+                    688
+                ],
+                "score": 0.997,
+                "text": "shown in Fig. 6 for the N-bearing alloy. The XPS signal emitted by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    944,
+                    661,
+                    1109,
+                    688
+                ],
+                "score": 1.0,
+                "text": "in the passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    695,
+                    1109,
+                    721
+                ],
+                "score": 0.988,
+                "text": "film is shown as an indicator of the depth scale during argon sputtering. For the three"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    726,
+                    239,
+                    758
+                ],
+                "score": 1.0,
+                "text": "alloys, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    370,
+                    728,
+                    1109,
+                    755
+                ],
+                "score": 0.98,
+                "text": "intensity ratio decreases with sputtering time, confirming that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    760,
+                    1110,
+                    787
+                ],
+                "score": 0.992,
+                "text": "the hydroxide layer constitutes the outer part of the film. The slow decrease of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    795,
+                    1109,
+                    822
+                ],
+                "score": 0.975,
+                "text": "intensity of the N(1) peak at low binding energy (397.7 eV), corresponding to N–"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    829,
+                    1108,
+                    856
+                ],
+                "score": 0.992,
+                "text": "metal bonds, indicates that the nitride is present in the inner part of the passive film"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    861,
+                    1109,
+                    890
+                ],
+                "score": 0.993,
+                "text": "near the passive film/alloy interface. The results for N(2) and N(3) at different depths"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    897,
+                    1108,
+                    924
+                ],
+                "score": 0.998,
+                "text": "in the passive film show the high binding energy nitrogen species to be mainly at the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    930,
+                    1109,
+                    958
+                ],
+                "score": 0.994,
+                "text": "passive film surface, confirming that they are produced at least in part via reaction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    965,
+                    354,
+                    992
+                ],
+                "score": 1.0,
+                "text": "with the electrolyte."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    997,
+                    1111,
+                    1025
+                ],
+                "score": 0.99,
+                "text": "Angle-dependent XPS measurements of the N 1s region were carried out in order"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1030,
+                    1109,
+                    1059
+                ],
+                "score": 0.985,
+                "text": "to obtain additional information on the location of N(1), N(2) and N(3) in the passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1062,
+                    629,
+                    1094
+                ],
+                "score": 0.999,
+                "text": "film. The spectra for two take-off angles,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    674,
+                    1062,
+                    731,
+                    1094
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    775,
+                    1062,
+                    1111,
+                    1094
+                ],
+                "score": 0.999,
+                "text": ", are shown in Fig. 5c. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1098,
+                    1109,
+                    1126
+                ],
+                "score": 0.996,
+                "text": "results show that the N(2) component is present on the passive film surface whereas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1132,
+                    1108,
+                    1159
+                ],
+                "score": 0.984,
+                "text": "N(1) is in the inner oxide part of the film. The results for N(3) are ambiguous as N(3)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1166,
+                    1038,
+                    1194
+                ],
+                "score": 0.997,
+                "text": "was found to be somewhat unstable during long exposure to the X-ray beam."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1199,
+                    1109,
+                    1227
+                ],
+                "score": 0.998,
+                "text": "In order to investigate the effect of time of polarization and potential on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1234,
+                    1110,
+                    1259
+                ],
+                "score": 0.994,
+                "text": "segregation of nitrogen in the passive film, passivation experiments were carried out"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1266,
+                    1110,
+                    1294
+                ],
+                "score": 0.99,
+                "text": "for the Fe-17Cr-13Ni-0.15N alloy at two different potentials, 650 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1300,
+                    1110,
+                    1329
+                ],
+                "score": 0.993,
+                "text": "1050 mV(SHE), for 1, 15, 30 and 120 min. The N 1s XPS spectrum recorded after"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1332,
+                    1111,
+                    1362
+                ],
+                "score": 0.992,
+                "text": "30 min at 650 mV(SHE) and at 1050 mV(SHE) are shown in Fig. 5c. The recorded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1368,
+                    342,
+                    1396
+                ],
+                "score": 0.988,
+                "text": "intensities of OH⁻,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    472,
+                    1368,
+                    1110,
+                    1396
+                ],
+                "score": 0.993,
+                "text": ", N(2) and N(3) versus time of polarization are plotted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1401,
+                    1111,
+                    1430
+                ],
+                "score": 0.996,
+                "text": "in Fig. 7. Inspection of the curves reveals that the intensity of the N(1) signal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1435,
+                    1111,
+                    1462
+                ],
+                "score": 0.989,
+                "text": "decreases with the time of polarization for the first ~15-30 min and then becomes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1470,
+                    285,
+                    1495
+                ],
+                "score": 0.995,
+                "text": "constant. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    341,
+                    1469,
+                    1113,
+                    1495
+                ],
+                "score": 0.985,
+                "text": "signal first increases and becomes constant after ~15-30 min of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1500,
+                    1110,
+                    1529
+                ],
+                "score": 0.995,
+                "text": "passivation. These results are consistent with the view that N(1) is associated to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1534,
+                    1111,
+                    1560
+                ],
+                "score": 0.991,
+                "text": "nitride forming at the alloy/passive film interface during passive film growth and that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1567,
+                    1110,
+                    1593
+                ],
+                "score": 0.993,
+                "text": "the growth of the passive film covering the nitride causes the attenuation of the signal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1600,
+                    1110,
+                    1626
+                ],
+                "score": 0.99,
+                "text": "emitted by N(1) at the interface. The N(1) signal becomes constant when the passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1633,
+                    584,
+                    1660
+                ],
+                "score": 0.991,
+                "text": "film has reached a stationary thickness."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1665,
+                    1108,
+                    1693
+                ],
+                "score": 0.995,
+                "text": "The larger scatter in the data recorded for N(2) and to a larger extent for N(3),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1698,
+                    1111,
+                    1726
+                ],
+                "score": 0.991,
+                "text": "which likely results from contamination of the solution by nitrogen containing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1731,
+                    1111,
+                    1758
+                ],
+                "score": 0.991,
+                "text": "species, makes it difficult to analyse the observed variation of these signals with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1766,
+                    343,
+                    1792
+                ],
+                "score": 1.0,
+                "text": "potential and time."
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9251,
+                "bbox": [
+                    399,
+                    122,
+                    817,
+                    151
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8565,
+                "bbox": [
+                    1063,
+                    122,
+                    1113,
+                    147
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9844,
+                "bbox": [
+                    289,
+                    179,
+                    928,
+                    1056
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5961,
+                "bbox": [
+                    526,
+                    1067,
+                    559,
+                    1094
+                ],
+                "index": 5,
+                "latex": "O ^ { 2 ^ { - } }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9651,
+                "bbox": [
+                    174,
+                    1067,
+                    1049,
+                    1127
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9388,
+                "bbox": [
+                    501,
+                    1184,
+                    723,
+                    1216
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    105,
+                    1235,
+                    1116,
+                    1371
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    105,
+                    1372,
+                    1117,
+                    1610
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9229,
+                "bbox": [
+                    510,
+                    1653,
+                    716,
+                    1685
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9375,
+                "bbox": [
+                    121,
+                    1701,
+                    1060,
+                    1730
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9276,
+                "bbox": [
+                    120,
+                    1731,
+                    882,
+                    1757
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.925,
+                "bbox": [
+                    121,
+                    1758,
+                    708,
+                    1784
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9434,
+                "bbox": [
+                    121,
+                    1784,
+                    958,
+                    1812
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    404,
+                    125,
+                    814,
+                    149
+                ],
+                "score": 0.986,
+                "text": "The role of N2 on austenitic stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1063,
+                    123,
+                    1111,
+                    149
+                ],
+                "score": 1.0,
+                "text": "1833"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1071,
+                    525,
+                    1097
+                ],
+                "score": 0.997,
+                "text": "Fig. 7. The recorded intensities of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    560,
+                    1071,
+                    1045,
+                    1097
+                ],
+                "score": 0.982,
+                "text": ", OH\", N(1), N(2) and N(3) signals versus time of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    381,
+                    1101,
+                    840,
+                    1124
+                ],
+                "score": 0.98,
+                "text": "polarization for the Fe-17Cr-13Ni–0.15N alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    504,
+                    1189,
+                    720,
+                    1226
+                ],
+                "score": 0.996,
+                "text": "CONCLUSIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1237,
+                    1112,
+                    1267
+                ],
+                "score": 0.983,
+                "text": "The electrochemical behaviour and the surface composition of Fe-17Cr-13Ni–"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1271,
+                    1113,
+                    1302
+                ],
+                "score": 0.986,
+                "text": "0.15N stainless steel have been investigated with special emphasis on the role of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1307,
+                    1112,
+                    1335
+                ],
+                "score": 0.991,
+                "text": "nitrogen. The addition of nitrogen does not improve the general corrosion behaviour"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1341,
+                    259,
+                    1371
+                ],
+                "score": 1.0,
+                "text": "of the alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    1375,
+                    1110,
+                    1402
+                ],
+                "score": 0.993,
+                "text": "After passivation of the alloy, three chemical states of nitrogen are detected: the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1409,
+                    1111,
+                    1437
+                ],
+                "score": 0.992,
+                "text": "high and intermediate binding energy peaks are assigned to nitrogen species located"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1441,
+                    1111,
+                    1470
+                ],
+                "score": 0.985,
+                "text": "at the surface of the passive film and are produced at least in part via reaction with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1476,
+                    1110,
+                    1504
+                ],
+                "score": 0.987,
+                "text": "electrolyte. The peak at low binding energy corresponds to N-metal (essentially Cr)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1507,
+                    1110,
+                    1537
+                ],
+                "score": 0.993,
+                "text": "bonds under the form of nitride, present in the inner part of the passive film near the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1543,
+                    1110,
+                    1570
+                ],
+                "score": 0.999,
+                "text": "passive film/alloy interface. This nitride phase is formed by anodic segregation of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1577,
+                    1103,
+                    1604
+                ],
+                "score": 0.999,
+                "text": "nitrogen contained in the alloy, during the dissolution stage preceding passivation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    514,
+                    1660,
+                    711,
+                    1688
+                ],
+                "score": 0.983,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1704,
+                    1059,
+                    1730
+                ],
+                "score": 0.986,
+                "text": "1. Y. C. Lu, R. Bandy, C. R. Clayton and R. C. Newman, J. electrochem. Soc. 130, 1774 (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1732,
+                    877,
+                    1757
+                ],
+                "score": 0.991,
+                "text": "2. J. E. Truman, M. J. Coleman and K. R. Pirt, Br. Corros. J. 12, 236 (1977)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1761,
+                    705,
+                    1784
+                ],
+                "score": 0.996,
+                "text": "3. R. Bandy and D. Van Rooyen, Corrosion 39, 227 (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1788,
+                    955,
+                    1811
+                ],
+                "score": 0.988,
+                "text": "4. J. J. Eckenrod and C. W. Kovack, ASTM STP 679, p. 17. Philadelphia, PA (1977)."
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1242,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8921,
+                "bbox": [
+                    110,
+                    123,
+                    160,
+                    145
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9415,
+                "bbox": [
+                    360,
+                    123,
+                    861,
+                    150
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9722,
+                "bbox": [
+                    119,
+                    184,
+                    1109,
+                    238
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9451,
+                "bbox": [
+                    118,
+                    240,
+                    720,
+                    267
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9489,
+                "bbox": [
+                    119,
+                    268,
+                    763,
+                    294
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9708,
+                "bbox": [
+                    119,
+                    296,
+                    1108,
+                    350
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9677,
+                "bbox": [
+                    118,
+                    352,
+                    1108,
+                    407
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9331,
+                "bbox": [
+                    110,
+                    408,
+                    896,
+                    435
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9394,
+                "bbox": [
+                    110,
+                    436,
+                    509,
+                    463
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9645,
+                "bbox": [
+                    111,
+                    492,
+                    1108,
+                    547
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9426,
+                "bbox": [
+                    110,
+                    464,
+                    1098,
+                    491
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    123,
+                    159,
+                    151
+                ],
+                "score": 1.0,
+                "text": "1834"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    364,
+                    125,
+                    857,
+                    147
+                ],
+                "score": 0.999,
+                "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    185,
+                    1107,
+                    210
+                ],
+                "score": 0.989,
+                "text": "5. K. Osozawa and N. Okato, Passivity and its Breakdown on Iron and Iron Based Alloys, p. 135. NACE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    215,
+                    688,
+                    235
+                ],
+                "score": 0.996,
+                "text": "(USA-Japan Seminar, Honolulu), Houston, TX (1976)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    241,
+                    715,
+                    266
+                ],
+                "score": 0.975,
+                "text": "6. P. Marcus and M. E. Bussell, Appl. Surf. Sci. 59, 7 (1992)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    270,
+                    759,
+                    294
+                ],
+                "score": 0.991,
+                "text": "7. E. De Vito and P. Marcus, Surf. Interface Anal. 19, 403 (1992)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    298,
+                    1107,
+                    322
+                ],
+                "score": 0.994,
+                "text": "8. B. Brox and I. Olefjord, Proc. Stainless Steel 84, Göteborg, Sweden, p. 134. The Institute of Metals,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    327,
+                    303,
+                    351
+                ],
+                "score": 1.0,
+                "text": "London (1985)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    355,
+                    1106,
+                    376
+                ],
+                "score": 0.989,
+                "text": "9. C. R. Clayton, L. Rosenzweig, M. Oversluizen and Y. C. Lu, in Surfaces, Inhibition and Passivation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    382,
+                    1098,
+                    406
+                ],
+                "score": 0.997,
+                "text": "(eds E. McCafferty and R. J. Brodd), p. 323. The Electrochemical Society, Pennington, NJ (1986)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    411,
+                    892,
+                    434
+                ],
+                "score": 0.987,
+                "text": "10. A. Swift, A. J. Paul and J. C. Vickerman, Surf. Interface Anal. 20, 27 (1993)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    437,
+                    506,
+                    463
+                ],
+                "score": 0.981,
+                "text": "11. M. Grunze, Surf. Sci. 81, 603 (1979)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    494,
+                    1107,
+                    518
+                ],
+                "score": 0.984,
+                "text": "13. C. R. Clayton and K. G. Martin, Proc. Conf. on High Nitrogen Steels (eds J. Foct and A. Hendry),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    523,
+                    607,
+                    547
+                ],
+                "score": 0.994,
+                "text": "p. 256. The Institute of Metals, London (1989)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    466,
+                    1095,
+                    490
+                ],
+                "score": 0.997,
+                "text": "12. R. D. Willenbruch, C. R. Clayton, M. Oversluizen, D. Kim and Y. Lu, Corros. Sci. 31, 17 (1990)."
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1242,
+            "height": 1962
+        }
+    }
+]

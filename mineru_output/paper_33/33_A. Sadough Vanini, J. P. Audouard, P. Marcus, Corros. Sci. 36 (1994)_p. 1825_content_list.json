@@ -1,0 +1,864 @@
+[
+    {
+        "type": "text",
+        "text": "THE ROLE OF NITROGEN IN THE PASSIVITY OF AUSTENITIC STAINLESS STEELS",
+        "text_level": 1,
+        "bbox": [
+            140,
+            186,
+            841,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. SADOUGH VANINI\\*†, J.-P. AUDOUARD‡ and P. MARCUS\\*",
+        "bbox": [
+            131,
+            242,
+            850,
+            259
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Laboratoire de Physico-Chimie des Surfaces, CNRS (URA 425), Ecole Nationale Supérieure de Chimie de Paris, Université Paris VI, 11 rue Pierre et Marie Curie, 75005 Paris, France ‡IRSID-Unieux, BP 50, 42702 Firminy Cedex, France",
+        "bbox": [
+            111,
+            271,
+            870,
+            317
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—Three austenitic stainless steels (a Fe-17Cr-13Ni-0.15N alloy, an ultra pure Fe-18Cr-10Ni alloy and a type 304 stainless steel) were used in this study in order to investigate the effect of nitrogen on the electrochemical behaviour and on the nature of the passive film formed on the steels in acidic solution $( 0 . 5 \\mathrm { M } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } )$ . The presence of nitrogen in the alloy does not apparently have a significant influence on the response of the material to anodic polarization in the acid electrolyte. Surface analysis of the alloys by XPS after passivation shows that nitrogen is enriched at the surface by anodic segregation during dissolution and passivation of the nitrogen-bearing alloys. After passivation of the alloys three chemical states of nitrogen are detected in the N 1s spectrum. The peak at low binding energy (397.7 ± 0.1 eV) corresponds to nitrogen bonded essentially to chromium under the form of a nitride which is incorporated in the passive film. The N 1s peaks observed at higher binding energies (400.2 ± 0.1 and 402 ± 0.1 cV) correspond to nitrogen species located on the surface of the passivated alloys, which are produced by reaction of the alloy surface with the solution.",
+        "bbox": [
+            85,
+            339,
+            897,
+            514
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION",
+        "text_level": 2,
+        "bbox": [
+            393,
+            536,
+            588,
+            553
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the presence of both nitrogen and molybdenum, significant improvements in the resistance of stainless steels to general and localized corrosion have been reported.1-5 However, it remains unclear if nitrogen alone (i.e. in the absence of molybdenum) is capable of improving the corrosion resistance. It has been shown in a recent study that nitrogen implanted into a type 304 stainless steel does not improve the dissolution and passivation behaviour in acid solution.º Nitrogen can be added to stainless steels in order to stabilize the austenite phase and thus it is important to elucidate the role of this element in the passivity of the alloy. The aim of this work was to investigate, by electrochemical and surface analytical measurements, the effect of nitrogen on the dissolution and passivation of austenitic stainless steel without molybdenum. In order to clearly identify the effect of nitrogen, two synthetic alloys were studied, one without and the other with nitrogen. A type 304 stainless steel was also studied for comparison.",
+        "bbox": [
+            82,
+            563,
+            897,
+            787
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL METHOD",
+        "text_level": 2,
+        "bbox": [
+            333,
+            817,
+            646,
+            832
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Fe-17Cr-13Ni–0.15N alloy used in this work was provided by IRSID Unieux (France). As reference materials we used an ultra pure Fe-18Cr-10Ni alloy with less than 10 ppm of nitrogen in the bulk prepared at Ecole des Mines de St Etienne (France) and a type 304 stainless steel supplied by UGINE (France). The chemical analysis of the alloys is reported in Table 1. The alloys were mechanically polished with 0.5 μm diamond paste, giving them a mirror-like finish",
+        "bbox": [
+            85,
+            841,
+            897,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "O",
+        "bbox": [
+            93,
+            62,
+            163,
+            104
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Pergamon",
+        "bbox": [
+            170,
+            77,
+            275,
+            93
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Corrosion Science, Vol. 36, No. 11, pp. 1825–1834, 1994 Copyright © 1994 Elsevier Science Ltd Printed in Great Britain. All rights reserved 0010-938X/94 \\$7.00+0.00",
+        "bbox": [
+            510,
+            66,
+            897,
+            114
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "0010-938X(94)00095-6",
+        "bbox": [
+            389,
+            134,
+            595,
+            150
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1825",
+        "bbox": [
+            472,
+            939,
+            512,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "†Permanent address: Mechanical Enginecring Department, Amirkabir University of Technology, Hafez Avenue No. 424, Tehran, Iran.",
+        "bbox": [
+            85,
+            885,
+            894,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Manuscript received 12 June 1994.",
+        "bbox": [
+            111,
+            913,
+            384,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/008b969aaee32a1bcda169f9b7cf5143ea49514b15c58f7c56b26ed61311f6ca.jpg",
+        "table_caption": [
+            "Table 1. Elemental composition of the alloys (wt%)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>Fe</td><td>Cr</td><td>Ni</td><td>N</td><td>Mo</td><td>Mn</td><td>Si</td><td>Cu</td><td>B,C,Al,P,S</td></tr><tr><td>Fe-17Cr-13Ni-0.15N</td><td>69.8</td><td>17</td><td>13</td><td>0.157</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fe-18Cr-10Ni (ultra pure)</td><td>72</td><td>18</td><td>10</td><td>&lt;10 ppm</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Type 304 stainless steel</td><td>72.01</td><td>17.38</td><td>8.28</td><td>0.04</td><td>0.14</td><td>1.43</td><td>0.49</td><td>0.15</td><td>&lt;0.1</td></tr></table>",
+        "bbox": [
+            85,
+            110,
+            890,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            249,
+            894,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical experiments were carried out in an inert gas glove box by using a 0.5 M $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ solution which was de-aerated by purging with $\\mathbf { N } _ { 2 } .$ Sample disks of 10 mm diameter were mounted in the electrochemical glass cell equipped with a platinum counter electrode and a mercurous sulfate reference electrode. The electrode potentials reported in this work are referenced to the standard hydrogen electrode (SHE). Following insertion of the samples into the electrochemical cell, they were cathodically reduced (-1 V, 300 s) prior to measurement of the anodic polarization curve. Polarization curves were recorded using a voltage sweep rate of $1 \\mathrm { m } \\mathrm { V } \\mathrm { s } ^ { - 1 }$ while sample passivation prior to surface analysis was carried out by a potential step to 650 or 1050 mV(SHE) for different times of passivation (1, 15, 30 and 120 min). The passivated electrodes were removed from solution under applied potential, rinsed immediately in ultra-pure water, dried in nitrogen gas and then transferred to the surface analysis system using the transfer vessel and the fast entry port located on the preparation chamber of the spectrometer. A survey XPS spectrum of each sample was immediately recorded to determine its surface cleanliness. The presence of a C 1s signal reveals the existence of a contamination layer; the only metallic elements detected were the constituting elements of the alloys. High resolution XPS spectra were acquired for seven energy regions corresponding to the core levels: Fe $\\begin{array} { r } { 2 { \\bf p } _ { 3 / 2 } , \\mathrm { C r } 2 { \\bf p } _ { 3 / 2 } , \\mathrm { N i } 2 { \\bf p } _ { 3 / 2 } , \\mathrm { O } 1 { \\bf s } _ { 1 / 2 } , \\mathrm { N } 1 { \\bf s } _ { 1 / 2 } , \\mathrm { S } 2 { \\bf p } _ { 3 / 2 , 1 / 2 } } \\end{array}$ and $\\mathrm { C } 1 \\mathbf { s } _ { 1 / 2 }$ The data processing was carried out using curve-fitting procedures based on reference spectra obtained for the clean and oxidized stainless steels. XPS measurements were obtained using an Al Kα Xray source $( \\mathsf { h } \\nu = 1 4 8 6 . 6 \\mathsf { e V } )$ and a hemispherical analyser, with a pass energy of 20 eV for the high resolution spectra. The spectrometer (VG ESCALAB MK II) was calibrated using the $\\mathbf { A u } 4 \\mathrm { f } _ { 7 / 2 }$ (binding energy $( \\mathbf { B E } ) = 8 4 . 0 \\ : \\mathrm { e V } )$ and Cu $2 \\mathrm { p } _ { 3 / 2 } \\left( \\mathrm { B E } = 9 3 2 . 7 \\mathrm { e V } \\right)$ peaks.",
+        "bbox": [
+            80,
+            293,
+            897,
+            580
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Composition depth profiles of passive films on the stainless steels were obtained by ion sputtering the surface, using a VG AG60 ion gun mounted in the analysis chamber, under the following conditions: an ion beam voltage of 4 kV and a current density of $0 . 5 \\mu \\mathrm { A } \\mathrm { c m } ^ { - 2 }$",
+        "bbox": [
+            80,
+            580,
+            894,
+            624
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL RESULTS AND DISCUSSION",
+        "text_level": 2,
+        "bbox": [
+            225,
+            657,
+            749,
+            674
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical behaviour",
+        "text_level": 2,
+        "bbox": [
+            85,
+            684,
+            351,
+            699
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the potentiodynamic (i-E) curves for the Fe-17Cr-13Ni-0.15N alloy, the ultra-pure alloy (Fe-18Cr-10Ni) and the 304 stainless steel in $0 . 5 \\mathrm { M } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ solution. The potential scan $( 1 \\mathrm { m } \\mathrm { V } \\mathrm { s } ^ { - 1 } )$ was carried out from -350 to 1350 mV(SHE). The salient electrochemical features are reported in Table 2. The current at the peak maximum varies in the following order:alloy with 0.15% N > alloy without N » 304 stainless steel. The major difference is mainly associated with the presence of a small amount of molybdenum (0.14%) in the 304 stainless steel. The residual currents in the passive state are similar for the three alloys.",
+        "bbox": [
+            82,
+            701,
+            894,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/78e4c21645c9097776803aa0df2a4597f434ef0131002a96059767552fa0bbf5.jpg",
+        "table_caption": [
+            "Table 2. Electrochemical data"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Alloys</td><td>Corrosion potential (mV(SHE))</td><td>Potential at the peak maximum (mV(SHE))</td><td>Current at the peak maximum  $( \\mu \\mathbf { A } \\ \\mathsf { c m } ^ { - 2 } )$ </td><td>Current in the passive state  $( \\mu \\mathbf { A } \\thinspace \\thinspace \\mathbf { c m } ^ { - 2 } )$ </td></tr><tr><td>Fe-17Cr-13Ni-0.15N</td><td>-159</td><td>-40</td><td>1225</td><td>2</td></tr><tr><td>Fe-18Cr-10Ni</td><td>-180</td><td>-40</td><td>600</td><td>2.7</td></tr><tr><td>Type 304 stainless steel</td><td>-130</td><td>-70</td><td>18</td><td>1.8</td></tr></table>",
+        "bbox": [
+            82,
+            804,
+            892,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "1826",
+        "bbox": [
+            87,
+            60,
+            127,
+            75
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus",
+        "bbox": [
+            286,
+            60,
+            691,
+            76
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e9fe7ec1cf2df816d4b680770dddbc5fa6feca2dff2f07cc064e5934770d0e4e.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 1. Potentiodynamic curves for the three alloys in 0.5 M $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } ( 1 \\mathrm { m V } \\mathrm { s } ^ { - 1 } )$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            234,
+            96,
+            697,
+            427
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            483,
+            897,
+            550
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the XPS analysis of passive films, the passivation was carried out by stepping the potential from the corrosion potential to the passivation potential of 650 mV(SHE). The recorded current versus time plots are shown in Fig. 2. Inspection of the curves reveals that the three alloys exhibit similar behaviours in potentiostatic experiments.",
+        "bbox": [
+            85,
+            550,
+            897,
+            604
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/a1798defcab37ddf5d5ea73a4691db95ed034851ef7abb25b7e1850a3842000a.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 2. Potentiostatic curves for the three alloys in 0.5 M $\\mathrm { H _ { 2 } S O _ { 4 } }$ (at 650 mV(SHE))."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            172,
+            631,
+            798,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "The role of N2 on austenitic stainless steels",
+        "bbox": [
+            319,
+            62,
+            657,
+            77
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "1827",
+        "bbox": [
+            852,
+            60,
+            892,
+            75
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0ce38c07db01ec76723c56170a72b4a7aa6061e22bcc7bf227b8a577e09627aa.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 3. Potentiodynamic curves for 304L and 304LN stainless steels in 1 M $\\mathbf { H } _ { 2 } \\mathbf { S } \\mathbf { O } _ { 4 }$ at $6 0 \\mathrm { { ^ \\circ C } }$ (0.25 mV s−1)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            210,
+            94,
+            776,
+            349
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            403,
+            897,
+            439
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If the results of the potentiodynamic and potentiostatic experiments are compared for the $\\mathrm { F e } { - } 1 7 \\mathrm { C r } { - } 1 3 \\mathrm { N i } { - } 0 . 1 5 \\mathrm { N }$ and the ultra-pure alloy, nitrogen added to the alloy does not apparently influence markedly on the response of the material to anodic polarization. Additional experiments have been carried out to compare the general corrosion behaviour of 304L and 304LN stainless steels (containing 0.068 and 0.145% N, respectively) in 1 M ${ \\bf H } _ { 2 } { \\bf S O } _ { 4 }$ at $6 0 \\mathrm { { ^ \\circ C } }$ . The results are presented in Fig. 3. They show that the addition of N to the 304L stainless steel is detrimental in the active state. No significant effect is observed in the passive state.",
+        "bbox": [
+            82,
+            439,
+            897,
+            577
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the passive films",
+        "text_level": 2,
+        "bbox": [
+            85,
+            593,
+            364,
+            611
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The spectra recorded after argon ion sputter cleaning of the Fe-17Cr-13Ni– 0.15N alloy and after passivation of the three alloys at 650 mV(SHE) are shown in Fig. 4 for the take-off angle of $9 0 ^ { \\circ }$ (angle of the sample surface with the direction in which the electrons are analysed). The detection of XPS signals emitted by the alloy elements (Fe,Cr,Ni) indicates that the passive film is very thin. The curve fitting of the spectra in Fig. 4 was performed in the way described previously, using reference spectra recorded with reference materials.'",
+        "bbox": [
+            82,
+            611,
+            897,
+            730
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Fe $2 { \\tt p } _ { 3 / 2 }$ signal has been resolved into $\\mathsf { F e } ^ { 2 + }$ and $\\mathsf { F e } ^ { 3 + }$ . The Cr $2 { \\bf p } _ { 3 / 2 }$ region indicates a marked enrichment of ${ \\mathrm { C r } } ^ { 3 + }$ in the passive film for the $\\mathrm { F e { - } } 1 7 \\mathrm { C r { - } } 1 3 \\mathrm { N i - }$ 0.15N alloy as well as for the ultra pure and the 304 alloys. The chromium signal was resolved into chromium oxide $\\dot { \\mathrm { C r } } ^ { 3 + } { \\bf o x } \\left( { \\bf C r } _ { 2 } { \\bf O } _ { 3 } \\mathrm { \\Delta t y p e } \\right)$ and chromium hydroxide $\\mathbf { C r ^ { 3 + } h y } \\left( \\mathbf { C r ( O H ) } _ { 3 } \\mathbf { t y p e } \\right)$ .7 Nickel oxide is not detected in the passive films of the three alloys, in agreement with other reported results.7.8",
+        "bbox": [
+            82,
+            730,
+            897,
+            832
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The oxygen (O 1s) region clearly shows the presence of the oxide $( 0 ^ { 2 - } )$ and hydroxide (OH⁻) states. A third peak is present corresponding to oxygen in ${ \\bf H } _ { 2 } \\mathrm { O }$ and $\\mathsf { S O } _ { 4 } ^ { 2 - }$ ions. These results are in agreement with XPS analysis of the passive film on austenitic stainless steels reported by others.8 It is observed here that the $O ^ { 2 - }$ signal is lower on the alloy with nitrogen than on the Fe-18Cr-10Ni alloy.",
+        "bbox": [
+            82,
+            831,
+            897,
+            917
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "1828",
+        "bbox": [
+            91,
+            60,
+            131,
+            73
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus",
+        "bbox": [
+            293,
+            60,
+            695,
+            76
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/71f077dafa111828ed74f0ad212d7b4c6c49d9b7bb5ad20bb4077f3091c10ef5.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 4. XPS spectra recorded at a take-off angle of 90° (the curve fitting of the N 1s spectra is reported in Fig. 5)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            91,
+            97,
+            894,
+            570
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the clean, unpassivated Fe-17Cr-13Ni-0.15N alloy the N 1s spectrum, recorded after 10 min of ion etching, shows a N 1s signal at 397.6 eV. After passivation the nitrogen XPS signal is considerably more intense. This result shows that nitrogen is enriched at the surface and incorporated in the passive film and the previous observation of the lower $O ^ { 2 - }$ signal is an indication that the nitrogen enrichment in the film takes place at the expense of the oxide content. In the Cr $2 { \\tt p } _ { 3 / 2 }$ spectrum of the nitrogen-containing alloy a broad intense peak at low binding energy is believed to be associatd with chromium in the underlying alloy and chromium located in the film and bonded to nitrogen.º The intensity of this peak is lower for the ultra pure and the 304 alloys, which indicates that chromium nitride is formed on the alloy containing nitrogen.",
+        "bbox": [
+            91,
+            645,
+            906,
+            834
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In an attempt to obtain a clearer picture of the chemical states of nitrogen in the passive film, the N 1s spectra were fitted by three peaks. The curve-fitted spectra are shown in Fig. 5. On the basis of previously reported resultsº the peak located at low binding energy (N(1) at $3 9 7 . 7 \\pm 0 . 1 \\mathrm { e V } )$ is assigned to nitride incorporated in the passive film. A significant N(1) peak is detected only on the alloys with bulk nitrogen (i.e. the Fe-17Cr-13Ni–0.15N and the 304 stainless steel which contains 0.04% of nitrogen). The intensity of N(1) is higher for the alloy with higher N content. This observation confirms that N(1) originates from bulk nitrogen. The peak located at a higher binding energy (N(2) at $4 0 0 . 2 \\pm 0 . 1 \\ : \\mathrm { e V } )$ ) may originate from N–H or N–O.6.9 The third peak located at an even higher binding energy (N(3) at $4 0 2 \\pm 0 . 1 \\ : \\mathrm { e V } )$ originates from nitrogen which may be under the form of $\\mathrm { N H } _ { 4 } ^ { + } .$ 9 Similar N 1s binding energy (399.9 and 402.5 eV) have been reported for the molecular adsorption of inhibitors (-NR3 and -N⁺R4) on gold surfaces1⁰ and for ${ \\mathrm { N } } _ { 2 } { \\mathrm { H } } _ { 4 }$ on Fe(111).11 The results for the N 1s XPS spectra at different depths in the passive film on the alloy show that the intensities of the high binding energy species decrease rapidly upon ion sputtering (Fig. 6). This confirms the location of these species to be at the passive film surface and supports the view that they are produced by reaction with electrolyte. The peaks N(2) and N(3) were detected on the three alloys after passivation (Fig. 5). The fact that they are detected even on the ultra-pure alloy with a nominal nitrogen content less than 10 ppm indicates that these species may come not only from the bulk nitrogen but also from nitrogen-containing species present at trace level in the solution.",
+        "bbox": [
+            91,
+            832,
+            908,
+            919
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "The role of N2 on austenitic stainless steels",
+        "bbox": [
+            324,
+            62,
+            659,
+            77
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "1829",
+        "bbox": [
+            856,
+            60,
+            897,
+            73
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/acda33b86109b034609414cc3c18a492947f0428048b0b823bbb0e0590d4ff63.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 5. Curve fitting of the N 1s spectra of: (a) the 304-type alloy, (b) the Fe-–18Cr-10Ni (ultra-pure) alloy and (c) the Fe-17Cr-13Ni–0.15N alloy. (cps) counts per second; (θ) takeoff angle of the electrons."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            252,
+            127,
+            774,
+            849
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "1830",
+        "bbox": [
+            120,
+            60,
+            161,
+            75
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus",
+        "bbox": [
+            322,
+            60,
+            724,
+            77
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c7414a8163e47ae0eb656c0291caa536d77ca1db9f8e2031315d21b7ca57cfb6.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 6. XPS sputter depth profile for the passive film formed at 650 mV(SHE) (30 min) on the Fe-17Cr-13Ni-0.15N alloy."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            246,
+            100,
+            756,
+            443
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            505,
+            899,
+            800
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Complementary experiments have revealed that N(2) and N(3) are also observed when the nitrogen atmosphere in the glove box is replaced by argon, showing that these species do not come from reaction with gaseous nitrogen or nitrogen dissolved in the electrolyte.",
+        "bbox": [
+            85,
+            798,
+            899,
+            866
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For comparison between wet and dry oxidation an oxide layer was formed on the 304 stainless steel in pure oxygen at 500°C $( \\mathsf { p O } _ { 2 } = 1 0 ^ { - 5 }$ mbar) in the preparation chamber of the XPS spectrometer. The spectrum (Fig. 5a) shows that the intensity of the N(3) peak on the oxide layer is much lower than the intensity observed after the passivation experiments which supports the view that this species is formed by reaction with the aqueous solution. It is noted that two new peaks were detected after dry oxidation: one at $3 9 9 . 2 \\ : \\mathrm { e V } \\left[ \\mathrm { N } ( 2 ^ { \\prime } ) \\right]$ which may correspond to nitrogen bonded to $\\mathbb { H } ^ { \\check { 9 } , 1 2 , 1 3 }$ and the other at 404 eV [N(4)] which may correspond to nitrogen bonded to oxygen.9 The chemical state of nitrogen segregated on the alloy surface during high temperature annealing in UHV was also investigated on the 304 alloy. After cleaning the surface by argon ion sputtering, the alloy was heated for 60 min in ultra-high vacuum in the preparation chamber of the XPS system at $T = 5 0 0 ^ { \\circ } \\mathrm { C }$ .The N 1s spectrum is shown in Fig. 5a. An intense N 1s signal at the position of N(1) is observed. It corresponds clearly to N-metal bonds formed by surface segregation of bulk nitrogen.",
+        "bbox": [
+            85,
+            866,
+            899,
+            917
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "The role of N2 on austenitic stainless steels",
+        "bbox": [
+            322,
+            60,
+            657,
+            76
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "1831",
+        "bbox": [
+            854,
+            60,
+            892,
+            73
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            93,
+            897,
+            300
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To aid in locating the different nitrogen species in the passive film, composition depth profiles were recorded by ion sputtering and XPS analysis. The results are shown in Fig. 6 for the N-bearing alloy. The XPS signal emitted by ${ \\mathsf { O } } ^ { 2 - }$ in the passive film is shown as an indicator of the depth scale during argon sputtering. For the three alloys, the $\\mathrm { O H } ^ { - } / \\mathrm { O } ^ { 2 - }$ intensity ratio decreases with sputtering time, confirming that the hydroxide layer constitutes the outer part of the film. The slow decrease of the intensity of the N(1) peak at low binding energy (397.7 eV), corresponding to N– metal bonds, indicates that the nitride is present in the inner part of the passive film near the passive film/alloy interface. The results for N(2) and N(3) at different depths in the passive film show the high binding energy nitrogen species to be mainly at the passive film surface, confirming that they are produced at least in part via reaction with the electrolyte.",
+        "bbox": [
+            82,
+            300,
+            897,
+            507
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Angle-dependent XPS measurements of the N 1s region were carried out in order to obtain additional information on the location of N(1), N(2) and N(3) in the passive film. The spectra for two take-off angles, $9 0 ^ { \\circ }$ and $5 0 ^ { \\circ }$ , are shown in Fig. 5c. The results show that the N(2) component is present on the passive film surface whereas N(1) is in the inner oxide part of the film. The results for N(3) are ambiguous as N(3) was found to be somewhat unstable during long exposure to the X-ray beam.",
+        "bbox": [
+            82,
+            507,
+            897,
+            610
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the effect of time of polarization and potential on the segregation of nitrogen in the passive film, passivation experiments were carried out for the Fe-17Cr-13Ni-0.15N alloy at two different potentials, 650 and 1050 mV(SHE), for 1, 15, 30 and 120 min. The N 1s XPS spectrum recorded after 30 min at 650 mV(SHE) and at 1050 mV(SHE) are shown in Fig. 5c. The recorded intensities of OH⁻, ${ \\cal O } ^ { 2 - } , { \\bf N } ( 1 )$ , N(2) and N(3) versus time of polarization are plotted in Fig. 7. Inspection of the curves reveals that the intensity of the N(1) signal decreases with the time of polarization for the first \\~15-30 min and then becomes constant. The $O ^ { 2 - }$ signal first increases and becomes constant after \\~15-30 min of passivation. These results are consistent with the view that N(1) is associated to nitride forming at the alloy/passive film interface during passive film growth and that the growth of the passive film covering the nitride causes the attenuation of the signal emitted by N(1) at the interface. The N(1) signal becomes constant when the passive film has reached a stationary thickness.",
+        "bbox": [
+            82,
+            609,
+            899,
+            847
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The larger scatter in the data recorded for N(2) and to a larger extent for N(3), which likely results from contamination of the solution by nitrogen containing species, makes it difficult to analyse the observed variation of these signals with potential and time.",
+        "bbox": [
+            85,
+            847,
+            897,
+            915
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "1832",
+        "bbox": [
+            87,
+            60,
+            129,
+            75
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus",
+        "bbox": [
+            288,
+            60,
+            693,
+            76
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "chart",
+        "img_path": "images/cd45e8c0b1608a9d55d96e50c22bd55fa2dbc3a494ee848c65595ed5f7758064.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 7. The recorded intensities of $O ^ { 2 ^ { - } }$ , OH\", N(1), N(2) and N(3) signals versus time of polarization for the Fe-17Cr-13Ni–0.15N alloy."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            232,
+            90,
+            747,
+            538
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS",
+        "text_level": 2,
+        "bbox": [
+            402,
+            603,
+            581,
+            618
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical behaviour and the surface composition of Fe-17Cr-13Ni– 0.15N stainless steel have been investigated with special emphasis on the role of nitrogen. The addition of nitrogen does not improve the general corrosion behaviour of the alloy.",
+        "bbox": [
+            82,
+            628,
+            897,
+            698
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After passivation of the alloy, three chemical states of nitrogen are detected: the high and intermediate binding energy peaks are assigned to nitrogen species located at the surface of the passive film and are produced at least in part via reaction with the electrolyte. The peak at low binding energy corresponds to N-metal (essentially Cr) bonds under the form of nitride, present in the inner part of the passive film near the passive film/alloy interface. This nitride phase is formed by anodic segregation of the nitrogen contained in the alloy, during the dissolution stage preceding passivation.",
+        "bbox": [
+            82,
+            698,
+            899,
+            820
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES",
+        "text_level": 2,
+        "bbox": [
+            409,
+            842,
+            574,
+            858
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Y. C. Lu, R. Bandy, C. R. Clayton and R. C. Newman, J. electrochem. Soc. 130, 1774 (1983).",
+            "2. J. E. Truman, M. J. Coleman and K. R. Pirt, Br. Corros. J. 12, 236 (1977).",
+            "3. R. Bandy and D. Van Rooyen, Corrosion 39, 227 (1983).",
+            "4. J. J. Eckenrod and C. W. Kovack, ASTM STP 679, p. 17. Philadelphia, PA (1977)."
+        ],
+        "bbox": [
+            96,
+            866,
+            852,
+            881
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "The role of N2 on austenitic stainless steels",
+        "bbox": [
+            319,
+            60,
+            657,
+            76
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "1833",
+        "bbox": [
+            854,
+            60,
+            894,
+            73
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "5. K. Osozawa and N. Okato, Passivity and its Breakdown on Iron and Iron Based Alloys, p. 135. NACE (USA-Japan Seminar, Honolulu), Houston, TX (1976)",
+            "6. P. Marcus and M. E. Bussell, Appl. Surf. Sci. 59, 7 (1992).",
+            "7. E. De Vito and P. Marcus, Surf. Interface Anal. 19, 403 (1992).",
+            "8. B. Brox and I. Olefjord, Proc. Stainless Steel 84, Göteborg, Sweden, p. 134. The Institute of Metals, London (1985).",
+            "9. C. R. Clayton, L. Rosenzweig, M. Oversluizen and Y. C. Lu, in Surfaces, Inhibition and Passivation (eds E. McCafferty and R. J. Brodd), p. 323. The Electrochemical Society, Pennington, NJ (1986).",
+            "10. A. Swift, A. J. Paul and J. C. Vickerman, Surf. Interface Anal. 20, 27 (1993).",
+            "11. M. Grunze, Surf. Sci. 81, 603 (1979).",
+            "13. C. R. Clayton and K. G. Martin, Proc. Conf. on High Nitrogen Steels (eds J. Foct and A. Hendry), p. 256. The Institute of Metals, London (1989).",
+            "12. R. D. Willenbruch, C. R. Clayton, M. Oversluizen, D. Kim and Y. Lu, Corros. Sci. 31, 17 (1990)."
+        ],
+        "bbox": [
+            93,
+            93,
+            892,
+            120
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "1834",
+        "bbox": [
+            87,
+            62,
+            127,
+            73
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "A. Sadough Vanini, J.-P. Audouard and P. Marcus",
+        "bbox": [
+            288,
+            62,
+            691,
+            76
+        ],
+        "page_idx": 9
+    }
+]

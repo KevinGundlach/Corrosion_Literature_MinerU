@@ -1,0 +1,1242 @@
+[
+    {
+        "type": "text",
+        "text": "correlation exists between the SCC behavior of Ti and 4130 steel and the surface-layer stress coefficient. Further, analytical expressions of the type",
+        "bbox": [
+            29,
+            22,
+            477,
+            63
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/482510ed6caa2aa133a8a11b49100deea113f9710e77218cec53cafe6ba34c18.jpg",
+        "text": "$$\n\\mathbf { V } = \\mathbf { V } _ { 0 } \\left[ \\mathbf { C _ { s } } \\cdot \\mathbf { C _ { s } ( 0 ) } \\right] ^ { \\mathbf { b } }\\tag{1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            180,
+            70,
+            323,
+            88
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1c797b127096fbd67fdf98db777ebe4e57c7ae1000f307c33a39894f37c43664.jpg",
+        "text": "$$\n\\mathbf { K } _ { \\mathbf { I S C C } } = \\mathbf { A } \\cdot \\mathbf { B C } _ { s }\\tag{8}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            195,
+            98,
+            312,
+            113
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/71af1c219bed3b2f730f55a51aa01b7285cbc6f802ff0311eaca260f61bf3774.jpg",
+        "text": "$$\n\\mathbf { t } _ { \\mathbf { f } } = \\alpha \\mathbf { C } _ { \\mathbf { S } } ^ { - \\mathbf { p } } + \\mathbf { t } _ { \\mathbf { O } }\\tag{11}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            206,
+            122,
+            301,
+            139
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "may be used to describe the SCC behavior as a function of the stress intensity factor and the environment. Although it may be coincidental, note that the exponent (b) is the same for the titanium alloy and the steel. Further the exponent (p) is the same for the steel and the titanium alloy. The exponent (b) is also nearly equal to $| 1 / \\mathbf { P } \\ |$",
+        "bbox": [
+            31,
+            150,
+            478,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "for both metals.",
+        "bbox": [
+            513,
+            21,
+            625,
+            34
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It appears that data of the type contained in Equations (7) and (9) may be used to predict SCC in environments other than those used in this investigation. By assuming that the constants in the equations for a given metal are independent of the specific environment, it appears that the SCC behavior of a metal can be characterized by determining the surface-layer stress coefficient $( \\mathrm { C _ { \\mathrm { { S } } } ) }$ in that environment.",
+        "bbox": [
+            513,
+            34,
+            963,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment",
+        "text_level": 2,
+        "bbox": [
+            674,
+            134,
+            808,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper was supported in part by the Air Force Office of Scientific Research under Contract F44620-74-C-0032.",
+        "bbox": [
+            515,
+            147,
+            965,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reference",
+        "text_level": 2,
+        "bbox": [
+            700,
+            184,
+            780,
+            198
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. I. R. Kramer. Trans TMS-AIME, Vol. 233, p. 1462 (1965)."
+        ],
+        "bbox": [
+            519,
+            198,
+            919,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Nitrogen Content in a 18Cr-5Ni-10Mn Stainless Steel on the Pitting Susceptibility in Chloride Solutions\\*",
+        "text_level": 1,
+        "bbox": [
+            188,
+            281,
+            806,
+            355
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. JANIK-CZACHOR, E. LUNARSKA, and Z. SZKLARSKA-SMIALOWSKA\\*",
+        "bbox": [
+            330,
+            396,
+            665,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            457,
+            467,
+            537,
+            482
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anodic behavior of 18Cr-5Ni-10Mn steels containing 0.07 to 0.35% nitrogen was studied in a 0.1N $\\mathsf { H } _ { 2 } \\mathsf { S O } _ { 4 }$ solution with additions of 0.01 to 0.1N NaCl. The nitrogen content in these steels does not significantly affect their passive behavior but increases their pitting resistance. The most susceptible sites for pit nucleation are boundaries between the austenite matrix and some second-phase precipitates (presumably carbides). The effect of nitrogen on the pitting resistance of Cr-Ni-Mn steels is discussed with respect to their phase compositions.",
+        "bbox": [
+            162,
+            495,
+            831,
+            573
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The chromium-manganese steels may be modified by additions of nickel (commonly 4 to 5%) and nitrogen, which both are effective as austenite-stabilizing components. Since the introduction of N into a steel is a rather difficult technological process, this element is most often added together with Mn. The upper limit of the N content in 18Cr steel is about 0.2%,1 but in the presence of about 10% Mn, it can be raised to $0 . 4 6 \\% ^ { 2 }$ without initiating formation of gas bubbles within the solid metal. The lower limit of the N content necessary to stabilize the austenitic phase at a given Cr and Ni content depends upon the presence of other elements, particularly carbon.",
+        "bbox": [
+            32,
+            604,
+            480,
+            744
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The corrosion behavior of 18Cr-5Ni steels alloyed with Mn and N is not well known.³ The behavior in chloride solutions is an important concern. No systematic investigation of the effect of nitrogen on the susceptibility of these steels to pitting has been performed. The aim of this work, in connection with the previous work,³ was to bridge this gap.",
+        "bbox": [
+            32,
+            743,
+            480,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental",
+        "text_level": 2,
+        "bbox": [
+            202,
+            830,
+            308,
+            844
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Steels used for this study were kindly supplied by the Institute of Iron Metallurgy in Gliwice, Poland. They were in the form of hot forged rods, 18 mm in diameter. Compositions of steels are given in Table 1.",
+        "bbox": [
+            32,
+            844,
+            480,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/057a2e30161f5c092fc39ed28f29cbff11a54264ad97606be909aed429bf7f7e.jpg",
+        "table_caption": [
+            "TABLE 1 — Chemical Composition of 18Cr-5Ni-10Mn Stainless Steels(1)(%)",
+            "(1)Chemical analysis was performed by the Institute of Iron Metallurgy, Gliwice, Poland."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>C</td><td>Mn</td><td>Si</td><td>P</td><td>S</td><td>Cr</td><td>Ni</td><td>N</td></tr><tr><td>0.0185</td><td>9.9</td><td>0.44</td><td>0.027</td><td>0.018</td><td>18.1</td><td>5.7</td><td>0.17</td></tr><tr><td>0.025</td><td>9.6</td><td>0.23</td><td>0.030</td><td>0.018</td><td>17.7</td><td>5.6</td><td>0.12</td></tr><tr><td>0.024</td><td>10.4</td><td>0.22</td><td>0.027</td><td>0.022</td><td>17.4</td><td>5.5</td><td>0.07</td></tr><tr><td>0.020</td><td>10.2</td><td>0.31</td><td>0.026</td><td>0.024</td><td>17.8</td><td>5.2</td><td>0.25</td></tr><tr><td>0.020</td><td>10.7</td><td>0.32</td><td>0.029</td><td>0.022</td><td>18.2</td><td>5.4</td><td>0.35</td></tr></table>",
+        "bbox": [
+            519,
+            638,
+            957,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The steels were tested in the as-received and quenched conditions. The steels were water quenched after 1 hour of heating in air at 1120 C. The specimen preparation, as well as the experimental procedure, are described elsewhere.³ Additional measurements of the relative ability to passivate were performed potentiokinetically using a scanning rate of 2V/h.",
+        "bbox": [
+            513,
+            793,
+            965,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To compare the susceptibility of the steels to pitting, potentiokinetic polarization curves were measured in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ solution containing from 0.01 to 0.1 NaCl. From these curves, the potentiokinetic potential of pit nucleation $( \\mathrm { E _ { n p } ^ { \\prime } } )$ was estimated. However, the potentiokinetic determination of $\\dot { \\mathrm { E } } _ { \\mathrm { n p } } ^ { \\prime }$ gives information only about the relative susceptibility of the materials to pitting $( \\tau _ { \\mathrm { i n d } } )$ and the pit number.(n) were measured at different potentials in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 0 5 \\mathrm { N }$ NaCl solution. The values of τind were determined from current density (cd) vs time curves at constant potential. Considering that at $\\mathrm { { E } _ { n p } }$",
+        "bbox": [
+            513,
+            869,
+            965,
+            946
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication April, 1974.",
+        "bbox": [
+            34,
+            906,
+            297,
+            920
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Institute of Physical Chemistry of the Polish Academy of Sciences, Warsaw, Kasprzaka 44, Poland.",
+        "bbox": [
+            34,
+            920,
+            477,
+            945
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "394",
+        "bbox": [
+            36,
+            962,
+            69,
+            974
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            802,
+            962,
+            961,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c74e0e175990b560a924f83f07a6c4a857b760e9d664fa2cddb8f8018c2835d7.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 1 — Anodic polarization curves for several steels in 0.1N ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 } + { \\sf 0 } .$ 1N NaCl."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            46,
+            34,
+            483,
+            204
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            42,
+            269,
+            479,
+            335
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/85787f5f6969974b516b0ffcef8b4217f745a330d1eee54c247c2078f4e2b8d2.jpg",
+        "text": "$$\n\\tau _ { \\mathrm { i n d } } \\to \\infty , \\mathrm { a n d ~ } \\mathfrak { n } \\to 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            191,
+            345,
+            327,
+            359
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "one can estimate the value of $\\mathrm { { E } _ { n p } }$ for a given system.4 The $\\mathrm { { E } _ { n p } }$ value so estimated corresponds to the lower limit of the potential range within which the pit nucleation can occur.",
+        "bbox": [
+            42,
+            374,
+            477,
+            415
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results",
+        "text_level": 2,
+        "bbox": [
+            232,
+            438,
+            289,
+            452
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phase Composition",
+        "text_level": 2,
+        "bbox": [
+            44,
+            463,
+            187,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metallographic examination showed that in the hot-forged condition the steels with 0.12, 0.25, and 0.35% N were austenitic, whereas those with 0.07 and 0.17% N contained austenite with a small amount of δ-ferrite (with an excess of Cr and relatively less Fe, Ni, and Mn than in the γ-phase). Some small second-phase particles also occurred. Electron microprobe analysis identified these particles as carbides $( \\mathrm { M e } _ { 2 3 } \\mathrm { C } _ { 6 }$ type) and carbonitrides $[ \\mathrm { M e } _ { 2 } ( \\mathrm { C } , \\mathrm { N } ) \\mathrm { t y p e } ]$ . Pure nitrides were very rare. Possible changes in structure and composition of the precipitates in 18Cr-5Ni-10Mn steels due to different N contents were not studied.",
+        "bbox": [
+            44,
+            477,
+            479,
+            603
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The X-ray analysis did not detect any σ-phase in the materials under investigation.",
+        "bbox": [
+            42,
+            603,
+            479,
+            628
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quenching did not induce a significant change in the phase composition, apart from a certain homogenization of the alloys. In the two-phase steels, the boundaries between δ and γ-phases became less susceptible to etching; the inclusions of carbides and carbonitrides underwent coagulation, and their number decreased slightly.",
+        "bbox": [
+            42,
+            628,
+            479,
+            693
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measurements",
+        "text_level": 2,
+        "bbox": [
+            42,
+            703,
+            153,
+            716
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some examples of polarization curves in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } \\ + \\ 0 .$ 1N NaCl are shown in Figure 1. For the steel containing 0.35% N, the following characteristic points are indicated in Figure 1: critical current density for passivation $( \\mathrm { i } _ { \\mathbf { k } \\mathbf { p } } )$ , critical passivation potential $( { \\mathrm { E } } _ { \\mathbf { k p } } ) _ { i }$ current density in the passive state $( \\mathrm { i } _ { \\mathfrak { p } } ) _ { \\mathrm { : } }$ and potentiokinetic potential of pit nucleation $( \\mathrm { E _ { n p } ^ { \\prime } } )$ . Within the range of low anodic potentials, the shape of all the curves is nearly the same, while there is a distinct difference in the vicinity of $\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }$ , where a rise of the apparent current density is observed as a consequence of pitting. For comparison, a polarization curve for 18Cr-9Ni stainless steel is also plotted. This steel is passive in the solution used (there is no range of anodic dissolution), and the breakdown at $\\mathrm { { E } _ { n p } ^ { \\prime } }$ occurs at a potential about 100 mV more positive than that for the 18Cr-5Ni-10Mn-0.35N steel.",
+        "bbox": [
+            42,
+            716,
+            479,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similar results were obtained in the solution containing 0.05N NaCl. In the presence of only 0.01N NaCl, no breakdown of passivity occurred, and no distinct difference between the shape of the curves w&s observed for specimens with different N contents.",
+        "bbox": [
+            42,
+            890,
+            479,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2720371c84cba11103f204dbd2ffc890bae0e2dd3261609516a6c672d517f76a.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 2 — Effect of N content on the potentiokinetic potential of pit nucleation."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            516,
+            34,
+            951,
+            312
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In solutions containing from 0.01 to 0.1N NaCl, the following characteristic values were observed for different steels, independent of their N content:",
+        "bbox": [
+            513,
+            379,
+            951,
+            418
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/53b7921f2b79d3f72ff3c83810ed1c53aca0364dda9a61ff0111ea2e4622448f.jpg",
+        "text": "$$\n\\begin{array} { c } { { \\mathrm { E } _ { { \\bf k p } } = - 1 0 0 \\mathrm { ~ t o } \\cdot 5 0 \\mathrm { ~ m V } _ { \\bf N H E } } } \\\\ { { { \\bf i } _ { { \\bf k p } } = 4 \\mathrm { ~ t o } 8 \\mathrm { ~ m A } / \\mathrm { c m } ^ { 2 } } } \\\\ { { { \\bf i } _ { { \\bf p } } = 0 . 1 \\mathrm { ~ t o } 0 . 3 \\mathrm { ~ m A } / \\mathrm { c m } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            645,
+            436,
+            821,
+            504
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Before and after quenching, the results were practically identical. This means that the passivation tendency is neither affected by the N content and the steel treatment, nor by the $\\mathrm { C l } ^ { - }$ concentration in the solution.",
+        "bbox": [
+            513,
+            523,
+            951,
+            574
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The above conclusion was confirmed by potentiokinetic measurements performed in 0.1N H2SO₄ + 0.05N NaCl at a scanning rate of $2 \\mathrm { V } / \\mathrm { h }$ . For both the hot-forged and quenched steels with different N contents, the following results were observed:",
+        "bbox": [
+            511,
+            574,
+            953,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/329aad9a7edc0357ab0d663281d7817301bdba2bf2f955b97eeb22fe25984184.jpg",
+        "text": "$$\n{ \\begin{array} { c } { { \\mathbf { E } } _ { \\mathbf { k p } } = \\mathbf { a b o u t \\cdot 1 2 5 ~ t o \\cdot 8 5 ~ m V } _ { \\mathbf { N H E } } } \\\\ { { \\mathrm { i } } _ { \\mathbf { k p } } = 4 ~ { \\mathrm { t o } } ~ 9 ~ { \\mathrm { m A / c m } } ^ { 2 } } \\\\ { { \\mathrm { i } } _ { \\mathbf { p } } = 0 . 0 0 3 ~ { \\mathrm { t o } } ~ 0 . 0 1 ~ { \\mathrm { m A / c m } } ^ { 2 } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            624,
+            643,
+            840,
+            711
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pitting tendency was affected by both the N content in the steel and the $\\mathrm { C l } ^ { - }$ concentration in the solution. As shown in Figure $2 , \\mathrm { E _ { n p } ^ { \\prime } }$ increases with the percentage of N, and a twofold increase in Cl⁻ concentration shifts $\\mathrm { E _ { n p } ^ { \\prime } }$ about 200 mV in the negative direction. One can note for comparison that in the case of 18Cr-8Ni stainless steel, a tenfold increase in the $\\mathrm { C l } ^ { - }$ concentration shifted $\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }$ only 90 m $\\mathrm { v . } ^ { 5 }$ In the case of pure iron, a shift of 100 mV was observed.6",
+        "bbox": [
+            511,
+            729,
+            953,
+            830
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Comparison of the above results of $\\mathrm { E _ { n p } ^ { \\prime } }$ measurements with those for 18Cr-5Ni steels (Reference 3, Figure 5), suggests that the beneficial effect of N can balance the detrimental effect of Mn. The $\\mathrm { E _ { n p } ^ { \\prime } }$ potentials for Cr-Ni-Mn-N steels are more noble than those for Cr-Ni-Mn steels with more than 5% Mn. The $\\mathrm { { E } _ { n p } ^ { \\prime } }$ value of 18Cr-5Ni-10Mn-0.35N steel approaches that for the martensiticaustenitic steel 18Cr-5Ni with the lowest Mn content of 0.03% Mn.",
+        "bbox": [
+            511,
+            830,
+            951,
+            916
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows an example of $\\tau _ { \\mathrm { i n d } }$ vs E and n vs E relationships obtained in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } \\mathrm { ~ + ~ } 0 . 0 5 \\mathrm { N }$ NaCl for specimens containing",
+        "bbox": [
+            511,
+            916,
+            951,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 31, No. 11, November, 1975",
+        "bbox": [
+            46,
+            956,
+            289,
+            971
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "395",
+        "bbox": [
+            917,
+            956,
+            949,
+            970
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/655e445ad42bcb3708855016d0113b9aa9f198d3840192c9242ea02f39e547d2.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 3 — Effect of potential on the induction time and pit number for 18Cr-5Nk-10Mn steel containing 0.07% N."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            34,
+            42,
+            473,
+            415
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/35876ec2de10248ad6fcc029e58bae1cdc823ecc8be5a16bdeedda3cb6b35ad8.jpg",
+        "table_caption": [
+            "TABLE 2 - Effect of N Content in 18Cr-5Ni-10Mn Steel on Potential of Pit Nucleation"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>N</td><td> $\\mathsf { E } _ { \\mathsf { n p } }$ </td></tr><tr><td>0.07</td><td>100  $m v _ { N H E } < E _ { n p } < 1 1 5 m v _ { N H E }$ </td></tr><tr><td>0.12</td><td> $9 0 \\mathsf { m v } _ { \\mathsf { N H E } } < \\mathsf { E } _ { \\mathsf { n p } } < 1 1 5 \\mathsf { m V } _ { \\mathsf { N H E } }$ </td></tr><tr><td>0.17</td><td>340 mVNHE &lt;Enp &lt;360 mVNHE</td></tr><tr><td>0.25</td><td> $1 9 0 \\mathsf { m v } _ { \\mathsf { N H E } } < \\mathsf { E } _ { \\mathsf { n p } } < 2 1 5 \\mathsf { m v } _ { \\mathsf { N H E } }$ </td></tr><tr><td>0.35</td><td> $3 1 5 \\mathsf { m V } _ { \\mathsf { N H E } } < \\mathsf { E } _ { \\mathsf { n p } } < 3 4 0 \\mathsf { m V } _ { \\mathsf { N H E } }$ </td></tr></table>",
+        "bbox": [
+            97,
+            528,
+            416,
+            632
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.07% N. The estimated value of $\\mathrm { { { E } _ { n p } } }$ is also given. Similar measurements for the whole series of the steel under investigation gave results listed in Table 2.",
+        "bbox": [
+            29,
+            665,
+            478,
+            703
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 summarizes the results of $\\mathrm { { E } _ { n p } ^ { \\prime } }$ and $\\mathrm { { E } _ { n p } }$ values vs N contents. Assuming the linearity of these relationships one obtains by the least square fitting procedure:",
+        "bbox": [
+            29,
+            702,
+            480,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0a8e2b8b15f01cd724a914bb1a32c22f98821fa70e9c531d9ae8edac2898d4c8.jpg",
+        "text": "$$\n\\mathrm { \\bf E _ { n p } ^ { \\prime } } = 1 4 4 5 \\mathrm { \\bf ~ x } \\mathrm { \\bf ~ N } ( \\mathrm { \\mathcal { H } } _ { o } ) + 4 8 0 \\mathrm { \\ w i t h ~ c o r r e l a t i o n ~ c o e f f i c i e n t }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            79,
+            766,
+            434,
+            781
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/bd26e23d052f6d01b0c7ff3fb75ee4582619c14f3dafbef9f8330c4d0f362b02.jpg",
+        "text": "$$\n\\mathbf { R } = \\mathbf { 0 . 9 8 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            224,
+            791,
+            289,
+            803
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9135d716f72bea4519a84c59d833451f52ee0ac0448a647fe8b195d134661b23.jpg",
+        "text": "$$\n\\mathrm { a n d } ~ 6 9 5 ~ \\mathrm { x } ~ \\mathrm { N } ( \\% ) + 7 4 < \\mathrm { E } _ { \\mathrm { n p } } ~ [ \\mathrm { N } ( \\% ) ] < 7 2 2 ~ \\mathrm { x } ~ \\mathrm { N } ( \\% ) + 9 1\n$$",
+        "text_format": "latex",
+        "bbox": [
+            71,
+            815,
+            440,
+            830
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with correlation coefficients $\\mathtt { R } _ { 1 } = 0$ 66 and $\\ R _ { 2 } = 0 . 6 8 .$ respectively. As indicated by Figure 4, $\\mathrm { { E } _ { n p } \\ll \\mathrm { { E } _ { n p } ^ { \\prime } , } }$ which is a common feature, 4 and $\\mathrm { { E } _ { n p } }$ shows a tendency to increase with increasing N content.",
+        "bbox": [
+            31,
+            855,
+            478,
+            893
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By comparison of the corresponding $\\mathrm { E } _ { \\mathrm { k p } }$ and $\\mathrm { { E } _ { n p } }$ values, one can estimate the size of the stability range of the passive state of a given steel in a given aggressive medium. Taking into account that (as mentioned above) for all the steels $\\mathrm { E } _ { \\mathrm { k p } } = \\cong 1 0 0 : \\pi \\prime _ { \\mathrm { N H E } }$ , one can see from Figure 4 that the largest stability range (about 400 mV) is observed for steel with 0.35% N.",
+        "bbox": [
+            31,
+            896,
+            482,
+            948
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b5f5be906983ed5913dedab5dbdd10f65af9eec509d59cf8d17f0b1210a14077.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 4 — Effect of N content in steel on potentiokinetic $\\varepsilon _ { n \\mathbf { p } } ^ { \\prime }$ and $\\theta _ { \\mathsf { n p } }$ values."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            519,
+            42,
+            955,
+            303
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/8ce2e695eeb34ba9615da35bb1e78c79a7e663f971f192cee3bdd3cc069c6910.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 5 — Effect of potential on pit number."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            524,
+            376,
+            961,
+            756
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            805,
+            968,
+            830
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some examples of curves illustrating the effect of the potential on the number of pits in steels with different N content are given in Figure 5. In this case too, the steel containing 0.35% N shows the best results, i.e., the smallest pit number, particularly at higher polarization potentials.",
+        "bbox": [
+            515,
+            832,
+            966,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the above results have been obtained at 25 C. A modest temperature rise, e.g., to 40 C, significantly lowers the resistance of the steel examined to pitting. Thus, for the 18Cr-5Ni-10Mn-0.35N steel, the value of $\\mathrm { { E } _ { n p } }$ is shifted about 250 mV in the negative direction, and $\\tau _ { \\mathrm { i n i } }$ at 450 mV is shortened from about 30 minutes at 25 C to 1 minute at 40 C, i.e., the decrease of $\\tau _ { \\mathrm { i n d } }$ is one order of magnitude.",
+        "bbox": [
+            515,
+            897,
+            968,
+            948
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "396",
+        "bbox": [
+            33,
+            963,
+            66,
+            976
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            806,
+            963,
+            965,
+            977
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6383ab69432e68f071d11b718e5298bacb22988cfa598c3cc38ccac48888a49.jpg",
+        "image_caption": [
+            "FIGURE 6 — Typical micrograph of hot forged austeniticferritic steel after corrosion, δ-phase attacked. 2400X"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            24,
+            451,
+            288
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            30,
+            363,
+            467,
+            404
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Metallographic Examination After Corrosion",
+        "bbox": [
+            32,
+            434,
+            358,
+            448
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Typical micrographs of specimens after corrosion are shown in Figures 6-8. In the as-received (hot forged) steels containing the δ-phase (Figure 6), the formation of pits is assisted by the attack on the δ-phase, and the grains of both δ and γ-phases show a susceptibility to corrosion. On the contrary, in quenched specimens the δ-phase is not attacked (Figure 7).",
+        "bbox": [
+            30,
+            448,
+            467,
+            527
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The explanation of differences in the corrosion behavior of the δ-phase in hot-forged and quenched specimens is similar to that 3 given previously.",
+        "bbox": [
+            32,
+            536,
+            467,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microscopic examination revealed that the most susceptible locations for pit nucleation are sites situated in the vicinity of second phase precipitates within the austenitic matrix (Figures 7 and 8). When free of these precipitates, the grains of the austenite are not attacked.",
+        "bbox": [
+            30,
+            583,
+            467,
+            649
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            206,
+            686,
+            286,
+            698
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In austenitic stainless steels, the nitrogen is partly present in solid solution, and partly occurs as precipitate particles (nitrides and carbonitrides). The distribution ratio depends upon the N content. The upper limit of N concentration in solid solution is determined by its solubility in the austenite of the given composition. Therefore, at higher N contents, its distribution in precipitates must increase.",
+        "bbox": [
+            28,
+            700,
+            465,
+            790
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Consequently, it might be expected that in the steels under investigation, the composition and the properties of the austenite should not change very much with N content. On the contrary, the quantity of carbonitrides should increase.",
+        "bbox": [
+            28,
+            796,
+            465,
+            850
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is known that alloying elements which improve the passivity of the steel (Cr, Mo) increase the pitting resistance. On the other hand, some nonmetallic inclusions and precipitates of second phases, e.g., sulfides and complex sulfide-oxide inclusions, nucleate pits. -10 It is thought that the passive film over the matrix-inclusion boundaries are very defective. This favors the localized attack and decreases the stability of the passive state. However, other observations indicate that some second-phase particles and inclusions, e.g., titanium sulfide, do not initiate $\\mathsf { p i t s . }$ 11",
+        "bbox": [
+            28,
+            855,
+            467,
+            946
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4c839abc9d5dd43f3dca7441911116c1077188789c6689bbb4c78a6eae2f75b.jpg",
+        "image_caption": [
+            "FIGURE 7 — Typical micrograph of quenched austeniticferritic steel after corrosion, δ-phase immune. 2400X"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            525,
+            25,
+            924,
+            292
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            501,
+            363,
+            940,
+            390
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The present results show that the higher N contents in 18Cr-5Ni-10Mn steel improve the pitting resistance, but do not practically affect its passivation tendency. Corrosion pits mainly nucleate in the vicinity of precipitated particles.",
+        "bbox": [
+            501,
+            395,
+            940,
+            449
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It may be suggested that in the steels under investigation, the austenitic phase determines their ability to passivate. The secondphase precipitates do not significantly affect the passive state, but influence the susceptibility to pitting.",
+        "bbox": [
+            501,
+            453,
+            942,
+            505
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Some literature data show that in Cr-Ni-Mn-N steels the nitrogen forms carbonitrides of the $\\mathrm { M e } _ { 2 } ( \\mathrm { C } , \\Nu )$ type with a considerable C content, while the $\\mathrm { M e } _ { 2 3 } \\mathrm { C } _ { 6 }$ carbides do not incorporate N.12",
+        "bbox": [
+            501,
+            509,
+            940,
+            550
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An increase of the N content in the steel can induce either: (1) an increase of the quantitative ratio of carbonitrides to carbides, or (2) an increase of the N content in carbonitrides.",
+        "bbox": [
+            501,
+            554,
+            942,
+            594
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the first case, the amelioration of the pitting resistance would be due to a relative reduction of the number of carbide particles which are assumed to nucleate pits. In the second case, it is assumed that with enrichment of the carbonitrides in nitrogen, the corrosion resistance of their boundaries with the austenitic phase increases. At present, there is no decisive evidence indicating which of the above two assumptions is correct. However, observations made in our previous study,3 namely that in 18Cr-5Ni-Mn steels with very low N content the pits are predominantly nucleated at the carbide particles, favors the first explanation.",
+        "bbox": [
+            501,
+            598,
+            944,
+            728
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            677,
+            756,
+            770,
+            768
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. The presence of 0.07 to 0.35% N in 18Cr-5Ni-10Mn steels does not affect its practical ability to promote passivation in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ solutions containing from 0.01 to 0.1 N NaCl (the values of $\\mathbf { E } _ { \\mathbf { k p } } ,$ ikp, and $\\mathrm { i } _ { \\mathrm { p } }$ do not change with the composition of the steel).",
+        "bbox": [
+            501,
+            768,
+            942,
+            823
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. The pitting resistance increases with N content $( \\mathrm { E _ { n p } }$ increases whereas number of pitsdecreases with N content).",
+        "bbox": [
+            501,
+            827,
+            942,
+            853
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. The most susceptible locations for pit nucleation in the 18Cr-5Ni-10Mn steels, irrespective of N content, are boundaries between the austenite matrix and some precipitated particles (presumably carbides).",
+        "bbox": [
+            500,
+            858,
+            942,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. The beneficial effect of N can balance the detrimental effect of Mn on the resistance of 18Cr-5Ni steels to pitting.",
+        "bbox": [
+            500,
+            918,
+            940,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 31, No. 11, November, 1975",
+        "bbox": [
+            34,
+            960,
+            277,
+            975
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "397",
+        "bbox": [
+            906,
+            960,
+            939,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cae408b03742939ac41d7beb674477719b670004c1ca9410994af4cdf3cebe5.jpg",
+        "image_caption": [
+            "FIGURE 8 — Micrograph of quenched austenitic steel after corrosion; pits occur in the vicinity of precipitated particles. 2400X"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            24,
+            472,
+            292
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            697,
+            22,
+            783,
+            35
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. E. Houdremont. Handbuch der Sonderstahlkunde, v.II, Springer Verlag, Berlin (1956).",
+            "2. M. V. Pridantsev and F. L. Levin. Metallovedenie i Termicheskaya Obrabotka Metallov, No. 12, p. 11 (1965).",
+            "3. E. Lunarska, Z. Szklarska-Smialowska, and M. Janik-Czachor. Corrosion, Vol. 31, No. 7, p. 231 (1975).",
+            "4. Z. Szklarska-Smialowska and M. Janik-Czachor. Corrosion Sci., Vol. 11, p. 901 (1971).",
+            "5. H. P. Leckie, and H. H. Uhlig. J. Electrochem. Soc., Vol. 113, p. 1261 (1966).",
+            "6. M. Janik-Czachor. Brit. Corr, J., Vol. 6, p. 57 (1971).",
+            "7. Z. Szklarska-Smialowska and M. Janik-Czachor. Corr. Sci., Vol. 7, p. 65 (1967).",
+            "8. Z. Szklarska-Smialowska. Corrosion, Vol. 28, p. 338 (1972).",
+            "9. G. Eklund. Jernkont. Ann., Vol. 155, p. 637 (1971).",
+            "10. S. A. Glaskova, L. I. Freiman, G. S. Raskin, and G. L. Shvarc. Zashchita Metallov, Vol. 8, p. 660 (1972).",
+            "11. V. Cihal, I. Kasova, and Yu. Kubelka. Zashchita Metallov., Vol. 8, p. 19 (1972).",
+            "12. N. Lashko, K. Sorokina, and G. Georgieva. Metallovedenie i Termicheskaya Obrabotka Metallov, No. 10, p. 23 (1970)."
+        ],
+        "bbox": [
+            533,
+            36,
+            958,
+            62
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Study on Stress Corrosion Cracking of Austenitic Stainless Steel in Boiling Magnesium Chloride\\*",
+        "text_level": 1,
+        "bbox": [
+            144,
+            418,
+            872,
+            469
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KOJI HASHIMOTO\\*",
+        "bbox": [
+            431,
+            508,
+            592,
+            524
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            470,
+            564,
+            549,
+            579
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The anodic reaction within the transgranular stress corrosion crack of 18-8 stainless steel in boiling ${ \\sf M g C l } _ { 2 }$ was studied under the open circuit condition at constant tensile speeds. The entire crack sides were not passive during the crack propagation. Consequently, stress corrosion cracking (SCC) of 18-8 stainless steel in boiling ${ \\mathsf { M g C l } } _ { 2 }$ is thought to propagate under conditions similar to those for SCC of this alloy in acidic chloride solution at room temperature. The crack propagation rate (v) in the tensile crosshead speed region of $\\dot { \\epsilon } = 4 \\mathrm { ~ - ~ } 7 . 5 \\times { 1 0 } ^ { - 3 }$ mm/minute is described as $\\mathsf { v } = \\mathsf { a } \\dot { \\epsilon } + \\mathsf { b }$ , where a and b are constants. The rate is interpreted as the repetition of selective dissolution and subsequent ductile tearing at the crack tip. Crack propagation is controlled by selective anodic dissolution forming tunnels at the crack tip. In the high tensile crosshead speed region of $1 \\cdot 4 \\times { { 1 0 } ^ { - 2 } }$ mm/minute, crack propagation was not greatly accelerated because excess plastic deformation resulted in multiple crack initiation and work-hardening of the specimen.",
+        "bbox": [
+            182,
+            592,
+            838,
+            732
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Stress corrosion cracking (SCC) of austenitic stainless steels in hot chloride solutions has been considered¹ to occur by a repetitive film-rupture and refilming process. When the surface film is ruptured by slip-step emergence under plastic flow, localized preferential dissolution takes place on the bare metal, followed by a refilming process that stifles the dissolution reaction. Davis and ${ \\mathrm { W i l d e } } ^ { 2 }$ have reported the presence of a passivating film at steady state on Type 304 stainless steel in boiling $\\mathbf { M g C l } _ { 2 }$ which shows electrode kinetic behavior analogous to that of this alloy in oxygenated, acidic ${ \\ N a } _ { 2 } S { \\ O } _ { 4 }$ at room temperature. ${ \\mathrm { W i l d e } } ^ { 3 }$ has suggested that SCC is initiated by passive film rupture and propagates through stress assisted anodic dissolution at the crack tip.",
+        "bbox": [
+            53,
+            756,
+            493,
+            900
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            527,
+            756,
+            967,
+            782
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Localized corrosion at the crack tip can take place when general corrosion of the specimen surface and crack walls is inhibited. It has been indicated4-8 for SCC of austenitic stainless steels in acidic chloride solutions at room temperature that the stainless steel surface is not passive and that the inhibiting role of the $\\mathrm { C l } ^ { - }$ is one of the main factors in the occurrence of the localized corrosion during the active dissolution.",
+        "bbox": [
+            527,
+            782,
+            969,
+            870
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The localized, accelerated dissolution that occurs at yielding has been investigated using straining electrodes.9,10 Hoar and Ford,11 in studying the straining electrode behavior of Al-Mg wire exposed to chloride and sulfate solutions, have estimated the electrode kinetics during SCC by employing the rate of passivation which was estimated from the current decay found on cessation of plastic",
+        "bbox": [
+            527,
+            870,
+            969,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication April, 1975.",
+        "bbox": [
+            55,
+            906,
+            313,
+            920
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*The Research Institute for Iron, Steel, and Other Metals, Tohoku University, Sendai, Japan.",
+        "bbox": [
+            55,
+            920,
+            490,
+            945
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "398",
+        "bbox": [
+            57,
+            960,
+            89,
+            974
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            808,
+            963,
+            964,
+            977
+        ],
+        "page_idx": 4
+    }
+]

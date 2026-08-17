@@ -1,0 +1,6345 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9552,
+                "bbox": [
+                    123,
+                    115,
+                    213,
+                    200
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.91,
+                "bbox": [
+                    225,
+                    140,
+                    357,
+                    174
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9636,
+                "bbox": [
+                    741,
+                    123,
+                    1204,
+                    216
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8827,
+                "bbox": [
+                    633,
+                    1747,
+                    684,
+                    1774
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5545,
+                "bbox": [
+                    499,
+                    251,
+                    826,
+                    283
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9772,
+                "bbox": [
+                    147,
+                    354,
+                    1173,
+                    459
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9441,
+                "bbox": [
+                    219,
+                    492,
+                    1099,
+                    528
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9598,
+                "bbox": [
+                    238,
+                    551,
+                    1079,
+                    612
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9809,
+                "bbox": [
+                    114,
+                    645,
+                    1203,
+                    788
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9362,
+                "bbox": [
+                    116,
+                    797,
+                    678,
+                    828
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9436,
+                "bbox": [
+                    538,
+                    877,
+                    783,
+                    909
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988,
+                "bbox": [
+                    111,
+                    928,
+                    1205,
+                    1327
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9491,
+                "bbox": [
+                    436,
+                    1330,
+                    880,
+                    1364
+                ],
+                "index": 13,
+                "latex": "\\mathrm { P R E N } = \\% \\mathrm { C r } + 3 . 3 \\% \\mathrm { M o } + 1 6 \\% \\mathrm { N }"
+            },
+            {
+                "cls_id": 11,
+                "label": "formula_number",
+                "score": 0.9186,
+                "bbox": [
+                    1160,
+                    1334,
+                    1197,
+                    1367
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    111,
+                    1391,
+                    1200,
+                    1491
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9703,
+                "bbox": [
+                    111,
+                    1491,
+                    1201,
+                    1559
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9271,
+                "bbox": [
+                    146,
+                    1640,
+                    544,
+                    1670
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9061,
+                "bbox": [
+                    147,
+                    1669,
+                    394,
+                    1698
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9287,
+                "bbox": [
+                    146,
+                    1696,
+                    1119,
+                    1727
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    143,
+                    353,
+                    175
+                ],
+                "score": 1.0,
+                "text": "Pergamon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    744,
+                    125,
+                    1200,
+                    148
+                ],
+                "score": 0.999,
+                "text": "Corrosion Science, Vol. 38, No. 8, pp. 1319–1330, 1996"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    148,
+                    1198,
+                    168
+                ],
+                "score": 0.974,
+                "text": "Copyright © 1996 Elsevier Science Ltd"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    173,
+                    1198,
+                    190
+                ],
+                "score": 1.0,
+                "text": "Printed in Great Britain. All rights reserved"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    965,
+                    195,
+                    1198,
+                    212
+                ],
+                "score": 0.956,
+                "text": "0010-938X/96 $15.00 + 0.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    634,
+                    1749,
+                    683,
+                    1774
+                ],
+                "score": 1.0,
+                "text": "1319"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    503,
+                    256,
+                    820,
+                    281
+                ],
+                "score": 0.949,
+                "text": "PII: S0010-938X(96)00022-4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    359,
+                    1170,
+                    395
+                ],
+                "score": 0.997,
+                "text": "THE EFFECT OF PHASE COMPOSITIONS ON THE PITTING"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    394,
+                    1123,
+                    428
+                ],
+                "score": 0.997,
+                "text": "CORROSION OF 25 Cr DUPLEX STAINLESS STEEL IN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    457,
+                    426,
+                    864,
+                    462
+                ],
+                "score": 1.0,
+                "text": "CHLORIDE SOLUTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    491,
+                    1094,
+                    527
+                ],
+                "score": 0.974,
+                "text": "L. F. GARFIAS-MESIAS,†1 J. M. SYKES‡* and C. D. S. TUCK‡"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    244,
+                    555,
+                    1074,
+                    578
+                ],
+                "score": 0.999,
+                "text": "† Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, U.K."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    586,
+                    1054,
+                    606
+                ],
+                "score": 0.988,
+                "text": "‡ Langley Alloys Ltd, Alloys House, Cordwallis Park, Maidenhead SL6 7BU, U.K."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    647,
+                    1200,
+                    673
+                ],
+                "score": 0.986,
+                "text": "Abstract-The effect of annealing temperature on pitting resistance of 25% Cr duplex UNS S32550 was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    675,
+                    1199,
+                    701
+                ],
+                "score": 0.996,
+                "text": "investigated. CPT and pitting potential were determined for this alloy after annealing at 1020, 1060, 1100 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    701,
+                    1197,
+                    729
+                ],
+                "score": 0.993,
+                "text": "1 140°C. The higher values of CPT and pitting potential were found after annealing at the lower temperatures."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    730,
+                    1199,
+                    757
+                ],
+                "score": 0.999,
+                "text": "Pitting was always observed preferentially in the ferrite phase. The results can be partially explained by the changes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    757,
+                    1026,
+                    784
+                ],
+                "score": 0.98,
+                "text": "in chemical composition of ferrite and austenite phases. Copyright © 1996 Elsevier Science Ltd"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    801,
+                    673,
+                    825
+                ],
+                "score": 1.0,
+                "text": "Keywords: A. alloy, A. stainless steel, C. pitting corrosion."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    539,
+                    881,
+                    779,
+                    918
+                ],
+                "score": 1.0,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    928,
+                    1198,
+                    960
+                ],
+                "score": 0.99,
+                "text": "The development of duplex stainless steels (DSS) has been linked strongly with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    962,
+                    1197,
+                    993
+                ],
+                "score": 0.993,
+                "text": "increasing requirements of the chemical industry for materials resistance to highly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    996,
+                    1198,
+                    1026
+                ],
+                "score": 0.99,
+                "text": "aggressive environments. Duplex stainless steels are widely used in marine environments"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1027,
+                    1197,
+                    1060
+                ],
+                "score": 0.994,
+                "text": "because of their good resistance to pitting corrosion and stress corrosion cracking. The alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1059,
+                    1198,
+                    1093
+                ],
+                "score": 0.997,
+                "text": "content and the microstructure are both important variables in determining the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1093,
+                    1199,
+                    1124
+                ],
+                "score": 0.989,
+                "text": "corrosion resistance of the DSS. In general, C, P, S and non-metallic inclusions have a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1125,
+                    1199,
+                    1160
+                ],
+                "score": 0.999,
+                "text": "negative effect on the pitting resistance, whereas Cr, Mo, N, Si and W are beneficial alloying"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1160,
+                    1197,
+                    1191
+                ],
+                "score": 0.993,
+                "text": "elements against pitting corrosion. A common way to rank the piting susceptibility in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1193,
+                    1195,
+                    1222
+                ],
+                "score": 0.992,
+                "text": "stainless steels is by the use of the pitting resistance number (PREN).¹Indeed, this idea has"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1223,
+                    1200,
+                    1257
+                ],
+                "score": 0.988,
+                "text": "begun to be applied to duplex steels in recent years.2,3 The PREN is linked to the content of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1258,
+                    1197,
+                    1289
+                ],
+                "score": 0.994,
+                "text": "three most important elements Cr, Mo and N, each of them weighted according to its"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1292,
+                    360,
+                    1323
+                ],
+                "score": 1.0,
+                "text": "influence on pitting:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1158,
+                    1336,
+                    1199,
+                    1375
+                ],
+                "score": 0.995,
+                "text": "(1)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1392,
+                    1196,
+                    1424
+                ],
+                "score": 0.997,
+                "text": "Although this is a considerable simplification of elemental influences on corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1425,
+                    1196,
+                    1457
+                ],
+                "score": 0.994,
+                "text": "resistance, it has been found to be extremely useful as an index of likely alloy performance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1452,
+                    612,
+                    1496
+                ],
+                "score": 0.989,
+                "text": "purely from the alloy chemical analysis.²"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1492,
+                    1195,
+                    1521
+                ],
+                "score": 0.996,
+                "text": "The difficulty with duplex steels is that there are two phases present with different"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1525,
+                    1194,
+                    1554
+                ],
+                "score": 0.997,
+                "text": "compositions, with the three key elements partitioned between them (chromium and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1645,
+                    539,
+                    1668
+                ],
+                "score": 1.0,
+                "text": "Manuscript received 11 September 1995."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1670,
+                    387,
+                    1698
+                ],
+                "score": 0.988,
+                "text": "* Corresponding author."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1697,
+                    1114,
+                    1725
+                ],
+                "score": 0.974,
+                "text": "' Permanent address: CINVESTAV-Merida, A.P. 73, Cordemex, CP 97310 Mérida Yucatán, México."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.893,
+                "bbox": [
+                    117,
+                    114,
+                    169,
+                    141
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9429,
+                "bbox": [
+                    529,
+                    113,
+                    786,
+                    142
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887,
+                "bbox": [
+                    111,
+                    176,
+                    1201,
+                    640
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    111,
+                    638,
+                    1201,
+                    842
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9409,
+                "bbox": [
+                    462,
+                    886,
+                    854,
+                    919
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7377,
+                "bbox": [
+                    115,
+                    941,
+                    241,
+                    971
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    112,
+                    971,
+                    1200,
+                    1170
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    112,
+                    1169,
+                    1203,
+                    1436
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9476,
+                "bbox": [
+                    297,
+                    1536,
+                    1018,
+                    1566
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9799,
+                "bbox": [
+                    117,
+                    1571,
+                    1198,
+                    1713
+                ],
+                "index": 10,
+                "html": "<table><tr><td></td><td></td><td></td><td></td><td colspan=\"2\">Composition (wt%)</td><td></td><td></td><td></td><td></td></tr><tr><td>Cr</td><td>Ni</td><td>Mo</td><td>Cu</td><td>N</td><td>Mn</td><td>Si</td><td>C</td><td>S</td><td>P</td></tr><tr><td>25.92</td><td>5.9</td><td>3.19</td><td>1.62</td><td>0.2</td><td>0.96</td><td>0.47</td><td>0.03</td><td>0.007</td><td>0.024</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    117,
+                    167,
+                    143
+                ],
+                "score": 1.0,
+                "text": "1320"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    534,
+                    117,
+                    781,
+                    139
+                ],
+                "score": 0.982,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    179,
+                    1196,
+                    205
+                ],
+                "score": 0.994,
+                "text": "molybdenum are enhanced in the ferrite and nitrogen is enhanced in the austenite). Thus, it"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    213,
+                    1194,
+                    238
+                ],
+                "score": 0.995,
+                "text": "is clear³ that a PREN for each phase should be calculated, with the actual performance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    246,
+                    1195,
+                    269
+                ],
+                "score": 0.99,
+                "text": "governed by whichever phase gives the lower figure. Bernhardsson³ has calculated from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    277,
+                    1195,
+                    303
+                ],
+                "score": 0.996,
+                "text": "thermodynamic data how increasing the temperature at which the alloy is annealed can"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    311,
+                    1194,
+                    337
+                ],
+                "score": 0.987,
+                "text": "change the compositions and proportions of the two phases. These calculations show that,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    344,
+                    1194,
+                    369
+                ],
+                "score": 0.996,
+                "text": "whereas the PREN for ferrite falls with temperature, that for austenite rises, so that there is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    378,
+                    1195,
+                    403
+                ],
+                "score": 0.997,
+                "text": "an optimum annealing temperature where the two PREN curves cross. If PREN provides a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    411,
+                    1194,
+                    439
+                ],
+                "score": 0.992,
+                "text": "reliable measure of pitting resistance then above this temperature pitting is expected to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    443,
+                    1195,
+                    468
+                ],
+                "score": 0.996,
+                "text": "initiate in the ferrite phase and the alloy resistance falls as the PREN for ferrite falls. Below"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    476,
+                    1195,
+                    504
+                ],
+                "score": 0.998,
+                "text": "the optimum temperature the PREN of ferrite is improving, but the pitting resistance is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    510,
+                    1195,
+                    536
+                ],
+                "score": 0.982,
+                "text": "limited by the austenite. The latter will have a smaller PREN than ferrite, and it will further"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    541,
+                    1195,
+                    569
+                ],
+                "score": 0.99,
+                "text": "fall with decreasing temperature. Solomon and Devine⁴ have discussed how changing the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    577,
+                    1195,
+                    603
+                ],
+                "score": 0.995,
+                "text": "proportions of the two phases influences pitting resistance through altering the phase"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    612,
+                    285,
+                    638
+                ],
+                "score": 1.0,
+                "text": "compositions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    640,
+                    1195,
+                    669
+                ],
+                "score": 0.994,
+                "text": "The work described in this paper examines the pitting behaviour of UNS S32550 in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    676,
+                    1195,
+                    702
+                ],
+                "score": 0.998,
+                "text": "chloride solutions, in order to determine how changing the ferrite/austenite ratio influences"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    710,
+                    1194,
+                    735
+                ],
+                "score": 0.992,
+                "text": "pitting resistance for a particular duplex steel, to find the optimum annealing temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    744,
+                    1194,
+                    768
+                ],
+                "score": 0.992,
+                "text": "for maximum pitting resistance and whether the site of pitting switches from ferrite to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    777,
+                    1196,
+                    802
+                ],
+                "score": 0.999,
+                "text": "austenite above the optimum annealing temperature, as predicted by the theory of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    811,
+                    293,
+                    836
+                ],
+                "score": 1.0,
+                "text": "Bernhardsson."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    467,
+                    894,
+                    847,
+                    919
+                ],
+                "score": 0.986,
+                "text": "EXPERIMENTAL METHOD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    943,
+                    235,
+                    971
+                ],
+                "score": 1.0,
+                "text": "Materials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    976,
+                    1194,
+                    999
+                ],
+                "score": 0.99,
+                "text": "Alloy of the type UNS S32550 produced in a wrought form were annealed at four"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1007,
+                    1193,
+                    1033
+                ],
+                "score": 0.996,
+                "text": "different temperatures. Table 1 shows the cast composition of the alloy used.The alloy was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1043,
+                    1194,
+                    1068
+                ],
+                "score": 0.992,
+                "text": "solution treated for 2 h using the following temperatures: 1020, 1060, 1100 and 1140°C to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1104,
+                    1195,
+                    1134
+                ],
+                "score": 0.996,
+                "text": "influence of the solution treatment time and quenching method, the sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1142,
+                    941,
+                    1169
+                ],
+                "score": 0.998,
+                "text": "1060°C was also annealed for 5 h followed by water or oil quenching."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1071,
+                    1196,
+                    1104
+                ],
+                "score": 0.999,
+                "text": "vary microstructure (ferrite/austenite ratio) and then water quenched. In order to study the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1171,
+                    1196,
+                    1197
+                ],
+                "score": 0.99,
+                "text": "Samples were supplied in the form of a bar approximately 10 mm in diameter. The outer"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1206,
+                    1198,
+                    1231
+                ],
+                "score": 0.997,
+                "text": "part of the bar was removed after annealing by machining to produce samples in the form of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1239,
+                    1196,
+                    1263
+                ],
+                "score": 0.987,
+                "text": "rods 8.5 mm in diameter. The end face of each rod (the surface to be tested) was carefully"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1304,
+                    1197,
+                    1329
+                ],
+                "score": 0.997,
+                "text": "A few samples were polished to 1 μm finish before testing for metallographic observations"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1336,
+                    1197,
+                    1362
+                ],
+                "score": 0.994,
+                "text": "and microanalysis. The chemical composition of the different phases was detected by using a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1369,
+                    1197,
+                    1393
+                ],
+                "score": 0.985,
+                "text": "Cameca SEMPROBE and using a current of 10 μA at 20 keV. Analysis was made at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1403,
+                    327,
+                    1427
+                ],
+                "score": 0.991,
+                "text": "intervals of 2 μm."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1268,
+                    1195,
+                    1298
+                ],
+                "score": 0.998,
+                "text": "machined to give a smooth finish and further wet ground to 4000 mesh finish then degreased."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    1540,
+                    1016,
+                    1561
+                ],
+                "score": 0.995,
+                "text": "Table 1. Cast composition of UNS S32550 alloy used in the present work"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9417,
+                "bbox": [
+                    503,
+                    113,
+                    824,
+                    143
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9014,
+                "bbox": [
+                    1152,
+                    115,
+                    1202,
+                    142
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9377,
+                "bbox": [
+                    118,
+                    177,
+                    622,
+                    210
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8314,
+                "bbox": [
+                    252,
+                    508,
+                    414,
+                    540
+                ],
+                "index": 4,
+                "latex": "\\mathbf { \\nabla } \\mu \\mathbf { A } \\equiv 1 0 \\mathbf { m } \\mathbf { V } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    114,
+                    210,
+                    1207,
+                    778
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8916,
+                "bbox": [
+                    120,
+                    573,
+                    227,
+                    605
+                ],
+                "index": 6,
+                "latex": "0 { - } 1 0 0 ^ { \\circ } \\mathbf { C } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.786,
+                "bbox": [
+                    726,
+                    542,
+                    876,
+                    575
+                ],
+                "index": 7,
+                "latex": "\\mathrm { \\ t o \\ pm 0 . 2 5 ^ { \\circ } C ) }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.81,
+                "bbox": [
+                    971,
+                    609,
+                    1062,
+                    640
+                ],
+                "index": 8,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7718,
+                "bbox": [
+                    392,
+                    709,
+                    453,
+                    740
+                ],
+                "index": 9,
+                "latex": "5 \\mu \\mathbf { A }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6806,
+                "bbox": [
+                    838,
+                    709,
+                    909,
+                    739
+                ],
+                "index": 10,
+                "latex": "0 . 5 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9377,
+                "bbox": [
+                    116,
+                    806,
+                    490,
+                    838
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5306,
+                "bbox": [
+                    120,
+                    869,
+                    232,
+                    901
+                ],
+                "index": 12,
+                "latex": "{ 1 \\mathrm { m V } \\mathrm { s } ^ { - 1 } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8546,
+                "bbox": [
+                    119,
+                    904,
+                    183,
+                    935
+                ],
+                "index": 13,
+                "latex": "6 5 \\mathrm { ^ \\circ C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7952,
+                "bbox": [
+                    238,
+                    1072,
+                    274,
+                    1104
+                ],
+                "index": 14,
+                "latex": "E _ { \\mathfrak { p } } ."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    112,
+                    840,
+                    1204,
+                    1175
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8915,
+                "bbox": [
+                    720,
+                    1038,
+                    867,
+                    1072
+                ],
+                "index": 16,
+                "latex": "5 0 \\mu \\mathrm { A c m } ^ { - 2 }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9409,
+                "bbox": [
+                    325,
+                    1220,
+                    990,
+                    1253
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8845,
+                "bbox": [
+                    263,
+                    1366,
+                    354,
+                    1398
+                ],
+                "index": 18,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5706,
+                "bbox": [
+                    243,
+                    1402,
+                    288,
+                    1432
+                ],
+                "index": 19,
+                "latex": "\\mu \\Lambda"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4896,
+                "bbox": [
+                    116,
+                    1496,
+                    213,
+                    1531
+                ],
+                "index": 20,
+                "latex": "\\mathsf { e v e n t s } ^ { 5 } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8639,
+                "bbox": [
+                    607,
+                    1367,
+                    670,
+                    1399
+                ],
+                "index": 21,
+                "latex": "2 5 \\mathrm { { ^ \\circ C } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    110,
+                    1269,
+                    1202,
+                    1694
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7792,
+                "bbox": [
+                    118,
+                    1659,
+                    207,
+                    1689
+                ],
+                "index": 23,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7954,
+                "bbox": [
+                    262,
+                    1660,
+                    347,
+                    1689
+                ],
+                "index": 24,
+                "latex": "6 2 . 3 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9496,
+                "bbox": [
+                    153,
+                    1692,
+                    1199,
+                    1728
+                ],
+                "index": 25
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    507,
+                    116,
+                    819,
+                    142
+                ],
+                "score": 0.999,
+                "text": "The effect of phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1154,
+                    118,
+                    1200,
+                    144
+                ],
+                "score": 1.0,
+                "text": "1321"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    179,
+                    615,
+                    208
+                ],
+                "score": 1.0,
+                "text": "Critical pitting temperature determination"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    212,
+                    1201,
+                    242
+                ],
+                "score": 0.998,
+                "text": "Critical pitting temperature determination (CPT) test was done using a method similar"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    243,
+                    1201,
+                    279
+                ],
+                "score": 0.998,
+                "text": "to the zero resistance amperometry (ZRA) test as suggested by Salinas-Bravo and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    278,
+                    1201,
+                    310
+                ],
+                "score": 0.984,
+                "text": "Newman.5 In the test, two similar duplex stainless steel samples were connected through a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    311,
+                    1201,
+                    342
+                ],
+                "score": 0.992,
+                "text": "sensitive micro-ammeter and the potential of one recorded again a standard calomel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    344,
+                    1201,
+                    376
+                ],
+                "score": 0.989,
+                "text": "electrode (SCE) connected via a high impedance buffer amplifier. The test solution was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    377,
+                    1200,
+                    409
+                ],
+                "score": 0.996,
+                "text": "250 ml of 10% FeCl3 prepared according to the ASTM G 48 method in a glass cell. To avoid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    410,
+                    1200,
+                    442
+                ],
+                "score": 0.991,
+                "text": "crevices, the cell was arranged so that both specimens could be lowered just to touch the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    442,
+                    1200,
+                    476
+                ],
+                "score": 0.998,
+                "text": "liquid surface with only the end face wetted. This defined the area under test (no attack was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    476,
+                    1200,
+                    509
+                ],
+                "score": 0.991,
+                "text": "ever seen on the sides of the bar), whilst avoiding any crevices. A potential output from the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    511,
+                    251,
+                    537
+                ],
+                "score": 0.995,
+                "text": "ammeter (1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    415,
+                    510,
+                    1200,
+                    541
+                ],
+                "score": 0.999,
+                "text": "was used to record the current and the temperature, measured with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    542,
+                    724,
+                    573
+                ],
+                "score": 1.0,
+                "text": "a digital temperature sensor ic-LM35DZ (accurate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    878,
+                    543,
+                    1200,
+                    575
+                ],
+                "score": 0.996,
+                "text": "calibrated within the range"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    576,
+                    1197,
+                    607
+                ],
+                "score": 0.993,
+                "text": ", and the potential were logged simultaneously on a PC by using a 16 bit ADC Card."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    613,
+                    970,
+                    640
+                ],
+                "score": 0.982,
+                "text": "In cach test, the CPT was determined by coupling a sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1063,
+                    616,
+                    1197,
+                    640
+                ],
+                "score": 0.989,
+                "text": "(which was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    641,
+                    1200,
+                    676
+                ],
+                "score": 0.995,
+                "text": "found to have the highest pitting resistance) with the test sample. The criterion used to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    674,
+                    1200,
+                    709
+                ],
+                "score": 0.989,
+                "text": "determine the CPT of the samples was the temperature at which the current measured"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    711,
+                    391,
+                    736
+                ],
+                "score": 0.999,
+                "text": "increased to a value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    459,
+                    711,
+                    837,
+                    740
+                ],
+                "score": 0.997,
+                "text": "For this work, a heating rate of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    910,
+                    714,
+                    1197,
+                    740
+                ],
+                "score": 0.96,
+                "text": "min- was chosen. This"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    744,
+                    693,
+                    769
+                ],
+                "score": 0.993,
+                "text": "was sufficiently slow to obtain an accurate CPT."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    809,
+                    482,
+                    837
+                ],
+                "score": 1.0,
+                "text": "Pitting potential determination"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    839,
+                    1201,
+                    872
+                ],
+                "score": 0.994,
+                "text": "Potentiodynamic sweeps in hot 3.5% NaCl solution were carried out at a rate of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    872,
+                    1198,
+                    905
+                ],
+                "score": 0.997,
+                "text": ". The tests were carried out in a glass three-electrode cell held in a water bath at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    905,
+                    1198,
+                    938
+                ],
+                "score": 1.0,
+                "text": "In all experiments the rod under test was supported in a holder on the lid of the cell"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    938,
+                    1198,
+                    972
+                ],
+                "score": 0.996,
+                "text": "such that the end face just touched the surface of the test solution as described above. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    973,
+                    1198,
+                    1004
+                ],
+                "score": 0.996,
+                "text": "counter electrode was a platinum wire, the reference electrode a saturated calomel electrode"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1005,
+                    1197,
+                    1038
+                ],
+                "score": 0.999,
+                "text": "(SCE) at the same solution temperature; all potentials are given against the SCE. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1041,
+                    713,
+                    1069
+                ],
+                "score": 0.997,
+                "text": "potential at which the current density exceeded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    872,
+                    1042,
+                    1197,
+                    1073
+                ],
+                "score": 0.998,
+                "text": "was defined as the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1073,
+                    237,
+                    1105
+                ],
+                "score": 1.0,
+                "text": "potential,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    275,
+                    1073,
+                    1194,
+                    1105
+                ],
+                "score": 0.998,
+                "text": "After testing, some samples were electrolytically etched for3 s in 40% KOH at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1108,
+                    1193,
+                    1139
+                ],
+                "score": 0.99,
+                "text": "applied voltage of 2 V, to allow the ferrite and austenite to be distinguished in the optical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1143,
+                    544,
+                    1172
+                ],
+                "score": 0.995,
+                "text": "microscope, then examined for pits."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    330,
+                    1223,
+                    984,
+                    1258
+                ],
+                "score": 0.983,
+                "text": "EXPERIMENTAL RESULTS AND DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1268,
+                    1195,
+                    1302
+                ],
+                "score": 0.999,
+                "text": "The effect of annealing temperature on the CPT of the duplex steel is shown in Fig. 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1302,
+                    1197,
+                    1335
+                ],
+                "score": 0.994,
+                "text": "The plots show the potential of the coupled electrodes against the SCE and the galvanic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1334,
+                    1196,
+                    1368
+                ],
+                "score": 1.0,
+                "text": "current between the two electrodes as a function of the temperature. When samples"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1370,
+                    260,
+                    1397
+                ],
+                "score": 1.0,
+                "text": "annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    357,
+                    1370,
+                    606,
+                    1397
+                ],
+                "score": 0.991,
+                "text": "were first coupled at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    671,
+                    1369,
+                    1196,
+                    1401
+                ],
+                "score": 1.0,
+                "text": "the galvanic current observed was very low,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1399,
+                    242,
+                    1435
+                ],
+                "score": 0.981,
+                "text": "less than 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1399,
+                    1196,
+                    1435
+                ],
+                "score": 0.995,
+                "text": "and constant. Similarly, the potential measured between the galvanic couple"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1432,
+                    1197,
+                    1466
+                ],
+                "score": 0.999,
+                "text": "and the SCE was constant at about 480 mV. As the temperature was raised, the current was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1465,
+                    1196,
+                    1500
+                ],
+                "score": 0.997,
+                "text": "stable until just below the CPT when some small current activity (suggested to be metastable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    218,
+                    1500,
+                    1196,
+                    1533
+                ],
+                "score": 0.997,
+                "text": "started to appear until finally the current steadily increased when stable pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1532,
+                    1196,
+                    1565
+                ],
+                "score": 0.998,
+                "text": "events started. As current transients begin, the potential starts to fluctuate downwards until"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1563,
+                    1196,
+                    1598
+                ],
+                "score": 0.994,
+                "text": "a steady decrease occurs simultaneously with the increase in the galvanic current between"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1596,
+                    1196,
+                    1629
+                ],
+                "score": 0.998,
+                "text": "the samples. This simultaneous drop of potential and increase in couple current indicates the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1628,
+                    1196,
+                    1661
+                ],
+                "score": 0.993,
+                "text": "onset of pitting and is used to define the CPT. The CPT obtained for sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1663,
+                    261,
+                    1691
+                ],
+                "score": 1.0,
+                "text": "was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1693,
+                    1195,
+                    1726
+                ],
+                "score": 0.993,
+                "text": "The initial potential of coupled electrodes was changed when a sample annealed at"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.904,
+                "bbox": [
+                    124,
+                    114,
+                    176,
+                    140
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.936,
+                "bbox": [
+                    535,
+                    115,
+                    793,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9803,
+                "bbox": [
+                    220,
+                    177,
+                    1087,
+                    428
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9751,
+                "bbox": [
+                    219,
+                    440,
+                    1086,
+                    691
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9747,
+                "bbox": [
+                    216,
+                    700,
+                    1082,
+                    950
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9762,
+                "bbox": [
+                    217,
+                    958,
+                    1079,
+                    1260
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9682,
+                "bbox": [
+                    181,
+                    1278,
+                    1130,
+                    1337
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7034,
+                "bbox": [
+                    117,
+                    1401,
+                    208,
+                    1430
+                ],
+                "index": 9,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9735,
+                "bbox": [
+                    112,
+                    1401,
+                    1197,
+                    1466
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9007,
+                "bbox": [
+                    770,
+                    1432,
+                    860,
+                    1463
+                ],
+                "index": 11,
+                "latex": "1 1 4 0 ^ { \\circ } C"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.802,
+                "bbox": [
+                    272,
+                    1561,
+                    380,
+                    1593
+                ],
+                "index": 12,
+                "latex": "( 1 0 2 0 ^ { \\circ } \\mathrm { C } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.896,
+                "bbox": [
+                    948,
+                    1497,
+                    1039,
+                    1527
+                ],
+                "index": 13,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.888,
+                "bbox": [
+                    681,
+                    1529,
+                    772,
+                    1560
+                ],
+                "index": 14,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    109,
+                    1466,
+                    1201,
+                    1729
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8672,
+                "bbox": [
+                    319,
+                    1594,
+                    383,
+                    1624
+                ],
+                "index": 16,
+                "latex": "4 0 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8958,
+                "bbox": [
+                    116,
+                    1627,
+                    181,
+                    1657
+                ],
+                "index": 17,
+                "latex": "4 0 ^ { \\circ } \\mathbf { C } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8794,
+                "bbox": [
+                    509,
+                    1594,
+                    599,
+                    1624
+                ],
+                "index": 18,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8242,
+                "bbox": [
+                    739,
+                    1561,
+                    824,
+                    1593
+                ],
+                "index": 19,
+                "latex": "6 2 . 3 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8963,
+                "bbox": [
+                    1019,
+                    1563,
+                    1104,
+                    1593
+                ],
+                "index": 20,
+                "latex": "6 1 . 8 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8514,
+                "bbox": [
+                    257,
+                    1660,
+                    352,
+                    1691
+                ],
+                "index": 21,
+                "latex": "1 1 0 0 ^ { \\circ } \\mathrm { C } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8918,
+                "bbox": [
+                    922,
+                    1627,
+                    1007,
+                    1658
+                ],
+                "index": 22,
+                "latex": "5 4 . 1 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6772,
+                "bbox": [
+                    919,
+                    1661,
+                    1054,
+                    1693
+                ],
+                "index": 23,
+                "latex": "( \\tan 1 1 4 0 ^ { \\circ } \\mathbf { C } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8134,
+                "bbox": [
+                    620,
+                    1692,
+                    706,
+                    1723
+                ],
+                "index": 24,
+                "latex": "4 2 . 2 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    115,
+                    174,
+                    145
+                ],
+                "score": 1.0,
+                "text": "1322"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    538,
+                    116,
+                    789,
+                    143
+                ],
+                "score": 0.998,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    1281,
+                    1126,
+                    1306
+                ],
+                "score": 0.994,
+                "text": "Fig. 1. The critical pitting temperature of alloy UNS S32550 annealed at temperatures indicated,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    1307,
+                    1098,
+                    1333
+                ],
+                "score": 0.992,
+                "text": "determined by using the ZRA test. () Potential (mV(SCE) × 10); () current (μA)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    1401,
+                    1193,
+                    1434
+                ],
+                "score": 1.0,
+                "text": "was coupled with samples annealed at different temperatures, being 470, 460 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1436,
+                    766,
+                    1462
+                ],
+                "score": 0.997,
+                "text": "425 mV (SCE) for samples annealed at 1060, 1100 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    861,
+                    1439,
+                    1017,
+                    1464
+                ],
+                "score": 1.0,
+                "text": ", respectively."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1465,
+                    1195,
+                    1497
+                ],
+                "score": 0.995,
+                "text": "As the temperature of the solution was increased, the potential of the coupled electrodes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1500,
+                    942,
+                    1526
+                ],
+                "score": 0.997,
+                "text": "and the galvanic current for the samples annealed at 1060, 1100 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1041,
+                    1499,
+                    1194,
+                    1528
+                ],
+                "score": 1.0,
+                "text": "followed the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1531,
+                    676,
+                    1558
+                ],
+                "score": 0.99,
+                "text": "same behaviour as described above for sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    773,
+                    1532,
+                    1195,
+                    1560
+                ],
+                "score": 0.994,
+                "text": "The sample annealed at the lowest"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1566,
+                    265,
+                    1592
+                ],
+                "score": 1.0,
+                "text": "temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    1565,
+                    736,
+                    1594
+                ],
+                "score": 1.0,
+                "text": "gives the highest CPT value,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1566,
+                    1016,
+                    1591
+                ],
+                "score": 0.999,
+                "text": "with a value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1107,
+                    1566,
+                    1194,
+                    1592
+                ],
+                "score": 1.0,
+                "text": "for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1598,
+                    317,
+                    1624
+                ],
+                "score": 1.0,
+                "text": "sample annealed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    384,
+                    1595,
+                    506,
+                    1625
+                ],
+                "score": 0.994,
+                "text": "higher, at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    600,
+                    1597,
+                    1194,
+                    1625
+                ],
+                "score": 0.994,
+                "text": ". On increasing the annealing temperature another"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1630,
+                    918,
+                    1658
+                ],
+                "score": 0.991,
+                "text": " a very drastic decrease in the CPT results, to the value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1013,
+                    1633,
+                    1194,
+                    1659
+                ],
+                "score": 1.0,
+                "text": "for the sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1664,
+                    256,
+                    1690
+                ],
+                "score": 0.992,
+                "text": "annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    356,
+                    1663,
+                    915,
+                    1691
+                ],
+                "score": 0.99,
+                "text": "A further increase in the annealing temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1055,
+                    1667,
+                    1194,
+                    1692
+                ],
+                "score": 0.964,
+                "text": ", results in a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1696,
+                    619,
+                    1721
+                ],
+                "score": 1.0,
+                "text": "greater decrease in the CPT, to a value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    707,
+                    1696,
+                    1193,
+                    1724
+                ],
+                "score": 0.999,
+                "text": "These results clearly showed that at low"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.941,
+                "bbox": [
+                    501,
+                    114,
+                    823,
+                    144
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9013,
+                "bbox": [
+                    1151,
+                    118,
+                    1203,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8181,
+                "bbox": [
+                    526,
+                    177,
+                    624,
+                    208
+                ],
+                "index": 3,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    112,
+                    177,
+                    1204,
+                    309
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8392,
+                "bbox": [
+                    936,
+                    212,
+                    1034,
+                    243
+                ],
+                "index": 5,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8704,
+                "bbox": [
+                    705,
+                    343,
+                    795,
+                    373
+                ],
+                "index": 6,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    111,
+                    309,
+                    1203,
+                    507
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7716,
+                "bbox": [
+                    117,
+                    473,
+                    168,
+                    502
+                ],
+                "index": 8,
+                "latex": "3 \\mathrm { ^ \\circ C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8905,
+                "bbox": [
+                    1107,
+                    445,
+                    1191,
+                    476
+                ],
+                "index": 9,
+                "latex": "5 8 . 8 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9042,
+                "bbox": [
+                    961,
+                    512,
+                    1027,
+                    540
+                ],
+                "index": 10,
+                "latex": "6 5 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877,
+                "bbox": [
+                    111,
+                    508,
+                    1202,
+                    741
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9197,
+                "bbox": [
+                    459,
+                    572,
+                    592,
+                    604
+                ],
+                "index": 12,
+                "latex": "5 \\mu \\mathbf { A } \\thinspace \\mathrm { c m } ^ { - 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9364,
+                "bbox": [
+                    188,
+                    638,
+                    357,
+                    673
+                ],
+                "index": 13,
+                "latex": "( E _ { \\mathrm { p } } { = } 2 5 5 \\mathrm { m V ) }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7139,
+                "bbox": [
+                    442,
+                    606,
+                    791,
+                    640
+                ],
+                "index": 14,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathbf { C } \\left( E _ { \\mathsf { p } } = 3 2 2 \\mathsf { m V } \\left( \\mathbf { S } \\mathbf { C } \\mathbf { E } \\right) \\right) ;"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9032,
+                "bbox": [
+                    549,
+                    674,
+                    639,
+                    705
+                ],
+                "index": 15,
+                "latex": "\\mathrm { 1 1 4 0 ^ { \\circ } C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8513,
+                "bbox": [
+                    743,
+                    642,
+                    833,
+                    671
+                ],
+                "index": 16,
+                "latex": "1 1 0 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8629,
+                "bbox": [
+                    952,
+                    609,
+                    1041,
+                    640
+                ],
+                "index": 17,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.927,
+                "bbox": [
+                    1019,
+                    643,
+                    1189,
+                    677
+                ],
+                "index": 18,
+                "latex": "( E _ { \\mathsf { p } } = 2 0 9 \\ : \\mathrm { m V } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9315,
+                "bbox": [
+                    846,
+                    676,
+                    1014,
+                    711
+                ],
+                "index": 19,
+                "latex": "( E _ { \\mathrm { p } } { = } 1 7 6 \\mathrm { m V ) }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9762,
+                "bbox": [
+                    110,
+                    741,
+                    1202,
+                    843
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8957,
+                "bbox": [
+                    170,
+                    803,
+                    261,
+                    836
+                ],
+                "index": 21,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.738,
+                "bbox": [
+                    126,
+                    922,
+                    1184,
+                    1255
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.6062,
+                "bbox": [
+                    131,
+                    1259,
+                    1185,
+                    1578
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9735,
+                "bbox": [
+                    172,
+                    1639,
+                    1128,
+                    1726
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7744,
+                "bbox": [
+                    910,
+                    1643,
+                    983,
+                    1670
+                ],
+                "index": 25,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    505,
+                    115,
+                    818,
+                    143
+                ],
+                "score": 0.995,
+                "text": "The effect of phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1153,
+                    119,
+                    1201,
+                    146
+                ],
+                "score": 1.0,
+                "text": "1323"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    177,
+                    524,
+                    207
+                ],
+                "score": 1.0,
+                "text": "annealing temperatures (1020 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    626,
+                    178,
+                    1199,
+                    212
+                ],
+                "score": 0.991,
+                "text": "the influence of the annealing temperature on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    209,
+                    931,
+                    243
+                ],
+                "score": 0.997,
+                "text": "CPT is small. However, at higher annealing temperatures (1100 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1035,
+                    213,
+                    1198,
+                    244
+                ],
+                "score": 1.0,
+                "text": ", the influence"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    243,
+                    1198,
+                    277
+                ],
+                "score": 0.993,
+                "text": "on the CPT of the alloy is greater. Throughout, the trend is that the lower CPT corresponds"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    277,
+                    587,
+                    307
+                ],
+                "score": 1.0,
+                "text": "with increasing annealing temperature."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    340,
+                    701,
+                    375
+                ],
+                "score": 1.0,
+                "text": "determining the CPT for the alloy annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    344,
+                    1198,
+                    377
+                ],
+                "score": 0.997,
+                "text": "This alloy was annealed for 5 h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    373,
+                    1200,
+                    411
+                ],
+                "score": 0.99,
+                "text": "followed by water or oil quenching (Fig. 2). The CPT for the sample annealed for 5 h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    408,
+                    1197,
+                    445
+                ],
+                "score": 0.996,
+                "text": "followed by water quenching showed no difference with the value obtained for the sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    440,
+                    1105,
+                    476
+                ],
+                "score": 0.997,
+                "text": "annealed during 2 h. However, in the case of the oil-quenched sample, the CPT was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    474,
+                    525,
+                    505
+                ],
+                "score": 1.0,
+                "text": "less than the water-quenched."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    310,
+                    1198,
+                    341
+                ],
+                "score": 0.988,
+                "text": "The effect of the annealing conditions (time and method of quenching) was studied by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    507,
+                    958,
+                    541
+                ],
+                "score": 0.999,
+                "text": "Potentiodynamic curves for all samples in 3.5% NaCl solution at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1030,
+                    515,
+                    1197,
+                    541
+                ],
+                "score": 1.0,
+                "text": "are shown on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    540,
+                    1197,
+                    575
+                ],
+                "score": 0.998,
+                "text": "Fig. 3. This temperature was chosen because it lies above the CPT of all the samples. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    579,
+                    454,
+                    601
+                ],
+                "score": 0.998,
+                "text": "passive current was less than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    593,
+                    575,
+                    1197,
+                    609
+                ],
+                "score": 0.984,
+                "text": ". The highest value of pitting potential was obtained"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    605,
+                    438,
+                    638
+                ],
+                "score": 0.994,
+                "text": "for the sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    613,
+                    949,
+                    640
+                ],
+                "score": 1.0,
+                "text": "annealing at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1045,
+                    615,
+                    1197,
+                    641
+                ],
+                "score": 0.986,
+                "text": "gave a lower"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    639,
+                    185,
+                    667
+                ],
+                "score": 1.0,
+                "text": "value"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    358,
+                    641,
+                    742,
+                    671
+                ],
+                "score": 0.992,
+                "text": ", that for the sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    834,
+                    643,
+                    1015,
+                    673
+                ],
+                "score": 1.0,
+                "text": "was even lower"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    674,
+                    545,
+                    704
+                ],
+                "score": 0.997,
+                "text": "and that for the sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    643,
+                    678,
+                    840,
+                    705
+                ],
+                "score": 0.991,
+                "text": "was lowest of all"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    678,
+                    1198,
+                    712
+                ],
+                "score": 0.999,
+                "text": ". Again, pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    708,
+                    762,
+                    739
+                ],
+                "score": 0.995,
+                "text": "resistance falls with increasing annealing temperature."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    806,
+                    168,
+                    835
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    262,
+                    806,
+                    1196,
+                    841
+                ],
+                "score": 0.989,
+                "text": "after the potentiodynamic sweep. The austenite phase is shown as light grains"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    743,
+                    1196,
+                    773
+                ],
+                "score": 0.989,
+                "text": "When analysing these results, it is very important to know the phase where pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    776,
+                    1196,
+                    805
+                ],
+                "score": 0.995,
+                "text": "corrosion occurs. Figures 4 and 5 show the etched surface of the samples annealed at 1020"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1638,
+                    907,
+                    1670
+                ],
+                "score": 0.992,
+                "text": "Fig. 2. The critical pitting temperature of alloy UNS S32550 annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    984,
+                    1646,
+                    1123,
+                    1670
+                ],
+                "score": 1.0,
+                "text": "and quenched"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    465,
+                    1695,
+                    838,
+                    1722
+                ],
+                "score": 0.977,
+                "text": "(mV(SCE) × 10); () current (μA)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1668,
+                    1124,
+                    1696
+                ],
+                "score": 0.995,
+                "text": "under the conditions indicated, determined by using the ZRA test. () Potential"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4989,
+                "bbox": [
+                    517,
+                    1251,
+                    770,
+                    1284
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8858,
+                "bbox": [
+                    121,
+                    114,
+                    174,
+                    140
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9334,
+                "bbox": [
+                    532,
+                    115,
+                    790,
+                    144
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9668,
+                "bbox": [
+                    187,
+                    173,
+                    1124,
+                    429
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9151,
+                "bbox": [
+                    182,
+                    436,
+                    1122,
+                    691
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9195,
+                "bbox": [
+                    183,
+                    696,
+                    1125,
+                    954
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.8887,
+                "bbox": [
+                    182,
+                    960,
+                    1123,
+                    1240
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9674,
+                "bbox": [
+                    179,
+                    1306,
+                    1130,
+                    1364
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5185,
+                "bbox": [
+                    666,
+                    1334,
+                    719,
+                    1361
+                ],
+                "index": 9,
+                "latex": "6 5 ^ { \\circ } \\mathrm { C } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4777,
+                "bbox": [
+                    823,
+                    1333,
+                    904,
+                    1361
+                ],
+                "index": 10,
+                "latex": "\\mathrm { | } \\mathtt { m V } \\mathtt { s } ^ { - 1 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984,
+                "bbox": [
+                    111,
+                    1463,
+                    1198,
+                    1593
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.614,
+                "bbox": [
+                    839,
+                    1593,
+                    928,
+                    1624
+                ],
+                "index": 12,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9825,
+                "bbox": [
+                    110,
+                    1592,
+                    1199,
+                    1727
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    522,
+                    1255,
+                    765,
+                    1283
+                ],
+                "score": 0.998,
+                "text": "Potential (mV vs SCE)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    116,
+                    171,
+                    143
+                ],
+                "score": 1.0,
+                "text": "1324"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    535,
+                    116,
+                    787,
+                    143
+                ],
+                "score": 0.998,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1308,
+                    1127,
+                    1335
+                ],
+                "score": 0.999,
+                "text": "Fig. 3. Anodic polarization of alloy UNS S32550 in a 3.5% NaCl, annealed at temperatures"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    402,
+                    1339,
+                    665,
+                    1360
+                ],
+                "score": 0.994,
+                "text": "indicated. Test temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    720,
+                    1341,
+                    822,
+                    1358
+                ],
+                "score": 0.965,
+                "text": " scan rate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1466,
+                    1192,
+                    1493
+                ],
+                "score": 0.999,
+                "text": "in a matrix of ferrite (dark in comparison). The size of both the ferrite and austenite grains"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1498,
+                    1192,
+                    1526
+                ],
+                "score": 0.995,
+                "text": "increases with raising the annealing temperature and the proportion of ferrite increases from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1528,
+                    1192,
+                    1558
+                ],
+                "score": 1.0,
+                "text": "47 to 64%. It was found that for all the samples pitting was initiated in the ferrite or at the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1562,
+                    652,
+                    1590
+                ],
+                "score": 0.99,
+                "text": "ferrite side of the ferrite-austenite boundary."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1595,
+                    837,
+                    1623
+                ],
+                "score": 0.992,
+                "text": "Analyses of the microstructure of the sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    929,
+                    1596,
+                    1191,
+                    1622
+                ],
+                "score": 0.999,
+                "text": "for 5 h followed by oil"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1629,
+                    1193,
+                    1657
+                ],
+                "score": 0.997,
+                "text": "quenching showed a small increase in the ferrite content of this sample compared with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1659,
+                    1192,
+                    1689
+                ],
+                "score": 0.984,
+                "text": "water quenched. This small increase in the volume fraction of the weakest phase, could"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1693,
+                    1125,
+                    1721
+                ],
+                "score": 0.996,
+                "text": "possibly account for the reduction of the CPT in the case of the oil quenched sample."
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9377,
+                "bbox": [
+                    494,
+                    113,
+                    813,
+                    143
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8906,
+                "bbox": [
+                    1143,
+                    115,
+                    1194,
+                    140
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9869,
+                "bbox": [
+                    192,
+                    174,
+                    1103,
+                    772
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9651,
+                "bbox": [
+                    173,
+                    792,
+                    1127,
+                    851
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9876,
+                "bbox": [
+                    185,
+                    1060,
+                    1093,
+                    1649
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9671,
+                "bbox": [
+                    172,
+                    1669,
+                    1125,
+                    1726
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6542,
+                "bbox": [
+                    692,
+                    1669,
+                    767,
+                    1697
+                ],
+                "index": 7,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    496,
+                    115,
+                    810,
+                    141
+                ],
+                "score": 1.0,
+                "text": "The effect of phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1144,
+                    117,
+                    1193,
+                    143
+                ],
+                "score": 1.0,
+                "text": "1325"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    794,
+                    1122,
+                    823
+                ],
+                "score": 0.996,
+                "text": "Fig. 4. A photomicrograph of sample annealed at 1020°C after potentiodynamic test, showing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    456,
+                    821,
+                    845,
+                    849
+                ],
+                "score": 1.0,
+                "text": "attack on the ferrite matrix (dark phase)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1672,
+                    688,
+                    1698
+                ],
+                "score": 0.996,
+                "text": "Fig. 5. A photomicrograph of sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    768,
+                    1672,
+                    1121,
+                    1699
+                ],
+                "score": 1.0,
+                "text": "after potentiodynamic test, showing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    366,
+                    1697,
+                    932,
+                    1723
+                ],
+                "score": 0.991,
+                "text": "attack on a localized area in the ferrite matrix (dark phase)."
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8994,
+                "bbox": [
+                    116,
+                    113,
+                    170,
+                    139
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9368,
+                "bbox": [
+                    528,
+                    115,
+                    787,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9827,
+                "bbox": [
+                    111,
+                    177,
+                    1199,
+                    277
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8306,
+                "bbox": [
+                    1059,
+                    279,
+                    1149,
+                    309
+                ],
+                "index": 4,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.983,
+                "bbox": [
+                    109,
+                    276,
+                    1200,
+                    414
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8564,
+                "bbox": [
+                    259,
+                    375,
+                    351,
+                    406
+                ],
+                "index": 6,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.786,
+                "bbox": [
+                    794,
+                    345,
+                    914,
+                    376
+                ],
+                "index": 7,
+                "latex": "( > 1 0 \\mu \\mathrm { m } )"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9831,
+                "bbox": [
+                    283,
+                    456,
+                    972,
+                    985
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.969,
+                "bbox": [
+                    175,
+                    1002,
+                    1126,
+                    1061
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7496,
+                "bbox": [
+                    868,
+                    1003,
+                    943,
+                    1031
+                ],
+                "index": 10,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.983,
+                "bbox": [
+                    285,
+                    1112,
+                    974,
+                    1646
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9687,
+                "bbox": [
+                    172,
+                    1666,
+                    1125,
+                    1725
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7533,
+                "bbox": [
+                    866,
+                    1668,
+                    940,
+                    1696
+                ],
+                "index": 13,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    115,
+                    167,
+                    142
+                ],
+                "score": 1.0,
+                "text": "1326"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    531,
+                    116,
+                    783,
+                    142
+                ],
+                "score": 0.997,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    177,
+                    1193,
+                    211
+                ],
+                "score": 0.995,
+                "text": "Pitting in the ferrite phase is contrary to the findings of most of previous works already"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    207,
+                    1195,
+                    247
+                ],
+                "score": 0.976,
+                "text": "published, where austenite was usually attacked.4,6 In order to assess the relative pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    244,
+                    836,
+                    276
+                ],
+                "score": 0.994,
+                "text": "resistance of the phases their compositions were determined."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    277,
+                    1053,
+                    309
+                ],
+                "score": 0.998,
+                "text": "The distribution of the alloying elements in samples annealed at 1020 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1151,
+                    284,
+                    1195,
+                    309
+                ],
+                "score": 1.0,
+                "text": "are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    310,
+                    1194,
+                    343
+                ],
+                "score": 0.994,
+                "text": "shown in Figs 6 and 7. It can be observed that the ferrite grains are larger than austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    344,
+                    791,
+                    375
+                ],
+                "score": 1.0,
+                "text": "grains in the sample annealed at the higher temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    347,
+                    1192,
+                    375
+                ],
+                "score": 1.0,
+                "text": ", whereas in the sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    378,
+                    256,
+                    404
+                ],
+                "score": 1.0,
+                "text": "annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    352,
+                    377,
+                    1192,
+                    410
+                ],
+                "score": 0.999,
+                "text": "the austenite grains are just slightly larger than the ferrite. As expected,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1007,
+                    864,
+                    1030
+                ],
+                "score": 0.999,
+                "text": "Fig. 6. The chemical composition profile for sample annealed 2 h at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    944,
+                    1006,
+                    1124,
+                    1032
+                ],
+                "score": 0.974,
+                "text": "followed by water"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    599,
+                    1034,
+                    706,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "quenching."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1668,
+                    861,
+                    1696
+                ],
+                "score": 0.99,
+                "text": "Fig. 7. The chemical composition profile for sample annealed 2 h at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    943,
+                    1671,
+                    1119,
+                    1694
+                ],
+                "score": 1.0,
+                "text": "followed by water"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    598,
+                    1698,
+                    702,
+                    1720
+                ],
+                "score": 1.0,
+                "text": "quenching."
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.4884,
+                "bbox": [
+                    146,
+                    1697,
+                    417,
+                    1728
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9388,
+                "bbox": [
+                    502,
+                    114,
+                    823,
+                    145
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8973,
+                "bbox": [
+                    1152,
+                    115,
+                    1204,
+                    143
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    113,
+                    177,
+                    1206,
+                    444
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6884,
+                "bbox": [
+                    1112,
+                    312,
+                    1199,
+                    344
+                ],
+                "index": 5,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    113,
+                    443,
+                    1205,
+                    610
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6141,
+                "bbox": [
+                    767,
+                    475,
+                    858,
+                    509
+                ],
+                "index": 7,
+                "latex": "1 0 2 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7821,
+                "bbox": [
+                    793,
+                    611,
+                    886,
+                    642
+                ],
+                "index": 8,
+                "latex": "1 1 0 0 ^ { \\circ } \\mathbf { C } ."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868,
+                "bbox": [
+                    112,
+                    610,
+                    1206,
+                    808
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.756,
+                "bbox": [
+                    264,
+                    675,
+                    355,
+                    707
+                ],
+                "index": 10,
+                "latex": "1 1 4 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    112,
+                    808,
+                    1206,
+                    1113
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9458,
+                "bbox": [
+                    311,
+                    1209,
+                    1006,
+                    1241
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9861,
+                "bbox": [
+                    116,
+                    1245,
+                    1198,
+                    1659
+                ],
+                "index": 13,
+                "html": "<table><tr><td></td><td colspan=\"10\">Composition in wt%</td></tr><tr><td>Annealing temperature</td><td>Phase</td><td>%</td><td>Cr</td><td>Ni</td><td>Mo</td><td><eq>{ \\bf N } ^ { \\bf a }</eq></td><td>Cu</td><td>S</td><td>P</td><td>PRENb</td></tr><tr><td>1020°C</td><td>Ferrite</td><td>47</td><td>26.36</td><td>4.63</td><td>3.70</td><td>0.05</td><td>1.27</td><td>0.073</td><td>0.043</td><td>39.35</td></tr><tr><td></td><td>Austenite</td><td>53</td><td>23.14</td><td>7.36</td><td>2.35</td><td>0.33</td><td>1.95</td><td>0.035</td><td>0.025</td><td>36.23</td></tr><tr><td>1060℃</td><td>Ferrite</td><td>51</td><td>26.39</td><td>4.69</td><td>3.57</td><td>0.05</td><td>1.31</td><td>0.085</td><td>0.046</td><td>38.96</td></tr><tr><td></td><td>Austenite</td><td>49</td><td>23.26</td><td>7.24</td><td>2.33</td><td>0.36</td><td>1.85</td><td>0.037</td><td>0.027</td><td>36.64</td></tr><tr><td>1100℃</td><td>Ferrite</td><td>60</td><td>26.39</td><td>4.83</td><td>3.38</td><td>0.05</td><td>1.34</td><td>0.074</td><td>0.042</td><td>38.34</td></tr><tr><td></td><td>Austenite</td><td>40</td><td>23.44</td><td>7.15</td><td>2.30</td><td>0.43</td><td>1.84</td><td>0.042</td><td>0.022</td><td>37.82</td></tr><tr><td>1140℃</td><td>Ferrite</td><td>64</td><td>26.37</td><td>5.05</td><td>3.36</td><td>0.05</td><td>1.36</td><td>0.082</td><td>0.038</td><td>38.26</td></tr><tr><td></td><td>Austenite</td><td>36</td><td>24.04</td><td>7.15</td><td>2.33</td><td>0.47</td><td>1.83</td><td>0.037</td><td>0.027</td><td>39.19</td></tr><tr><td>Average</td><td>Both phases</td><td>一</td><td>25.06</td><td>5.89</td><td>2.97</td><td>0.20</td><td>1.57</td><td>0.060</td><td>0.035</td><td>38.06</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.52,
+                "bbox": [
+                    144,
+                    1668,
+                    1039,
+                    1701
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1696,
+                    413,
+                    1728
+                ],
+                "score": 0.983,
+                "text": "²According to equation (1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    506,
+                    116,
+                    818,
+                    143
+                ],
+                "score": 0.997,
+                "text": "The effect of phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1153,
+                    118,
+                    1202,
+                    144
+                ],
+                "score": 1.0,
+                "text": "1327"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    179,
+                    1201,
+                    209
+                ],
+                "score": 0.994,
+                "text": "the composition profiles show that the ferrite grains are enriched in Cr and Mo and depleted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    211,
+                    1201,
+                    243
+                ],
+                "score": 0.992,
+                "text": "in Ni and Cu. Similarly, in the austenite grains the Ni and Cu are enriched, whereas the Cr"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    245,
+                    1200,
+                    277
+                ],
+                "score": 0.991,
+                "text": "and Mo signals are lower. All elements were evenly distributed within the grains and no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    281,
+                    1201,
+                    311
+                ],
+                "score": 0.995,
+                "text": "segregation of the alloying elements was noticed. The average composition of the important"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    314,
+                    1109,
+                    344
+                ],
+                "score": 0.997,
+                "text": "elements in austenite and ferrite in all four samples annealed at 1020, 1060, 1100 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    346,
+                    1200,
+                    377
+                ],
+                "score": 0.997,
+                "text": "are shown in Table 2 together with the average bulk composition of the alloy analysed. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    379,
+                    1199,
+                    407
+                ],
+                "score": 0.999,
+                "text": "levels of N presented in the ferrite have been assumed to be around 0.05% saturation with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    405,
+                    568,
+                    449
+                ],
+                "score": 0.983,
+                "text": "the rest partitioned to the austenite.²"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    444,
+                    1199,
+                    474
+                ],
+                "score": 0.982,
+                "text": "The first important point to discuss is the relative PREN value of the two phases in each"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    478,
+                    766,
+                    507
+                ],
+                "score": 0.989,
+                "text": "sample. The PREN for austenite in sample annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    479,
+                    1199,
+                    509
+                ],
+                "score": 0.99,
+                "text": "(36.23) is lower by more than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    510,
+                    1199,
+                    542
+                ],
+                "score": 0.99,
+                "text": "three units than the value of 39.35 calculated for the ferrite, suggesting that pitting should"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    546,
+                    1198,
+                    575
+                ],
+                "score": 0.994,
+                "text": "occur only in austenite, but experimental results showed that pitting is confined to the ferrite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    580,
+                    288,
+                    605
+                ],
+                "score": 0.997,
+                "text": "in all samples."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    611,
+                    787,
+                    640
+                ],
+                "score": 0.998,
+                "text": "The same is true for samples annealed at 1060 and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    887,
+                    613,
+                    1199,
+                    640
+                ],
+                "score": 0.977,
+                "text": "where the PREN for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    642,
+                    1199,
+                    674
+                ],
+                "score": 0.996,
+                "text": "ferrite is higher than the austenite by 2.3 and 0.5 units, respectively. Only in the sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    676,
+                    261,
+                    707
+                ],
+                "score": 1.0,
+                "text": "annealed at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    356,
+                    676,
+                    1199,
+                    709
+                ],
+                "score": 0.996,
+                "text": "is the PREN of the austenite higher than in the ferrite. As expected, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    708,
+                    1199,
+                    742
+                ],
+                "score": 0.997,
+                "text": "PREN for the ferrite phase decreases as both the annealing temperature and the ferrite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    741,
+                    1200,
+                    776
+                ],
+                "score": 0.995,
+                "text": "content increases, whereas in contrast, the PREN of austenite increases as the annealing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    780,
+                    389,
+                    806
+                ],
+                "score": 0.999,
+                "text": "temperature increases."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    809,
+                    1200,
+                    842
+                ],
+                "score": 0.994,
+                "text": "Figure 8 also shows the plots of the PREN calculated by using the average composition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    843,
+                    1200,
+                    874
+                ],
+                "score": 0.997,
+                "text": "of the alloy (calculated from the analyses shown in Table 2) and the partition coefficients"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    876,
+                    1199,
+                    909
+                ],
+                "score": 1.0,
+                "text": "suggested by Charles² compared with the real values calculated directly from the analyses."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    907,
+                    1199,
+                    942
+                ],
+                "score": 0.995,
+                "text": "The calculated values for ferrite and the real values obtained show good agreement at low"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    941,
+                    1199,
+                    974
+                ],
+                "score": 1.0,
+                "text": "and high annealing temperatures. The austenite lines shows good agreement at low"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    974,
+                    1199,
+                    1007
+                ],
+                "score": 0.997,
+                "text": "temperatures, but some deviations at higher temperatures. The discrepancy at high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1010,
+                    1199,
+                    1039
+                ],
+                "score": 1.0,
+                "text": "temperatures arises because the partition coefficients of Cr and Mo were found to be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1041,
+                    1199,
+                    1073
+                ],
+                "score": 0.998,
+                "text": "sensitive to higher annealing temperatures. At lower annealing temperatures, the partition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1073,
+                    1191,
+                    1106
+                ],
+                "score": 0.995,
+                "text": "coefficients are less affected by temperature and are closer to those results reported before."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    316,
+                    1212,
+                    1001,
+                    1237
+                ],
+                "score": 0.997,
+                "text": "Table 2. Average composition of ferrite and austenite phases and bulk"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1672,
+                    1034,
+                    1698
+                ],
+                "score": 0.986,
+                "text": "¹Nitrogen in ferrite is taken as the saturation value ≈0.05%, the rest partitions to austenite.2"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8978,
+                "bbox": [
+                    117,
+                    114,
+                    169,
+                    140
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9385,
+                "bbox": [
+                    528,
+                    113,
+                    786,
+                    142
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.985,
+                "bbox": [
+                    131,
+                    177,
+                    1187,
+                    824
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9654,
+                "bbox": [
+                    178,
+                    846,
+                    1129,
+                    905
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862,
+                "bbox": [
+                    110,
+                    970,
+                    1198,
+                    1137
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    111,
+                    1135,
+                    1197,
+                    1204
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    110,
+                    1202,
+                    1201,
+                    1659
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9704,
+                "bbox": [
+                    112,
+                    1657,
+                    1199,
+                    1725
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    116,
+                    166,
+                    143
+                ],
+                "score": 1.0,
+                "text": "1328"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    533,
+                    117,
+                    780,
+                    139
+                ],
+                "score": 0.963,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    852,
+                    1125,
+                    872
+                ],
+                "score": 0.986,
+                "text": "Fig. 8. Calculated PREN values, using equation (1), for austenite and ferrite from theoretical and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    450,
+                    877,
+                    859,
+                    900
+                ],
+                "score": 0.998,
+                "text": "experimental values of Cr and Mo content."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    974,
+                    1194,
+                    999
+                ],
+                "score": 0.997,
+                "text": "It has been clearly shown that the pitting resistance of this duplex stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1007,
+                    1192,
+                    1032
+                ],
+                "score": 0.989,
+                "text": "decreases as the annealing temperature is increased consistent with the decreasing PREN for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    114,
+                    1040,
+                    1192,
+                    1065
+                ],
+                "score": 0.998,
+                "text": "ferrite; this can be associated with the lower levels of the important alloying elements Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1074,
+                    1192,
+                    1098
+                ],
+                "score": 0.993,
+                "text": "and Cr which partition preferentially to the ferrite, but are diluted as the total concentration"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1107,
+                    342,
+                    1132
+                ],
+                "score": 1.0,
+                "text": "of ferrite increases."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    1140,
+                    1191,
+                    1164
+                ],
+                "score": 0.995,
+                "text": "The important question is whether pitting occurs in ferrite because austenite has higher"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1173,
+                    922,
+                    1197
+                ],
+                "score": 0.988,
+                "text": "pitting resistance than predicted, or because that for ferrite is lower."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1204,
+                    1194,
+                    1232
+                ],
+                "score": 0.997,
+                "text": "The difference in relative resistance of ferrite and austenite might be influenced by the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1238,
+                    1194,
+                    1264
+                ],
+                "score": 0.994,
+                "text": "presence of high levels of Cu in the austenite (Table 2) which has been shown to enhance the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1268,
+                    1195,
+                    1296
+                ],
+                "score": 0.988,
+                "text": "pitting resistance of austenitic and duplex stainless steels.7-9 Cu has been suggested to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1304,
+                    1194,
+                    1329
+                ],
+                "score": 0.988,
+                "text": "improve the pitting resistance of DSS in acid environments,′ and the combination of Cu and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1335,
+                    1195,
+                    1360
+                ],
+                "score": 0.986,
+                "text": "N is believed to enhance corrosion resistance.8 Further work is in hand to assess"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1368,
+                    1193,
+                    1394
+                ],
+                "score": 0.991,
+                "text": "experimentally the effect of Cu in the pitting resistance of these steels. On the other hand,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1401,
+                    1193,
+                    1425
+                ],
+                "score": 0.998,
+                "text": "the high levels of sulphur in the ferrite, which are more than double that in the austenite,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1434,
+                    1196,
+                    1458
+                ],
+                "score": 0.986,
+                "text": "probably reduces the pitting resistance of the ferrite phase. Similarly, the presence of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1467,
+                    1195,
+                    1490
+                ],
+                "score": 0.999,
+                "text": "phosphorus, which also has been suggested to have detrimental effects on the performance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1498,
+                    1193,
+                    1524
+                ],
+                "score": 0.993,
+                "text": "of these alloys,1º is higher in the ferrite than in the austenite. Therefore, pitting susceptibility"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1530,
+                    1195,
+                    1556
+                ],
+                "score": 0.991,
+                "text": "of the ferrite phase may be reduced, relative to the austenite. Certainly, a weighting factor of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1561,
+                    1195,
+                    1588
+                ],
+                "score": 0.973,
+                "text": "— 123 applied to phosphorus and sulphur in PREN calculations,1º could account for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1595,
+                    1194,
+                    1622
+                ],
+                "score": 0.995,
+                "text": "preferential pitting of ferrite, but would imply poor performance rather than high pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1629,
+                    425,
+                    1654
+                ],
+                "score": 0.988,
+                "text": "resistance, as shown here."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1660,
+                    1193,
+                    1686
+                ],
+                "score": 0.998,
+                "text": "A full explanation of this behaviour may also require consideration of synergy between"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1692,
+                    1192,
+                    1716
+                ],
+                "score": 0.994,
+                "text": "elements, rather than considering single elements in isolation. One weakness of the PREN"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9413,
+                "bbox": [
+                    498,
+                    115,
+                    819,
+                    143
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8671,
+                "bbox": [
+                    1148,
+                    115,
+                    1199,
+                    140
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6602,
+                "bbox": [
+                    885,
+                    175,
+                    938,
+                    208
+                ],
+                "index": 3,
+                "latex": "a l . ^ { 1 1 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    110,
+                    177,
+                    1202,
+                    415
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9425,
+                "bbox": [
+                    555,
+                    458,
+                    763,
+                    490
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    111,
+                    509,
+                    1201,
+                    641
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8357,
+                "bbox": [
+                    758,
+                    576,
+                    821,
+                    607
+                ],
+                "index": 7,
+                "latex": "6 2 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9761,
+                "bbox": [
+                    112,
+                    642,
+                    1199,
+                    709
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7974,
+                "bbox": [
+                    637,
+                    710,
+                    735,
+                    739
+                ],
+                "index": 9,
+                "latex": "1 0 6 0 ^ { \\circ } \\mathrm { C } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9749,
+                "bbox": [
+                    112,
+                    709,
+                    1199,
+                    775
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831,
+                "bbox": [
+                    111,
+                    776,
+                    1200,
+                    874
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829,
+                "bbox": [
+                    111,
+                    875,
+                    1200,
+                    974
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9732,
+                "bbox": [
+                    111,
+                    974,
+                    1199,
+                    1040
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843,
+                "bbox": [
+                    110,
+                    1040,
+                    1200,
+                    1206
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9828,
+                "bbox": [
+                    110,
+                    1230,
+                    1200,
+                    1371
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9301,
+                "bbox": [
+                    556,
+                    1434,
+                    760,
+                    1465
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9368,
+                "bbox": [
+                    125,
+                    1482,
+                    713,
+                    1510
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9283,
+                "bbox": [
+                    126,
+                    1510,
+                    882,
+                    1536
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9298,
+                "bbox": [
+                    125,
+                    1537,
+                    971,
+                    1563
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9586,
+                "bbox": [
+                    126,
+                    1563,
+                    1195,
+                    1615
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9377,
+                "bbox": [
+                    125,
+                    1616,
+                    822,
+                    1644
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9338,
+                "bbox": [
+                    125,
+                    1645,
+                    786,
+                    1671
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9617,
+                "bbox": [
+                    126,
+                    1672,
+                    1196,
+                    1722
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    503,
+                    117,
+                    815,
+                    142
+                ],
+                "score": 0.99,
+                "text": "The effect of phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1149,
+                    117,
+                    1197,
+                    143
+                ],
+                "score": 1.0,
+                "text": "1329"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    178,
+                    884,
+                    209
+                ],
+                "score": 0.999,
+                "text": "approach is that it fails to take such effects into account. Lu et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    942,
+                    178,
+                    1196,
+                    208
+                ],
+                "score": 1.0,
+                "text": "have shown a strong"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    213,
+                    1197,
+                    243
+                ],
+                "score": 0.995,
+                "text": "synergism between molybdenum and nitrogen in austenitic stainless steel. In these duplex"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    248,
+                    1195,
+                    275
+                ],
+                "score": 1.0,
+                "text": "steels molybdenum levels are highest in the ferrite, but nitrogen levels are much lower than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    279,
+                    1197,
+                    311
+                ],
+                "score": 0.992,
+                "text": "in austenite. These enhanced levels of nitrogen could increase the potency of molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    316,
+                    1196,
+                    342
+                ],
+                "score": 0.993,
+                "text": "such that a lower level of molybdenum actually has greater pit inhibiting power than the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    346,
+                    1195,
+                    373
+                ],
+                "score": 1.0,
+                "text": "higher molybdenum content in the ferrite. Further work is needed to establish whether this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    378,
+                    1149,
+                    410
+                ],
+                "score": 1.0,
+                "text": "synergism alone can account for the improved pitting resistance of the austenite phase"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    560,
+                    466,
+                    758,
+                    498
+                ],
+                "score": 0.997,
+                "text": "CONCLUSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    509,
+                    1196,
+                    542
+                ],
+                "score": 0.996,
+                "text": "1. The pitting potential and CPT of UNS S32550 duplex stainless steel are strongly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    544,
+                    1196,
+                    574
+                ],
+                "score": 0.994,
+                "text": "influenced by the solution treatment temperature. Raising the annealing temperature lowers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    579,
+                    754,
+                    606
+                ],
+                "score": 0.99,
+                "text": "both parameters. The maximum CPT reached was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    580,
+                    1196,
+                    608
+                ],
+                "score": 0.998,
+                "text": ", obtained by annealing 2 h at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    610,
+                    567,
+                    642
+                ],
+                "score": 0.999,
+                "text": "1020°C followed by water quenching."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    1196,
+                    674
+                ],
+                "score": 0.995,
+                "text": "2. Pitting corrosion of UNS S32550 in chloride solutions takes place preferentially in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    679,
+                    678,
+                    706
+                ],
+                "score": 0.993,
+                "text": "ferrite phase rather than in the austenite phase."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    710,
+                    633,
+                    741
+                ],
+                "score": 0.992,
+                "text": "3. High annealing temperatures (above"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    741,
+                    710,
+                    1196,
+                    738
+                ],
+                "score": 0.988,
+                "text": "increase the ferrite content and dilute"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    743,
+                    1134,
+                    772
+                ],
+                "score": 0.997,
+                "text": "the key alloying elements in the ferrite lowering the corrosion resistance of the ferrite."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    775,
+                    1196,
+                    806
+                ],
+                "score": 0.996,
+                "text": "4. PREN calculated from bulk composition is unlikely to be a good guide to assess"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    811,
+                    1194,
+                    840
+                ],
+                "score": 0.998,
+                "text": "pitting resistance of duplex stainless steels; a better understanding can be achieved through"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    842,
+                    651,
+                    873
+                ],
+                "score": 1.0,
+                "text": "calculating PREN values for the two phases."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    876,
+                    1196,
+                    905
+                ],
+                "score": 0.997,
+                "text": "5. At low annealing temperatures, the partition coefficients of the alloying elements are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    908,
+                    1196,
+                    938
+                ],
+                "score": 0.991,
+                "text": "in good agreement with those reported before.² Some deviation from these values is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    943,
+                    921,
+                    972
+                ],
+                "score": 0.998,
+                "text": "observed at higher annealing temperatures (higher ferrite contents)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    975,
+                    1193,
+                    1004
+                ],
+                "score": 0.999,
+                "text": "6. PREN values for austenite and ferrite calculated from bulk analysis using known"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1008,
+                    1193,
+                    1039
+                ],
+                "score": 0.996,
+                "text": "partition coefficients can provide a useful first approximation in assessing pitting resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1042,
+                    1194,
+                    1070
+                ],
+                "score": 0.994,
+                "text": "7. Additional factors beyond the concentration of Cr, Mo and N may need to be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1075,
+                    1194,
+                    1103
+                ],
+                "score": 0.997,
+                "text": "considered to fully understand the relative pitting resistances of austenite and ferrite. These"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1108,
+                    1194,
+                    1137
+                ],
+                "score": 0.999,
+                "text": "could include levels of other beneficial elements such as copper, levels of harmful elements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1143,
+                    1194,
+                    1170
+                ],
+                "score": 0.998,
+                "text": "such as sulphur or phosphorus and synergism between elements such as nitrogen and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1175,
+                    283,
+                    1204
+                ],
+                "score": 1.0,
+                "text": "molybdenum."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1231,
+                    1195,
+                    1258
+                ],
+                "score": 0.998,
+                "text": "Acknowledgements—The authors would like to thank Langley Alloys Ltd for funding, provision of samples and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1262,
+                    1195,
+                    1283
+                ],
+                "score": 0.995,
+                "text": "permission to publish this research and Professor D. G. Pettifor for the provision of the laboratory facilities. One of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1288,
+                    1192,
+                    1309
+                ],
+                "score": 0.987,
+                "text": "the authors, L. F. Garfias-Mesias would like to thank the Consejo Nacional de Ciencia y Tecnologia (CONACyT."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1317,
+                    1192,
+                    1338
+                ],
+                "score": 0.995,
+                "text": "Mexico) for the financial support. We would like to acknowledge Dr O. Khaselev for useful discussions and Mr C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1346,
+                    712,
+                    1363
+                ],
+                "score": 0.986,
+                "text": "Salter for analyses of the samples in the Cameca SEMPROBE."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    559,
+                    1439,
+                    755,
+                    1467
+                ],
+                "score": 0.99,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1484,
+                    708,
+                    1509
+                ],
+                "score": 0.991,
+                "text": "1. K. Lorenz and G. Medawar, Thyssen Forsch. 1, 97 (1969)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    1511,
+                    878,
+                    1537
+                ],
+                "score": 0.996,
+                "text": "2. J. Charles, Proc. Duplex Stainless Steel Conf., Beaune France, p. 3 (1991)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1537,
+                    968,
+                    1564
+                ],
+                "score": 0.999,
+                "text": "3. S. Bernhardsson, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 185 (1991)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1564,
+                    1194,
+                    1590
+                ],
+                "score": 0.985,
+                "text": "4. H. D. Solomon and T. M. Devine, Duplex Stainless Steels (ed. R. A. Lula), p. 693. American Society for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    1594,
+                    295,
+                    1614
+                ],
+                "score": 0.999,
+                "text": "Metals (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1618,
+                    819,
+                    1643
+                ],
+                "score": 0.982,
+                "text": "5. V. M. Salinas-Bravo and R. C. Newman, Corros. Sci. 36, 67 (1994)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    1645,
+                    782,
+                    1671
+                ],
+                "score": 0.996,
+                "text": "6. J. O. Nilsson and A. Wilson, Mater. Sci. Technol. 9, 545 (1993)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1672,
+                    1194,
+                    1698
+                ],
+                "score": 0.99,
+                "text": "7. P. Guha and C. A. Clark, Duplex Stainless Steels (ed. R. A. Lula), p. 355. American Society for Metals"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1697,
+                    227,
+                    1726
+                ],
+                "score": 1.0,
+                "text": "(1983)."
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1300,
+            "height": 1900
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8925,
+                "bbox": [
+                    115,
+                    115,
+                    165,
+                    138
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9111,
+                "bbox": [
+                    525,
+                    114,
+                    781,
+                    140
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9382,
+                "bbox": [
+                    122,
+                    174,
+                    1143,
+                    201
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9283,
+                "bbox": [
+                    121,
+                    202,
+                    889,
+                    228
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9312,
+                "bbox": [
+                    115,
+                    230,
+                    1175,
+                    256
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9148,
+                "bbox": [
+                    114,
+                    258,
+                    814,
+                    283
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    116,
+                    163,
+                    142
+                ],
+                "score": 1.0,
+                "text": "1330"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    530,
+                    117,
+                    777,
+                    138
+                ],
+                "score": 0.987,
+                "text": "L. F. Garfias-Mesias et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    176,
+                    1140,
+                    202
+                ],
+                "score": 0.994,
+                "text": "8. P. Combrade and J. -P. Audouard, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 257 (1991)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    204,
+                    885,
+                    228
+                ],
+                "score": 0.976,
+                "text": "9. A. A. Hermas, K. Ogura, S. Takagi and T. Adachi, Corrosion 51, 3 (1995)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    230,
+                    1173,
+                    257
+                ],
+                "score": 0.994,
+                "text": "10. R. Dölling, V. Neubert and P. Knoll, Proc. Duplex Stainless Steel Conf., Beaune, France, p. 1341 (1991)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    260,
+                    811,
+                    282
+                ],
+                "score": 0.988,
+                "text": "11. Y. C. Lu, M. B. Ives and C. R. Clayton, Corros. Sci. 35, 89 (1993)."
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1300,
+            "height": 1900
+        }
+    }
+]

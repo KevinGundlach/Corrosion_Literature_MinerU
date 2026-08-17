@@ -1,0 +1,1042 @@
+[
+    {
+        "type": "text",
+        "text": "Improved Ferritic-Austenitic Stainless Steel",
+        "text_level": 1,
+        "bbox": [
+            149,
+            202,
+            744,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "W. H. Richardson & P. Guha",
+        "bbox": [
+            146,
+            254,
+            400,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To cite this article: W. H. Richardson & P. Guha (1979) Improved Ferritic-Austenitic Stainless Steel, British Corrosion Journal, 14:3, 167-170",
+        "bbox": [
+            146,
+            298,
+            813,
+            330
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To link to this article:https://doi.org/10.1179/000705979798275762",
+        "bbox": [
+            148,
+            337,
+            659,
+            355
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f739d97c3f7bfe8bb3bd0ba20ec392a8f36afe0e24068b07c88224069ef0ee7c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            398,
+            195,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published online: 18 Jul 2013.",
+        "bbox": [
+            201,
+            402,
+            402,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa913f825170f98d3f4aa86bf64cd85e02a20834c689ca592a263d2e589f4696.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            450,
+            197,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Submit your article to tis journal",
+        "bbox": [
+            162,
+            450,
+            452,
+            474
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e495f294dccc4d59d08d850a2de38d72b577cfca2c45b65692022887f3414a7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            165,
+            501,
+            198,
+            522
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article views: 3",
+        "bbox": [
+            164,
+            501,
+            305,
+            523
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/71c7f0190404eb5bad9af894940a7fcc1ebea4938c5cab13286dd3bc92fedcb0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            553,
+            194,
+            578
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "View related articles",
+        "bbox": [
+            203,
+            559,
+            364,
+            576
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c733917fdd941d0ca5d9629eda90537ed8abdc30088b52d538b8e8fed3180d59.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            164,
+            605,
+            197,
+            629
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citing articles: 3 View citing articles",
+        "bbox": [
+            164,
+            606,
+            460,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "British Corrosion Journal",
+        "bbox": [
+            198,
+            50,
+            484,
+            72
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Taylor & Francis Taylor & Francis Group",
+        "bbox": [
+            848,
+            19,
+            968,
+            44
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ISSN: 0007-0599 (Print) (Online) Journal homepage: http://www.tandfonline.com/loi/ycst19",
+        "bbox": [
+            195,
+            159,
+            749,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journallnformation?journalCode=ycst19",
+        "bbox": [
+            246,
+            920,
+            752,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved Ferritic-Austenitic Stainless Steel",
+        "text_level": 1,
+        "bbox": [
+            32,
+            91,
+            538,
+            113
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "by W. H. Richardson and P. Guha",
+        "bbox": [
+            32,
+            125,
+            260,
+            139
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Langley Alloys Limited, Langley, Slough, Berkshire",
+        "bbox": [
+            32,
+            144,
+            371,
+            159
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Manuscript received 1 November, 1978; revised manuscript 20 June, 1979)",
+        "bbox": [
+            32,
+            163,
+            470,
+            177
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the efficient operation of chemical process plant it is of paramount importance to ensure as far as possible that the periods of closure for maintenance and repair are minimised.",
+        "bbox": [
+            260,
+            204,
+            880,
+            227
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The arduous conditions encountered in many chemical plants as a result of progressive trends towards higher yields, etc., have therefore highlighted the need for greater strength and pitting resistance than can be ·obtained in conventional austenitic stainless steels. This paper describes the development of ferritic/austenitic high chromium duplex cast stainless steels and demonstrates how, by addition of nitrogen and close control of composition, certain inherent drawbacks of duplex alloys can be overcome. The nitrogen-containing steel has an attractive combination of mechanical properties, corrosion resistance, ductility, weldability and castability, and has received application in a wide range of aggressive environments.",
+        "bbox": [
+            258,
+            226,
+            882,
+            314
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction",
+        "text_level": 2,
+        "bbox": [
+            195,
+            373,
+            282,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AUSTENITIC stainless steels have long been known for their good corrosion resistance and have been extensively used in chemical plants. The development of chemical and other process plants has seen progressive trends towards achieving high yield, often requiring high concentrations and higher temperatures which lead to the shortening of service life of the stainless steels commonly used. This can lead to costly inspection and maintenance involving production loss due to plant shut down, and has been recently highlighted.1",
+        "bbox": [
+            30,
+            389,
+            448,
+            497
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conventional austenitic stainless steels are inherently low strength alloys, and can suffer from pitting and crevice corrosion in the presence of chloride ions, due to localised breakdown of the passivating surface film. These alloys are also prone to stress corrosion cracking in chloride environments. The choice of a suitable material to combat the more severe conditions in chemical plants and in marine environments such as North Sea Oil Fields is therefore difficult.",
+        "bbox": [
+            30,
+            495,
+            448,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The search for suitable alternatives has led to the development of high chromium duplex ferritic/austenitic steels and the interest in such stainless steels for use in chemical and marine industries has increased during the past 10 years. This paper details comparative mechanical and corrosion characteristics of two such steels:",
+        "bbox": [
+            30,
+            589,
+            448,
+            661
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) A.C.I. CD-4MCu Alloy (2) FERRALIUM Alloy\\*",
+        "text_level": 2,
+        "bbox": [
+            144,
+            666,
+            330,
+            692
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High Chromium-Ferritic-Austenitic Steels",
+        "text_level": 2,
+        "bbox": [
+            97,
+            706,
+            378,
+            719
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High chromium-ferritic-austenitic steels are known to have good corrosion resistance. The effect of high chromium in improving general corrosion resistance has been reported by various authors,2-4 and the beneficial effect of high chromium content on pitting resistance in chloride environments has also been reported.s,6 High chromium low carbon alloys, however, are generally coarse grained and brittle. Due to their inherent lack of ductility, propensity to cracking, and certain fabrication problems,47 application of these alloys has in practice been severely restricted.",
+        "bbox": [
+            28,
+            721,
+            446,
+            840
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The development of a high chromium duplex steel CD-4MCu with additions of molybdenum and copper was reported by Fontana8 in 1956. This alloy was later incorporated in an Alloy Casting Institute data sheet under the same code name. The results reported indicated good general corrosion resistance, stress corrosion resistance and high strength. Attempts to produce castings of heavy or variable section, however, proved to be very difficult due to cracking problems and this alloy was also found to be prone to thermal cracking during heat treatment.9 Brautingan¹º also highlighted these shortcomings, and a modified heat treatment schedule, both complex and timeconsuming, had to be devised to overcome this tendency to thermal cracking. Published information and production experience of A.C.I. CD-4MCu alloy indicate that this alloy still largely suffers from the inherent drawbacks of the previously known high chromium duplex steels. The percentage composition range of A.C.I. CD-4MCu alloy is as follows: Cr 25-26.5; Ni 4.75–6·0; Mo 1·75–2.25; Cu 2·75-3-25; C 0·04 max.; Fe Bal.",
+        "bbox": [
+            30,
+            839,
+            446,
+            888
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            465,
+            372,
+            884,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Development of Improved Alloy",
+        "text_level": 2,
+        "bbox": [
+            570,
+            559,
+            783,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It was clearly desirable to develop an alloy possessing the good corrosion characteristics of duplex steels but having markedly improved mechanical properties, castability and weldability, yielding a general purpose alloy having wide acceptance and application in the chemical engineering industry.",
+        "bbox": [
+            468,
+            575,
+            884,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that nitrogen additions can improve the strength of fully austenitic steels\" as well as being an austenite stabiliser. It was therefore decided to investigate the effects of adding nitrogen to duplex ferritic-austenitic steels, an area not previously investigated. In order to retain the good stress corrosion and pitting resistance of the steels of duplex structure it was necessary to study also the effects of varying chromium and nickel contents over a wide range so that the appropriate alloy contents for a given nitrogen addition could be optimised to retain the duplex structure. In practice, as indicated below, a surprising outcome of this work was not only that a marked improvement in ductility was obtained but also that the corrosion resistance of the duplex steels was improved by nitrogen additions. The resultant nitrogen-containing alloy is now widely accepted for use in marine and chemical environments.",
+        "bbox": [
+            466,
+            634,
+            885,
+            823
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion",
+        "text_level": 2,
+        "bbox": [
+            597,
+            831,
+            752,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alloys were produced as castings and hot rolled bar having nominal compositions of 1.5-3.5% copper, 2.5% molybdenum with varying chromium and nickel contents in the ranges 23–27% and 4.0–6.5%, respectively, and with nitrogen contents in the range 0.05-0.22% (Table I). Steels with copper at the lower end of the range were used for producing rolled bar.",
+        "bbox": [
+            466,
+            848,
+            884,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Registered Trade Mark of Langley Alloys Limited (British Patent No. 1,158,614).",
+        "bbox": [
+            32,
+            897,
+            444,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Br. Corros. J., 1979, Vol. 14, No. 3",
+        "bbox": [
+            32,
+            927,
+            260,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "W.Q. – Water Quench A.C. – Air Cool",
+        "bbox": [
+            114,
+            360,
+            249,
+            381
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b839d7db16dad7c52602c46936c51e810c405451e2dc56330a24c2a250c5ffef.jpg",
+        "table_caption": [
+            "TABLEI",
+            "Mechanical properties of duplex steel castings"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">Alloy No.</td><td colspan=\"6\">Composition, %</td><td rowspan=\"2\">Condition</td><td rowspan=\"2\">0.5% Proof Stress, N/mm²</td><td rowspan=\"2\">Ultimate Tensile Stress, N/mm²</td><td rowspan=\"2\">Elongation, %</td><td rowspan=\"2\">Izod Impact Value, J</td></tr><tr><td>N</td><td>Cr</td><td>Nl</td><td>Mo</td><td>Cu</td><td>C</td></tr><tr><td>1</td><td>0.22</td><td>25.2</td><td>5.65</td><td>2.24</td><td>3.12</td><td>0.06</td><td>25 mm dia. test bar 1 h 1120°C W.Q. + 4 h at 500°C A.C.</td><td>664</td><td>927</td><td>31</td><td>79</td></tr><tr><td>2</td><td>0.05</td><td>24.9</td><td>5.5</td><td>2.5</td><td>3.29</td><td>0.04</td><td>25 mm dia. test bar 1 h 1120°c W.Q. + 4 h at 500°℃ A.C.</td><td>602</td><td>873</td><td>15</td><td>13.5</td></tr><tr><td>3</td><td>0.13</td><td>26.8</td><td>4.6</td><td>2.17</td><td>3.05</td><td>0.05</td><td>25 mm dia. test bar 1 h 1120°C W.Q. + 4 h at 500°C A.C.</td><td>772</td><td>965</td><td>16</td><td>11</td></tr><tr><td>4</td><td>0.06</td><td>27.0</td><td>4.9</td><td>2.2</td><td>3.0</td><td>0.04</td><td>25 mm dia. test bar 1 h 1120°℃ W.Q. + 4 h at 500°C A.C.</td><td>803</td><td>942</td><td>4</td><td>4</td></tr><tr><td>5</td><td>0.16</td><td>25.1</td><td>5.0</td><td>2.46</td><td>3.04</td><td>0.065</td><td>76 mm thick section 2 h 1120°℃ W.Q.</td><td>618</td><td>757</td><td>23</td><td></td></tr><tr><td>6</td><td>0.05</td><td>25.3</td><td>5.23</td><td>2.44</td><td>3.15</td><td>0.032</td><td>76 mm thick section 2 h 1120°℃ W.Q.</td><td></td><td>541</td><td>Nil</td><td></td></tr></table>",
+        "bbox": [
+            119,
+            136,
+            964,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7b50291beb2bb5ee7b827324c9fa7ac71ea445264c87344f7dea92115567506.jpg",
+        "table_caption": [
+            "TABLE II",
+            "Effect of varying chromium content on mechanical properties of the duplex nitrogen-containing steels",
+            "W.Q. – Water Quench"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">Alloy No.</td><td colspan=\"4\">Composition, %</td><td rowspan=\"2\">Condition</td><td rowspan=\"2\">0.5% Proof Stress, N/mm2</td><td rowspan=\"2\">Ultimate Tensile Stress, N/mm²</td><td rowspan=\"2\">Elongation, %</td><td rowspan=\"2\">Izod Impact Value, J</td></tr><tr><td>Cr</td><td>Ni</td><td>N</td><td>Mo</td></tr><tr><td>7</td><td>25.2</td><td>5.1</td><td>0.12</td><td>2.0</td><td>1120℃ W.Q. + 4 h at 500°℃</td><td>710</td><td>911</td><td>30</td><td>60</td></tr><tr><td>8</td><td>25.2</td><td>5.65</td><td>0.24</td><td>2.24</td><td>1120℃ W.Q. + 4 h at 500°℃</td><td>664</td><td>927</td><td>31</td><td>79</td></tr><tr><td>9</td><td>25.9</td><td>5.8</td><td>0.25</td><td>2.6</td><td>1120℃ W.Q. + 4 h at 500C</td><td>664</td><td>911</td><td>28</td><td>65</td></tr><tr><td>10</td><td>25.8</td><td>4.6</td><td>0.12</td><td>2.0</td><td>1120℃ W.Q. + 4 h at 500℃</td><td>741</td><td>942</td><td>19</td><td>17.5</td></tr><tr><td>11</td><td>26.8</td><td>4.6</td><td>0.14</td><td>2.1</td><td>1120℃ W.Q. + 4 h at 500°C</td><td>772</td><td>965</td><td>16</td><td>11</td></tr><tr><td>12</td><td>28.3</td><td>4.9</td><td>0.13</td><td>2.0</td><td>1120°℃ W.Q. + 4 h at 500℃</td><td>788</td><td>1004</td><td>17</td><td>8</td></tr></table>",
+        "bbox": [
+            117,
+            432,
+            962,
+            609
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mechanical properties",
+        "text_level": 2,
+        "bbox": [
+            114,
+            659,
+            262,
+            672
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The mechanical properties of specimens from castings, shown in Table I, demonstrate the beneficial effect of nitrogen additions, for duplex steels containing about 25% chromium, 5% nickel, 3% copper and 2.5% molybdenum. The low impact properties and ductility of the essentially nitrogen-free alloys are particularly striking in heat treated and thick sections.",
+        "bbox": [
+            112,
+            674,
+            529,
+            746
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table II illustrates the effect of varying chromium content on the mechanical properties of the duplex nitrogen-containing steels. It is seen that an increase in chromium content can adversely affect the ductility of these steels, but that this can be largely overcome by an appropriate increase in nitrogen content.",
+        "bbox": [
+            112,
+            745,
+            529,
+            806
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Corrosion characteristics",
+        "text_level": 2,
+        "bbox": [
+            112,
+            821,
+            279,
+            834
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The corrosion characteristics of duplex steels were studied using both potentiostatic and immersion (weight loss) test methods. Potentiostatic polarisation studies were carried out according to the ASTM G1 Committee recommendations; all potentials quoted are with reference to the saturated calomel electrode (SCE). The effect of 16 h immersion periods on the corrosion/pitting current density at +600 mV was also studied.",
+        "bbox": [
+            110,
+            835,
+            529,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The cell arrangement and electrode holder for these experiments were as recommended by Greene.12",
+        "bbox": [
+            547,
+            658,
+            964,
+            683
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 illustrates the effect of varying chromium content on the pitting current densities on steels containing approximately 5% nickel, 3% copper, 2.5% molybdenum and 0.15% nitrogen. It is seen that a minimum chromium content of about 24.5% is desirable in order to ensure that satisfactory passivity is retained in the presence of chloride ions.",
+        "bbox": [
+            547,
+            683,
+            964,
+            753
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 shows the effect of varying nickel content on the pitting behaviour of steels containing approximately 25% chromium, 3% copper and 2.5% molybdenum. It is seen that the nickel should be maintained within a fairly narrow range, of about 4.7–6·0%, in order to obtain optimum pitting resistance.",
+        "bbox": [
+            547,
+            753,
+            964,
+            812
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As indicated earlier, nitrogen was added to duplex steels in order to achieve an improved combination of mechanical properties. Surprisingly, a marked improvement in corrosion resistance properties was also achieved, as shown in Fig. 3, where the potentiostatic polarisation characteristics in 3% NaCl are plotted for alloys 5 and 6 (Table I) which have similar compositions, except that alloy 5 contains 0.16% nitrogen compared with 0.05% in alloy 6. It is seen that a significant improvement in breakdown/pitting potential is achieved by the addition of nitrogen. The nitrogen-containing steel also shows superior pitting resistance in 7 day immersion tests in 10% FeCl3, pH 1·75, at 20°C (Fig. 4) confirming the potentiostatic findings, the redox potential of the solution being +0.54 mV (SCE). The crevice corrosion resistance of the two steels in 10% FeCl3, pH 1·75, at 20°C is illustrated in Fig. 5. Crevices were produced by placing Neoprene $\\cdot _ { \\mathrm { { O } ^ { \\prime } } }$ rings round the specimens; the period of immersion was 7 days. The superior crevice corrosion resistance of the nitrogen-containing steel is clearly demonstrated. Finally, Table III details immersion corrosion test results in acid/chloride environments, where again the beneficial effect of the higher-nitrogen steel is demonstrated.",
+        "bbox": [
+            547,
+            812,
+            965,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "168",
+        "bbox": [
+            117,
+            71,
+            146,
+            82
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Richardson & Guha: Improved Ferritic-Austenitic Stainless Steel",
+        "bbox": [
+            331,
+            69,
+            755,
+            84
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Br. Corros. J., 1979, Vol. 14, No. 3",
+        "bbox": [
+            732,
+            927,
+            962,
+            940
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0c21fcbfecb0972f8b27a6d54e305a4b88ecb6e2912162ca167f6edfe9d5b484.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 1. Effect of varying Cr content on pitting current density of steel containing approx. 5% Ni, 3% Cu, 2.5% Mo and 0·15% N"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            81,
+            91,
+            381,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/99c0d4b796c93031d37537c6357ea25e7e8048eea23d8bc1fd09a0010b777819.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 2. Effect of varying Ni content on pitting current density of steel containing approx. 25% Cr, 3% Cu and 2.5% Mo"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            82,
+            315,
+            383,
+            449
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/13cf6317e4a0607d87d0c8614132a811fc43db137c92fff72fb9036b313088fa.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 3. Potentiostatic polarisation curves for alloys 5 and 6 in 3% NaCl (N2-purged) at 30°C; N content of alloy 5 is 0.15% and of alloy 6, 0.05%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            31,
+            499,
+            428,
+            690
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            17,
+            775,
+            440,
+            917
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3217455f8b9ea048c2491793e63ffeda0405ef1893fd81fe7846c60636e14233.jpg",
+        "image_caption": [
+            "Fig. 4. Specimens of alloy 5 and alloy 6 after 7 days' immersion in 10% FeCl3, pH 1.75, at 20°C, showing superior pitting resistance of alloy 5 (on R)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            531,
+            92,
+            822,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd3d598fe3f1deac47b102a78d175850c1ffb1fd7f00fdd6efac258b5cea59f.jpg",
+        "image_caption": [
+            "Fig. 5. Specimens of alloy 5 and alloy 6 after 7 days' immersion in 10% FeCl3, pH 1·75, at 20°C, in which crevices were produced by placing Neoprene 'O' rings round the cylinders, showing superior crevice corrosion resistance of alloy 5 (on L)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            531,
+            447,
+            823,
+            725
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9188549e7176abcc6249c5dee75af8531318299c9748b556052197af8287fbd6.jpg",
+        "table_caption": [
+            "TABLE III",
+            "Corrosion test results 7 days immersion in 30% H2SO4 + 3% NaCl at 60°C"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Alloy No.</td><td>Corrosion rate, mg/dm² day</td></tr><tr><td>56</td><td>6,500 11,000</td></tr></table>",
+        "bbox": [
+            466,
+            870,
+            884,
+            914
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Richardson & Guha: Improved Ferritic-Austenitic Stainless Steel",
+        "bbox": [
+            233,
+            68,
+            664,
+            83
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "169",
+        "bbox": [
+            853,
+            70,
+            880,
+            82
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Br. Corros. J., 1979, Vol. 14, No. 3",
+        "bbox": [
+            20,
+            927,
+            253,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ba0e9bdecff34969d907bd21fc2c27293ea2aa6dd206307e8830ac5d8ed87ef.jpg",
+        "image_caption": [
+            "Fig. 6. Typical example of a weld fabricated casting from Ferralium alloy"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            130,
+            88,
+            513,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Specification for Improved Alloy",
+        "text_level": 2,
+        "bbox": [
+            212,
+            349,
+            429,
+            362
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the mechanical and corrosion resistance properties described above it was possible to characterise a new alloy, having the following preferred range of composition:",
+        "bbox": [
+            109,
+            365,
+            532,
+            403
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chromium 24.5-25.8% Nickel 4.9-5.8% Molybdenum 2.0-4.0% Copper 1.5-3.5% Nitrogen 0.10% minimum Carbon 0.08% maximum Iron Balance",
+        "bbox": [
+            187,
+            405,
+            459,
+            490
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This alloy satisfied, in laboratory tests, the target requirements for corrosion characteristics, showing in fact significant improvement over CD—4MCu, combined with very satisfactory strength and ductility.",
+        "bbox": [
+            107,
+            496,
+            532,
+            545
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Production experience during the past 15 years has confirmed that this alloy does not suffer from the drawbacks of the conventional high chromium duplex alloys. The alloy can be readily welded, without encountering any HAZ cracking and delayed cracking, often associated with other high chromium duplex alloys. Numerous weld fabricated castings and cast to wrought welded assemblies have been produced using welding wire of matching composition. Fig. 6 shows a typical example of such fabrications.",
+        "bbox": [
+            551,
+            85,
+            977,
+            194
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Summary and Conclusions",
+        "text_level": 2,
+        "bbox": [
+            674,
+            225,
+            857,
+            238
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results described in this paper indicate that FERRALIUM Alloy possesses an excellent combination of mechanical properties and corrosion resistance. Stability of the passivation film in the presence of chloride ions has also been demonstrated. To safeguard these important characteristics, control of composition and addition of nitrogen is of paramount importance.",
+        "bbox": [
+            553,
+            242,
+            979,
+            326
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            723,
+            357,
+            801,
+            369
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Editorial. Corrosion, 1979, 35 (January)",
+            "2. Shaw, D., & Edwards, A. M., Čorros. Sci., 1965, 5, 413",
+            "3. Colombier, L., & Hochmann, J., 'Stainless and Heat Resisting Steels', 1967 (London: Edward Arnold)",
+            "4. Monypenny, J. H. G., ‘Stainless Steel and Iron', Vol. 1, 1951 (London: Čhapman & Hall)",
+            "5. Frochhammer, P., & Engell, H. J., Werkstoffe Korros., 1969, 20, 20",
+            "6. Horvath, H., & Uhlig, H. H., J. electrochem. Soc., 1968, 115, 791",
+            "7. Thum, E., 'The Book of Stainless Steels', 2nd Edn, 1935 (American Society Metals)",
+            "8. Fontana, G., J. ind. engng Chem., 1956, 48, 53A",
+            "9. Flowers, J. W., Beck, F. H., & Fontana, M. G., Corrosion, 1963, 19,186t",
+            "10. U.S. Patent No. 3,065,119",
+            "11. von Rudolf Oppenheim, Werkstoffe Korros., 1965, 16, 1",
+            "12. Greene, N. D., 'Experimental Electrode Kinetics', 1965 (Troy, New York: Rensselaer Polytechnic Institute)"
+        ],
+        "bbox": [
+            563,
+            372,
+            820,
+            383
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FORGING AND PROPERTIES OFAEROSPACE MATERIALS",
+        "text_level": 2,
+        "bbox": [
+            140,
+            585,
+            737,
+            639
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proceedings of a conference organized by Activity Group Committee Il of The Metals Society in association with the Leeds and Bradford Metallurgical Societies, and held at the Department of Metallurgy, University of Leeds, on 5–7 January 1977.",
+        "bbox": [
+            139,
+            651,
+            846,
+            696
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The papers in this volume present a survey of current forging practice and discuss future trends and possibilities, including powder-forming methods and isothermal and superplastic forging processes.   \nThere are five sessions dealing with : Design philosophy for components ; Current technology ;   \nStructure/property relationships in superalloys and titanium alloys ; Forging and structure control;   \nFuture developments in forming practice. Each session is followed by a substantial Discussion section.",
+        "bbox": [
+            139,
+            698,
+            897,
+            775
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "viii+453 pp Paperback ISBN 0 904357 12 0",
+        "bbox": [
+            140,
+            794,
+            507,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "245×177 mm",
+        "bbox": [
+            737,
+            794,
+            848,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UK price £15 (Metals Society Members £12) post free",
+        "bbox": [
+            140,
+            813,
+            549,
+            829
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overseas \\$45(Members \\$36) post free",
+        "bbox": [
+            140,
+            832,
+            436,
+            848
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Please send orders, quoting ordering code 188 and enclosing the correct remittance, to :",
+        "bbox": [
+            140,
+            854,
+            793,
+            869
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sales Department, The Metals Society, 1 Carlton House Terrace, London SW1Y 5DB",
+        "bbox": [
+            140,
+            873,
+            850,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "170",
+        "bbox": [
+            111,
+            65,
+            140,
+            77
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Richardson & Guha: Improved Ferritic-Austenitic Stainless Steel",
+        "bbox": [
+            328,
+            65,
+            761,
+            78
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Br. Corros. J., 1979, Vol. 14, No. 3",
+        "bbox": [
+            744,
+            924,
+            977,
+            937
+        ],
+        "page_idx": 4
+    }
+]

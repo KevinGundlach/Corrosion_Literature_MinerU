@@ -1,0 +1,970 @@
+[
+    {
+        "type": "text",
+        "text": "Susceptibility of Cr-Ni-Mn Stainless Steels to Pitting in Chloride Solutions\\*",
+        "text_level": 1,
+        "bbox": [
+            207,
+            23,
+            790,
+            73
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E. LUNARSKA, Z. SZKLARSKA-SMIALOWSKA, and M. JANIK-CZACHOR\\*",
+        "bbox": [
+            291,
+            102,
+            708,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            462,
+            161,
+            544,
+            177
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anodic behavior of 18Cr-5Ni steels containing 0.03 to 15% Mn was studied in 0.1N ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ solution with additions of 0.01 to 0.1N NaCl. The presence of 5.7 to 15% Mn in those steels decreases their ability to passivate and their resistance to pitting. The most susceptible locations for pit nucleation are boundaries between the austenite matrix and the carbide particles. The pitting resistance of chromium-nickel-manganese steels is discussed with respect to their phase compositions",
+        "bbox": [
+            163,
+            188,
+            836,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Only a scarcity of information on the susceptibility of Cr-Ni-Mn stainless steels to pitting exists in the literature, and the few existing data are controversial. This is chiefly due to the fact that these steels are extremely sensitive to the presence of minor components, particularly nitrogen. Researchers have not paid sufficient respect to this element. Thus, Murgulescu and Radovici¹ studied the anodic behavior of steels with 17 to 19% Cr, 5 to 7% Ni, and 4.4 to 7.7% Mn, and found a detrimental effect of increasing Mn content on the ability of these steels to passivate. On the other hand, Knyazheva, et ${ \\mathrm { a l } } , ^ { 2 }$ observed that addition of up to 10% Mn to 18%Cr-5%Ni steels does not affect the passive dissolution rate in sulfuric acid solutions, but increases the critical current density and the critical passivation potential. Unfortunately, in both papers, the nitrogen content was not indicated.",
+        "bbox": [
+            29,
+            289,
+            478,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Condylis, et al,³ compared the corrosion resistance of 304L and 316L austenitic stainless steels with that of substitutional 204L and 216L steels containing about 6% Ni, 10% Mn, and 0.2% N. The substitutional low-nickel steels behaved like the ordinary austenitic stainless steels in many solutions. The important exception was nitric acid. In that solution, the manganese steels were less resistant. In chloride solutions, the pitting resistance of Mn-containing steels was higher than that of 304L and 316L steels.",
+        "bbox": [
+            29,
+            468,
+            478,
+            573
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "According to Shams El Din, et al,4 who investigated the anodic behavior of 17Cr-5Ni steels containing from 0.03 to 13.9% Mn, the corrosion behavior of the 17Cr-5Ni-5.6Mn alloy approaches that of the 18Cr-8Ni steel. However, a further increase in the Mn content is detrimental to both the corrosion resistance and ability to passivate. In a subsequent paper,⁵ these authors argue that additions of Mn to 17Cr-5Ni alloys adversely affect their pitting resistance. On the contrary, the experimental results of Troselius6 suggest that Mn addition to Cr-Ni steels has a beneficial influence on the pitting resistance.",
+        "bbox": [
+            29,
+            572,
+            478,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When considering the effect of Mn on the corrosion resistance of stainless steels, it must be taken into account that the change in the chemical composition might be accompanied by a change in the phase composition of the alloy. This change could significantly affect the mechanical and chemical properties. In this respect, minor elements and impurities (C,N,P) play a role as important as that of Cr, Ni, and Mn.",
+        "bbox": [
+            29,
+            702,
+            478,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The purpose of the present work was to study the effect of different additions of Mn to the 18Cr-5Ni alloy on the phase composition and susceptibility to pitting in chloride solutions.",
+        "bbox": [
+            29,
+            793,
+            478,
+            834
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental",
+        "text_level": 2,
+        "bbox": [
+            220,
+            843,
+            328,
+            857
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alloys used for this study were kindly supplied by the Institute of Iron Metallurgy (Gliwice, Poland) in the form of hot forged rods,",
+        "bbox": [
+            31,
+            857,
+            478,
+            885
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdd6c3e73c0a1c319a901a5811c9c1d9d6efbd28aa7ed9a1f796c5070594ef9e.jpg",
+        "table_caption": [
+            "TABLE 1 — Chemical Composition of 18Cr-5Ni-Mn Stainless Steels(1)(%)",
+            "(1)Chemical analysis performed by the Institute of Iron Metallurgy Gliwice, Poland."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Mn</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>Si</td><td rowspan=1 colspan=1>P</td><td rowspan=1 colspan=1>S</td><td rowspan=1 colspan=1>Cr</td><td rowspan=1 colspan=1>Ni</td><td rowspan=1 colspan=1>N</td></tr><tr><td rowspan=1 colspan=1>0.035.79.611.715.110.0</td><td rowspan=1 colspan=1>0.00750.01900.0130.0150.0015n.d.</td><td rowspan=1 colspan=1>0.230.270.570.230.500.50</td><td rowspan=1 colspan=1>0.0340.0290.0310.0300.0300.027</td><td rowspan=1 colspan=1>0.0140.0140.0140.0180.0180.017</td><td rowspan=1 colspan=1>17.217.417.617.617.617.5</td><td rowspan=1 colspan=1>5.515.475.525.485.445.69</td><td rowspan=1 colspan=1>0.0660.0610.0490.0650.0860.019</td></tr></table>",
+        "bbox": [
+            515,
+            324,
+            966,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "18 mm in diameter. Compositions of these alloys are listed in Table   \n1.",
+        "bbox": [
+            515,
+            481,
+            966,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The steels were tested both in the as-received and quenched conditions. Quenching in water occurred after either (1) heating 1 hour in air at 1050 C, (2) heating 0.5 hour in air at 1050 C, or (3) heating 0.5 hour in air at 950 C. The specimens were cut from rods and mounted in epoxy resin so that the exposed surface area was about $0 . 8 ~ \\mathrm { c m } _ { \\circ } ^ { 2 } .$ This surface was coarse-ground with silicon-carbide papers and then fine-ground with alumina paste.",
+        "bbox": [
+            513,
+            507,
+            966,
+            598
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical measurements were performed at 25 C in 0.1N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ with different additions of NaCl ranging from 0.01 to 0.1N.",
+        "bbox": [
+            515,
+            598,
+            966,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To compare the pitting susceptibility with the ability to passivate, potentiokinetic polarization curves were measured, step by step, using a rate of 50 mV per 30 seconds. This enabled the determination of the following parameters: potential of pit nucleation $( \\mathrm { E _ { n p } ^ { \\prime } } )$ , critical passivation potential $( { \\mathrm { E } } _ { \\mathbf { k p } } )$ , critical current density for passivation $( \\mathbf { i } _ { \\mathbf { k } \\mathbf { p } } )$ , and current density in the passive state ${ \\bf ( i _ { p } ) }$ . Those parameters are indicated in Figure 1 for the example of steel with 5.7% Mn.",
+        "bbox": [
+            515,
+            636,
+            968,
+            740
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Before and after exposure to the corrosive solution, the specimens were examined by optical microscopy. Complementary X-ray diffraction and electron microprobe analysis studies were performed.",
+        "bbox": [
+            515,
+            740,
+            966,
+            793
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results",
+        "text_level": 2,
+        "bbox": [
+            711,
+            803,
+            772,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phase Composition",
+        "text_level": 2,
+        "bbox": [
+            515,
+            828,
+            667,
+            842
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the as-received specimens of the 18Cr-5Ni-0.03Mn steel, metallographic examination revealed the presence of martensite with some inclusions of δ-ferrite. These mostly appeared at boundaries of the original austenite grains.",
+        "bbox": [
+            513,
+            842,
+            966,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As determined by X-ray analysis, the alloys with more than 5% Mn contained austenite and ferrite. No traces of σ-phase were detected.",
+        "bbox": [
+            515,
+            892,
+            966,
+            931
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The electron microprobe analysis revealed some enrichment of",
+        "bbox": [
+            543,
+            931,
+            966,
+            944
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "231",
+        "bbox": [
+            932,
+            959,
+            965,
+            972
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication April, 1974.",
+        "bbox": [
+            33,
+            904,
+            295,
+            919
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Institute of Physical Chemistry of the Polish Academy of Sciences, Warsaw, Kasprzaka 44, Poland.",
+        "bbox": [
+            33,
+            918,
+            475,
+            945
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 31, No. 7, July, 1975",
+        "bbox": [
+            34,
+            959,
+            231,
+            976
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e52191b1345af7e540e661108aec6727963d6bfdd1858ffd151bad71740d40c0.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 1 - Effect of heat treatment on the anodic polarization curves of 18 Cr-5 Ni-10 Mn steel."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            32,
+            20,
+            477,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6fad3cf7860c42cf7bece5ce6d2d91961169c33220d2024eca2fe8a693327523.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 2 - Anodic polarization curves of 18Cr-5Ni steels with different additions of Mn."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            36,
+            293,
+            478,
+            474
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "the ferrite phase in $\\mathrm { C r , }$ with impoverishment in Fe, Ni, and Mn.",
+        "bbox": [
+            34,
+            540,
+            446,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The amount of δ-phase depended upon the steel composition. The higher the Mn content was and the lower the C and the N contents were, the greater the amount of δ-phase present. However, heat-to-heat variations also very likely influenced the phase composition of the alloys under investigation.",
+        "bbox": [
+            32,
+            553,
+            482,
+            617
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In all specimens, small particles of a foreign phase were detected. They were identified by electron probe analysis as carbides (presumably $\\mathbf { M e } _ { 2 3 } \\mathbf { C } _ { 6 } )$",
+        "bbox": [
+            34,
+            617,
+            480,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quenching did not essentially change the phase composition, but it affected the grain morphology and homogeneity. Thus, a longer duration and a higher annealing temperature before quenching induced homogenization of both the δ and γ-phases, and a slight increase in size of the δ-grains, whose shape became more nearly round. Moreover, the tendency of δ-grains and of grain boundaries to be attacked by etchants decreased significantly after quenching. This was accompanied by an increase in the ability to passivate (Figure 2). Therefore, most of the electrochemical and corrosion experiments were performed on specimens quenched after 1 hour of heating at 1050 C.",
+        "bbox": [
+            32,
+            655,
+            482,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical Measurements",
+        "text_level": 2,
+        "bbox": [
+            34,
+            805,
+            268,
+            819
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some examples of anodic polarization curves measured on quenched steels in $0 . 1 \\mathrm { N } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 0 1 \\mathrm { N } \\mathrm { N a C l }$ are given in Figure 1. There are only slight differences between the shapes of the curves for ferritic-austenitic steels containing from 5.7 to 15% Mn, whereas the curve for the martensitic-ferritic steel with 0.03% Mn is quite different. This steel is passive in the above medium, so there is no range of an active metal dissolution, and the current density within the passive region is significantly lower than that for the other steels. Differences also occur within the transpassive region. These differences occurred in all the solutions used, i.e., containing from",
+        "bbox": [
+            32,
+            820,
+            482,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/3a1b3484ba5be993b661a20bf558bf455090f8037a086b8e09a85c5c187b0683.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 3 — Effect of Mn content on critical passivation potential."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            526,
+            22,
+            956,
+            234
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/1ea7aba036c4c983e05200f65d5fe7561b7daee17acd291c75a6267ea73d71d0.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 4 - Effect of Mn content on current density in passive state."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            530,
+            291,
+            963,
+            624
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0.01 to 0.1N NaCl in $0 . 1 \\mathrm { N } \\mathrm { H } _ { 2 } \\mathrm { S } 0 _ { 4 }$",
+        "bbox": [
+            519,
+            693,
+            751,
+            706
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plots characterizing the ability of the steels to passivate are summarized in Figures 3 and 4. According to Figure $3 , \\mathrm { E } _ { \\mathrm { k p } }$ shows a tendency to increase with the Mn content in the range from 5.7 to 15%. Similarly, $\\mathbf { i _ { p } }$ increased with the percentage of Mn (Figure 4), and such a tendency was also found for $\\mathrm { i } _ { \\mathbf { k } \\mathbf { p } } .$ Comparison ${ \\mathrm { o f ~ i _ { p } ~ } }$ values observed for specimens in the as-received condition with those in the quenched condition (Figure 4) shows again that heat treatment considerably improves the ability of the steels to anodically passivate.",
+        "bbox": [
+            517,
+            706,
+            967,
+            820
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results in Figure 5 show that an increase in the Mn content from 0.03 to 5.7% has a detrimental effect on the propensity of these steels to pitting. Within this range, $\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }$ manifests a sharp decrease, while a further addition of Mn to the alloy does not significantly affect that value. The heat treatment does not significantly influence the value of $\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }$ , which is almost identical for the as-received and quenched steels.",
+        "bbox": [
+            517,
+            819,
+            968,
+            909
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metallographic Examination After Corrosion",
+        "text_level": 2,
+        "bbox": [
+            517,
+            919,
+            857,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the as-received condition, i.e., hot forged steels, the formation of pits was accompanied by etching of both the δ-ferrite grains and grain boundaries (Figure 6). The pits predominantly formed at the boundaries between γ and δ phases, which both were attacked during the further pit development. On the contrary, in the quenched steels, no etching of the γ-δ boundaries was observed, and no pits formed at them. There were some indications suggesting that the pit nucleation occurred at boundaires between the γ-phase and carbide particles. Quite often, pits were observed at sites where inclusions of the δ-phase were rather rare, and at large accumulation of this phase, pitting did not occur (Figure 7).",
+        "bbox": [
+            544,
+            933,
+            967,
+            947
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "232",
+        "bbox": [
+            34,
+            961,
+            67,
+            974
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            798,
+            961,
+            965,
+            975
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ee21b48ae40ff1ace447a8d4dac6c7578e5a3a8d069807c3e757f5a4c41ec24e.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 5 - Effect of Mn content on potential of pit nucleation."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            36,
+            21,
+            469,
+            443
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/93ed39711e230ac6044b6fed4bf7cdbb5be3264681dd55eeb0431cd394fda017.jpg",
+        "image_caption": [
+            "FIGURE 6 - Typical micrograph of forged steel after corrosion. 1600X"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            110,
+            506,
+            399,
+            716
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            27,
+            781,
+            476,
+            907
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the quenched steels, the δ-phase is very resistant against pitting and does not undergo any dissolution during pit growth (Figure 8). This conclusion is valid for all the steels investigated, irrespective of their Mn content. It should also be pointed out that in the case of steel with 0.03% Mn, the austenite degradation products do not play any part in stimulating the pit nucleation process.",
+        "bbox": [
+            27,
+            907,
+            476,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0bc5cc6aed0e2a167bf6726db7bc5331ca4d8e8101249a44822bcb640c1034c.jpg",
+        "image_caption": [
+            "FiGURE 7 — Typical micrograph of quenched steel after corrosion. 1600X"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            596,
+            25,
+            896,
+            240
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ce2a0c57eedc914c74a1a4f5f7cf4124036bcb4d9eeec5b2be75909596cd13a.jpg",
+        "image_caption": [
+            "FIGURE 8 — Pit growth in quenched austenitic-ferritic steel, γ-phase undergoes corrosion, whereas δ-phase remains unattacked."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            523,
+            308,
+            965,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            590,
+            966,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            697,
+            653,
+            782,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our results show that the presence of 5.7 to 15% Mn in 18Cr-5Ni steels adversely affects their ability tò passivate and their resistance to pitting (Figures 3-5). This harmful effect increases with increasing Cl concentration in the electrolyte. The effect is greater for steels in the as-received condition, i.e., hot forged steels, than in quenched steels.",
+        "bbox": [
+            513,
+            665,
+            966,
+            743
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A decrease of the corrosion resistance of 18Cr-5Ni-Mn steels relative to the 18Cr-8Ni austenitic stainless steels cannot be ascribed to the presence of the δ-phase (δ-ferrite) in the alloys under investigation. This conclusion is based on the following arguments: (1) the relatively high corrosion resistance and ease of passivation of the martensitic-ferritic steel, (2) the corrosion immunity of the δ-phase in quenched alloys, and (3) the similar shapes of the anodic polarization curves for quenched alloys containing 9.6% Mn and 10% Mn, despite their different phase compositions. The 10% Mn alloy contained much more δ-ferrite than the other alloy.",
+        "bbox": [
+            511,
+            743,
+            965,
+            870
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Suggestion can be made that in ternary Cr-Ni-Mn alloys compared with ordinary Cr-Ni stainless steels, the austenite has a lower ability to be passivated anodically in chloride solutions, and forms weaker passive films.",
+        "bbox": [
+            511,
+            869,
+            965,
+            919
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As revealed by metallographic examination, the most susceptible locations for pit nucleation in quenched steels are the boundaries between the γ-phase and carbide particles. $\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }$ is nearly equal for both the hot-forged and quenched alloys. This suggests that in both cases the most susceptible locations for pit nucleation are the same. In hot forged steels, fine carbide precipitations were observed at γ-δ-boundaries, as well as within the δ-phase itself (Figure 7). These precipitates form during hot forging or slow cooling as a result of the δ-phase degradation. The relatively higher corrosiveness of the δ-phase in the as-received alloys was most likely due to those carbide precipitates.",
+        "bbox": [
+            511,
+            918,
+            965,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 31, No. 7, July, 1975",
+        "bbox": [
+            29,
+            960,
+            228,
+            975
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "233",
+        "bbox": [
+            928,
+            960,
+            961,
+            974
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            31,
+            22,
+            479,
+            137
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            208,
+            149,
+            304,
+            161
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Addition of 5.7 to 15% Mn to 18Cr-5Ni steels diminishes their ability to be passivated and their resistance to pitting.",
+        "bbox": [
+            32,
+            163,
+            478,
+            188
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. The most susceptible locations for pit nucleation in the quenched steels are the boundaries between the γ-phase and carbide particles.",
+        "bbox": [
+            31,
+            188,
+            479,
+            227
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. The presence of the δ-phase in the steels does not affect",
+        "bbox": [
+            58,
+            227,
+            479,
+            240
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "pitting susceptibility.",
+        "bbox": [
+            520,
+            22,
+            662,
+            36
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            698,
+            46,
+            786,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. J. G. Murgulescu and O. Radovici. Z. Phys. Chem., Vol. 214, p. 288 (1960).",
+            "2. V. M. Knyazheva, M. A. Vedeneeva, S. Esseldin-Halil, and Ya. Kolotyrkin. Zashchita Metallov., Vol. 1, p. 465 (1965).",
+            "3. A. Condylis, F. Bayon, and A. Desestret. Rev. Metallurgie, Vol. 67, (1970) May.",
+            "4. A. M. Shams El Din, M. M. Badran, and S. E. Khalil. Werkst.u.Korros., Vol. 23, p. 576 (1972); and Werkst.u.Korros., Vol. 24, p. 23 (1973).",
+            "5. A. M. Shams El Din, M. M. Badran, and S. E. Khalil. Werkst.u.Korros., Vol. 24, p. 290 (1973).",
+            "6. L. Troselius. Corrosion Sci., Vol. 11, p. 473 (1971).",
+            "7. O. A. Bannykh. Metallovedenie i Termicheskaya Obrabotka Metallov., No. 4, p. 6 (1964)."
+        ],
+        "bbox": [
+            521,
+            60,
+            965,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of Plating Current Density on Properties of Titanium-Cadmium Deposit\\*",
+        "text_level": 1,
+        "bbox": [
+            224,
+            279,
+            779,
+            327
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DAN ALTURA\\* and FLORIAN MANSFELD\\*\\*",
+        "bbox": [
+            317,
+            356,
+            684,
+            371
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            459,
+            413,
+            540,
+            428
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Titanium-cadmium plating was evaluated at various plating current densities which may be encountered in industrial practice. Both high and low current densities resulted in increased hydrogen embrittlement tendency over the optimal plating condition. Deleting the current strike had no noticeable effect on embrittlement behavior. Salt spray testing indicated that gross corrosion behavior was independent of plating current density. The corrosion behavior of cadmium-plated steel coupled to aluminum alloys was both a function of plating current density and the type of aluminum alloy used. Plate microstructure was a strong function of plating current density.",
+        "bbox": [
+            164,
+            441,
+            835,
+            532
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The addition of titanium compounds to a cadmium-cyanide plating bath was originally suggested as a means of improving the corrosion resistance of the resultant cadmium plate. Subsequently it was discovered that the addition of $\\mathrm { T i O } _ { 3 }$ (pertitanate) to the cadmiumcyanide bath significantly reduces the amount of hydrogen absorbed codeposition of titanium with the cadmium, resulting in a change in the structure of the deposit which guards against the entry of hydrogen into the steel.3,5 In order to further reduce the embrittling tendency of this cyanide bath, the use of organic brighteners has been eliminated. The lower embrittlement tendency of the titanium-cadmium (Ti-Cd) plating bath has made it an effective replacement for the bright cyanide bath in the plating of high-strength steels.",
+        "bbox": [
+            32,
+            549,
+            481,
+            729
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optimal operation of the Ti-Cd plating bath requires tight control of plating bath parameters. Chemical composition of the bath is controlled through periodic chemical analysis of such important bath constituents as ${ \\mathrm { T i } } ,$ Cd, and cyanide. One plating parameter which is difficult to control effectively and can sometimes fall outside the optimal range is local plating current density. The plating current density at edges or other projections can be significantly greater than the nominal value, while in voids the current density can be smaller than the nominal. This study was initiated to investigate the effect of plating current density on the performance of the Ti-Cd bath. Bath performance was evaluated in terms of hydrogen embrittlement tendency of the steel substrate and corrosion behavior of the deposit.",
+        "bbox": [
+            32,
+            728,
+            481,
+            868
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            551,
+            965,
+            576
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedure",
+        "text_level": 2,
+        "bbox": [
+            649,
+            587,
+            833,
+            601
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plating solutions contained 15 oz/gal (112 g/l) sodium cyanide and 3.4 oz/gal (25.4 g/l) CdO. Titanium content of the plating solution was controlled by using atomic absorption analysis. Temperature of the bath was maintained at 21 (± 3) C. Cadmium balls were the anodes. Plating current densities which were studied are given in Table 1. Average plating thickness was 13 μm (0.0005 inch). Specimens were not baked after being plated.",
+        "bbox": [
+            516,
+            601,
+            967,
+            691
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hydrogen embrittlement testing was done by recording time to failure of HEP embrittlement test strips (Luster-On Products, Inc) which had a stress applied to them by bending and placing in a Lucite fixture within 1 hour after plating.6. These strips were shown to be very sensitive to hydrogen embrittlement and also reproducible in a previous study on porous Cd plating.6 Corrosion behavior was evaluated using the salt spray test (ASTM method B-117) and a galvanic couple test. AISI 4130 steel sheet was utilized for both types of tests. In the galvanic couple test, Ti-Cd plated steel was coupled to either Al 2024-T851 or Al 7075-T7651 alloys in 3.5% NaCl for a period of 24 hours. The Cd dissolution rate was calculated by weighing the Cd/steel sample before and after the test to 0.1 mg and dividing by the geometric area and time of test. The average galvanic current density $\\overline { { ( \\mathrm { i } _ { \\mathrm { g } } } } )$ was calculated by dividing the average galvanic current $( \\mathrm { I } _ { \\mathbf { g } } ,$ obtained by integration of the galvanic current-time trace) by the geometric area of the Cd/steel specimen. The test methods used here are described in greater detail elsewhere.6",
+        "bbox": [
+            516,
+            691,
+            968,
+            919
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion",
+        "text_level": 2,
+        "bbox": [
+            653,
+            920,
+            826,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1. which summarizes the results, indicates that variation",
+        "bbox": [
+            543,
+            934,
+            965,
+            946
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication November, 1974.",
+        "bbox": [
+            41,
+            882,
+            339,
+            896
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Los Angeles Aircraft Division, Rockwell International Los Angeles, California 90009.",
+        "bbox": [
+            38,
+            896,
+            479,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*\\*Science Center, Rockwell International Thousand Oaks, California 91360.",
+        "bbox": [
+            34,
+            921,
+            478,
+            946
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "234",
+        "bbox": [
+            34,
+            963,
+            67,
+            975
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            797,
+            963,
+            961,
+            977
+        ],
+        "page_idx": 3
+    }
+]

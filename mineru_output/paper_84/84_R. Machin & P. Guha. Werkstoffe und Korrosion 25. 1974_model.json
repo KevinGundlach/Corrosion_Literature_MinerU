@@ -1,0 +1,5690 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9127,
+                "bbox": [
+                    998,
+                    2119,
+                    1491,
+                    2150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8777,
+                "bbox": [
+                    95,
+                    105,
+                    128,
+                    130
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9468,
+                "bbox": [
+                    192,
+                    98,
+                    1391,
+                    132
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9664,
+                "bbox": [
+                    92,
+                    171,
+                    1399,
+                    272
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9386,
+                "bbox": [
+                    96,
+                    306,
+                    477,
+                    338
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9132,
+                "bbox": [
+                    97,
+                    418,
+                    249,
+                    448
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9873,
+                "bbox": [
+                    97,
+                    471,
+                    785,
+                    1060
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.907,
+                "bbox": [
+                    811,
+                    414,
+                    1469,
+                    506
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9819,
+                "bbox": [
+                    815,
+                    540,
+                    1461,
+                    988
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9273,
+                "bbox": [
+                    817,
+                    991,
+                    1438,
+                    1023
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7162,
+                "bbox": [
+                    1360,
+                    995,
+                    1434,
+                    1023
+                ],
+                "index": 11,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9382,
+                "bbox": [
+                    99,
+                    1106,
+                    437,
+                    1137
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    97,
+                    1161,
+                    788,
+                    1414
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9281,
+                "bbox": [
+                    98,
+                    1465,
+                    422,
+                    1496
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.939,
+                "bbox": [
+                    98,
+                    1520,
+                    467,
+                    1551
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    96,
+                    1575,
+                    786,
+                    1913
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9832,
+                "bbox": [
+                    811,
+                    1074,
+                    1457,
+                    1523
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9538,
+                "bbox": [
+                    811,
+                    1530,
+                    1398,
+                    1584
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    811,
+                    1621,
+                    1502,
+                    1844
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    809,
+                    1844,
+                    1495,
+                    2094
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9404,
+                "bbox": [
+                    100,
+                    1947,
+                    763,
+                    2001
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9202,
+                "bbox": [
+                    94,
+                    2000,
+                    580,
+                    2032
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9381,
+                "bbox": [
+                    93,
+                    2032,
+                    739,
+                    2086
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1002,
+                    2122,
+                    1486,
+                    2147
+                ],
+                "score": 0.997,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    96,
+                    106,
+                    127,
+                    131
+                ],
+                "score": 1.0,
+                "text": "40"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    102,
+                    1387,
+                    125
+                ],
+                "score": 0.994,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    96,
+                    178,
+                    1396,
+                    210
+                ],
+                "score": 0.997,
+                "text": "The use of potentiostatic techniques in the development of improved stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    231,
+                    511,
+                    269
+                ],
+                "score": 0.997,
+                "text": "steels for chemical plant*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    310,
+                    474,
+                    335
+                ],
+                "score": 0.977,
+                "text": "By R. Machin**) and P. Guha**)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    422,
+                    246,
+                    446
+                ],
+                "score": 1.0,
+                "text": "Introduction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    475,
+                    725,
+                    498
+                ],
+                "score": 0.995,
+                "text": "The behaviour patterns of the common conventional"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    504,
+                    766,
+                    525
+                ],
+                "score": 0.997,
+                "text": "stainless steels, both wrought and cast, in corrosive environ-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    531,
+                    768,
+                    555
+                ],
+                "score": 0.994,
+                "text": "ments, have been established over the years, mainly by long"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    560,
+                    764,
+                    580
+                ],
+                "score": 1.0,
+                "text": "term immersion or exposure tests complemented by service"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    585,
+                    772,
+                    609
+                ],
+                "score": 0.997,
+                "text": "experiences. Consequently, the development of steels of im-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    613,
+                    757,
+                    637
+                ],
+                "score": 0.992,
+                "text": "proved corrosion resistance has been a slow process mainly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    639,
+                    747,
+                    665
+                ],
+                "score": 0.998,
+                "text": "because of the length of time necessary to produce useful"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    667,
+                    767,
+                    692
+                ],
+                "score": 1.0,
+                "text": "information from such tests. The introduction and develop-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    695,
+                    768,
+                    719
+                ],
+                "score": 0.993,
+                "text": "ment of potentiostatic techniques, however, in recent years"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    723,
+                    779,
+                    746
+                ],
+                "score": 0.998,
+                "text": "have enabled the corrosion behaviour of stainless steels to be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    751,
+                    759,
+                    774
+                ],
+                "score": 0.999,
+                "text": "studied in a systematic way by tests of short duration. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    778,
+                    729,
+                    802
+                ],
+                "score": 0.993,
+                "text": "present paper describes the results of such studies in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    807,
+                    771,
+                    830
+                ],
+                "score": 0.996,
+                "text": "Authors' laboratory which firstly correlated the known cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    835,
+                    782,
+                    858
+                ],
+                "score": 0.997,
+                "text": "rosion behaviour of cast stainless steels in general production"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    862,
+                    766,
+                    886
+                ],
+                "score": 0.999,
+                "text": "with their potentiostatic characteristics and, secondly, used"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    889,
+                    765,
+                    914
+                ],
+                "score": 0.987,
+                "text": "the potentiostat extensively to guide and monitor all stages"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    917,
+                    736,
+                    941
+                ],
+                "score": 0.987,
+                "text": "of developmenț of an improved stainless steel designated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    938,
+                    764,
+                    972
+                ],
+                "score": 0.979,
+                "text": "FERRALIUM®1) alloy. This steel was shown to possess an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    974,
+                    756,
+                    997
+                ],
+                "score": 1.0,
+                "text": "exceptional resistance to general corrosion in many aggres-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1001,
+                    754,
+                    1025
+                ],
+                "score": 0.997,
+                "text": "sive environments and especially to attack in crevices or in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1030,
+                    743,
+                    1052
+                ],
+                "score": 0.998,
+                "text": "circumstances normally associated with pitting corrosion."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    419,
+                    1463,
+                    443
+                ],
+                "score": 0.994,
+                "text": "is shown in Fig. 2 in which can also be seen the secondary"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    448,
+                    1438,
+                    470
+                ],
+                "score": 0.991,
+                "text": "active peak at around 50mV which is a characteristic of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    476,
+                    1297,
+                    500
+                ],
+                "score": 0.984,
+                "text": "steels which are wholly or partially ferritic."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    994,
+                    1357,
+                    1019
+                ],
+                "score": 0.991,
+                "text": "Fig. 1. Polarisation characteristics of 18Cr10Ni in 1 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1110,
+                    432,
+                    1134
+                ],
+                "score": 0.992,
+                "text": "Potentiostatic Test Procedure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1162,
+                    754,
+                    1191
+                ],
+                "score": 0.993,
+                "text": "Potentiostatic studies were carried out using a Wenking"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1193,
+                    782,
+                    1217
+                ],
+                "score": 0.999,
+                "text": "potentiostat. The stepping rate during polarisation was main-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    1219,
+                    764,
+                    1245
+                ],
+                "score": 0.993,
+                "text": "tained at 10 mV/min. using a stepping motor. The polarisa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1247,
+                    759,
+                    1271
+                ],
+                "score": 0.997,
+                "text": "tion cell set-up and electrode holder were as recommended"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1272,
+                    771,
+                    1301
+                ],
+                "score": 0.992,
+                "text": "by Greene (1). Polarisation was carried out according to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    1303,
+                    738,
+                    1327
+                ],
+                "score": 0.999,
+                "text": "recommendations of the ASTM G. 1 Committee. All test"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1328,
+                    781,
+                    1357
+                ],
+                "score": 0.999,
+                "text": "solutions were purged with oxygen-free high purity nitrogen."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1358,
+                    722,
+                    1382
+                ],
+                "score": 0.999,
+                "text": "All potentials reported are with reference to a Standard"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1385,
+                    410,
+                    1409
+                ],
+                "score": 1.0,
+                "text": "Calomel Electrode (S.C.E.)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1467,
+                    417,
+                    1493
+                ],
+                "score": 1.0,
+                "text": "Conventional stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    1524,
+                    461,
+                    1549
+                ],
+                "score": 1.0,
+                "text": "(i) General Corrosion Resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1577,
+                    785,
+                    1604
+                ],
+                "score": 0.986,
+                "text": "Fig. 1 illustrates the typical polarisation curve in IN sulph-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1604,
+                    760,
+                    1633
+                ],
+                "score": 0.987,
+                "text": "uric acid of a cast 18Cr10Ni austenitic stainless steel in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    1633,
+                    706,
+                    1660
+                ],
+                "score": 0.987,
+                "text": "annealed condition, showing an active current peak at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    1660,
+                    743,
+                    1687
+                ],
+                "score": 0.989,
+                "text": "-300mV and a passive range extending beyond +800mV."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1688,
+                    756,
+                    1716
+                ],
+                "score": 0.994,
+                "text": "The passivation of this alloy in oxidizing conditions across"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1716,
+                    743,
+                    1744
+                ],
+                "score": 0.992,
+                "text": "this range has been demonstrated by immersion tests, for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1744,
+                    774,
+                    1771
+                ],
+                "score": 0.994,
+                "text": "example, in 65% nitric acid (corresponding to a potential of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1771,
+                    744,
+                    1800
+                ],
+                "score": 0.999,
+                "text": "800mV S.C.E.) and in copper sulphate solution (zero mV"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1799,
+                    770,
+                    1827
+                ],
+                "score": 0.993,
+                "text": "S.C.E.) (2). It is considered by the authors, that the passiva-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1827,
+                    733,
+                    1854
+                ],
+                "score": 0.996,
+                "text": "tion of this type of steel is related to its stable austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1855,
+                    773,
+                    1883
+                ],
+                "score": 0.993,
+                "text": "microstructure. For comparison, the limited range of passiv-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1882,
+                    749,
+                    1911
+                ],
+                "score": 0.989,
+                "text": "ity of a ferritic nickel-free 17% chromium steel (wrought)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1531,
+                    1394,
+                    1557
+                ],
+                "score": 0.992,
+                "text": "Fig. 2. Polarisation characteristics of 17 Cr ferritic steel in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1554,
+                    931,
+                    1583
+                ],
+                "score": 0.927,
+                "text": "1NH₂SO₄"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    851,
+                    1622,
+                    1456,
+                    1651
+                ],
+                "score": 0.996,
+                "text": "Cast 17% Chromium steel containing up to 5% Nickel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1650,
+                    1501,
+                    1679
+                ],
+                "score": 0.994,
+                "text": "will also show a limited range of passivity and it is only when"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1678,
+                    1489,
+                    1705
+                ],
+                "score": 0.996,
+                "text": "8—10% Nickel is introduced that a wide passivation range is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1705,
+                    1495,
+                    1735
+                ],
+                "score": 0.988,
+                "text": "observed. With the 18Cr10Ni composition, a stable austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1733,
+                    1453,
+                    1762
+                ],
+                "score": 1.0,
+                "text": "is produced, not subject to breakdown to martensite. Al-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1761,
+                    1487,
+                    1790
+                ],
+                "score": 0.985,
+                "text": "though a small amount of stable ferrite may be present, this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    1789,
+                    1481,
+                    1817
+                ],
+                "score": 0.999,
+                "text": "does not have any deleterious effect on the cast alloy's gen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    1817,
+                    1095,
+                    1843
+                ],
+                "score": 0.999,
+                "text": "eral corrosion behaviour."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    848,
+                    1844,
+                    1452,
+                    1872
+                ],
+                "score": 0.986,
+                "text": "Molybdenum additions to the cast 18Cr10Ni steel im-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1873,
+                    1421,
+                    1899
+                ],
+                "score": 1.0,
+                "text": "prove its corrosion behaviour in sulphuric acid and, as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1900,
+                    1482,
+                    1927
+                ],
+                "score": 0.985,
+                "text": "shown in Fig. 3, this is reflected in a reduction of the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1928,
+                    1446,
+                    1955
+                ],
+                "score": 0.997,
+                "text": "current peak. Comparison of Figs. 1 and 3 demonstrates"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1954,
+                    1431,
+                    1983
+                ],
+                "score": 0.984,
+                "text": "that the passivity of 18Cr1ONi3Mo cast material is also"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1981,
+                    1456,
+                    2011
+                ],
+                "score": 0.993,
+                "text": "maintained to above +800mV (S.C.E.) which is similar to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    2008,
+                    1481,
+                    2039
+                ],
+                "score": 0.983,
+                "text": "18Cr1ONi steel, thereby indicating that, contrary to general"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    2037,
+                    1490,
+                    2065
+                ],
+                "score": 0.999,
+                "text": "opinion, the alloy containing 3% Molybdenum is as resistant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    2064,
+                    1244,
+                    2091
+                ],
+                "score": 1.0,
+                "text": "to nitric acid as the Molybdenum-free."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1949,
+                    759,
+                    1978
+                ],
+                "score": 0.992,
+                "text": "*) Vortrag, gehalten anläßlich der Achema-Tagung 1973 in Frank-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1976,
+                    416,
+                    1998
+                ],
+                "score": 0.991,
+                "text": "furt/M., 20.-27. Juni 1973."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    2003,
+                    572,
+                    2029
+                ],
+                "score": 0.994,
+                "text": "**) Langley Alloys Limited, SLOUGH, England."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    2035,
+                    137,
+                    2058
+                ],
+                "score": 1.0,
+                "text": "1)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    2060,
+                    236,
+                    2084
+                ],
+                "score": 1.0,
+                "text": "Limited."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    2035,
+                    733,
+                    2062
+                ],
+                "score": 0.995,
+                "text": "®FERRALIUM is a registered trademark of Langley Alloys"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1600,
+            "height": 2300
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9403,
+                "bbox": [
+                    193,
+                    96,
+                    1394,
+                    131
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8558,
+                "bbox": [
+                    1458,
+                    107,
+                    1489,
+                    130
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9848,
+                "bbox": [
+                    113,
+                    162,
+                    762,
+                    610
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9365,
+                "bbox": [
+                    89,
+                    622,
+                    758,
+                    654
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.774,
+                "bbox": [
+                    678,
+                    626,
+                    754,
+                    654
+                ],
+                "index": 5,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5198,
+                "bbox": [
+                    181,
+                    745,
+                    480,
+                    776
+                ],
+                "index": 6,
+                "latex": "\\mathbf { L A N G A L L O Y ^ { \\circledast } \\cdot 2 O V ^ { \\ast } } 2 ) _ { } ,"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    88,
+                    692,
+                    771,
+                    1199
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9849,
+                "bbox": [
+                    97,
+                    1218,
+                    745,
+                    1665
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8204,
+                "bbox": [
+                    210,
+                    1711,
+                    286,
+                    1741
+                ],
+                "index": 9,
+                "latex": "{ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9659,
+                "bbox": [
+                    91,
+                    1686,
+                    778,
+                    1742
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.936,
+                "bbox": [
+                    94,
+                    1798,
+                    406,
+                    1829
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9822,
+                "bbox": [
+                    93,
+                    1852,
+                    783,
+                    1997
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5366,
+                "bbox": [
+                    1273,
+                    226,
+                    1354,
+                    254
+                ],
+                "index": 13,
+                "latex": "6 5 0 \\ \\mathrm { { ^ \\circ C } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    805,
+                    172,
+                    1491,
+                    644
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9835,
+                "bbox": [
+                    806,
+                    675,
+                    1453,
+                    1123
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.939,
+                "bbox": [
+                    805,
+                    1130,
+                    1433,
+                    1161
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7378,
+                "bbox": [
+                    1353,
+                    1132,
+                    1428,
+                    1161
+                ],
+                "index": 17,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9829,
+                "bbox": [
+                    808,
+                    1190,
+                    1459,
+                    1638
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9409,
+                "bbox": [
+                    808,
+                    1645,
+                    1478,
+                    1676
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7076,
+                "bbox": [
+                    1398,
+                    1648,
+                    1473,
+                    1677
+                ],
+                "index": 20,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    806,
+                    1717,
+                    1489,
+                    1859
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986,
+                "bbox": [
+                    806,
+                    1865,
+                    1505,
+                    2091
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.5253,
+                "bbox": [
+                    94,
+                    2117,
+                    588,
+                    2148
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.945,
+                "bbox": [
+                    95,
+                    2035,
+                    745,
+                    2090
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    102,
+                    1388,
+                    125
+                ],
+                "score": 0.993,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1458,
+                    107,
+                    1488,
+                    132
+                ],
+                "score": 1.0,
+                "text": "41"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    625,
+                    677,
+                    650
+                ],
+                "score": 0.994,
+                "text": "Fig. 3. Polarisation characteristics of 18Cr10Ni3Mo in 1 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    693,
+                    757,
+                    722
+                ],
+                "score": 0.984,
+                "text": "The ability to correlate known corrosion behaviour with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    722,
+                    732,
+                    750
+                ],
+                "score": 0.997,
+                "text": "potentiostatic characteristics is further emphasised in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    751,
+                    180,
+                    775
+                ],
+                "score": 1.0,
+                "text": "case of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    481,
+                    753,
+                    732,
+                    777
+                ],
+                "score": 0.99,
+                "text": "a special cast stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    777,
+                    769,
+                    808
+                ],
+                "score": 0.981,
+                "text": "steel of basic composition 29% Nickel, 20% Chromium, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    806,
+                    755,
+                    836
+                ],
+                "score": 0.985,
+                "text": "including controlled amounts of Copper, Molybdenum and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    834,
+                    733,
+                    862
+                ],
+                "score": 0.999,
+                "text": "Niobium. This alloy has been shown in service to have an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    861,
+                    764,
+                    892
+                ],
+                "score": 0.99,
+                "text": "exceptionally high resistance to corrosion by sulphuric acid,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    889,
+                    736,
+                    918
+                ],
+                "score": 0.998,
+                "text": "e.g. a corrosion rate of less than 0.001 inches/year (0.025"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    917,
+                    710,
+                    946
+                ],
+                "score": 0.998,
+                "text": "mm) is shown in all concentrations of sulphuric acid at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    944,
+                    762,
+                    973
+                ],
+                "score": 0.998,
+                "text": "room temperature. This can be correlated with the polarisa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    973,
+                    740,
+                    1000
+                ],
+                "score": 0.993,
+                "text": "tion curve in Fig. 4 where the active current peak extends"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    1001,
+                    738,
+                    1027
+                ],
+                "score": 0.998,
+                "text": "over a much narrower potential range than that shown by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    1028,
+                    759,
+                    1057
+                ],
+                "score": 0.997,
+                "text": "the 18Cr10Ni3Mo steel (Fig. 3), implying a low rate of cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    1057,
+                    761,
+                    1083
+                ],
+                "score": 0.99,
+                "text": "rosion in non-oxidizing conditions. The displacement of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    1086,
+                    732,
+                    1110
+                ],
+                "score": 0.984,
+                "text": "current peak to a more noble potential (-150mV S.C.E.)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    96,
+                    1114,
+                    729,
+                    1138
+                ],
+                "score": 0.984,
+                "text": "demonstrates, in particular, the relative immunity of this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    1138,
+                    762,
+                    1168
+                ],
+                "score": 1.0,
+                "text": "cast alloy to deaerated sulphuric acid at approximately zero"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    1169,
+                    594,
+                    1193
+                ],
+                "score": 0.97,
+                "text": "hydrogen potential, i.e. -250m V S.C.E. (2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    1690,
+                    774,
+                    1713
+                ],
+                "score": 0.99,
+                "text": "Fig. 4. Polarisation characteristics of Langalloy 20V special stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    1716,
+                    209,
+                    1736
+                ],
+                "score": 0.97,
+                "text": "steel in 1 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1803,
+                    402,
+                    1827
+                ],
+                "score": 0.999,
+                "text": "(ii) Intergranular Corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1856,
+                    773,
+                    1879
+                ],
+                "score": 1.0,
+                "text": "Susceptibility to intergranular corrosion is normally mea-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    1883,
+                    770,
+                    1907
+                ],
+                "score": 1.0,
+                "text": "sured by the Strauss test, wherein the test piece is immersed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    1912,
+                    780,
+                    1934
+                ],
+                "score": 0.992,
+                "text": "in boiling Copper Sulphate solution before bending to detect"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1940,
+                    758,
+                    1962
+                ],
+                "score": 0.996,
+                "text": "any intergranular attack. These corrosive conditions can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1967,
+                    754,
+                    1991
+                ],
+                "score": 0.99,
+                "text": "simulated by potentiostatic techniques in sulphuric acid at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    172,
+                    1423,
+                    201
+                ],
+                "score": 0.984,
+                "text": "a potential of zero mV (S.C.E.) (2). Thus Fig. 5 which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    199,
+                    1484,
+                    228
+                ],
+                "score": 0.998,
+                "text": "shows a secondary peak at zero mV in cast 18Cr10Ni 0.07C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    227,
+                    1271,
+                    254
+                ],
+                "score": 0.99,
+                "text": "steel after a sensitizing heat-treatment at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1355,
+                    229,
+                    1458,
+                    256
+                ],
+                "score": 0.997,
+                "text": "indicates"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    253,
+                    1418,
+                    283
+                ],
+                "score": 0.998,
+                "text": "that this material in this condition would not pass the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    281,
+                    1485,
+                    311
+                ],
+                "score": 0.99,
+                "text": "Strauss test, i.e. it would be susceptible to intergranular cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    308,
+                    1463,
+                    339
+                ],
+                "score": 0.999,
+                "text": "rosion as is well known from actual Strauss tests and from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    336,
+                    1463,
+                    366
+                ],
+                "score": 0.995,
+                "text": "service experience. It is also known that this susceptibility"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    363,
+                    1459,
+                    393
+                ],
+                "score": 0.999,
+                "text": "can be removed by either the addition of a stabilizing ele-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    392,
+                    1468,
+                    421
+                ],
+                "score": 0.986,
+                "text": "ment, e.g. Niobium or Titanium or by reducing the carbon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    419,
+                    1480,
+                    449
+                ],
+                "score": 0.994,
+                "text": "content of the steel to a low level (0.03% in some specifica-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    447,
+                    1436,
+                    476
+                ],
+                "score": 0.99,
+                "text": "tions). Fig. 6 shows however that in the presence of 3%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    475,
+                    1482,
+                    503
+                ],
+                "score": 0.993,
+                "text": "Molybdenum, even with a Carbon content as high as 0.07%,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    503,
+                    1461,
+                    529
+                ],
+                "score": 0.978,
+                "text": "the current peak at zero mV is absent and that à cast steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    529,
+                    1461,
+                    559
+                ],
+                "score": 0.983,
+                "text": "of the 18Cr10Ni3Mo composition, even after a sensitizing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    558,
+                    1465,
+                    587
+                ],
+                "score": 1.0,
+                "text": "heat-treatment, will not show intergranular corrosion. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    586,
+                    1402,
+                    614
+                ],
+                "score": 0.998,
+                "text": "foregoing conclusions have all been confirmed in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    616,
+                    1453,
+                    639
+                ],
+                "score": 0.992,
+                "text": "Authors' laboratory by practical Strauss tests. No further"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    810,
+                    1133,
+                    1350,
+                    1157
+                ],
+                "score": 0.98,
+                "text": "Fig. 5. Polarisation characteristics of 18Cr10Ni in 1 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    1649,
+                    1397,
+                    1673
+                ],
+                "score": 0.988,
+                "text": "Fig. 6. Polarisation characteristics of 18Cr10Ni3Mo in 1 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    1720,
+                    1481,
+                    1745
+                ],
+                "score": 0.998,
+                "text": "improvement is produced in the 18Cr10Ni3Mo cast steel by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    1747,
+                    1474,
+                    1774
+                ],
+                "score": 0.988,
+                "text": "reduction of the Carbon content to 0.035% (Fig. 7). These"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    1776,
+                    1477,
+                    1802
+                ],
+                "score": 1.0,
+                "text": "results show that without need for stabilizing element addi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1805,
+                    1483,
+                    1828
+                ],
+                "score": 0.997,
+                "text": "tions, Carbon contents of up to 0.07% should be acceptable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    1831,
+                    1258,
+                    1856
+                ],
+                "score": 0.988,
+                "text": "in 18Cr10Ni3Mo stainless steel castings."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    849,
+                    1868,
+                    1464,
+                    1892
+                ],
+                "score": 1.0,
+                "text": "With regard to the use of stabilizing elements, of which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1897,
+                    1472,
+                    1921
+                ],
+                "score": 0.996,
+                "text": "Niobium is usually preferred to Titanium by foundries, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1925,
+                    1428,
+                    1948
+                ],
+                "score": 0.997,
+                "text": "results of Fig. 8 which shows a polarisation curve of an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1950,
+                    1449,
+                    1976
+                ],
+                "score": 0.985,
+                "text": "18Cr10Ni3Mo1Nb steel indicate an increase in the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    1980,
+                    1479,
+                    2002
+                ],
+                "score": 0.991,
+                "text": "current peak compared with a niobium-free casting (Fig. 3)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    2008,
+                    1471,
+                    2031
+                ],
+                "score": 0.995,
+                "text": "Therefore, a deterioration in performance in sulphuric acid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    2035,
+                    1456,
+                    2057
+                ],
+                "score": 0.985,
+                "text": "would be predicted. Thus the addition of niobium to cast"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    2061,
+                    1499,
+                    2086
+                ],
+                "score": 0.994,
+                "text": "18Cr10Ni3Mo steels with up to 0.07% Carbon, would appear"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    2120,
+                    582,
+                    2146
+                ],
+                "score": 0.998,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    2034,
+                    738,
+                    2067
+                ],
+                "score": 0.988,
+                "text": "2) ®'LANGALLOY' is a registered trademark of Langley Alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    2063,
+                    218,
+                    2088
+                ],
+                "score": 0.941,
+                "text": "Limited,"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1600,
+            "height": 2300
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8777,
+                "bbox": [
+                    98,
+                    108,
+                    132,
+                    133
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.947,
+                "bbox": [
+                    195,
+                    96,
+                    1391,
+                    131
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9837,
+                "bbox": [
+                    101,
+                    176,
+                    750,
+                    621
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4889,
+                "bbox": [
+                    145,
+                    652,
+                    220,
+                    683
+                ],
+                "index": 4,
+                "latex": "\\mathrm { H } _ { 2 } \\ S 0 _ { 4 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9529,
+                "bbox": [
+                    99,
+                    626,
+                    762,
+                    684
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9834,
+                "bbox": [
+                    104,
+                    721,
+                    745,
+                    1167
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5102,
+                "bbox": [
+                    146,
+                    1200,
+                    223,
+                    1229
+                ],
+                "index": 7,
+                "latex": "{ \\bf H } _ { 2 } { \\bf S } { \\bf O } _ { 4 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9485,
+                "bbox": [
+                    102,
+                    1173,
+                    704,
+                    1230
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6637,
+                "bbox": [
+                    102,
+                    1253,
+                    784,
+                    1342
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9288,
+                "bbox": [
+                    105,
+                    1372,
+                    361,
+                    1403
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843,
+                "bbox": [
+                    102,
+                    1418,
+                    786,
+                    1589
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9834,
+                "bbox": [
+                    104,
+                    1604,
+                    751,
+                    2048
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9449,
+                "bbox": [
+                    103,
+                    2057,
+                    704,
+                    2088
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854,
+                "bbox": [
+                    809,
+                    170,
+                    1485,
+                    341
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.984,
+                "bbox": [
+                    814,
+                    364,
+                    1465,
+                    811
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9382,
+                "bbox": [
+                    815,
+                    822,
+                    1471,
+                    854
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9207,
+                "bbox": [
+                    816,
+                    928,
+                    1044,
+                    961
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    814,
+                    984,
+                    1498,
+                    1318
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    815,
+                    1316,
+                    1489,
+                    1570
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9835,
+                "bbox": [
+                    819,
+                    1602,
+                    1468,
+                    2049
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9373,
+                "bbox": [
+                    818,
+                    2059,
+                    1487,
+                    2090
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8416,
+                "bbox": [
+                    1006,
+                    2114,
+                    1502,
+                    2147
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    109,
+                    131,
+                    135
+                ],
+                "score": 1.0,
+                "text": "42"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    98,
+                    1388,
+                    128
+                ],
+                "score": 0.998,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    629,
+                    758,
+                    651
+                ],
+                "score": 0.991,
+                "text": "Fig. 7. Polarisation characteristics of low carbon 18Cr10Ni3Mo in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    653,
+                    144,
+                    680
+                ],
+                "score": 0.985,
+                "text": "1N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1176,
+                    705,
+                    1202
+                ],
+                "score": 0.984,
+                "text": "Fig. 8. Polarisation characteristics of 18Cr10Ni3Mo1Nb in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1199,
+                    145,
+                    1225
+                ],
+                "score": 0.996,
+                "text": "1N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1257,
+                    765,
+                    1280
+                ],
+                "score": 0.994,
+                "text": "not only to be unnecessary in relation to intergranular cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1285,
+                    779,
+                    1306
+                ],
+                "score": 0.998,
+                "text": "rosion resistance but in fact to be deleterious to general cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1314,
+                    532,
+                    1335
+                ],
+                "score": 1.0,
+                "text": "rosion resistance in some applications."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1377,
+                    354,
+                    1402
+                ],
+                "score": 0.985,
+                "text": "(iii) Pitting Resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1422,
+                    720,
+                    1445
+                ],
+                "score": 0.993,
+                "text": "The pitting resistance of 18Cr10Ni steel in chloride-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1450,
+                    781,
+                    1474
+                ],
+                "score": 0.996,
+                "text": "containing environments is known from practical experience"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1477,
+                    775,
+                    1501
+                ],
+                "score": 0.989,
+                "text": "to be poor. This can also be demonstrated by potentiostatic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1506,
+                    758,
+                    1530
+                ],
+                "score": 1.0,
+                "text": "tests conducted in sodium chloride solution. For example,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1532,
+                    768,
+                    1556
+                ],
+                "score": 0.983,
+                "text": "Fig. 9 shows a breakdown potential of -50mV (S.C.E.) for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1561,
+                    707,
+                    1585
+                ],
+                "score": 0.996,
+                "text": "a cast 18Cr10Ni steel in 3% sodium chloride solution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    2059,
+                    696,
+                    2085
+                ],
+                "score": 0.988,
+                "text": "Fig. 9. Polarisation characteristics of 18Cr10Ni in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    848,
+                    174,
+                    1431,
+                    195
+                ],
+                "score": 0.984,
+                "text": "Introduction of Molybdenum to the 18Cr10Ni steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    202,
+                    1472,
+                    225
+                ],
+                "score": 0.997,
+                "text": "modifies this behaviour and improves the pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    229,
+                    1478,
+                    251
+                ],
+                "score": 0.999,
+                "text": "in chloride-containing environments, the breakdown poten-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    257,
+                    1444,
+                    279
+                ],
+                "score": 0.987,
+                "text": "tial being raised to 200mV, as shown in Fig. 10. The im-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    284,
+                    1470,
+                    306
+                ],
+                "score": 0.993,
+                "text": "provement is not however sufficient to eliminate pitting in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    313,
+                    1277,
+                    335
+                ],
+                "score": 0.99,
+                "text": "service environments containing chloride."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    827,
+                    1464,
+                    850
+                ],
+                "score": 0.991,
+                "text": "Fig. 10. Polarisation characteristics of 18Cr10Ni3Mo in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    934,
+                    1038,
+                    959
+                ],
+                "score": 0.976,
+                "text": "(iv) Ferralium alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    987,
+                    1486,
+                    1010
+                ],
+                "score": 0.994,
+                "text": "Increase of Chromium content from 18% to 25% can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1015,
+                    1492,
+                    1040
+                ],
+                "score": 1.0,
+                "text": "shown to produce further improvement in general corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1044,
+                    1465,
+                    1067
+                ],
+                "score": 0.994,
+                "text": "resistance and pitting resistance of a steel containing 10%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1072,
+                    1494,
+                    1095
+                ],
+                "score": 0.996,
+                "text": "Nickel and 3% Molybdenum and, at this level of Chromium,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1100,
+                    1486,
+                    1122
+                ],
+                "score": 0.999,
+                "text": "it has also been demonstrated that reduction of Nickel con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1127,
+                    1437,
+                    1150
+                ],
+                "score": 0.996,
+                "text": "tent to 5% produces an excellent combination of these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1155,
+                    1472,
+                    1178
+                ],
+                "score": 0.999,
+                "text": "properties. With adjustments of Molybdenum content and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1182,
+                    1484,
+                    1206
+                ],
+                "score": 0.996,
+                "text": "introduction of Copper, an optimum composition has been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1209,
+                    1462,
+                    1234
+                ],
+                "score": 0.997,
+                "text": "derived which produces in this proprietary alloy a duplex"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1236,
+                    1462,
+                    1261
+                ],
+                "score": 0.986,
+                "text": "austenitic-ferritic (50 : 50) microstructure with excellent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1264,
+                    1463,
+                    1289
+                ],
+                "score": 0.998,
+                "text": "resistance to general corrosion, pitting and crevice attack,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1292,
+                    1347,
+                    1317
+                ],
+                "score": 0.996,
+                "text": "together with high strength and good ductility."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1318,
+                    1484,
+                    1342
+                ],
+                "score": 0.994,
+                "text": "This has been designated FERRALIUM alloy and is sub-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1345,
+                    1481,
+                    1372
+                ],
+                "score": 0.987,
+                "text": "ject of Patents in the United Kingdom and other countries."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1373,
+                    1482,
+                    1399
+                ],
+                "score": 0.991,
+                "text": "Fig. 11 shows the remarkably high breakdown potential of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1401,
+                    1480,
+                    1425
+                ],
+                "score": 0.996,
+                "text": "the alloy in 3% sodium chloride at approx. +800mV, while"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1430,
+                    1442,
+                    1454
+                ],
+                "score": 0.994,
+                "text": "the wide passive range in acid conditions, up to approx."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1457,
+                    1425,
+                    1481
+                ],
+                "score": 0.996,
+                "text": "+1000mV, accompanied by a low active current peak,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1485,
+                    1457,
+                    1507
+                ],
+                "score": 0.99,
+                "text": "shown in comparison with that of 18Cr10Ni3Mo in 1ON"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1511,
+                    1451,
+                    1537
+                ],
+                "score": 0.999,
+                "text": "sulphuric acid in Fig. 12, indicates the high resistance to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1541,
+                    1452,
+                    1564
+                ],
+                "score": 0.987,
+                "text": "corrosion in a wide range of oxidizing and non-oxidizing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    2061,
+                    1480,
+                    2088
+                ],
+                "score": 0.99,
+                "text": "Fig. 11. Polarisation characteristics of Ferralium alloy in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1014,
+                    2119,
+                    1497,
+                    2143
+                ],
+                "score": 0.981,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1600,
+            "height": 2300
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9427,
+                "bbox": [
+                    193,
+                    96,
+                    1392,
+                    127
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.871,
+                "bbox": [
+                    1459,
+                    99,
+                    1491,
+                    125
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9823,
+                "bbox": [
+                    95,
+                    162,
+                    738,
+                    609
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5198,
+                "bbox": [
+                    178,
+                    642,
+                    250,
+                    670
+                ],
+                "index": 4,
+                "latex": "\\mathbf { H } _ { 2 } \\mathbf { S } 0 _ { 4 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9591,
+                "bbox": [
+                    94,
+                    616,
+                    775,
+                    673
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    94,
+                    702,
+                    756,
+                    790
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9837,
+                "bbox": [
+                    94,
+                    802,
+                    772,
+                    943
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    95,
+                    942,
+                    776,
+                    1082
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826,
+                "bbox": [
+                    96,
+                    1080,
+                    777,
+                    1225
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9371,
+                "bbox": [
+                    98,
+                    1261,
+                    320,
+                    1292
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.962,
+                "bbox": [
+                    95,
+                    1300,
+                    756,
+                    1361
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    809,
+                    173,
+                    1488,
+                    697
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9263,
+                "bbox": [
+                    811,
+                    696,
+                    1479,
+                    755
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9836,
+                "bbox": [
+                    812,
+                    764,
+                    1465,
+                    1220
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.624,
+                "bbox": [
+                    812,
+                    1223,
+                    1473,
+                    1354
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9783,
+                "bbox": [
+                    394,
+                    1390,
+                    1197,
+                    1981
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7668,
+                "bbox": [
+                    403,
+                    1989,
+                    649,
+                    2016
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7381,
+                "bbox": [
+                    402,
+                    2012,
+                    1057,
+                    2065
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7051,
+                "bbox": [
+                    403,
+                    2062,
+                    1009,
+                    2092
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9491,
+                "bbox": [
+                    102,
+                    2117,
+                    595,
+                    2148
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    95,
+                    1389,
+                    127
+                ],
+                "score": 0.999,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1460,
+                    100,
+                    1489,
+                    126
+                ],
+                "score": 1.0,
+                "text": "43"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    619,
+                    771,
+                    643
+                ],
+                "score": 0.991,
+                "text": "Fig. 12. Polarisation characteristics of Ferralium and 18Cr10Ni3Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    644,
+                    176,
+                    665
+                ],
+                "score": 0.987,
+                "text": "in 10 N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    706,
+                    747,
+                    729
+                ],
+                "score": 1.0,
+                "text": "environments. These facts have been confirmed by labora-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    732,
+                    703,
+                    758
+                ],
+                "score": 0.995,
+                "text": "tory immersion tests in acidified ferric-chloride and in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    763,
+                    548,
+                    785
+                ],
+                "score": 0.989,
+                "text": "various acids and in service applications."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    806,
+                    717,
+                    830
+                ],
+                "score": 0.991,
+                "text": "The very small secondary peak at approx. +50mV in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    834,
+                    763,
+                    856
+                ],
+                "score": 0.997,
+                "text": "Fig. 12 is a characteristic of ferrite in the microstructure of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    861,
+                    758,
+                    886
+                ],
+                "score": 0.988,
+                "text": "the new alloy (cf. Fig. 2) and is not related to any intergra-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    890,
+                    748,
+                    912
+                ],
+                "score": 0.996,
+                "text": "nular corrosion tendencies, such as previously discussed in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    918,
+                    581,
+                    940
+                ],
+                "score": 0.997,
+                "text": "relation to sensitized fully austenitic steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    945,
+                    774,
+                    966
+                ],
+                "score": 0.999,
+                "text": "A summary of the behaviour in sulphuric acid of the new"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    972,
+                    751,
+                    995
+                ],
+                "score": 0.998,
+                "text": "alloy and the various other alloys discussed is presented as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1000,
+                    724,
+                    1023
+                ],
+                "score": 0.998,
+                "text": "an isocorrosion chart in Fig. 13. This has been compiled"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1028,
+                    763,
+                    1050
+                ],
+                "score": 0.997,
+                "text": "from immersion tests which confirm the conclusions drawn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1056,
+                    582,
+                    1079
+                ],
+                "score": 1.0,
+                "text": "from studies of polarisation characteristics."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1083,
+                    750,
+                    1107
+                ],
+                "score": 0.979,
+                "text": "The second part of this paper will describe how the po-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1111,
+                    773,
+                    1134
+                ],
+                "score": 0.995,
+                "text": "tentiostat provided details of the influence of compositional"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1139,
+                    767,
+                    1162
+                ],
+                "score": 0.996,
+                "text": "and processing variables during the development of the new"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1168,
+                    743,
+                    1191
+                ],
+                "score": 0.998,
+                "text": "alloy, and thereby assisted in finalising both the composi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    1196,
+                    617,
+                    1219
+                ],
+                "score": 1.0,
+                "text": "tion and the optimum production procedures."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1265,
+                    315,
+                    1290
+                ],
+                "score": 1.0,
+                "text": "Alloy development"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1305,
+                    750,
+                    1325
+                ],
+                "score": 0.993,
+                "text": "The initial obiect of this development was to produce a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1334,
+                    741,
+                    1354
+                ],
+                "score": 0.999,
+                "text": "cast stainless steel of high strength and hardness with cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    176,
+                    1442,
+                    198
+                ],
+                "score": 0.998,
+                "text": "rosion resistance at least equivalent to that of austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    201,
+                    1460,
+                    228
+                ],
+                "score": 0.984,
+                "text": "steels of the 18Cr10Ni3Mo type. The composition ranges"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    228,
+                    1444,
+                    256
+                ],
+                "score": 0.988,
+                "text": "studied were based on 25 % Chromium, 5% Nickel, with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    259,
+                    1478,
+                    282
+                ],
+                "score": 0.996,
+                "text": "controlled amounts of Molybdenum and Copper. This steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    286,
+                    1422,
+                    309
+                ],
+                "score": 0.994,
+                "text": "has a duplex 50 : 50 austenitic ferritic microstructure,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    314,
+                    1447,
+                    337
+                ],
+                "score": 0.991,
+                "text": "known to provide high strength, which was enhanced by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    341,
+                    1489,
+                    365
+                ],
+                "score": 0.999,
+                "text": "introduction of a precipitation-hardening mechnism. Stage 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    369,
+                    1459,
+                    392
+                ],
+                "score": 0.997,
+                "text": "of the development determined the effects of variation in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    395,
+                    1468,
+                    420
+                ],
+                "score": 0.998,
+                "text": "composition and heat-treatment on mechanical properties."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    423,
+                    1436,
+                    447
+                ],
+                "score": 0.999,
+                "text": "Preliminary corrosion tests were also carried out during"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    450,
+                    1437,
+                    475
+                ],
+                "score": 0.99,
+                "text": "Stage 1 and these demonstrated that, in addition to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    477,
+                    1460,
+                    502
+                ],
+                "score": 0.991,
+                "text": "excellent combination of mechanical properties available,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    506,
+                    1478,
+                    530
+                ],
+                "score": 1.0,
+                "text": "the alloy range being studied possessed corrosion resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    533,
+                    1450,
+                    558
+                ],
+                "score": 0.993,
+                "text": "superior to that of the 18Cr10Ni3Mo austenitic stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    562,
+                    1455,
+                    584
+                ],
+                "score": 0.99,
+                "text": "steel in many environments and that its pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    588,
+                    1476,
+                    613
+                ],
+                "score": 0.986,
+                "text": "in the presence of chloride was better than that of any aus-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    617,
+                    1476,
+                    641
+                ],
+                "score": 0.998,
+                "text": "tenitic stainless steel. Potentiostatic studies were thereafter"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    644,
+                    1456,
+                    667
+                ],
+                "score": 0.998,
+                "text": "used in Stage II of the development to optimise composi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    672,
+                    1469,
+                    694
+                ],
+                "score": 0.988,
+                "text": "tion and heat-treatment in relation to corrosion resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    850,
+                    697,
+                    1474,
+                    725
+                ],
+                "score": 0.991,
+                "text": "Fig. 14 shows the results obtained from constant poten-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    727,
+                    1456,
+                    750
+                ],
+                "score": 0.996,
+                "text": "tial current/time studies in sodium chloride solution with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1226,
+                    1470,
+                    1249
+                ],
+                "score": 0.997,
+                "text": "Fig. 14. Effect of nickel content on pitting resistance in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1250,
+                    1170,
+                    1274
+                ],
+                "score": 0.975,
+                "text": "- base composition 25Cr3Cu2.5Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1275,
+                    1101,
+                    1299
+                ],
+                "score": 0.993,
+                "text": "– potential 600 MV (S.C.E.)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1300,
+                    964,
+                    1325
+                ],
+                "score": 0.914,
+                "text": "– temp. 30 °C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1326,
+                    948,
+                    1349
+                ],
+                "score": 0.912,
+                "text": "- N2 purged"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    408,
+                    1992,
+                    643,
+                    2018
+                ],
+                "score": 0.994,
+                "text": "Fig. 13. Sulphuric acid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    409,
+                    2016,
+                    1050,
+                    2038
+                ],
+                "score": 0.992,
+                "text": "Material selection guide based on corrosion rate of 0.0015 inches/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    408,
+                    2041,
+                    625,
+                    2064
+                ],
+                "score": 0.982,
+                "text": "month (0.5 mm/year)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    410,
+                    2067,
+                    1002,
+                    2087
+                ],
+                "score": 0.999,
+                "text": "Corrosion tests under plant conditions advised when possible"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    2120,
+                    590,
+                    2145
+                ],
+                "score": 0.995,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1600,
+            "height": 2300
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8638,
+                "bbox": [
+                    95,
+                    101,
+                    128,
+                    126
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9383,
+                "bbox": [
+                    192,
+                    96,
+                    1389,
+                    127
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862,
+                "bbox": [
+                    95,
+                    168,
+                    770,
+                    450
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9831,
+                "bbox": [
+                    97,
+                    480,
+                    746,
+                    917
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9196,
+                "bbox": [
+                    99,
+                    935,
+                    740,
+                    1093
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9812,
+                "bbox": [
+                    98,
+                    1119,
+                    732,
+                    1559
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8518,
+                "bbox": [
+                    100,
+                    1565,
+                    766,
+                    1696
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    100,
+                    1723,
+                    762,
+                    1946
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.83,
+                "bbox": [
+                    100,
+                    1944,
+                    770,
+                    2028
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4751,
+                "bbox": [
+                    103,
+                    2028,
+                    307,
+                    2056
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.533,
+                "bbox": [
+                    103,
+                    2055,
+                    317,
+                    2085
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.949,
+                "bbox": [
+                    810,
+                    166,
+                    1474,
+                    225
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8457,
+                "bbox": [
+                    811,
+                    223,
+                    1472,
+                    255
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.981,
+                "bbox": [
+                    814,
+                    296,
+                    1466,
+                    746
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9344,
+                "bbox": [
+                    812,
+                    757,
+                    1489,
+                    891
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.49,
+                "bbox": [
+                    812,
+                    921,
+                    1468,
+                    1072
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842,
+                "bbox": [
+                    812,
+                    1088,
+                    1497,
+                    1285
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    812,
+                    1287,
+                    1505,
+                    1598
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9166,
+                "bbox": [
+                    816,
+                    1643,
+                    935,
+                    1675
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    813,
+                    1697,
+                    1504,
+                    2029
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9663,
+                "bbox": [
+                    814,
+                    2028,
+                    1497,
+                    2087
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8741,
+                "bbox": [
+                    1005,
+                    2109,
+                    1498,
+                    2140
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    102,
+                    126,
+                    127
+                ],
+                "score": 1.0,
+                "text": "44"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    99,
+                    1385,
+                    121
+                ],
+                "score": 0.99,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    172,
+                    747,
+                    197
+                ],
+                "score": 0.984,
+                "text": "steels of varying nickel contents from 3.5—8.5% on a base"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    200,
+                    727,
+                    223
+                ],
+                "score": 0.993,
+                "text": "alloy composition of 25Cr3Cu2.5Mo. From these it was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    226,
+                    765,
+                    251
+                ],
+                "score": 0.992,
+                "text": "found that pitting resistance reduced significantly when the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    254,
+                    703,
+                    280
+                ],
+                "score": 0.992,
+                "text": "Nickel content was outside the range 5%-6% approx."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    283,
+                    743,
+                    305
+                ],
+                "score": 0.993,
+                "text": "Similar tests on a 5% Nickel steel with varying Chromium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    311,
+                    738,
+                    333
+                ],
+                "score": 0.998,
+                "text": "contents showed that for optimum pitting resistance, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    337,
+                    746,
+                    360
+                ],
+                "score": 0.994,
+                "text": "Chromium content should be maintained above 24.5 %, as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    365,
+                    759,
+                    389
+                ],
+                "score": 0.994,
+                "text": "indicated in Fig. 15. Likewise, Fig. 16 shows how a Copper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    393,
+                    745,
+                    414
+                ],
+                "score": 0.985,
+                "text": "content of at least 0.5% was found to be necessary in this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    103,
+                    419,
+                    544,
+                    443
+                ],
+                "score": 0.994,
+                "text": "steel to produce good pitting resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    938,
+                    736,
+                    963
+                ],
+                "score": 0.994,
+                "text": "Fig. 15. Effect of chromium content on pitting potential in 3%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    104,
+                    963,
+                    160,
+                    988
+                ],
+                "score": 1.0,
+                "text": "NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    990,
+                    442,
+                    1012
+                ],
+                "score": 0.976,
+                "text": "– base composition 5Ni3Cu2.5Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1015,
+                    386,
+                    1038
+                ],
+                "score": 0.975,
+                "text": "– potential 600 MV (S.C.E.)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1039,
+                    250,
+                    1062
+                ],
+                "score": 0.954,
+                "text": "– temp. 30 °C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1063,
+                    235,
+                    1091
+                ],
+                "score": 0.946,
+                "text": "− N2 purged"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1568,
+                    764,
+                    1592
+                ],
+                "score": 0.994,
+                "text": "Fig. 16. Effect of copper content on pitting resistance in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1592,
+                    452,
+                    1616
+                ],
+                "score": 0.981,
+                "text": "– base composition 25Cr5Ni2.5Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1618,
+                    388,
+                    1642
+                ],
+                "score": 0.969,
+                "text": "– potential 600 MV (S.C.E.)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1642,
+                    252,
+                    1667
+                ],
+                "score": 0.921,
+                "text": "– temp. 30 °C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1666,
+                    237,
+                    1693
+                ],
+                "score": 0.953,
+                "text": "− N2 purged"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1726,
+                    750,
+                    1750
+                ],
+                "score": 0.998,
+                "text": "Further studies showed that heat-treatment and micro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1755,
+                    750,
+                    1778
+                ],
+                "score": 1.0,
+                "text": "structure had significant effects on resistance to corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1782,
+                    739,
+                    1806
+                ],
+                "score": 0.999,
+                "text": "and especially pitting. Fig. 17 shows how the low pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1809,
+                    721,
+                    1833
+                ],
+                "score": 0.993,
+                "text": "resistance in chloride of an as-cast structure is raised by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    1837,
+                    750,
+                    1861
+                ],
+                "score": 0.992,
+                "text": "solution treatment at 1120 °C. A subsequent ageing treat-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    1865,
+                    727,
+                    1888
+                ],
+                "score": 0.989,
+                "text": "ment at 500 °C. produces the optimum combination of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1892,
+                    754,
+                    1916
+                ],
+                "score": 0.998,
+                "text": "mechanical properties but has little effect on the good pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    1920,
+                    545,
+                    1945
+                ],
+                "score": 0.999,
+                "text": "ting resistance obtained after annealing."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1948,
+                    722,
+                    1971
+                ],
+                "score": 0.992,
+                "text": "At this stage it was concluded that an alloy could be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    1974,
+                    767,
+                    1998
+                ],
+                "score": 0.99,
+                "text": "produced which, when suitably heat-treated, would possess"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    106,
+                    2002,
+                    429,
+                    2025
+                ],
+                "score": 0.999,
+                "text": "the required combination of:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    2028,
+                    298,
+                    2058
+                ],
+                "score": 0.996,
+                "text": "(a) High strength"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    2056,
+                    312,
+                    2084
+                ],
+                "score": 0.996,
+                "text": "(b) Good ductility"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    171,
+                    1469,
+                    194
+                ],
+                "score": 0.999,
+                "text": "(c) Good corrosion resistance to oxidizing and non-oxidiz-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    201,
+                    1161,
+                    222
+                ],
+                "score": 0.979,
+                "text": "ing chemical environments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    226,
+                    1467,
+                    250
+                ],
+                "score": 0.991,
+                "text": "(d) High pitting resistance in the presence of chloride ions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    761,
+                    1486,
+                    784
+                ],
+                "score": 0.985,
+                "text": "Fig. 17. Effect of solution treatment on polarisation characteristics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    787,
+                    933,
+                    809
+                ],
+                "score": 0.951,
+                "text": "in 3% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    812,
+                    1156,
+                    834
+                ],
+                "score": 0.984,
+                "text": "– composition 25Cr5Ni3Cu2.5Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    834,
+                    963,
+                    860
+                ],
+                "score": 0.95,
+                "text": "– temp. 30 °C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    862,
+                    947,
+                    887
+                ],
+                "score": 0.915,
+                "text": "- N2 purged"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    925,
+                    1466,
+                    950
+                ],
+                "score": 0.997,
+                "text": "The composition of the new alloy was established with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    955,
+                    1237,
+                    979
+                ],
+                "score": 0.999,
+                "text": "the following nominal alloy contents:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1003,
+                    1066,
+                    1030
+                ],
+                "score": 1.0,
+                "text": "ChromiumNickel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1115,
+                    1003,
+                    1209,
+                    1031
+                ],
+                "score": 1.0,
+                "text": "Copper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1250,
+                    1002,
+                    1404,
+                    1029
+                ],
+                "score": 1.0,
+                "text": "Molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1040,
+                    876,
+                    1069
+                ],
+                "score": 1.0,
+                "text": "25%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    982,
+                    1040,
+                    1053,
+                    1069
+                ],
+                "score": 1.0,
+                "text": "5.5%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1114,
+                    1039,
+                    1183,
+                    1067
+                ],
+                "score": 1.0,
+                "text": "3.0%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1249,
+                    1040,
+                    1316,
+                    1068
+                ],
+                "score": 1.0,
+                "text": "2.5%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1092,
+                    1492,
+                    1116
+                ],
+                "score": 0.995,
+                "text": "In addition to the successful production of complex cast-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1119,
+                    1478,
+                    1143
+                ],
+                "score": 0.991,
+                "text": "ings, hot and cold working characteristics of the alloy were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1147,
+                    1452,
+                    1171
+                ],
+                "score": 0.996,
+                "text": "studied to enable all wrought forms to be made available"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1175,
+                    1458,
+                    1198
+                ],
+                "score": 0.991,
+                "text": "together with welding consumables for the fabrication of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1203,
+                    1432,
+                    1227
+                ],
+                "score": 0.993,
+                "text": "the alloy. Potentiostatic tests were used at this stage to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1231,
+                    1461,
+                    1255
+                ],
+                "score": 0.994,
+                "text": "monitor the effects of hot working variables on corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1260,
+                    937,
+                    1281
+                ],
+                "score": 1.0,
+                "text": "resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1290,
+                    1451,
+                    1314
+                ],
+                "score": 1.0,
+                "text": "The new alloy has been in commercial production for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1319,
+                    1482,
+                    1340
+                ],
+                "score": 0.999,
+                "text": "several years and constant potential tests are currently used"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1345,
+                    1487,
+                    1369
+                ],
+                "score": 0.993,
+                "text": "in production quality control of wrought and cast materials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1373,
+                    1455,
+                    1395
+                ],
+                "score": 0.999,
+                "text": "to ensure that a consistently high level of corrosion resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1400,
+                    1493,
+                    1425
+                ],
+                "score": 1.0,
+                "text": "tance and pitting resistance is maintained. The results of po-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1427,
+                    1501,
+                    1452
+                ],
+                "score": 1.0,
+                "text": "tentiostatic and laboratory controlled immersion tests during"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1456,
+                    1489,
+                    1477
+                ],
+                "score": 0.998,
+                "text": "its development have been fully confirmed in field tests and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1483,
+                    1466,
+                    1508
+                ],
+                "score": 0.996,
+                "text": "by commercial applications. The high degree of resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    1511,
+                    1474,
+                    1535
+                ],
+                "score": 0.999,
+                "text": "shown in many aggressive conditions has resulted in its ex-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1537,
+                    1485,
+                    1563
+                ],
+                "score": 0.992,
+                "text": "tensive use in handling, for example, mineral acids, chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1568,
+                    1068,
+                    1591
+                ],
+                "score": 0.999,
+                "text": "solutions, hydroxides."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1646,
+                    930,
+                    1675
+                ],
+                "score": 1.0,
+                "text": "Summary"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1700,
+                    1450,
+                    1724
+                ],
+                "score": 0.998,
+                "text": "It has been shown that the behaviour of cast stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1729,
+                    1462,
+                    1752
+                ],
+                "score": 0.993,
+                "text": "steels of various types in a variety of corrosive conditions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1757,
+                    1470,
+                    1780
+                ],
+                "score": 0.996,
+                "text": "can be closely correlated with the results of potentiostatic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1785,
+                    1471,
+                    1808
+                ],
+                "score": 0.992,
+                "text": "tests. Conversely, potentiostatic techniques can accurately"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1811,
+                    1482,
+                    1836
+                ],
+                "score": 0.993,
+                "text": "predict the corrosive behaviour of unfamiliar combinations"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    1840,
+                    1497,
+                    1863
+                ],
+                "score": 0.997,
+                "text": "of alloy and chemical environment. Such techniques provide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1867,
+                    1501,
+                    1891
+                ],
+                "score": 0.994,
+                "text": "an approach to the development of corrosion resistant alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1895,
+                    1478,
+                    1918
+                ],
+                "score": 0.99,
+                "text": "which is economic of time, labour and material. They have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1922,
+                    1473,
+                    1945
+                ],
+                "score": 0.999,
+                "text": "been used successfully in the development and production"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    1950,
+                    1468,
+                    1973
+                ],
+                "score": 0.99,
+                "text": "quality control of a new alloy, which has an exceptionally"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    1977,
+                    1469,
+                    2000
+                ],
+                "score": 0.987,
+                "text": "good combination of mechanical properties añd resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    821,
+                    2005,
+                    1401,
+                    2027
+                ],
+                "score": 0.997,
+                "text": "to general corrosion and to pitting or crevice attack."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    2029,
+                    1491,
+                    2057
+                ],
+                "score": 0.997,
+                "text": "In conclusion, several successful applications of this alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    2057,
+                    1443,
+                    2082
+                ],
+                "score": 0.978,
+                "text": "in chemical environments are illustrated in Figs. 18—20."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1009,
+                    2112,
+                    1494,
+                    2138
+                ],
+                "score": 0.996,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft1/1974"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1600,
+            "height": 2300
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9479,
+                "bbox": [
+                    192,
+                    97,
+                    1393,
+                    130
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8705,
+                "bbox": [
+                    1459,
+                    102,
+                    1489,
+                    127
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7489,
+                "bbox": [
+                    94,
+                    285,
+                    181,
+                    316
+                ],
+                "index": 3,
+                "latex": "\\mathrm { \\bf H } _ { 2 } \\mathbb { S } \\mathrm { i } \\mathrm { \\bf F } _ { 6 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    89,
+                    173,
+                    758,
+                    318
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6681,
+                "bbox": [
+                    233,
+                    257,
+                    300,
+                    287
+                ],
+                "index": 5,
+                "latex": "{ \\bf P } _ { 2 } 0 _ { 5 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6964,
+                "bbox": [
+                    215,
+                    284,
+                    338,
+                    312
+                ],
+                "index": 6,
+                "latex": "6 0 ^ { \\circ } - 8 0 ^ { \\circ } \\mathrm { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8637,
+                "bbox": [
+                    571,
+                    256,
+                    655,
+                    287
+                ],
+                "index": 7,
+                "latex": "\\mathrm { H } _ { 2 } \\thinspace \\mathsf { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9873,
+                "bbox": [
+                    100,
+                    346,
+                    737,
+                    900
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9632,
+                "bbox": [
+                    92,
+                    915,
+                    764,
+                    972
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9745,
+                "bbox": [
+                    92,
+                    1011,
+                    779,
+                    1100
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9871,
+                "bbox": [
+                    103,
+                    1146,
+                    664,
+                    1846
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9651,
+                "bbox": [
+                    92,
+                    1865,
+                    730,
+                    1922
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847,
+                "bbox": [
+                    806,
+                    173,
+                    1479,
+                    316
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9863,
+                "bbox": [
+                    818,
+                    339,
+                    1459,
+                    869
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9646,
+                "bbox": [
+                    808,
+                    884,
+                    1496,
+                    939
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9427,
+                "bbox": [
+                    810,
+                    1010,
+                    1101,
+                    1045
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9254,
+                "bbox": [
+                    810,
+                    1077,
+                    944,
+                    1109
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9461,
+                "bbox": [
+                    812,
+                    1129,
+                    1481,
+                    1181
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9463,
+                "bbox": [
+                    812,
+                    1180,
+                    1462,
+                    1229
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9414,
+                "bbox": [
+                    97,
+                    2119,
+                    590,
+                    2149
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    100,
+                    1387,
+                    129
+                ],
+                "score": 0.994,
+                "text": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1459,
+                    103,
+                    1488,
+                    128
+                ],
+                "score": 1.0,
+                "text": "45"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    176,
+                    738,
+                    201
+                ],
+                "score": 0.999,
+                "text": "Fig. 18 shows a cast impeller of a type which has given"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    204,
+                    745,
+                    229
+                ],
+                "score": 0.973,
+                "text": "three years satisfactory service in ‘wet process' phosphoric"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    232,
+                    740,
+                    258
+                ],
+                "score": 0.999,
+                "text": "acid production handling acid slurries containing approxi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    260,
+                    232,
+                    285
+                ],
+                "score": 0.985,
+                "text": "mately 30 %"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    260,
+                    570,
+                    284
+                ],
+                "score": 0.977,
+                "text": ", 30 % CaSo₄solids, 2 %"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    656,
+                    259,
+                    756,
+                    286
+                ],
+                "score": 0.965,
+                "text": ", HF and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    289,
+                    214,
+                    313
+                ],
+                "score": 1.0,
+                "text": "at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    918,
+                    761,
+                    947
+                ],
+                "score": 0.979,
+                "text": "Fig. 18. Cast Ferralium alloy impeller for ‘wet process' phosphoric"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    947,
+                    254,
+                    968
+                ],
+                "score": 0.984,
+                "text": "acid production"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1016,
+                    775,
+                    1039
+                ],
+                "score": 0.994,
+                "text": "Fig. 19 shows a cast impeller of a pump handling sulphur-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    96,
+                    1044,
+                    773,
+                    1067
+                ],
+                "score": 0.993,
+                "text": "ic acid and other corrosive cargoes in a multi-purpose chemi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1073,
+                    217,
+                    1097
+                ],
+                "score": 1.0,
+                "text": "cal tanker."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    1868,
+                    726,
+                    1896
+                ],
+                "score": 0.998,
+                "text": "Fig. 19. Cast Ferralium alloy impeller for cargo pump of multi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    1895,
+                    338,
+                    1918
+                ],
+                "score": 1.0,
+                "text": "purpose chemical tanker"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    849,
+                    178,
+                    1475,
+                    201
+                ],
+                "score": 1.0,
+                "text": "Fig. 20 illustrates a marine propeller in cast alloy which,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    204,
+                    1476,
+                    230
+                ],
+                "score": 0.987,
+                "text": "since it is unmarked by general corrosion, pitting or crevice"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    233,
+                    1458,
+                    256
+                ],
+                "score": 0.993,
+                "text": "attack after four years immersion in sea water, clearly de-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    261,
+                    1471,
+                    283
+                ],
+                "score": 0.988,
+                "text": "monstrates the suitability of the new alloy for applications"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    289,
+                    1225,
+                    311
+                ],
+                "score": 1.0,
+                "text": "in chloride-containing environments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    888,
+                    1492,
+                    912
+                ],
+                "score": 0.99,
+                "text": "Fig. 20. Marine propeller in Ferralium alloy, completely uncorroded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    914,
+                    1197,
+                    934
+                ],
+                "score": 0.997,
+                "text": "after four years immersion in sea-water"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    1016,
+                    1095,
+                    1041
+                ],
+                "score": 0.983,
+                "text": "(Eingegangen: Juli 1973)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    1080,
+                    940,
+                    1108
+                ],
+                "score": 1.0,
+                "text": "References"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    814,
+                    1132,
+                    1481,
+                    1156
+                ],
+                "score": 0.998,
+                "text": "1. N. D. Greene: Experimental Electrode Kinetics, Rensselaer Poly-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    847,
+                    1158,
+                    1231,
+                    1180
+                ],
+                "score": 0.996,
+                "text": "technic Institute, Troy, N. York, 1965."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    1178,
+                    1460,
+                    1206
+                ],
+                "score": 0.987,
+                "text": "2. M. Pourbaix and F. Vandervelden: Corrosion Science 5 (1965)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    846,
+                    1205,
+                    911,
+                    1230
+                ],
+                "score": 0.987,
+                "text": "No. 2."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    2123,
+                    586,
+                    2146
+                ],
+                "score": 0.992,
+                "text": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1600,
+            "height": 2300
+        }
+    }
+]

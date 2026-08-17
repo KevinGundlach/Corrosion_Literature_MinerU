@@ -1,0 +1,1904 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion behavior of FeCoNiCrCu<sub>x</sub> high-entropy alloys in 3.5% sodium chloride solution"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                178,
+                181,
+                833,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Yu-Jui Hsu, Wen-Chi Chiang, Jiann-Kuo Wu∗"
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                241,
+                704,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Institute ofMaterials Engineering, National Taiwan Ocean University, Keelung 20224, Taiwan"
+                    }
+                ]
+            },
+            "bbox": [
+                247,
+                269,
+                763,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 15 July 2004; received in revised form 10 November 2004; accepted 3 January 2005"
+                    }
+                ]
+            },
+            "bbox": [
+                250,
+                289,
+                761,
+                303
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                335,
+                144,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The corrosion behavior of FeCoNiCrCu<sub>x</sub> high-entropy alloys in 3.5% NaCl solution is reported in this paper. The corrosion resistance has been evaluated using immersion tests and potentiodynamic polarization measurements. Our results show that the increase of copper content in FeCoNiCrCu<sub>x</sub> alloys also increases the tendency to localized corrosion of these alloys. This is due to Cu-rich interdendrite and Cu-depleted (Cr-rich) dendrite in these alloys set up a active/noble cell of appreciable potential difference, and the galvanic action results in preferentially attack along the interdentrites of copper containing high-entropy alloys. © 2005 Elsevier B.V. All rights reserved."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                361,
+                932,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: High-entropy alloys; Localized corrosion; Segregation; Interdendrite"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                457,
+                519,
+                472
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                516,
+                198,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the past, the design concept of new alloy systems has been conventionally based on an element as their major constituent, such as Fe-based and Ni-based alloy systems, and other lesser elements as their constituents for the enhancement of properties and performances. This design concept has also restricted the development of new materials in recent years. To break through this cognitive concept of alloy design, a new alloy system was developed [1,2]. This new concept of alloy system is also called “high-entropy alloy”. High-entropy alloys have multielements as their major constituents, and the contents of each major constituent is greater than 5 at.% and less than 35 at.%. Because there is no matrix element in high-entropy alloy system, each constituent element in this system could be regarded as a solute atom. To increase the entropy, each major element of these alloy systems is in equimolar or near-equimolar ratio. According to the previous researches [1–6], these high-entropy alloy systems have many good properties, such as ease of amorphization, high hardness and strength, good thermal stability. However, the corrosion data of high-entropy alloys in most aqueous solutions are not available. The purpose of this study is to investigate the immersion behavior and electrochemical polarization behavior of FeCoNiCrCu<sub>x</sub> high-entropy alloys in 3.5% NaCl solution."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                546,
+                490,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                521,
+                516,
+                932,
+                593
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Experimental methods"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                629,
+                712,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1. Materials preparation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                659,
+                710,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The alloys used in this study were FeCoNiCr (x = 0), FeCoNiCrCu (x = 0.5) and FeCoNiCrCu (x = 1). These alloys were melted by arc melting from a mixture of high purity (99.99%) of Fe, Co, Ni, Cr, and Cu metals under a titanium-gettered atmosphere of argon. For comparison, AISI 304L stainless steel was also used in this study."
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                690,
+                932,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The composition analyses of elements within these alloys were carried out by scanning electron microscope (SEM) equipped with an energy dispersive X-ray spectrometry (EDX). X-ray diffraction (XRD) using Cu K\u0001 radiation was used to identify crystalline phases and obtain the lattice parameters of these alloys. The XRD investigation was performed with the diffraction angle (2θ) from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at a speed of 1◦ min−<sup>1</sup>."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                795,
+                932,
+                887
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ELSEVIER"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                56,
+                176,
+                136
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Available online at www.sciencedirect.com"
+                    }
+                ]
+            },
+            "bbox": [
+                334,
+                54,
+                626,
+                69
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SCIENCE@DIRECTO"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                71,
+                574,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS CHEMISTRYAND PHYSICS"
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                75,
+                924,
+                117
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                334,
+                123,
+                621,
+                137
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "www.elsevier.com/locate/matchemphys"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                134,
+                926,
+                148
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Corresponding author. Tel.: +886 2 24622192; fax: +886 2 24625324. E-mail address: a0055@mail.ntou.edu.tw (J.-K. Wu)."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                860,
+                480,
+                886
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0254-0584/$ – see front matter © 2005 Elsevier B.V. All rights reserved. doi:10.1016/j.matchemphys.2005.01.001"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                899,
+                475,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                65,
+                83,
+                477,
+                114
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2. Immersion tests"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                130,
+                213,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Immersion tests were conducted in aerated 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 days. To remove adherent corrosion products after immersion tests, the corroded specimens were cleaned in 10% HCl solution with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { g } \\mathrm { L } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "hexamethylenetetramine followed by distilled water and acetone. Then, the specimens were dried in an oven for 1 h and weighed to 0.1 mg. The corrosion rate then can be calculated from the weight loss. The surface morphology of each specimen was also examined by SEM to determine the extent of degradation and to identify the corrosion mechanisms."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                477,
+                313
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3. Potentiodynamic polarization measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                329,
+                405,
+                345
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic polarization measurements were carried out in a typical three-electrode cell setup with the specimen as a working electrode, a saturated calomel reference electrode (SCE), and a platinum counter electrode. The potential of the working electrode was measured through the Luggin probe with respect to the reference electrode which was placed as close as possible to the specimen. The electrochemical polarization measurements were conducted in aerated 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under atmospheric pressure. The specimen was scanned potentiodynamically at a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathrm { m V s ^ { - 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the initial potential of 250 mV versus open circuit potential to the final potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 6 \\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Calibration was conducted in accordance with ASTM standard G5 [7] and G59 [8]."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                360,
+                477,
+                557
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Results and discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                586,
+                253,
+                602
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Microstructure and phase constitution of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F e C o N i C r C u _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                615,
+                431,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The chemical compositions of specimens are listed in Table 1. The optical micrographs of these alloys are shown in Fig. 1. Fig. 2 illustrates the XRD patterns of as-cast Fe-CoNiCr, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and FeCoNiCrCu alloys. In this study, all these alloys basically belong to fcc structure. The small peaks slightly on the left of the matrix fcc of FeCoNi-CrCu in XRD patterns is identified as Cu-rich interdendrites, which exhibits the same location of copper and have been reported previously [6]. As the Cu content decreases in these alloys, the peak intensities also changes due to the lattice distortion caused by different atomic size and still remains in fcc structure [6,9]. There is also no tendency to form complex or multiple phases when increasing the number of constituent elements. Because the wavelength of X-ray is constant "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\lambda = 1 . 5 4 \\times 1 0 ^ { - 1 0 } \\mathrm { m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", from the angle (θ) and plane (h k l) of each diffraction peak, a set of lattice parameter can be calculated by Bragg’s law. These values of lattice parameter were plotted against "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cos ^ { 2 } \\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the precise parameter of alloy (a<sub>0</sub>) can be estimated by least squares and extrapolation method [10]. The lattice parameters of FeCoNiCr, FeCoNiCrCu<sub>0.5</sub>, and FeCoNiCrCu in this study are "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 5 8 7 \\times 1 0 ^ { - 1 0 }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 5 8 5 \\times 1 0 ^ { - 1 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 5 8 2 \\times 1 0 ^ { - 1 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "m, respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                661,
+                477,
+                783
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a0594143e4186993431db4ed426ee4fc87b8957fb401c47f59251ace85632a57.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "EDX analyses of the compositions of FeCoNiCr, FeCoNiCrCu<sub>0.5</sub>, and FeCoNiCrCu"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td colspan=\"5\">Alloys (wt.%)</td></tr><tr><td></td><td>Fe</td><td>Cr</td><td>Ni</td><td>Co</td><td>Cu</td></tr><tr><td>FeCoNiCr</td><td>24.58</td><td>25.12</td><td>25.92</td><td>24.90</td><td></td></tr><tr><td>FeCoNiCrCu0.5</td><td>20.47</td><td>16.48</td><td>25.48</td><td>23.99</td><td>13.49</td></tr><tr><td>FeCoNiCrCu</td><td>18.78</td><td>16.25</td><td>21.78</td><td>21.50</td><td>21.69</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                838,
+                473,
+                919
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8e5d045e01432b5cf0ba360fbf78b2b11ec070c4281e62a69f18e7c8b6484d0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                571,
+                85,
+                855,
+                246
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/570fe0f9f8a75c5b8916bcafd538217b072d33eac60b31d0d02688a7754954e6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                569,
+                254,
+                855,
+                415
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ebb5fdbe651f01aa1c52980dc2a341311b7844190e615e43869919c07bd9a2b7.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Microstructure of as-cast FeCoNiCrCu<sub>x</sub> alloys: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { a } \\right) x = 0 , \\left( \\mathrm { b } \\right) x = 0 . 5 ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and (c) x = 1."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                569,
+                421,
+                855,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                641,
+                917,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 shows the SEM-backscattered electron images (BEI) of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and FeCoNiCrCu alloys, which are composed of dendrites and interdentrites. According to the EDX analyses as listed in Table 2, the interdendrite (lighter phase) of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy is Curich phase, and dendrite (darker phase) is Cu-depleted phase. When decreasing the Cu concentration, the phenomenon of Cu segregation in interdendrites will be gradually removed. As listed in Table 3 [5,11–13], Cu element has weaker binding force (chemical mixing enthalpy, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta H ^ { \\mathrm { c h e m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to other constituent elements than Fe, Co, Ni, and Cr. As a result of dendritic solidification, Cu solute atoms tend to segregate across the interdendrites and grain boundaries during the period of solidification. According to some previous studies, it is not easy to eliminate this phenomenon of Cu segregation by conventional heat treatment [5]."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                852,
+                919,
+                928
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.-J. Hsu et al. / Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                54,
+                682,
+                69
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "113"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                55,
+                917,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/55662d5b85a0f5825a4053caf0b637f49349f10dc83a0ae347deead24f662a30.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                87,
+                408,
+                484,
+                895
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e956d95ee3c420fb2b522fbcb4e559c1b5a0deb57fc2b1153a0719e39a8316a8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. XRD patterns of as-cast FeCoNiCrCu<sub>x</sub> alloys."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Micrographs of as-cast FeCoNiCrCu<sub>x</sub> alloys: (a) x = 0.5, and (b) x = 1."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                205,
+                83,
+                805,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                519,
+                399,
+                932,
+                566
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b9c719f7f91823b3dc4e61893704b8c08541509a4909624509a55b58095c5c5e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "EDX analyses of the dendrite and interdendrite structure of as-cast FeCoNiCrCu<sub>0.5</sub> and FeCoNiCrCu alloys"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">FeCoNiCrCu0.5 (at.%)</td><td colspan=\"2\">FeCoNiCrCu (at.%)</td></tr><tr><td>Interdendrite</td><td>Dendrite</td><td>Interdendrite</td><td>Dendrite</td></tr><tr><td>Cu</td><td>82.18</td><td>11.68</td><td>86.68</td><td>9.56</td></tr><tr><td>Fe</td><td>0.90</td><td>21.80</td><td>3.46</td><td>23.58</td></tr><tr><td>Co</td><td>1.08</td><td>24.45</td><td>2.67</td><td>24.67</td></tr><tr><td>Ni</td><td>11.60</td><td>22.73</td><td>5.41</td><td>21.34</td></tr><tr><td>Cr</td><td>4.24</td><td>19.34</td><td>1.78</td><td>21.08</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                521,
+                619,
+                929,
+                726
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c2e27b596264c525fc0597f83493e27d117ecc55336fa13a4367b3cb7bac8135.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Chemical mixing enthalpy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\Delta H ^ { \\mathrm { c h e m } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of a pair of atoms [5,11–13]"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td> $\\Delta H ^ { \\mathrm { c h e m } }$  (kJ mol−1)</td></tr><tr><td>Cu—Fe</td><td>13</td></tr><tr><td>Cu—Co</td><td>10</td></tr><tr><td>Cu—Ni</td><td>4</td></tr><tr><td>Co—Ni</td><td>0</td></tr><tr><td>Cu—Cr</td><td>-1</td></tr><tr><td>Fe—Co</td><td>-1</td></tr><tr><td>Fe—Cr</td><td>-1</td></tr><tr><td>Fe—Ni</td><td>-2</td></tr><tr><td>Co—Cr</td><td>-4</td></tr><tr><td>Ni—Cr</td><td>-7</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                521,
+                770,
+                931,
+                920
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "114"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                55,
+                107,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.-J. Hsu et al. / Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                315,
+                54,
+                697,
+                69
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Table 4"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                83,
+                556,
+                94
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. Properties of as-cast FeCoNiCrCu<sub>x</sub> alloys"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                83,
+                389,
+                99
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2.1. Immersion tests"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                113,
+                226,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The average corrosion rates of as-cast FeCoNiCrCu<sub>x</sub> alloys were determined by using the weight loss method in 3.5% NaCl solution for 30 days immersion tests at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The average corrosion rate can be calculated from [14]:"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                128,
+                475,
+                190
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "{ \\mathrm { c o r r o s i o n } } { \\mathrm { r a t e } } ( { \\mathrm { m m y e a r } } ^ { - 1 } ) = { \\frac { 8 . 7 6 \\times 1 0 ^ { 4 } \\times W } { T \\times A \\times D } }\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7f1cfcfe13e85aeb4e0d257334448e92fdf7faf570181dfe70e97ef3ad5df926.jpg"
+                }
+            },
+            "bbox": [
+                63,
+                196,
+                391,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where W is the total weight loss (in g) after exposure time T (in h), D is the density of alloy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { i n } \\ \\mathrm { g } \\mathrm { c m } ^ { - 3 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and A (in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { c m } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the area of the specimen. The D values of FeCoNiCr, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and FeCoNiCrCu are 8.25, 8.38, and 8.36, respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                234,
+                475,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The average corrosion rates in 3.5% NaCl solution for 30 days immersion test at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are summarized in Table 4. In the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys, the Cu addition significantly increases the corrosion rates and leads to interior localized corrosion in 3.5% NaCl solution. Cu alloying element has negative effect on the corrosion resistance of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                309,
+                477,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90ae0ff992d48a36c3cd472297a3f24f6d8e6e63abb14f37b0e986c80efe729c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                92,
+                401,
+                487,
+                636
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6b4924ad18c47bdb6579b63625beaff8d77da626d296c08b289aa5318938cb9a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                92,
+                647,
+                489,
+                889
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/11866971dc73803e999bbc39f4e5be10c077db96a83ea132a45bebdc80647ee7.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Average corrosion rates (mm "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { y e a r ^ { - 1 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of as-cast FeCoNiCrCu<sub>x</sub> alloys in 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "<sup>a</sup> Average corrosion rate is converted from weight loss data."
+                    },
+                    {
+                        "type": "text",
+                        "content": "<sup>b</sup> Average corrosion rate is obtained from Tafel region extrapolation and Faraday’s law."
+                    }
+                ],
+                "html": "<table><tr><td></td><td>FeCoNiCr</td><td> $\\mathrm { F e C o N i C r C u } _ { 0 . 5 }$ </td><td>FeCoNiCrCu</td></tr><tr><td>Immersion testa</td><td> $7 . 6 2 \\times 1 0 ^ { - 4 }$ </td><td> $8 . 8 9 \\times 1 0 ^ { - 3 }$ </td><td> $1 . 1 4 \\times 1 0 ^ { - 2 }$ </td></tr><tr><td>Polarization  $\\mathrm { c u r v e } ^ { \\mathrm { b } }$ </td><td> $3 . 3 1 \\times 1 0 ^ { - 4 }$ </td><td> $7 . 4 6 \\times 1 0 ^ { - 3 }$ </td><td> $1 . 3 7 \\times 1 0 ^ { - 2 }$ </td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                507,
+                122,
+                915,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                217,
+                917,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The surface appearances of as-cast FeCoNiCrCu<sub>x</sub> alloys are shown as Fig. 4. According to the SEM images, surface examination showed that the major types of corrosion were mainly localized corrosion and pitting, not uniform corrosion. Therefore, the corrosion rate converted from weight loss data could only be used as an index of extent of corrosion attack. Therefore, the order of weight loss due to localized corrosion and pitting for these alloys was FeCoNi-"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r C u } > \\mathrm { F e C o N i C r C u } _ { 0 . 5 } > \\mathrm { F e C o N i C r } ."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                249,
+                919,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4f1a806758056d1bd8fc9b57072cd05cb57c163da55a008d37740b1fa9491278.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                495,
+                400,
+                890,
+                641
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1a4facb12ad5e626144fa672c43afe3a49673dbccd2dbcff62367d042b77a001.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Surface appearances of alloys after immersion tests in 3.5% NaCl solution for 30 days: (a) FeCoNiCr, (b) FeCoNiCrCu<sub>0.5</sub>, (c) FeCoNiCrCu, and (d) 304L (white arrows to the localized corrosion causing by electrochemical attack along the interdendrites)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                494,
+                647,
+                892,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.-J. Hsu et al. / Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                302,
+                54,
+                682,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "115"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                55,
+                917,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/af53b092ab69e0e8a37590d5b645ad9711eb02e99a02ee3b8e58c6e90fef456b.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Polarization curves for as-cast FeCoNiCrCu<sub>x</sub> alloys and 304L in 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                80,
+                83,
+                487,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The corroded surfaces of FeCoNiCr alloy and 304L stainless steel in 3.5% NaCl solution showed numerous small irregular shapes of dissolution pits. But the corroded surfaces of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and FeCoNiCrCu alloys showed that the Cu-rich phases in interdendrites corrode preferentially. Cu alloying elements exert harmful effects on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys that the corrosion resistance is degenerated, and damage is accelerated with an increase in the Cu content. According to Table 2, the interdendrites are also Cr-depleted zone and in active state. The active interdendrites are coupled to the Cr-rich and Cu-depleted passive dendrites. The low anode/cathode surface area ratio results in galvanic corrosion at the interdendrites, and the electrochemical action causes attack along the interdendrites in copper containing alloys."
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                403,
+                490,
+                630
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2.2. Potentiodynamic polarization measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                78,
+                647,
+                431,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiodynamic polarization curves of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys in 3.5% NaCl solution are given in Fig. 5. The curve for 304L stainless steel is also plotted for comparison. Only limited regions of passivation are presented for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and FeCoNiCrCu alloys, which are much narrower than FeCoNiCr alloy and 304L stainless steel. The average corrosion rates obtained from electrochemical polarization measurements can be calculated from [14]:"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                663,
+                490,
+                799
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\operatorname { c o r r o s i o n } \\operatorname { r a t e } ( \\operatorname* { m m } \\operatorname { y e a r } ^ { - 1 } ) = { \\frac { 3 . 2 7 \\times 1 0 ^ { - 3 } \\times i \\operatorname { c o r r } \\times \\operatorname { E W } } { D } }\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5bba260a82120ba85f6a315c387ced0875ac1a4e5d41d83a95ee745182016383.jpg"
+                }
+            },
+            "bbox": [
+                78,
+                807,
+                477,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where EW is the equivalent weight of alloy, D is the density of alloy (in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { g } \\mathbf { c m } ^ { - 3 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mu \\mathrm { A c m } ^ { - 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the corrosion current density of the specimen. The EW values of Fe-CoNiCr, FeCoNiCrCu<sub>0.5</sub>, and FeCoNiCrCu are 26.56, 26.38, and 26.56, respectively. The corrosion rates presented in Table 4 delineates that the results obtained from immersion test and polarization study are in correspondence with each other."
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                866,
+                489,
+                928
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2f1c1b610c7396b2b208ef355349cfbd7fe6f804ffc7e5562ac9a84403405593.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical parameters of as-cast FeCoNiCrCu<sub>x</sub> alloys and 304L stainless steel in 3.5% NaCl solution at 25 ◦C"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } \\mathrm { : }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corrosion potential."
+                    },
+                    {
+                        "type": "text",
+                        "content": "b "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "pitting potential."
+                    },
+                    {
+                        "type": "text",
+                        "content": "c "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i _ { \\mathrm { c o r r } } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corrosion current density."
+                    }
+                ],
+                "html": "<table><tr><td></td><td> $E _ { \\mathrm { c o r r } } \\mathrm { ^ a _ { \\Delta } ( V _ { S C E } ) }$ </td><td> $E _ { \\mathrm { p i t } } \\mathrm { ^ b _ { \\Gamma } ( V _ { S C E } ) }$ </td><td> $i _ { \\mathrm { c o r r } } ^ { \\mathrm { ~ \\tiny ~ c ~ } } ( \\mathrm { A c m } ^ { - 2 } )$ </td></tr><tr><td>FeCoNiCr</td><td> $- 0 . 2 6$ </td><td>0.31</td><td> $3 . 1 5 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>FeCoNiCrCu0.5</td><td>-0.29</td><td>0.09</td><td> $7 . 2 3 \\times 1 0 ^ { - 7 }$ </td></tr><tr><td>FeCoNiCrCu</td><td>-0.33</td><td>0.08</td><td> $1 . 3 2 \\times 1 0 ^ { - 6 }$ </td></tr><tr><td>304L</td><td>-0.25</td><td>0.23</td><td> $6 . 0 1 \\times 1 0 ^ { - 7 }$ </td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                522,
+                122,
+                929,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                519,
+                259,
+                932,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrochemical parameters of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys and 304L stainless steel in 3.5% NaCl solution are also given in Table 5. The corrosion potentials for as-cast FeCoNiCrCu<sub>x</sub> alloys vary from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 0 . 2 6 \\ \\mathrm { t o } \\ - 0 . 3 3 \\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the pitting potentials vary from 0.08 to 0.31 V<sub>SCE</sub>. FeCoNiCr alloy and 304L stainless steel have higher corrosion potential and pitting potential among all specimens. Because of Cu segregation in interdendrites and then causing nonprotective passive film on surface, the passivation region of FeCoNiCrCu<sub>x</sub> alloys with higher Cu addition is narrower than those without Cu addition in 3.5% NaCl solution. The larger passivation current was also observed in those alloys with Cu content. These indicate that FeCoNiCr alloy is easier to passivate and more corrosion-resistant in 3.5% NaCl solution and even shows better corrosion-resistant than 304L stainless steel."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                319,
+                932,
+                560
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Conclusions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                593,
+                636,
+                608
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x = 0 , 0 . 5 ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 1) belong to fcc structure. But for as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e C o N i C r C u } _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and FeCoNiCrCu alloys, the phenomenon of Cu segregation due to weaker bonding force to other elements is easily formed in interdendrites."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                622,
+                932,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. After the immersion tests for 30 days in 3.5% NaCl solution, the surface examination of as-cast FeCoNiCrCu<sub>0.5</sub> and FeCoNiCrCu alloys showed that the major type of corrosion was galvanic action between interdendrite and dendrite, and then resulted in localized corrosion. The corroded surfaces of as-cast FeCoNiCr alloy and 304L stainless steel showed numerous small irregular shapes of dissolution pits. The order of weight loss due to localized corrosion and pitting for these alloys was FeCoNi-CrCu > FeCoNiCrCu<sub>0.5</sub> > FeCoNiCr. The corrosion damage is accelerated with an increase in the Cu content."
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                697,
+                932,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. FeCoNiCr alloy is easier to passivate and more corrosionresistant than FeCoNiCrCu<sub>0.5</sub> and FeCoNiCrCu<sub>0.5</sub> alloys in 3.5% NaCl solution. This phenomenon is caused by Cu segregation in interdendrites."
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                863,
+                932,
+                925
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "116"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                55,
+                107,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.-J. Hsu et al. / Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                307,
+                55,
+                705,
+                69
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                84,
+                151,
+                98
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] J.W. Yeh, S.K. Chen, S.J. Lin, J.Y. Gan, T.S. Chin, T.T. Shun, C.H. Tsau, S.Y. Chang, Adv. Eng. Mater. 6 (2004) 299."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] K.H. Huang, Master Thesis, National Tsing Hua University, Taiwan, 1996."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] K.T. Lai, Master Thesis, National Tsing Hua University, Taiwan, 1998."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] Y.H. Hsu, Master Thesis, National Tsing Hua University, Taiwan, 2000."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] Y.T. Hung, Master Thesis, National Tsing Hua University, Taiwan, 2001."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] C.J. Tung, Master Thesis, National Tsing Hua University, Taiwan, 2002."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] ASTM Standard G5-94, ASTM, PA, 2003."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] ASTM Standard G59-97, ASTM, PA, 2003."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] C.Y. Hsu, J.W. Yeh, S.K. Chen, T.T. Shun, Metall. Mater. Trans. A 35 (2004) 1465."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] B.D. Cullity, Elements of X-ray Diffraction, Addison-Wesley, MA, 1978."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] A. Takeuchi, A. Inoue, Mater. Trans. 41 (2000) 1372."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] A. Takeuchi, A. Inoue, Mater. Trans. 42 (2001) 1435."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] R. Boom, A.R. Miedema, A.K. Niessen, F.R. de Boer, W.C. Mattens, Cohesion in Metals: Transition Metal Alloys, Elsevier Applied Science, Amsterdam, Netherlands, 1988."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] ASTM Standard G31-72, ASTM, PA, 2003."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                113,
+                473,
+                138
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Y.-J. Hsu et al. / Materials Chemistry and Physics 92 (2005) 112–117"
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                55,
+                692,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "117"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                56,
+                917,
+                66
+            ]
+        }
+    ]
+]

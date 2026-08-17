@@ -1,0 +1,2063 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Any discussion of this paper will appear in a Discussion Section to be published in the\" December 1969 JOURNAL."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                61,
+                486,
+                92
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                230,
+                91,
+                341,
+                103
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. K. Aramaki and N. Hackerman, This Journal, 115, 1007(1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. N. Hackerman, R. M. Hurd, and R. R. Annand, Corrosion, 18, 37t (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. N. Hackerman and R. M. Hurd, \"First International Congress on Metallic Corrosion,\" p. 166, Butterworths, London (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. R. R. Annand, R. M. Hurd, and N. Hackerman, This Journal, 112, 134, 144 (1965)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. G. W. Poling, ibid., 114, 1209 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. N. Hackerman, E. S. Snavely, Jr., and J. S. Payne, Jr., ibid., 113, 677 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. A. W. Ralston, D. N. Eggenberger, and P. L. DuBrow, J. Am. Chem. Soc., 70, 977 (1948)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. J. F. Bunnett and T. K. Brotherton, J. Org. Chem., 22, 832 (1957)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. J. D. Dunitz and V. Prelog, Angew. Chem., 72, 896 (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. F. Fichter and E. Rothenberg, Helv. chim. Acta, 5,166(1922)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Z. A. Iofa, V. V. Batrakov, and Cho-Ngok-Ba, Electrochim. Acta, 9, 1645 (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. B. E. Conway and R. G. Barradas, \"Transactions of the Symposium on Electrode Processes,\" p. 299, John Wiley & Sons, New York (1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. T. Murakawa, S. Nagaura, and N. Hackerman, Corrosion Sci., 7, 79 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. T. Murakawa, T. Kato, S. Nagaura, and N. Hackerman, ibid., 7, 657 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. N. Hackerman, Corrosion, 18, 332t (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. K. Komiyama, K. Kudo, and N. Sato, Corrosion Engineering, 16, 208 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. R. M. Silverstein, G. C. Bassler, \"Spectrometric Identification of Organic Compounds,\" p. 163, John Wiley & Sons, New York (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. E. A. Brause, Ann. Repts. Progress Chem., 42, 105 (1945)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. R. M. Silverstein and G. C. Bassler, \"Spectrometric Identification of Organic Compounds,\" p. 96, John Wiley & Sons, New York (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. P. L. Corio and B. P. Dailey, J. Am. Chem. Soc., 78,3043(1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. F. M. Donahue, A. Akiyama, and K. Nobe, This Journal, 114, 1006 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. L. H. Little, \"Infrared Spectra of Adsorbed Species,\"p. 100, Academic Press, London (1966)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                105,
+                484,
+                125
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic Polarization of Some Ferritic Stainless Steels in Chloride Media"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                164,
+                369,
+                831,
+                422
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E. A. Lizlovs* and A. P. Bond*"
+                    }
+                ]
+            },
+            "bbox": [
+                390,
+                437,
+                606,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Research Laboratory, Climax Molybdenum Company of Michigan, Ann Arbor, Michigan"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                457,
+                814,
+                471
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                451,
+                490,
+                543,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic polarization experiments were performed in 0.1N hydrochloric acid with 17% chromium ferritic stainless steels containing up to 3% molybdenum and with 18% Cr-2% Mo ferritic stainless steels containing 0-2% nickel and 0-2% titanium. Potentiodynamic polarization studies with the 17% chromium alloys were also performed in 1N hydrochloric acid and in 1N sulfuric acid + 0.1N sodium chloride media. The critical current densities were significantly decreased with an increased molybdenum content. The pitting potentials were increased with increased molybdenum and titanium contents, whereas nickel additions had no effect. All materials were sensitive to crevice corrosion. Sulfate ions in the SO₄=: Cl- molar ratio of 5:1 inhibited pitting corrosion and suppressed crevice corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                212,
+                508,
+                782,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effects of molybdenum on anodic polarization of 17% chromium stainless steels in sulfuric acid have previously been studied in this Laboratory (1). Because of the well-established usage of molybdenum alloying for increasing the resistance of stainless steel to pitting corrosion, interest developed in extending anodic polarization studies to chloride media. It was envisioned that the anodic polarization in acidic chloride media would not only provide information concerning the effect of molybdenum additions on the pitting potential of ferritic stainless steels, but would also provide some information concerning the activepassive transition of stainless steels in the presence of chlorides."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                638,
+                488,
+                797
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental Procedures"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                198,
+                801,
+                378,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Two sets of laboratory-prepared ferritic alloys and two commercial ferritic stainless steels (Types 430 and 4341) were investigated. The high-purity 17% chromium, 17% Cr-1% Mo, and 17% Cr-3% Mo laboratory alloys were prepared by melting and casting in vacuum. The resulting ingots were hot-rolled to 0.64-cmthick sheet, which was cold-rolled to a 0.32-cm thickness, annealed for 1 hr at 815°C, and water-quenched. The 18% Cr-2% Mo alloys modified by titanium and"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                816,
+                488,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Type 434 is the proposed designation for stainless steel containing 17% chromium and 1% molybdenum."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                928,
+                488,
+                946
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "nickel additions were produced by induction melting in an argon atmosphere, using the split-heat technique. In this technique, the base composition is melted, and part of the melt is poured off to produce an ingot; then to the balance of the melt, the required alloying additions are made and the next ingot is cast. This process is repeated until a series of the desired compositions is cast. The 18% Cr-2% Mo ingots were hotforged, hot-rolled to 0.76-cm-thick strips, and coldrolled to 0.38-cm-thick strips. The 18% Cr-2% Mo alloys containing titanium were annealed for 1 hr at 1040°C, the minimum temperature that prevented formation of a second phase in the high titanium alloy, and then water-quenched. The rest of the 18% Cr-2% Mo materials and the hot-rolled, commercial Types 430 and 434 steels were annealed at 815°C for 1 hr and water-quenched. The chemical compositions of all the materials are given in Table I."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                638,
+                912,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrodes for the potentiodynamic studies were mounted in acrylic plastic, the exposed surface (0.5 by 0.6 cm) always being a longitudinal section parallel to the rolled surface. A more detailed description of the electrode can be found elsewhere (1). The exposed surface was polished using standard metallographic techniques, ending with a distilled water slurry of 0.3μ alumina. For the pitting potential measurements, the electrode surface was masked with electroplaters tape (Scotch 470), except for a circular area 0.36 cm in diameter."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                844,
+                914,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "574"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                38,
+                117,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE"
+                    }
+                ]
+            },
+            "bbox": [
+                277,
+                37,
+                712,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May 1969"
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                37,
+                907,
+                50
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Electrochemical Society Active Member."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                920,
+                345,
+                931
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                954,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bb774085127fa28956c3eb960c05be617402f05c6d2e993591f62e44332a0bcb.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table I. Compositions of alloys studied"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "ªNA = not analyzed, but assumed to be in the range of the series."
+                    }
+                ],
+                "html": "<table><tr><td></td><td colspan=\"9\"></td></tr><tr><td>Alloy</td><td>C</td><td>Cr</td><td>Mo</td><td>Ni</td><td>Ti</td><td>Chemical composition, % Mn</td><td>Cu</td><td>Si</td><td>P</td><td>s</td><td>N</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Type 430</td><td>0.046</td><td>16.30</td><td></td><td>0.33</td><td></td><td>0.70</td><td>0.10</td><td>0.60</td><td>0.018</td><td>0.008</td><td></td></tr><tr><td>Type 434</td><td>0.069</td><td>16.52</td><td>0.99</td><td>0.30</td><td></td><td>0.42</td><td>0.11</td><td>0.54</td><td>0.016</td><td>0.007</td><td></td></tr><tr><td>High-purity 17% chro-</td><td>0.003</td><td>17.08</td><td>0.03</td><td></td><td></td><td></td><td>0.00</td><td>0.06</td><td>0.009</td><td></td><td>0.0065</td></tr><tr><td>mium alloys</td><td>0.002</td><td>16.93</td><td>1.04</td><td></td><td></td><td></td><td>0.00</td><td>0.05</td><td>0.007</td><td></td><td></td></tr><tr><td></td><td>0.003</td><td>16.68</td><td>2.99</td><td></td><td></td><td></td><td>0.00</td><td>0.06</td><td>0.007</td><td></td><td>0.0048</td></tr><tr><td>18% Cr-2% Mo nickel</td><td>NAa</td><td>NA</td><td>NA</td><td>0.11</td><td></td><td></td><td></td><td>NA</td><td></td><td></td><td>NA</td></tr><tr><td>series</td><td>NA</td><td>NA</td><td>NA</td><td>0.62</td><td></td><td></td><td></td><td>NA</td><td></td><td></td><td>NA</td></tr><tr><td></td><td>0.031</td><td>18.53</td><td>1.95</td><td>1.08</td><td></td><td></td><td></td><td>NA</td><td></td><td></td><td>NA</td></tr><tr><td>18% Cr-2% Mo titanium</td><td>0.034</td><td>18.45</td><td>1.97</td><td>0.11</td><td>0.47</td><td></td><td></td><td>0.13</td><td></td><td></td><td>0.045</td></tr><tr><td>series</td><td>0.035</td><td>NA</td><td>NA</td><td>NA</td><td>1.86</td><td></td><td></td><td>NA</td><td></td><td></td><td>0.023</td></tr><tr><td>18% Cr-2% Mo nickel-</td><td>0.032</td><td>18.70</td><td>1.97</td><td>0.57</td><td>0.91</td><td></td><td></td><td>NA</td><td></td><td></td><td></td></tr><tr><td>titanium series</td><td>NA</td><td>NA</td><td>NA</td><td>2.08</td><td>1.75</td><td></td><td></td><td>NA</td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                80,
+                912,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                84,
+                253,
+                488,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiodynamic polarization experiments were performed using standard equipment and techniques. Potentials were measured with respect to a saturated calomel electrode. The auxiliary platinum electrode was isolated from the test solution by a glass frit. All materials were tested in argon-saturated 0.1N hydrochloric acid (HCl). The high-purity alloys and commercial steels were tested in argon-saturated 1N HCl, 1N sulfuric acid "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( H _ { 2 } S O _ { 4 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\bar { H } } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 1 N"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sodium chloride (NaCl). Potential scanning rates for most polarization experiments were 600 mv/hr for the 18% Cr-2% Mo series, and 540 mv/hr for the rest of the materials. For determination of the pitting potentials, the electrode potential was scanned at the rate of 600 or 540 mv/hr up to potentials of about 0.1-0.2v less noble than the expected pitting potential. At this potential the scanning rate was decreased tenfold, i.e., to 60 or 54 mv/hr. Scanning was continued until the pitting potential was reached. The onset of pitting was marked by a sharp and sudden increase in polarization current. The potential scanning was stopped at the pitting potential, and the electrode was allowed to pit for 20 to 30 min. It was then removed from the solution, the tape was stripped, and its surface was examined for pitting and possible crevice corrosion. The potential scanning was usually started at —0.7 to -0.6v, with respect to the saturated calomel electrode (SCE); the scanning was always into the passive potential region. In some experiments, the potential of an actively corroding electrode was changed almost instantaneously to a selected potential in a passive range by switching on a potentiostat, with a potential preset at a desired value."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                276,
+                488,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The experiments with the 18% Cr-2% Mo series of alloys were performed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 ^ { \\circ } \\pm \\mathsf { \\Omega } 1 ^ { \\circ } \\mathsf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "All the other materials were tested at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 . 6 ^ { \\circ } \\pm \\ : 0 . 1 ^ { \\circ } \\mathrm { C } ."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                648,
+                488,
+                684
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                254,
+                689,
+                314,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Experiments in 0.1N hydrochloric acid.—Typical anodic polarization curves for the Types 430 and 434 stainless steels in 0.1N HCl are shown in Fig. 1. The active region for the Type 430 steel exhibited two current maxima, one peak at —0.50v and another at —0.38v. Considerable variations in peak heights were observed for different Type 430 samples, and in some samples the second peak was higher than the first peak. However, the corresponding potentials remained approximately within ± 10 mv of the values given above.² The single critical current density peak, shown by the Type 434 steel, was always lower than the corresponding peak for the Type 430 steel."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                702,
+                488,
+                851
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The passive region for the Types 430 and 434 stainless steels terminated at potentials considerably less noble than the normal transpassive transition range, +0.85 to +0.95v. This passivity breakdown for the unmasked electrodes was characterized by a gradual increase in polarization current. A considerable amount of polarization current could usually be sustained at selected potentials without visible pitting or general corrosion. However, after a long potentiostatic polarization time, microscopic examinations revealed some corrosion at the boundary of the sample and at the acrylic mount. This observation was in accord with the results obtained by Schwenk (2). Thus, in all the potentiodynamic polarization experiments with unmasked electrodes in HCl, the apparent passivity breakdown was not due to pitting corrosion, but was a result of the passivity breakdown inside the extremely fine crevice between the electrode and plastic mount. The presence of crevices with the electrode mounted in metallographic materials was also indicated by Greene et al. (3)."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                850,
+                488,
+                920
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                508,
+                253,
+                914,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The differences in polarization behavior between an unmasked and a masked electrode in the passive state are illustrated in Fig. 1. For the masked electrode the current density beyond the primary passivation potential gradually decreased to the level of 10-6 amp/ cm² or lower, depending on the potential scanning rate, and remained at this level until either pitting or a normal transpassive breakdown occurred. The current density for unmasked electrodes, however, first decreased and then increased gradually, indicative of the onset of crevice corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                422,
+                914,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical anodic polarization curves for the highpurity 17% chromium alloys in 0.1N HCl are shown in Fig. 2. As the molybdenum content increased, the critical current density decreased. The primary passivation potential, however, tended to become more noble at higher molybdenum content. A second peak in the active-passive transition region was observed only for the 17% Cr-3% Mo alloy. Critical current density for the 17% chromium alloy varied from 1 to 6 ma/cm² for different samples. These variations in critical current density were accompanied by changes in primary passivation potential between —0.49 and —0.43v; in general, the more noble the primary passivation potential, the higher the critical current density. The passive region for the unmasked electrodes again terminated at potentials less noble than pitting potentials. However, crevice corrosion did not influence the critical current density of the materials, so that unmasked electrodes could be used for the anodic polarization studies in the active region. Furthermore, the minimum current densities, reached in the passive region with unmasked electrodes, appeared to depend on the molybdenum content for both commercial and high-purity alloys. The steels with the highest molybdenum content had the lowest current minima in the passive state (Fig. 1 and 2). Thus, molybdenum appears to improve the resistance of ferritic stainless steels to crevice corrosion in chloride media. However, since the crevice geometry was not intentionally controlled on the electrodes, further experimental work is needed to obtain more quantitative information concerning the effect of alloying additions on crevice corrosion. Representative values of critical parameters for the commercial steels and high-purity alloys are summarized in Table II."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                547,
+                914,
+                685
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/134e097f75e7c967d20574649a1d6fb224d91ab347c3328f47e17e679a575557.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Anodic potentiodynamic polarization curves for unmasked Types 430 and 434 electrodes and for masked Type 430 electrode in 0.1N hydrochloric acid at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 . 6 ^ { \\circ } C ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                575,
+                696,
+                846,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 116, No. 5"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                36,
+                215,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANODIC POLARIZATION OF SOME STEELS"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                37,
+                700,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "575"
+                    }
+                ]
+            },
+            "bbox": [
+                880,
+                37,
+                910,
+                50
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2Henceforth, the current density peak at the least noble potential will be referred to as the critical current density, and the corresponding potential as the primary passivation potential."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                923,
+                488,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0c58166d7a32be93182970c6bffc27ad3a928e2bf4a9f9062152b12416222a47.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Anodic potentiodynamic polarization curves for 17% chromium, 17% Cr-1% Mo, and 17% Cr-3% Mo alloys in 0.1N hydrochloric acid at 29.6°C (unmasked electrodes)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                168,
+                60,
+                404,
+                289
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1d412ad1e0e9d225d6e3374f7b2a37498de5011c9c61d6cc668bd54e38b92115.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Anodic potentiodynamic polarization curves for the 18% Cr-2% Mo-0.11% Ni and 18% Cr-2% Mo-1.86% Ti-0.11% Ni alloys (masked electrodes) in 0.1N hydrochloric acid at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { 2 4 } \\circ \\pmb { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                151,
+                346,
+                422,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                603,
+                489,
+                775
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cb0d8758a11215601dba3db368188fd3147efcb556f808fdbf837aec32a9d5b6.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table IIl. Current density maxima and corresponding potentials in argon-saturated 0.1N hydrochloric acid for 18% Cr-2% Mo ferritic stainless steels"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Alloy addition</td><td>Critical</td><td>Primary</td><td>Secondary current passivation density maximum,</td><td>Potential corre- sponding to the secondary current density maxima</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.11 0.62</td><td>0.11</td><td>-0.475</td><td>0.014 0.04</td><td>-0.350 -0.340</td></tr><tr><td></td><td>1.08</td><td></td><td></td><td>0.018</td><td>-0.380</td></tr><tr><td>0.47</td><td>0.11</td><td>0.10</td><td>-0.480</td><td>0.006</td><td>-0.350</td></tr><tr><td>1.86</td><td>~0.1</td><td></td><td></td><td></td><td></td></tr><tr><td>0.91</td><td>0.57</td><td>0.002</td><td>-0.455</td><td>0.002</td><td>-0.330</td></tr><tr><td>1.75</td><td>2.08</td><td></td><td></td><td>0.005</td><td>-0.300</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                511,
+                103,
+                910,
+                225
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac7f45e3eec058231c4f06e17044cb199960b4af82e8ff809f4b3a4e007a3038.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table IV. Average pitting potentials in 0.1N hydrochloric acid"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Average pitting potential, Alloy vs. SCE, v</td></tr><tr><td></td></tr><tr><td>Type 430 0.18</td></tr><tr><td>Type 434 0.19</td></tr><tr><td>17% Chromium 0.26</td></tr><tr><td>17% Cr-1% Mo 0.32</td></tr><tr><td>17% Cr-3% Mo &gt;0.80</td></tr><tr><td>18% Cr-2%Mo-0.11% Ni 0.31 18% Cr-2% Mo-0.62% Ni 0.35</td></tr><tr><td>18% Cr-2% Mo-1.08% Ni 0.34</td></tr><tr><td>18% Cr-2% Mo-0.47% Ti &gt;0.8</td></tr><tr><td>18% Cr-2% Mo-1.86% Ti 0.63</td></tr><tr><td>18% Cr-2% Mo-0.91% Ti-0.57% Ni &gt;0.8</td></tr><tr><td>18% Cr-2% Mo-1.75% Ti-2.08% Ni 0.62</td></tr><tr><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                511,
+                256,
+                910,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                402,
+                914,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Representative anodic polarization diagrams in 0.1N HCl for 18% Cr-2% Mo alloys are shown in Fig. 3. Table III gives the critical parameters for these alloys. Table III also shows that an increase in nickel content, from 0.11% to 0.62%, results in complete suppression of the active region. Although the addition of 0.47% titanium had no effect on critical behavior, an increase in titanium level to 1.86% resulted in a complete disappearance of the active region. In addition to the normal critical current density peaks, considerably lower secondary peaks were observed for most of the 18% Cr-2% Mo alloys in the —0.38 to —0.30v region."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                491,
+                914,
+                628
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Average pitting potentials for all the materials are summarized in Table IV. A typical polarization run with a masked electrode, exhibiting termination of the passive range due to onset of pitting, is shown in Fig. 4. The onset of pitting corrosion was always marked by a sharp current rise over several orders of magnitude, but crevice corrosion was marked by a gradual current increase. Under the experimental conditions used, the materials that could be scanned beyond the threshold of transpassivity (+0.80v) ought to be considered resistant to pitting corrosion. However, exploratory studies showed that potentiostatic pitting could be achieved with materials that exhibit a full passive range under potentiodynamic conditions. This occurred under conditions of nearly instantaneous potential switch from an active corrosion potential to a sufficiently noble passive potential. Thus, the 17% Cr-3% Mo alloy was pitted at +0.40v under these conditions."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                626,
+                915,
+                775
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6ef78b033f213fbbdaba61835536ae95638eb639e8b78a049cb441a99c95bf2d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table Il. Current density maxima and corresponding potentials in argon-saturated hydrochloric acid for commercial ferritic stainless steels and high-purity 17% chromium alloys"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a No true passive state attained for these materials."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"4\">0.1N Hydrochloric acid</td><td colspan=\"2\">1.0N Hydrochloric acid</td></tr><tr><td>Critical current</td><td>Primary passiva- tion potential vs. SCE, v</td><td>Secondary current density maximum, ma/cm²</td><td>Potential corre- sponding to secondary current density maximum</td><td>Critical current density, ma/cm²</td><td>Primary passiva- tion potential vs. SCE, v</td></tr><tr><td>Alloy</td><td>density, ma/cm²</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Type 430 Type 434</td><td>1.2 0.26</td><td>-0.502 -0.490</td><td>0.77</td><td>-0.380</td><td>_a 18a</td><td>-0.310 to −0.305</td></tr><tr><td>17% Chromium</td><td>0.95</td><td>-0.495</td><td></td><td></td><td>140a</td><td>-0.230</td></tr><tr><td>17% Cr-1% Mo</td><td>0.48</td><td>-0.500</td><td></td><td></td><td>46</td><td>-0.310</td></tr><tr><td>17% Cr-3% Mo</td><td>0.058</td><td>-0.463</td><td>0.018</td><td>-0.368</td><td>13</td><td>-0.340</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                85,
+                815,
+                912,
+                928
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "576"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                36,
+                119,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE"
+                    }
+                ]
+            },
+            "bbox": [
+                277,
+                36,
+                717,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May 1969"
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                36,
+                909,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a46fb9b4e2fabbd4584f991fd5cdaf59f16a633d1636cb57ca3a8ccb90067d42.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Anodic potentiodynamic polarization curve for masked 17% Cr-1% Mo electrode in 0.1N hydrochloric acid at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 . 6 ^ { \\circ } C ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                153,
+                70,
+                425,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                379,
+                488,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A repassivation phenomenon was also observed during several potentiodynamic pitting experiments. This phenomenon was usually indicated by current blips at potentials that were lower than those at which continuous pitting occurred (Fig. 4). However, the pitting corrosion was sometimes sustained for 15 to 20 min. and then followed by complete repassivation of the pits. Examination of the electrode revealed visible pits inside the free electrode area, but revealed no evidence of corrosion under the masking tape."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                446,
+                489,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Experiments in 1.0N hydrochloric acid.—Anodic polarization curves for the commercial and high-purity alloys in 1.0N HCl are shown in Fig. 5 and 6 (unmasked electrodes). Table II gives the critical current densities and primary passivation potentials. Type 430 stainless steel did not passivate at all in 1.0N HCl. Type 434 steel did exhibit a current peak at the expected position for the primary passivation potential, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 0 . 3 1 0 \\mathbf { v } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "however, current densities beyond the critical peak remained quite high. All the high-purity alloys exhibited a critical current density peak, but the current densities at potentials approximately 100 mv more noble than the primary passivation potentials were several orders of magnitude higher than the corresponding current densities in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 N \\mathrm { \\bf ~ H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1). The potentiostatic passivation experiments, performed in 1N HCl with masked electrodes, showed than 17% Cr-1% Mo and 17% Cr-3% Mo alloys could be completely passivated in the -0.20 to —0.10v region. The resulting polarization current densities in the passive state were of the same order of magnitude as those observed in H2SO4, 10-6 amp/cm2 (1). Thus, the apparent high-current densities obtained with unmasked electrodes are an outcome of crevice corrosion, which is much more severe in 1.0N than in 0.1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                564,
+                491,
+                658
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2c3e342bc43361f936beb88c2706e5b81bf822ea9aab96b9e7f8523677981e00.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Anodic potentiodynamic polarization curves for Types 430 and 434 stainless steels in 1N hydrochloric acid at 29.6°C (unmasked electrodes)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                163,
+                666,
+                419,
+                914
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6df6d2c3c55e1ce604a7f118c03a2c54c4d05031a23819914adcc8e03d8b7027.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Anodic potentiodynamic polarization curves for 17% chromium, 17% Cr-1% Mo, and 17% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\mathrm { c r } } . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Mo alloys in 1N hydrochloric acid at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 . 6 ^ { \\circ } 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(unmasked electrodes)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                580,
+                65,
+                836,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                357,
+                914,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At any passive potential under potentiostatic conditions, the polarization current densities for the masked 17% chromium alloy and for commercial Types 430 and 434 steel were several orders of magnitude above the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { 1 0 ^ { - 6 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "amp/cm² level. Furthermore, the potentiostatic experiments with an unmasked 17% chromium electrode at —0.15v showed that at this potential, the electrode corroded uniformly at a rate corresponding to approximately 10 ma/cm2. Thus, for the straight chromium steels and for Type 434 steel, the high current densities in a passive range are primarily the result of the uniform corrosion, but for the 17% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\yen 1\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Mo and 17% Cr-3% Mo alloys, the relatively high current in the passive range is largely the result of crevice corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                550,
+                917,
+                721
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The elimination of the crevice by the use of masking tape was considerably more difficult in 1N than in 0.1N HCl; in fact, many experiments were invalid because the mask loosened, and crevice corrosion resulted. Therefore, neither the potentiostatic maintenance of the passivity over prolonged periods of time, nor the potential range over which the steels would retain their passivity was investigated."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                719,
+                917,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The critical current density for all materials again decreased with the increase in molybdenum content, and at the same time the primary passivation potentials became more negative. The relationship among molybdenum content, critical current density, and primary passivation potential is shown in Fig. 7."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                809,
+                917,
+                880
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic studies in sulfuric acid + sodium chloride solution.—Typical potentiodynamic polarization curves for ferritic stainless steels in the 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "medium and the 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H _ { 2 } S O _ { 4 } } ~ + ~ 0 . 1 N"
+                    },
+                    {
+                        "type": "text",
+                        "content": "NaCl medium are given in Fig. 8, which shows that the critical current density is increased by the addition of the chloride ion to sulfuric acid; however, this increase is caused by the shift of the primary passivation potential in a noble direction due to the activation effect of the chloride ions. At a given potential up to the primary passivation potential for pure acid, the dissolution rates of Type 430 stainless steel were lower in the chloride-containing acid than in pure acid. This inhibiting effect of chloride ions on anodic dissolution was similar to that reported by Bockris et al. (4) for pure iron. Furthermore, in the 1N H2SO₄ + 0.1N NaCl solution, the passive range terminated at the same potentials as in the 1N H2SO4. Similar polarization behavior was observed for Type 434 and all 17% chromium alloys."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                880,
+                919,
+                951
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 116, No. 5"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                36,
+                215,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANODIC POLARIZATION OF SOME STEELS"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                36,
+                698,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "577"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                36,
+                909,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/86eafae378a748f3309958a212132c2a2b1ac5acd771b7b27ce4115970c9850d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. Effect of molybdenum additions to the 17% chromium alloy on the critical current density and primary passivation potential in 1N hydrochloric acid at 29.6°C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                146,
+                59,
+                429,
+                265
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/090c6a7a1e0263abae957b8c1ebe5c5e4dd79b4e2d1eeac307b8dadb650e2a69.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Potentiodynamic polarization curves for Type 430 stainless steel in 1N sulfuric acid and in IN sulfuric acid + 0.1N sodium chloride at 29.6°C (unmasked electrodes)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                84,
+                316,
+                489,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                605,
+                489,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                249,
+                763,
+                329,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting potentials in 0.1N hydrochloric acid.—The examination of the average pitting potentials for the 17% chromium alloys (Table IV) discloses that, as the molybdenum content is increased, pitting potentials become more noble (i.e., the resistance toward pitting corrosion increases with the molybdenum content). Since a normal transpassive transition was obtained for the 17% Cr-3% Mo alloy, this material should be immune to pitting corrosion under the experimental conditions. However, Types 430 and 434, which are commercial counterparts of the 17% chromium and 17% Cr-1% Mo alloys, have significantly lower pitting potentials. This difference in pitting potentials is probably the result of the higher carbon levels and impurity contents of commercial steels, as compared with the vacuum-melted laboratory alloys. Furthermore, the average pitting potential for the Type 434 steel is only slightly higher than the pitting potential for the Type 430 steel. The difference in pitting potential was much more in the 17% chromium and 17% Cr-1% Mo alloys. Since the carbon level for the Type 434 sample used in this investigation was considerably higher than that for the Type 430 sample [i.e., 0.069 as compared with 0.046% (Table I)], it may be concluded that the higher carbon level obscured the effect of molybdenum on pitting potential. Higher carbon content in a ferritic matrix will result in more precipitated chromium and molybdenum carbides and in a depletion of the matrix of chromium and molybdenum. Consequently, the ferritic steels with higher carbon contents will probably have a greater sensitivity to pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                776,
+                493,
+                948
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                61,
+                914,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The examination of the pitting potentials for the 18% Cr-2% Mo ferritic alloys, with a carbon content of about 0.03%, leads to the conclusion that small nickel additions (up to 1%) do not affect the pitting potentials of these alloys. In contrast to the insensitivity to small additions of nickel, small additions of titanium have a very pronounced effect on pitting potentials. Titanium contents of 0.47 and 0.91% raised the pitting potential above the transpassive transition. A further increase in titanium to about 1.8% reduced pitting potential. Pitting potentials for titanium-modified alloys, however, are still more noble than for titanium-free alloys. This effect of titanium could be indirect. The titanium ties up carbon and nitrogen, preventing the formation of chromium and molybdenum carbides and nitrides and, consequently, prevents the formation of zones depleted in chromium and molybdenum. With larger titanium additions, the considerable amount of second phase that develops might be the preferred site for pitting attack."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                253,
+                914,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The pitting potential for the 18% Cr-2% Mo-0.03% C alloy was about the same as that for the high-purity 17% Cr-1% Mo-0.002% C alloy, and was significantly more noble than that for either Type 430 steel or the high-purity 17% chromium alloy. Thus, in the 17% chromium steels with commercial carbon levels, the increase of molybdenum content to 2% should result in considerably improved resistance to pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                478,
+                914,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The values of pitting potentials are significantly influenced by experimental techniques (5, 6). In work with molybdenum-containing austenitic stainless steels, a fast potential scanning rate was a more severe experimental condition than a slow scanning rate (7). Consequently, the instantaneous potential rise from the active corrosion potential to a selected passive potential would be one of the most severe experimental conditions for the potentiostatic pitting studies. That the 17% Cr-3% Mo alloy could be pitted by the above method implies that all the materials investigated would pit under conditions of instantaneous potential jump. Thus, the results from the potentiodynamic pitting studies would at best predict only a relative order of resistance to pitting corrosion, but would not necessarily determine the immunity to pitting at a given chloride ion concentration and temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                580,
+                917,
+                775
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization studies in hydrochloric acid.—The results of the critical current density and primary passivation potential determination in 0.1N and 1.0N HCl are consistent with previous measurements in H2SO4, i.e., molybdenum decreases the critical current density required to produce passivity and, to a lesser extent, shifts the primary passivation potential to more active potentials (1). Thus, molybdenum additions facilitate the attainment of the passive state for ferritic stainless steels in HCl. This effect was especially pronounced in 1N HCl for high-purity alloys (Fig. 6). In this series, only alloys containing molybdenum could be completely passivated in 1N HCl, i.e., the current densities for masked electrodes decreased to between 10-6 and 10-7 amp/cm² at some potential beyond the primary passivation potential. In contrast to such pure alloys as 17% chromium alloy, the commercial Type 430 did not show a critical behavior in 1N HCl, and Type 434 showed little tendency to passivate (Fig. 5). This behavior is probably the result of the depletion of the ferritic matrix of chromium and molybdenum by the precipitation of carbides."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                776,
+                917,
+                948
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "578"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                37,
+                117,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                37,
+                717,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May 1969"
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                36,
+                910,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                84,
+                61,
+                486,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Smalì nickel additions to 18% Cr-2% Mo alloys were somewhat beneficial to the attainment of passivity in 0.1N HCl, since these additions depressed the critical current density to the point where no active region was displayed. However, results from work on austenitic stainless steels (7) showed that an 18% Cr-16% Ni alloy free of molybdenum could not be completely passivated in 1N HCl, but a similar alloy containing molybdenum could be. Thus, the beneficial effects of small nickel additions to ferritic stainless steel in HCl may be limited to the molybdenumcontaining grades."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                141,
+                488,
+                276
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization studies in HCl solutions revealed that HCl is an effective medium for the potentiodynamic investigation of the effects of alloying elements on the corrosion and passivation properties of stainless steels. The effects of molybdenum additions are very dramatically shown by polarization curves in 1N HCi; it is expected than any alloying addition which has a strong effect on the passive film will also have a pronounced effect on the active-passive transition in HCl. Polarization curves in 0.1N HCl, especially with the 17% chromium alloy, were characterized by considerable variations in critical current density and primary passivation potential. Such behavior would probably result from the competition of the normal tendency of the alloy to passivate in a weakly acidic medium with the activating effect of the chloride iops. Stainless steels with relatively weak passivation tendencies would therefore be expected to have a more prominently variable passivation behavior than steels with a strong passivation tendency. The activepassive transition region in 0.1N HCl was often complicated by the presence of two current density maxima. Since measured current is the difference between the total oxidation and total reduction current, the small secondary current maxima might arise from the changing hydrogen evolution kinetics, which are the result of the passivation of the electrode surface. However, large secondary peaks observed with Type 430 steel could not be explained. Since the potential for either peak is fairly reproducible, the double-peak phenomenon for the Type 430 steel might result from the chromium segregation and different passivation behavior of chromium-rich and chromium-depleted regions. For the Type 434 steel, which has a stronger passivation tendency, the second peak is only slightly indicated (Fig. 1). Some support for the above speculation is given by the work of Voeltzel and Plateau (8) who observed a double-peak phenomenon for sensitized austenitic 18% Cr-8% Ni stainless steel. The double-peak phenomenon was ascribed to chromium depletion along the grain boundaries."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                276,
+                489,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "None of the ferritic stainless steels studied was immune to crevice corrosion in HCl, not even those which had a high resistance to pitting."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                61,
+                910,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization studies in sulfuric acid-sodium chloride solution.—Since a complete passive range was obtained for all the materials studied, the results from potentiodynamic polarization studies in 1N H2SO4 + 0.1N NaCl indicate that sulfate ions in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { S O _ { 4 } } \\mathrm { { = } } \\mathbf { ; C l } \\mathrm { { - } \\ m o l a r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratio of 5:1 inhibit pitting corrosion. The inhibiting effect of sulfate ions on chloride pitting of austenitic steels has been described in the literature (5, 9). This investigation showed that pitting corrosion of ferritic stainless steel can also be inhibited by sulfate ions. Furthermore, since crevice corrosion was very prominent in 0.1N HCl, it may be concluded that sulfate ions suppress the crevice corrosion to the extent that a normal transpassive transition can be obtained with a potential scanning rate of 0.540 v/hr."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                100,
+                912,
+                271
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                675,
+                276,
+                747,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to ferritic stainless steels facilitated the attainment of passivity in 0.1 and 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                291,
+                912,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The pitting potential in 0.1N HCl became more noble with increased molybdenum content for high-purity 17% chromium alloys and with increased titanium content for 18% Cr-2% Mo-0.03% C alloys. An increase in carbon content generally resulted in less noble pitting potentials, whereas small nickel additions (up to 1%) did not change the pitting potential significantly."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                326,
+                914,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All the ferritic stainless steels studied were very sensitive to crevice corrosion in HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                415,
+                914,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The sulfate ions, in a molar ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf S } { \\bf O } _ { 4 } { = } : { \\bf C } { \\bf l } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of 5:1 not only inhibited pitting corrosion but also suppressed crevice corrosion for all the steels investigated."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                438,
+                914,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript submitted Sept. 16, 1968; revised manuscript received Feb. 3, 1969. This paper was presented at the Chicago Meeting, Oct. 15-19, 1967, as Paper 60."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                478,
+                914,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Any discussion of this paper will appear in a Discussion Section to be published in the December 1969 JOURNAL."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                516,
+                914,
+                549
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                658,
+                545,
+                771,
+                557
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. E. A. Lizlovs, Corrosion, 22, 297t (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. W. Schwenk, 2nd International Congress on Metallic Corrosion, NACE, Houston, Texas, 256 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. N. D. Greene, W. D. France, Jr., and B. E. Wilde, Corrosion, 21, 275 (1965)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. J. O'M. Bockris, D. Drazic, and A. R. Despic, Electrochim. Aćta, 4, 325 (1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. G. Herbsleb, Werkstoffe und Korrosion, 16, 929 (1965);17,649 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. H. P. Leckie and H. H. Uhlig, This Journal, 113, 1262 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. A. P. Bond and E. A. Lizlovs, ibid., 115, 1130 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. J. Voeltzel and J. Plateau, Compt. rend., 254, 1791 (1962);256,2156(1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. C. Trabanelli and F. Zucchi, Corrosion et Anticorrosion, 13, 207 (1965)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                557,
+                821,
+                571
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 116, No. 5"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                37,
+                215,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANODIC POLARIZATION OF SOME STEELS"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                36,
+                698,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "579"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                37,
+                909,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ]
+]

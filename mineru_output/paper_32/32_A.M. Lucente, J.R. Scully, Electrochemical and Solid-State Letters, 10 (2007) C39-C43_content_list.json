@@ -1,0 +1,695 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/9b70c1d862373406cd9924899ee05836c7e48d515634c4b21e10837ffb534b43.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            107,
+            225,
+            170
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pitting of Al-Based Amorphous-Nanocrystalline Alloys with Solute-Lean Nanocrystals",
+        "text_level": 1,
+        "bbox": [
+            240,
+            111,
+            792,
+            145
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ashley M. Lucente\\*<sup>,z</sup> and John R. Scully\\*\\*",
+        "bbox": [
+            240,
+            150,
+            534,
+            166
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University of Virginia, Charlottesville, Virginia, 22904, USA",
+        "bbox": [
+            240,
+            171,
+            546,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The localized corrosion resistance of several Al-based metallic glasses, all containing 85–90% Al, transition metals, and rare earth elements, was examined in fully amorphous, partially nanocrystalline, and fully crystalline microstructures to assess the possible detrimental effects of partial and complete devitrification on corrosion. In all of the alloys examined, Al Fe Gd , Al Fe Gd , $\\mathrm { A l _ { 9 0 } C o _ { 3 } C e _ { 7 } } ,$ and $\\mathrm { A l } _ { 8 7 } \\mathrm { N i } _ { 7 } \\mathrm { G d } _ { 6 }$ , the pitting potential associated with the formation of micrometer-scale pits in deaerated 0.6 M NaCl remained elevated relative to pure polycrystalline Al in all partially devitrified \u0001amorphous-nanocrystalline- states despite the presence of up to 40 vol % solute-depleted face-centered cubic Al nanocrystals dispersed in the remaining amorphous matrix. In contrast, the pitting potentials of the fully crystallized glasses were similar to that of pure Al. © 2007 The Electrochemical Society. \u0003DOI: 10.1149/1.2712794\u0004 All rights reserved.",
+        "bbox": [
+            175,
+            196,
+            821,
+            283
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript submitted October 13, 2006; revised manuscript received January 9, 2007. Available electronically March 12, 2007.",
+        "bbox": [
+            176,
+            295,
+            818,
+            308
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Upon exposure to high temperatures, fully amorphous glassy alloys can form crystalline phases by several routes including primary crystallization, eutectoid crystallization, and polymorphous crystallization<sup>1,2</sup> depending on the alloy composition. Regardless of the devitrification route, the stable crystalline state in many cases consists of a solute lean phase and one or more solute-rich intermetallic phases. Primary crystallization, the devitrification route favored by the alloys used in this study, occurs when isolated solutelean or nil-solute crystals of nm dimensions grow in a remaining amorphous matrix. Such nanocrystals \u0001as these solute-lean precipitates will be called hereafter- are typically enriched in the majority alloying element, adopt the crystal structure of this alloying element, and reject solutes which may be beneficial to the corrosion resistance. This is particularly true in Al-based glasses because Al exhibits little solubility for transition metals or rare earth elements.<sup>3</sup> The rejected solute is concentrated in the remaining amorphous matrix and compositional gradients form at the matrix-nanocrystal interface.<sup>4</sup> Such amorphous-nanocrystalline alloys often exhibit a high density of nanocrystals on the order of $\\mathrm { i 0 ^ { 1 8 } ~ c m ^ { - 3 } }$ that can comprise 40 vol % of the composite alloy. Hence, nearly 40% of the surface area of amorphous-nanocrystalline alloys may also consist of Al-rich sites of nearly random orientation with a lattice parameter close to bulk face-centered cubic \u0001fcc- aluminum. Notably, such composite alloys exhibit greater specific strengths than conventional polycrystalline alloys.<sup>5,6</sup> However, these materials differ from fully crystalline materials with nm-scale grain sizes in at least three respects: \u0001i- isolated crystals embedded in an amorphous matrix lack grain boundary triple points with the associated defective structure, \u0001ii- the remaining amorphous matrix surrounding a nanocrystal can collect slowly diffusing solute that is rejected from newly formed nanocrystals, and \u0001iii- the crystalline phase does not form a continuous path through the material.",
+        "bbox": [
+            101,
+            330,
+            488,
+            707
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A major concern for amorphous-nanocrystalline metallic glasses is the possibility that even partial devitrification compromises the superior resistance to corrosion typical of the fully amorphous condition. As in stainless steels and aluminum alloys, the chemical and structural heterogeneity may provide a location for pit initiation if it is less corrosion-resistant than the surrounding matrix and above a critical size.<sup>7,8</sup> The segregation of beneficial alloying elements due to partial crystallization may also interfere with the creation of a uniform and protective oxide film, weakening the alloy’s resistance to general corrosion. However, there is some evidence that the effect of partial devitrification is strongly dependent upon the chemistry of the nanocrystal and the remaining amorphous matrix<sup>10,11</sup> and some alloys do not suffer decreased corrosion resistance due to the presence of dispersed nanocrystalline phases.<sup>8,12-14</sup> Here we report the effect of partial devitrification on the pitting behavior of four Albased metallic glasses that form solute lean nanocrystals in an amorphous matrix. We include results on the effects of complete crystallization. It is demonstrated that the effects observed are a general finding shared by this class of materials.",
+        "bbox": [
+            101,
+            707,
+            488,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            329,
+            894,
+            391
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental",
+        "text_level": 2,
+        "bbox": [
+            659,
+            410,
+            745,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The amorphous alloys $( \\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } , \\ A l _ { 8 5 } F e _ { 7 } G d _ { 8 } , \\ A l _ { 9 0 } C o _ { 3 } C e _ { 7 } }$ and $\\mathrm { A l } _ { 8 7 } \\mathrm { N i } _ { 7 } \\mathrm { G d } _ { 6 } )$ were fabricated using a single roller melt spinning technique as discussed previously.<sup>13</sup> High-purity \u000199.999%- polycrystalline aluminum foils \u0001Alfa Aesar- of the same dimensions as the metallic glass ribbons were tested for comparison. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated as discussed previously.<sup>13</sup> The heat-treatment times, temperatures, and resulting microstructures are listed in Table I. A dark-field transmission electron microscope \u0001DFTEM- image of the $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ alloy in the nanocrystalline state is shown in Fig. 1. Both the light and dark spots in this figure are nanocrystals. This is fairly representative of the alloys that form spherical nanocrystals.",
+        "bbox": [
+            508,
+            429,
+            894,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All electrodes in each microstructure investigated were mounted on end in a low curing temperature epoxy to expose a 2 $\\times \\ 1 0 ^ { - 4 } \\ \\mathrm { c m } ^ { 2 }$ area. Approximately $\\mathrm { \\dot { 1 } 0 ^ { 8 } }$ nanocrystals were exposed on the amorphous-nanocrystalline surface, 10 grains on the polycrystalline Al surface, and $1 \\dot { 0 ^ { 5 } }$ grains on the fully crystalline alloy surface. The electrodes were wet polished in 1 and 0.05 -m alumina suspensions \u0001for alloy samples- or 1 -m diamond and 0.05 -m silica suspensions \u0001for Al samples- and rinsed in deionized water. The 0.6 M \u00013.5 wt %- NaCl electrolyte was prepared using 18.2 M\u0003-cm resistivity deionized water and ACS certified reagents. Both the electrolyte and the empty cell were deaerated with nitrogen prior to experimentation. After introducing the electrolyte to the cell, the opencircuit potential was measured for 1 h. Anodic polarization scans were conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm<sup>2</sup>. All potentials were measured against a saturated calomel reference electrode \u0001SCE-. The pitting $( E _ { \\mathrm { p i t } } )$ and repassivation $( E _ { \\mathrm { r p } } )$ potentials were determined as the potentials at which the slope of the i vs E curve changed suddenly as shown in Fig. 2. Due to the low data acquisition rate in these experiments \u0001and thus slow detection of a rise in current-, the pitting potential as measured here generally corresponds to the removal of a 0.5 to 1 -m radius hemispherical volume. Pit initiation events that occur before the onset of stable pitting were observed in selected cases by increasing the data acquisition rate to 20 Hz and using a Gamry FAS2 potentiostat. The setup was capable of detecting 2 pA current spikes above a passive current of ${ \\sim } 2 0 0 ~ \\mathrm { p A } ~ ( 1 ~ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ which corresponds to the removal a volume corresponding to an 11 nm radius hemisphere, approximately the size of the solute depleted nanocrystals after certain heat-treatments.",
+        "bbox": [
+            508,
+            581,
+            894,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Electrochemical and Solid-State Letters, 10 \u00015- C39-C43 \u00012007- 1099-0062/2007/10\u00015-/C39/5/\\$20.00 © The Electrochemical Society",
+        "bbox": [
+            316,
+            83,
+            680,
+            104
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "C39",
+        "bbox": [
+            866,
+            83,
+            893,
+            94
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\* Electrochemical Society Student Member.",
+        "bbox": [
+            114,
+            898,
+            315,
+            908
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*\\* Electrochemical Society Fellow.",
+        "bbox": [
+            112,
+            907,
+            270,
+            918
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>z</sup> E-mail: aml5f@virginia.edu",
+        "bbox": [
+            117,
+            916,
+            254,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea1b5139afb6e16fc08fa587c5cbb6fab319ba7f4174c0f69fc13336e662431f.jpg",
+        "table_caption": [
+            "Table I. Alloy heat-treatments."
+        ],
+        "table_footnote": [
+            "AM = amorphous, NC = fcc Al-rich nanocrystals."
+        ],
+        "table_body": "<table><tr><td>Alloy</td><td>Temp (°C)</td><td>Time</td><td>Resulting microstructure</td></tr><tr><td rowspan=\"3\"> $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ </td><td>150</td><td>8 min</td><td> $\\mathrm { A M } + 6 . 5$  nm spherical NC</td></tr><tr><td>180</td><td> $2 5 { \\mathrm { ~ h ~ } }$ </td><td>AM + 10 nm spherical  $\\mathrm { N C } ^ { 1 3 }$ </td></tr><tr><td>280</td><td>5 min</td><td>AM + 12 nm spherical NC</td></tr><tr><td rowspan=\"7\"> $\\mathrm { A l _ { 9 0 } C o _ { 3 } C e _ { 7 } }$ </td><td>300</td><td>2 h</td><td>AM + 14 nm spherical NC</td></tr><tr><td>550</td><td>1 h</td><td>Fully crystalline, ~500 nm grains13</td></tr><tr><td>200</td><td>10 min</td><td>AM + 5 nm dendritic NC</td></tr><tr><td>200</td><td>1 h</td><td>AM + 25 nm dendritic NC</td></tr><tr><td>200</td><td>3 h</td><td>AM + 50 nm dendritic NC</td></tr><tr><td>500</td><td>15 days</td><td>Fully crystalline</td></tr><tr><td>250</td><td>10 min</td><td>AM + 20 nm spherical NC (low density)</td></tr><tr><td rowspan=\"2\"> $\\mathrm { A l } _ { 8 7 } \\mathrm { N i } _ { 7 } \\mathrm { G d } _ { 6 }$   $\\mathrm { A l } _ { 8 5 } \\mathrm { F e } _ { 7 } \\mathrm { G d } _ { 8 }$ </td><td>250</td><td>24 h</td><td>AM + 40 nm spherical NC (high density)</td></tr><tr><td>210</td><td>24 h</td><td>AM + 100 nm dendritic NC</td></tr></table>",
+        "bbox": [
+            105,
+            136,
+            893,
+            295
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results",
+        "text_level": 2,
+        "bbox": [
+            270,
+            342,
+            319,
+            354
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figures 3 and 4 show anodic polarization scans conduced with a high data acquisition rate \u000120 Hz- to detect any metastable pitting that might occur prior to the onset of stable pitting. Few if any small $( \\sim 2 ~ \\mathrm { p } \\bar { \\mathrm { A } }$ height- current spikes that might correspond to the initiation of small pits, at nanocrystals for instance, are typically observed, so it is unlikely that all of $\\mathrm { t h e } \\sim 1 0 ^ { 8 }$ surface nanocrystals have been selectively removed by pit initiation events before pit stabilization occurs. Moreover, the passive current density was similar for pure Al and both the amorphous and amorphousnanocrystalline conditions of the alloys, eliminating the possibility of selective passive dissolution of nanocrystals. The few metastable pitting events that are observed tend to be on the scale of tens of picoamperes, suggesting either that they initiate at unknown surface defects that are significantly larger than nanocrystals or that a small fraction of the $1 0 ^ { 8 ^ { \\circ } }$ nanocrystal sites serve as defects that initiate a pit which rapidly grows to a size larger than the nanocrystal.",
+        "bbox": [
+            101,
+            359,
+            488,
+            548
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pitting and repassivation potentials associated with micrometer-scale pitting were significantly more positive for all amorphous and partially devitrified variants of $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ relative to both pure Al and the fully crystalline alloy \u0001Fig. 5-. Notably, the improved resistance to pit stabilization associated with the amorphous state was preserved in the presence of a high density of nanocrystals regardless of average crystal size. In fact, increasing the nanocrystal size led to a slight increase in $E _ { \\mathrm { p i t } }$ and no change in $E _ { \\mathrm { r p } } .$ However, fully crystallized $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ completely loses its improved localized corrosion resistance relative to pure Al. This is indicated by the similarity between $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ values for the fully crystalline alloy and high purity polycrystalline Al in Fig. 5. In fact, the crystalline alloy generally pits at or very slightly above its opencircuit potential. Figure 6 shows $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ values for $\\mathrm { A l _ { 8 7 } N i _ { 7 } G d _ { 6 } } .$ Like $\\mathrm { A \\bar { l } q _ { 0 } F e _ { 5 } G d _ { 5 } }$ , this alloy forms spherical nanocrystals, but the maximum possible nanocrystal size is much larger: \u000340 nm as opposed to $< 2 0$ nm. Also like $\\mathrm { A l } _ { 9 0 } \\mathrm { F e } _ { 5 } \\mathrm { G d } _ { 5 } , E _ { \\mathrm { p i t } }$ increases slightly with nanocrystal size but $E _ { \\mathrm { r p } }$ is not affected. Figure 7 shows $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ values for $\\mathrm { A l _ { 9 0 } C o _ { 3 } C e _ { 7 } } ^ { \\mathrm { ~ \\tiny ~ { ~ r ~ } ~ } }$ Like the other alloys, $E _ { \\mathrm { p i t } }$ of amorphousnanocrystalline $\\mathrm { A l } _ { 9 0 } \\mathrm { C o } _ { 3 } \\mathrm { C e } _ { 7 }$ is elevated relative to pure Al, whereas $E _ { \\mathrm { p i t } }$ of the fully crystalline alloy is not. The pitting potential of this alloy appears to decrease slightly rather than increasing slightly with partial devitrification. However, $E _ { \\mathrm { r p } }$ is not affected by the presence of nanocrystals. Figure 8 shows $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ values for ${ \\mathrm { A l } } _ { 8 5 } { \\mathrm { F e } } _ { 7 } { \\mathrm { G d } } _ { 8 } .$ The partially nanocrystalline state of this alloy has a much higher $E _ { \\mathrm { p i t } }$ than its amorphous precursor and pure Al in spite of the large size \u0001\u0003100 nm- of the nanocrystals. Again, $E _ { \\mathrm { r p } }$ is not affected by the presence of nanocrystals.",
+        "bbox": [
+            101,
+            548,
+            488,
+            681
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e916df8cd0f1d7e7e091ff23fc86c44b7abdbcddd43560493d1ff880b9a7421.jpg",
+        "image_caption": [
+            "Figure 1. Dark-field TEM image of amorphous/nanocrystalline $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ with 10 nm nanocrystals. Here both the bright and dark spots represent nanocrystals and the gray matrix between them is amorphous. $\\mathrm { A l _ { 9 0 } \\mathrm { \\overline { { F e } } _ { 5 } \\mathrm { G d _ { 5 } } } }$ heattreated at 150°C for 24 h.<sup>29</sup>"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            165,
+            706,
+            424,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            341,
+            894,
+            547
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            668,
+            556,
+            736,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Improvements in $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ in the fully amorphous state relative to fully crystalline alloys can be attributed to alloying elements in solid solution<sup>15</sup> as well as chemical and structural homogeneity.<sup>12</sup> Solutes such as Cr, Mo, Nb, Ta, and Ti in solid solution all improve the pit stabilization resistance of crystalline $\\mathrm { A l . } ^ { 1 5 }$ In conventional",
+        "bbox": [
+            508,
+            573,
+            893,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c60f81102735f1b365e42040300f59867d9d3dc06286f3e9d69e355a3f59d701.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 2. \u0001Color online- Anodic polarization scan on polycrystalline 99.999% Al and amorphous and amorphous-nanocrystalline $\\mathrm { A l } _ { 9 0 } \\mathrm { F e } _ { 5 } \\mathrm { G d }$ d in 0.6 M NaCl. The arrows show the pitting potential $\\dot { ( } \\boldsymbol { E } _ { \\mathrm { p i t } } ) .$ , the repassivation potential $( E _ { \\mathrm { r p } } )$ , the corrosion potential $( E _ { \\mathrm { c o r r } } ) .$ , and the scan direction."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            511,
+            659,
+            891,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "C40",
+        "bbox": [
+            105,
+            83,
+            132,
+            94
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Electrochemical and Solid-State Letters, 10 \u00015- C39-C43 \u00012007-",
+        "bbox": [
+            316,
+            81,
+            680,
+            97
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2c474ee97af2ef3015eb11bd6bca56c907b6d07690108796582105124b8d9a2c.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 3. Anodic polarization scan on fully amorphous $\\mathrm { A l _ { 9 0 } ^ { \\circ } F e _ { 5 } G d _ { \\underline { { \\circ } } } }$ collected at 20 points/s. Inset: expanded view of a pit initiation event. Electrode area = 2 \u0001 $1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } .$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            101,
+            113,
+            659,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/faa66c8c7600df6edd582541343f86c79fd4e3d305f0a616e14dc824fdccd5f6.jpg",
+        "content": "",
+        "chart_caption": [
+            "alloys such as stainless steels and aluminum alloys, pitting corrosion initiates at second phase particles that are chemically different from the surrounding alloy and often generate defects in the passive $\\mathrm { { f i m } } ^ { 1 6 }$ despite the presence of alloying elements that enhance passivity. Similarly, crystalline precipitates have been found to be detrimental to the corrosion resistance of some glassy alloy such as $\\mathrm { F e } _ { 7 0 } \\mathrm { C r } _ { 1 0 } \\mathrm { P } _ { 1 3 } \\mathrm { C } _ { 7 }$ and $\\mathrm { F e } _ { 3 2 } \\mathrm { N i } _ { 3 6 } \\mathrm { C r } _ { 1 4 } \\mathrm { P } _ { 1 2 } \\mathrm { B } _ { 6 }$ and $\\mathbf { N i } _ { 6 5 } \\mathbf { \\dot { C } r _ { 1 0 } T a _ { 5 } P _ { 1 6 } B _ { 4 } }$ and $\\mathrm { N i } _ { 5 5 } \\mathrm { C r } _ { 1 5 } \\mathrm { M o } _ { 1 0 } \\mathrm { P } _ { 1 6 } \\mathrm { B } _ { 4 } . ^ { 9 }$ However, the corrosion resistance of other glasses such as $\\mathrm { C r _ { 4 0 } Z r _ { 6 0 } }$ and $\\mathrm { C r _ { 3 3 } Z r _ { 6 7 } , ^ { 8 } F e _ { 7 3 . 5 - x } S i _ { 1 3 . 5 } B _ { 9 } N b _ { 3 } C u _ { 1 } C r _ { x } , ^ { 1 7 } }$ and $\\mathrm { F e } _ { 7 3 . 5 } \\mathrm { S i } _ { 1 3 . 5 } \\mathrm { B } _ { 9 } \\mathrm { N b } _ { 3 } \\mathrm { C u } _ { 1 }$ and $\\mathrm { \\bar { C } ^ { o } _ { 7 3 . 5 } S i _ { 1 3 . 5 } B _ { 9 } N b _ { 3 } C u _ { 1 } } ^ { 1 8 }$ appears to benefit from partial devitrification to form solute depleted nanocrystals in an amorphous matrix. Preliminary studies of the pitting of partially nanocrystalline Al-based glassy alloys $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ and",
+            "$\\mathrm { A l _ { 8 7 } N i _ { 8 . 7 } Y _ { 4 . 3 } } ^ { 1 2 , 1 3 }$ indicated improvement in resistance to micrometer scale pit stabilization, slower pit growth in artificial pits, as well as easier repassivation of alloys compared to pure Al or the fully crystalline alloy when pits of \u000510 -m radius were examined. Assuming that the solute-lean nanocrystals behave similarly to the fully crystallized pure fcc Al, one notion is that improved resistance to pit initiation and stabilization attributed to beneficial solutes in solid solution might be completely lost at the nanocrystal sites. The evidence of elevated $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ \u0001with respect to pure Al- despite the presence of nanocrystals over a range of sizes \u0001Fig. 5-8- suggests that Al-rich fcc nanocrystals either \u0001i- have similar susceptibility as seen in bulk fcc Al but lack the critical defect size required for pit stabilization, or \u0001ii- have different intrinsic susceptibilities to local",
+            "Figure 4. Anodic polarization scan on amorphous-nanocrystalline $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ with 14 nm nanocrystals collected at 20 points/s. Inset: Expanded view of a pit initiation event. Electrode area = 2 $\\times \\ 1 0 ^ { - 4 } \\ \\mathrm { c m } ^ { 2 }$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            101,
+            626,
+            657,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Electrochemical and Solid-State Letters, 10 \u00015- C39-C43 \u00012007-",
+        "bbox": [
+            316,
+            83,
+            680,
+            97
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "C41",
+        "bbox": [
+            866,
+            84,
+            891,
+            95
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9b606adc623e2bf8bf897038d264bb7d11b0842edabcdce390c6d966c2ae4153.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 5. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { \\underline { { { z } } } } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data when expressed as the cumulative probability of obtaining the given pitting potential. Scan rate 0.1 mV/s."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            144,
+            113,
+            444,
+            283
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "corrosion compared to bulk fcc Al as a result of some “nanocrystal effect.” This first possibility seems plausible because electroactive defects in the oxide covering high-purity Al that may be responsible for pit initiation have been found to be $\\sim 1 - 1 0 ~ { \\mu \\mathrm { m } }$ in radius<sup>19</sup> and MnS inclusions in stainless steel are less detrimental when they are below 1 -m in size.<sup>7</sup> Thus, nanocrystals may simply be below the critical flaw size for these glasses or lack pit initiating defects normally present in fcc Al. However, this does not mean that the nanocrystalline heterogeneity does not affect the very early stages of pit initiation and growth. Nanometer-scale pit initiating defects such as cation vacancy clusters<sup>20</sup> could arguably still form at nanocrystals 21   \nwhich tend to be otherwise defect-free.",
+        "bbox": [
+            101,
+            361,
+            487,
+            502
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another possible explanation for the good pitting resistance of the amorphous-nanocrystalline states involves the selective removal of surface nanocrystals prior to the initiation and stabilization of micrometer-scale pits. Scanning probe microscopy studies have shown that even when little change in the overall corrosion properties is observed, the nm-scale corrosion features can be affected by nm-scale heterogeneity.<sup>11,22</sup> If the majority of the $\\sim 1 0 ^ { 8 }$ surface nanocrystals that are present on the $\\dot { 2 } \\times \\mathrm { i } 0 ^ { - 4 } \\mathrm { c m } ^ { 2 }$ electrode area used in this study were to somehow be removed prior to attaining the conditions for pit stabilization during anodic polarization testing, the electrode surface would be pockmarked with nm-scale holes but effectively fully amorphous. Thus, it might be possible that the pitting potentials that are measured for the partially nanocrystalline states would actually be the pitting potentials for the remaining amorphous region surrounding the nanocrystals in the various alloys. Because the passive current density is similar for the amorphous and partially nanocrystalline materials, it is likely that this selective removal of surface nanocrystals would occur in the form of rapid breakdown and repassivation of the oxide rather than selective passive dissolution, yielding a measurable current transient. This was not seen when anodic scans were conducted on the alloy at a higher data acquisition rate \u0001Fig. 3 and 4- even though the experimental conditions would enable their detection. The limited number of events that were observed represented much larger amounts of material loss, such that several surface nanocrystals and a good amount of surrounding amorphous matrix would have been attacked. The number of these events is also very small \u000110 in Fig. 4- relative to the number of exposed nanocrystals \u000110<sup>8</sup>-. Thus, it is possible to conclude that at the measured pitting potential of the amorphous-nanocrystalline material, the surface is still partially nanocrystalline and the elevation or depression of the pitting potential must be explained by some other mechanism.",
+        "bbox": [
+            101,
+            502,
+            488,
+            693
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b35caa1d84e79ffeeca29824d1dc231fd291f75f4661ca15838b85c0da107ab2.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 6. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 8 7 } N i _ { 7 } G d _ { 6 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            144,
+            716,
+            442,
+            885
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e3f145cd3244a1803351229cf4aa570473e327a62f4b5e221062355088e48028.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 7. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 9 0 } C o _ { 3 } C e _ { 7 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            552,
+            114,
+            850,
+            284
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            352,
+            894,
+            540
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To a first approximation, the elevation of $E _ { \\mathrm { r p } }$ of an Al-based alloy over $E _ { \\mathrm { r p } }$ of pure Al is an indication of the effects of limitations to pit growth conferred by the alloying elements in solid solution.<sup>23</sup> A substantial elevation in $E _ { \\mathrm { r p } }$ can be seen between the amorphous alloys and pure Al, and the difference is strongly dependent upon the alloy composition. The fully crystalline alloys exhibit lower $\\bar { E } _ { \\mathrm { r p } }$ values than high purity Al. Thus it may be concluded that the alloying elements and the homogeneous structure of the amorphous alloys together impede pit growth. The similarity between $E _ { \\mathrm { r p } }$ for the amorphous and nanocrystalline conditions suggests that the overall growth kinetics of large $( > 1 0 ~ \\mu \\mathrm { m }$ radius- pits are not significantly affected by the presence of nanocrystals. This was also observed by Sweitzer et al.,<sup>12</sup> who studied the growth kinetics of large 1-D pits in amorphous and partially nanocrystalline $\\mathrm { A l } _ { 9 0 } \\mathrm { \\bar { F e } } _ { 5 } \\mathrm { G d } _ { 5 }$ and $\\mathrm { A l _ { 8 7 } N i _ { 8 . 7 } Y _ { 4 . 3 } }$ . Connol $\\mathbf { y } ^ { 2 4 , 2 5 }$ also found that the repassivation potential of a heterogeneous Al–Cu–Mg alloy corresponded to that of the matrix phase even though it is well known pits initiate readily at S-phase precipitates.<sup>16</sup> This is because pits can grow into the matrix where $E _ { \\mathfrak { f } \\mathrm { R } }$ is controlled by the composition of the Al–Cu solid solution.<sup>26</sup>",
+        "bbox": [
+            508,
+            539,
+            894,
+            708
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/63bc519566b0dfed9d7d5455e02942ed5ad596496057e2bbe02b1f52c86e521d.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 8. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 8 5 } F e _ { 7 } G d _ { 8 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            552,
+            729,
+            850,
+            885
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "C42",
+        "bbox": [
+            105,
+            83,
+            132,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Electrochemical and Solid-State Letters, 10 \u00015- C39-C43 \u00012007-",
+        "bbox": [
+            316,
+            83,
+            681,
+            97
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            103,
+            114,
+            487,
+            185
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The elevation of $E _ { \\mathrm { p i t } }$ over $E _ { \\mathrm { r p } }$ is an indication of the extra benefit to pitting resistance conferred by a protective oxide film.<sup>23</sup> As $\\mathrm { F i g }$ 5-8 show, $E _ { \\mathrm { p i t } }$ of the amorphous alloys is significantly higher than $E _ { \\mathrm { r p } } ,$ thus a very simplified view is that pit initiation is also hindered by a protective passive film. If pits are readily initiated \u0001as in some stainless steels and conventional Al alloys-, $E _ { \\mathrm { p i t } }$ can be dominated by pit growth considerations. If that were the case for the alloys examined here, the presence of surface nanocrystals may not have a significant effect on the pitting potential given the known benefit of the alloying elements in solid solution on growth considerations. Moreover, it would be difficult for pits initiated at nanocrystals to meet the $i ^ { * } r$ criterion<sup>27,28</sup> for pit stabilization due to their small size. Therefore, other larger defects might control pit stabilization that is dominated by growth. However, Fig. 3 and 4 show that the pit initiation rate on the amorphous and amorphous-nanocrystalline alloys is fairly low \u0001the first pit observed to initiate often stabilizes-, thus any impact nanocrystals have on the initiation rate would affect the pitting potential. Increases in the pitting potential that exist for $\\mathrm { A l } _ { 8 5 } \\mathrm { F e } _ { 7 } \\mathrm { G d } _ { 8 }$ \u0001Fig. 8- and to a lesser degree $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } }$ \u0001Fig. 5- would seem to suggest that pit initiation is actually hindered by the presence of nanocrystals. By this argument, it is possible to infer that both low pit initiation and decreased pit growth contribute to the good micrometer-scale pitting resistance of the partially nanocrystalline examined here. And while $E _ { \\mathrm { p i t } }$ and $E _ { \\mathrm { r p } }$ are representative of large pits and thus may be somewhat rough measures of how nmscale surface features affect the pitting resistance, they do lend insight into those smaller scale processes.",
+        "bbox": [
+            101,
+            185,
+            487,
+            502
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The oxide bridging $\\mathrm { m o d e l } ^ { 8 }$ has been used to explain the observation that the pitting potential of a partially devitrified glassy alloy increases with increasing nanocrystal size. The authors assumed that the buildup of a pitting-resistant alloying element in the remaining amorphous phase would allow for an increase in the concentration of this alloying element in the oxide, leading to an overall improvement in the pit initiation resistance of the material. This continuous protective oxide is assumed to be able to cover small nanocrystals, effectively eliminating the impact of the surface heterogeneity on the atomistic processes governing breakdown. A critical nanocrystal diameter of $\\sim 2 0$ nm was proposed to be the maximum size which can be covered by the thin, compact continuous oxide; devitrified states with nanocrystals larger than this were found to be more susceptible to pitting. In the present study, no threshold nanocrystal size was observed within the limits of sizes explored. The pitting potential increased with partial devitrification in some alloys. This means that either the critical nanocrystal size for these alloys is greater that the maximum size that can be obtained by thermal treatment in these alloys or some other mechanism is contributing to the good pitting resistance. Regardless of the mechanism, it is clear that amorphousnanocrystalline Al-based alloys such as $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } , \\ A l _ { 8 5 } F e _ { 7 } G d _ { 8 } , }$ $\\mathrm { A l _ { 8 7 } N i _ { 7 } G d _ { 6 } } ,$ , and $\\mathrm { A l } _ { 9 0 } \\mathrm { C o } _ { 3 } \\mathrm { C e } _ { 7 }$ retain the good resistance to pit stabilization typical of the fully amorphous state.",
+        "bbox": [
+            101,
+            502,
+            488,
+            773
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            257,
+            780,
+            333,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Partially nanocrystalline $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { 5 } , \\ A l _ { 8 5 } F e _ { 7 } G d _ { 8 } , \\ A l _ { 8 7 } N i _ { 7 } G d _ { 6 } , }$ and $\\mathrm { A l } _ { 9 0 } \\mathrm { C o } _ { 3 } \\mathrm { C e } _ { 7 }$ glasses containing solute lean fcc Al nanocrystals maintain the good micrometer-scale pitting resistance of the fully amorphous state. The pitting resistance \u0001quantified by the pitting and repassivation potentials- decreases to values close to that of pure Al in the fully crystallized state when the matrix consists of fcc Al and solutes are collected in intermetallic compounds. E-i data collected with a higher data acquisition rate show that the good performance of the amorphous-nanocrystalline materials is not due to the selective removal of surface nanocrystals by a metastable pitting process. Thus it may be concluded that isolated solute-lean \u0001Al-rich- fcc nanocrystals up to 100 nm in diameter do not diminish the good pitting resistance typical of this class of Al-transition metal-rare earth metal glasses. These materials as a class have no greater susceptibility to forming mm or nm scale pits in the amorphousnanocrystalline state than in the fully amorphous state.",
+        "bbox": [
+            103,
+            795,
+            485,
+            821
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            115,
+            894,
+            281
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments",
+        "text_level": 2,
+        "bbox": [
+            646,
+            308,
+            757,
+            320
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The support of NSF under grant DMR-0504983 is gratefully acknowledged.",
+        "bbox": [
+            509,
+            323,
+            893,
+            348
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The University of Virginia assisted in meeting the publication costs of this article.",
+        "bbox": [
+            509,
+            354,
+            894,
+            376
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            668,
+            382,
+            736,
+            395
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. M. G. Scott, in Amorphous Metallic Alloys, F. E. Lubrosky, Editor. p. 144, Butterworths, Boston, MA \u00011983-.",
+            "2. U. Koster and P. Weiss, J. Non-Cryst. Solids, 17, 359 \u00011975-.",
+            "3. ASM Metals Handbook Volume, 3, Alloy Phase Diagrams, ASM International, Materials Park, OH \u00011992-.",
+            "4. K. Hono, Y. Zhang, A. P. Tsai, A. Inoue, and T. Sakurai, Scr. Metall. Mater., 32, 191 \u00011995-.",
+            "5. H. Chen, Y. He, G. J. Shiflet, and S. J. Poon, Scr. Metall. Mater., 25, 1421 \u00011991-.",
+            "6. G. S. Choi, Y. H. Kim, H. K. Cho, A. Inoue, and T. Masumoto, Scr. Metall. Mater., 33, 1301 \u00011995-",
+            "7. T. Suter and H. Böhni, Electrochim. Acta, 42, 3275 \u00011997-.",
+            "8. M. Mehmood, B.-P. Zhang, E. Akiyama, H. Habazaki, A. Kawashima, K. Asami, and K. Hashimoto, Corros. Sci., 40, 1 \u00011998-.",
+            "9. H. Habazaki, T. Sato, A. Kawashima, K. Asami, and K. Hashimoto, Mater. Sci. Eng., A, 304–306, 696 \u00012001-.",
+            "10. J. C. J. Turn and R. M. Latanision, Corrosion (Houston), 39, 271 \u00011983-.",
+            "11. M. Mehmood, E. Akiyama, H. Habazaki, A. Kawashima, K. Asami, and K. Hashimoto, Corros. Sci., 41, 477 \u00011999-.",
+            "12. J. E. Sweitzer, J. R. Scully, R. A. Bley, and J. W. P. Hsu, Electrochem. Solid-State Lett., 2, 267 \u00011999-.",
+            "13. J. E. Sweitzer, G. J. Shiflet, and J. R. Scully, Electrochim. Acta, 48, 1223 \u00012003-.",
+            "14. U. Köster, D. Zander, Triwikantoro, A. Rudinger, and L. Jastrow, Scr. Mater., 44, 1649 \u00012001-.",
+            "15. G. S. Frankel, M. A. Russak, C. V. Jahnes, M. Mirzamaani, and V. A. Brusic, J. Electrochem. Soc., 136, 1243 \u00011989-.",
+            "16. Z. Szklarska-Smialowska, Pitting and Crevice Corrosion, Nace International, Houston, TX \u00012005-.",
+            "17. A. Pardo, E. Otero, M. C. Merino, M. D. Lopez, M. Vazquez, and P. Agudo, Corros. Sci., 43, 689 \u00012001-.",
+            "18. A. Pardo, M. C. Merino, E. Otero, M. D. Lopez, and A. M’hich, J. Non-Cryst. Solids, 352, 3179 \u00012006-.",
+            "19. I. Serebrennikova and H. S. White, Electrochem. Solid-State Lett., 4, B4 \u00012001-.",
+            "20. L. F. Lin, C. Y. Chao, and D. D. Macdonald, J. Electrochem. Soc., 128, 1194 \u00011981-.",
+            "21. C. Suryanarayana and F. H. Froes, Metall. Trans. A, 23, 1071 \u00011992-.",
+            "22. R. A. Bley, J. R. Scully, and J. W. P. Hsu, Philos. Mag. Lett., 80, 85 \u00012000-.",
+            "23. G. S. Frankel, R. C. Newman, C. V. Jahnes, and M. A. Russak, J. Electrochem. Soc., 140, 2192 \u00011993-.",
+            "24. B. J. Connolly, Unpublished results.",
+            "25. D. A. Little, B. J. Connolly, and J. R. Scully, Corros. Sci., 49, 347 \u00012007-.",
+            "26. G. O. Ilevbare, O. Schneider, R. G. Kelly, and J. R. Scully, J. Electrochem. Soc., 151, B453 \u00012004-.",
+            "27. J. R. Galvele, J. Electrochem. Soc., 123, 464 \u00011976-.",
+            "28. S. T. Pride, J. R. Scully, and J. L. Hudson, J. Electrochem. Soc., 141, 3028 \u00011994-.",
+            "29. A. A. Csontos, MS. Thesis, University of Virginia, Charlottesville, VA \u00011996-."
+        ],
+        "bbox": [
+            517,
+            398,
+            891,
+            417
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Electrochemical and Solid-State Letters, 10 \u00015- C39-C43 \u00012007-",
+        "bbox": [
+            316,
+            83,
+            680,
+            95
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "C43",
+        "bbox": [
+            866,
+            84,
+            893,
+            94
+        ],
+        "page_idx": 4
+    }
+]

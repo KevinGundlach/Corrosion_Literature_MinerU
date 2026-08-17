@@ -1,0 +1,4254 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion characteristics of high entropy alloys (HEAs)"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                62,
+                108,
+                676,
+                129
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Article  in  Materials Science and Technology · March 2015"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DOI: 10.1179/1743284715Y.0000000026"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                148,
+                335,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CITATIONS 169"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                200,
+                109,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 authors, including:"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                241,
+                163,
+                253
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b60e92101fa0d12f87015034289d79f24f8cf8b0039f6763400c4eee7645ba46.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                263,
+                101,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. Qiu Monash University (Australia) 31 PUBLICATIONS   1,426 CITATIONS"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                263,
+                254,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                310,
+                173,
+                320
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf9e564bd30082a76dbf6c132a2ed876380b475a8764212f2ce4590ae503904c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                63,
+                338,
+                99,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nick Birbilis"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                338,
+                168,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Deakin University"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                351,
+                195,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "565 PUBLICATIONS   31,719 CITATIONS"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                365,
+                264,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                385,
+                173,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "READS 2,197"
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                200,
+                531,
+                222
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/22b6f1cd813530351d20386d973488f186aff1f038f5a22146af05f43fc39890.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                498,
+                263,
+                533,
+                289
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mark Gibson"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "The Commonwealth Scientific and Industrial Research Organisation"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "212 PUBLICATIONS   10,990 CITATIONS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                542,
+                263,
+                861,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SEE PROFILE"
+                    }
+                ]
+            },
+            "bbox": [
+                553,
+                309,
+                607,
+                320
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                826,
+                38,
+                952,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/273913647"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                83,
+                565,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "All content following this page was uploaded by Y. Qiu on 05 June 2015."
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                954,
+                402,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "The user has requested enhancement of the downloaded file."
+                    }
+                ]
+            },
+            "bbox": [
+                69,
+                973,
+                299,
+                983
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion characteristics of high entropy alloys (HEAs)"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                104,
+                95,
+                815,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y. Qiu*<sup>1</sup>, M. A. Gibson<sup>1,2</sup>, H. L. Fraser<sup>1,3</sup> and N. Birbilis<sup>1</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                173,
+                682,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The present paper reports on the electrochemical properties of a wide range of high entropy alloys (HEAs) in a 0?6 M NaCl solution. A consolidated treatise of the topic has to date been lacking, and the purpose of the work herein is to present a primitive galvanic series for numerous HEAs, along with a broad survey of results typifying their electrochemical characteristics, passivity and comparative electrochemistry. The results are coupled with microstructural characterisation. The range of potentials for HEAs is comparable to or nobler than austenitic stainless steel, with a number of HEAs displaying higher pitting potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "values than stainless steels, in spite of possessing heterogeneous microstructures."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                208,
+                907,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: High entropy alloy, Corrosion, Galvanic series, Polarisation, Electrochemistry, Microstructure"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                354,
+                657,
+                368
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                394,
+                226,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Structural alloys including steels, aluminium, magnesium, titanium or nickel based alloys, are typically based on alloy design centred on controlling the phase evolution from one or two principle alloying elements. While additional elements are often added to many alloy systems for the purposes of inoculation, grain refinement, corrosion resistance, scavenging or melt protection, such additions are not intended to interfere with the phase evolution.<sup>1–2</sup> A decade ago, Yeh et al.<sup>3</sup> advanced the concept of so called high entropy alloys (HEAs), which are alloys composed of five or more principle elements in equimolar or near equimolar ratios with concentration of each element in the range of 5–35 at-%."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                414,
+                494,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The unique aspect of HEAs that has aroused interest in such systems is that, instead of forming ordered intermetallic phases, they seem to have the tendency to form solid solutions, considered to be stabilised by the high entropy of mixing.<sup>3</sup> However, pursuit of HEAs has indicated that the high entropy of mixing is in itself not enough to assure the formation of a random solid solution,<sup>4–5</sup> with only selected compositions (in the range of what is considered a HEA) forming what can be termed as simple solid solutions. Zhang et al.<sup>6</sup> proposed that in order to form solid solutions, high entropy alloys should be composed of elements that possess small differences in atomic size, along with the absolute enthalpy of mixing being near zero. Reports suggest atomic size differences v6?5%, an enthalpy of mixing in the range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 1 5 \\mathrm { t o } \\ 5 \\mathrm { k J } \\mathrm { m o l } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", while the entropy of mixing should be in the range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 1 2 { - } 1 7 { \\cdot } 5 \\mathrm { J } \\mathrm { K } ^ { - 1 } \\mathrm { m o l } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "HEAs have been reported with high hardness and high compressive strength, both at room temperature and at elevated temperature.<sup>3,7–13</sup> They have also been reported to possess outstanding resistance to wear and oxidation<sup>13–14</sup> and high thermal stability,<sup>15</sup> which has stimulated significant interest in HEAs as promising candidates for many applications."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                586,
+                495,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                514,
+                392,
+                907,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In terms of the corrosion performance of HEAs, aqueous corrosion testing has also been reported over the past decade.<sup>13,16–23,25–37</sup> In one of the earliest studies since the discovery of HEAs, Chen "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "e t a l . ^ { 1 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "compared the electrochemical properties of a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C u } _ { 0 } . _ { 5 } N i A l \\bar { C } o C r F e S i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "HEA with 304 stainless steel (AISI type 304 SS), reporting that over a wide range of NaCl and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(sulphuric acid) concentration, the resistance to general corrosion of Cu NiAlCoCrFeSi was superior to that of 304SS, irrespective of the electrolyte concentration varying from 0?1 to 1 M. However, the resistance to pitting corrosion of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C u } _ { 0 \\cdot 5 } \\mathbf { N i A l C o C r F e S i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was reported to be inferior to that of 304SS in a chloride environment on the basis of anodic polarisation testing and SEM images of the HEA after an anodic polarisation.<sup>16</sup> In the case of as cast AlCoCrFeNi, it has been reported that, due to the segregation of Cr to interdendritic regions and also to fine precipitates within the dendrites, the Cr depleted dendrites suffer from selective corrosion in 0?6 M NaCl.<sup>17</sup> This phenomenon would be akin to sensitisation in stainless steels where localised corrosion occurs at sites of Cr depletion; however, such phenomena are significantly less studied in HEAs and have only been reported in this specific case.<sup>17</sup> In a similar alloy with Cu additions, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { Q i u } ^ { \\mathrm { { i } 8 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reported that AlCrFeNiCoCu demonstrated excellent corrosion resistance in 1 M NaCl, compared to 304SS, with the AlCrFeNiCoCu HEA presenting a more noble potential and a corrosion - current density about an order of magnitude lower than 304SS. In the Al free variant of this alloy, Hsu "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "e t ~ a l . ^ { 1 9 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "investigated the corrosion behaviour of the FeCoNiCrCu system and noted that an increased proportion of Cu deteriorated the corrosion resistance of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\hat { F e } C o N i C r C u _ { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which they attributed to microgalvanic corrosion caused by segregation of Cu. The suggestion was that Cu rich interdendritic regions were less noble than the Cu depleted dendrites; therefore, the Cu rich regions were dissolved preferentially."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                470,
+                909,
+                916
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                963,
+                954,
+                973
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>1</sup>Department of Materials Engineering, Monash University, Clayton, Vic. 3800, Australia"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                847,
+                492,
+                869
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>2</sup>CSIRO Manufacturing Flagship, Clayton, Vic. 3168, Australia"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                868,
+                435,
+                878
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>3</sup>Department of Materials Science and Engineering, Ohio State University, Columbus, OH 43210, USA"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                877,
+                494,
+                898
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Corresponding author, email yao.qiu@monash.edu"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                902,
+                383,
+                915
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "\u0001 2015 Institute of Materials, Minerals and Mining Published by Maney on behalf of the Institute Received 18 December 2014; accepted 1 February 2015 DOI 10.1179/1743284715Y.0000000026"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                938,
+                386,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                961,
+                905,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                90,
+                57,
+                480,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l } _ { 0 \\cdot 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrCuFeNiB system studied in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r l } { { 1 } \\mathrm { N } } & { { } \\mathrm { H } _ { 2 } \\mathrm { S } \\mathrm { O } _ { 4 } . } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the general corrosion resistance of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l } _ { 0 } { . } _ { 5 } { \\mathrm { C o } } { } ^ { ( }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CrCuFeNi was found to be superior to that of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 4 \\mathrm { { \\bar { S } S } } . ^ { 2 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "It was also determined that the B lean HEAs performed best in terms of corrosion resistance, as the addition of B led to decreased corrosion resistance purported to be due to the formation of Cr borides. However, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { A l } } _ { 0 { \\cdot } 5 } { \\mathrm { C o C r C u F e N i B } } _ { \\mathrm { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was noted as not being prone to localised corrosion. 20"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                110,
+                482,
+                228
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In comparing within a given class of HEAs, it was reported that an increased proportion of Al in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { x } C r F e } _ { 1 \\cdot 5 } \\mathbf { M n N i } _ { 0 \\cdot 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys led to a higher general corrosion susceptibility of HEAs in a 0?5 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. In a 1 M NaCl solution, the pitting potentials of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l } _ { 0 \\cdot 5 } \\mathrm { C r F e } _ { 1 \\cdot 5 } \\mathrm { M n N i } _ { 0 \\cdot 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "HEAs are significantly lower than Al free "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r F e _ { 1 } . 5 \\mathbf { M } n N i _ { 0 \\cdot 5 } \\Delta \\ b y } \\quad \\sim 1 4 0 m V . ^ { \\cdot 2 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Kao et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 2 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "also examined the effect of Al additions on the corrosion of HEAs, indicating that a higher amount of Al in Al CoCrFeNi alloys was detrimental to corrosion resistance in 0?5 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at temperatures higher than 27uC. Chou et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 2 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "examined the influence of molybdenum on the corrosion resistance of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C o } _ { 1 \\cdot 5 } \\mathbf { C r F e N i } _ { 1 \\cdot 5 } \\mathbf { T i } _ { 0 \\cdot 5 } \\mathbf { M o } _ { \\mathrm { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys in 0?5 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 1 M NaOH solutions. Interestingly, in contrast to conventional stainless steels, the authors suggested that the corrosion resistance of the Mo free HEA was superior to the Mo containing alloys. However, in the case of a 1 M NaCl solution, the Mo containing HEAs were less susceptible to pitting corrosion compared with the Mo free alloy as judged by cyclic potentiodynamic polarisation testing.<sup>23</sup> The effect of Ni additions on the corrosion of the Al CrFeCoCuTiNi system has also been investigated. In both 0?6 M NaCl and 1 M NaOH, the corrosion of Al CrFeCoCuTiNi alloys decreased with Ni addition (x<1) and then increased with increasing Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x \\geqslant 1 ) , ^ { 1 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a response that is again counter to the wisdom in the behaviour of stainless steels.<sup>24</sup> The addition of Nb to CoCrCuFeNi was reported to promote a lower corrosion current density.<sup>25</sup> In the case of the many element Al CrFeCoCuNiTi system,<sup>26</sup> HEA variants containing Ti demonstrated lower corrosion rates than Ti free HEA in a 0?5 M HNO solution. Conversely, for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } _ { 0 \\cdot 3 } \\mathbf { C r F e } _ { 1 \\cdot 5 } \\mathbf { M n N i } _ { 0 \\cdot 5 } \\mathbf { T i } _ { x }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l _ { 0 \\cdot 3 } C r F e _ { 1 \\cdot 5 } M n N i _ { 0 \\cdot 5 } S i _ { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "systems, the addition of small amounts of Ti "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( x = 0 \\cdot 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or Si (x 0?2) deteriorated the 27 general corrosion resistance of the HEAs."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                227,
+                482,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Based on the abridged review above, it is noted that while several corrosion related studies on HEAs exist, such as those in the limited list herein, the complexity of the alloy systems makes a first order analysis of general trends across different HEA systems very difficult. For example, in some cases, Al is found to be beneficial, in others detrimental. This is determined by the particular constituents of the remaining composition. This is similarly the case for Cu, Ti and Si. Furthermore, a wider comparison of HEA corrosion across systems is yet to be reported; moreover, the correlation between processing, thermal history and microstructure, individually and in combination, is all in their infancy. Aspects of electrochemistry also need to be understood, on the basis that HEAs have the potential for significant segregation of solute and the existence of several phases (of widely varying composition) simultaneously, and do not follow the conventional golden rules of stainless steel with regards to the influence of Cr, Ni or Mo."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                709,
+                484,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                500,
+                57,
+                894,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This paper conducts an initial consolidated summary leading to a primitive galvanic series for select HEAs of widely varying composition in 0?6 M NaCl. This is accompanied by a discussion of the corrosion potentials, passivity and electrochemical characteristics with reference to the polarisation response and alloy microstructure of a range of HEA systems."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                110,
+                895,
+                204
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                215,
+                636,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Material preparation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                236,
+                677,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The HEAs reported herein were produced by a number of routes, each unique on the basis of capability of consolidating metals with wide melting point differences. As such, conventional casting was not employed."
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                253,
+                894,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HEAs were produced by laser melting (LM). In such cases, metal powders (with purity higher than 99?5 wt-% and typical size of 50–100 mm) were used. The LM of powders was carried out using a Trumpf TruLaser Cell 7040, with melting performed under an argon atmosphere."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                305,
+                894,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Production of HEAs using mechanical alloying was also carried out. In such cases, metal powders were blended in the appropriate proportion using high energy ball milling. The milled powders were then consolidated fully using spark plasma sintering (SPS) (DR.SINTER model SPS-925)."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                384,
+                894,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Additionally, arc melting (AM) was also employed to produce HEAs. This technique employed conventional AM in a reduced argon atmosphere. The HEAs produced were melted on a water cooled copper hearth, with the starting material being pure (99?99 wt-%) metal chunks."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                462,
+                895,
+                542
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical tests"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                549,
+                684,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiodynamic polarisation testing was conducted in a typical three-electrode flat cell (Princeton Applied Research) with the specimen as the working electrode, a saturated calomel reference electrode (SCE) and a platinum mesh as a counter electrode. The test solution was in each case quiescent 0?6 M NaCl, and testing was at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Before testing, the specimens were ground to 2000 grit finish (SiC paper), and at least four replicate tests were conducted for each alloy. The open circuit potential (OCP) was measured for 30 min before polarisation testing to achieve an approximately stable potential. Each specimen was scanned potentiodynamically at a rate of 1 mV "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ~ s ~ } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the initial potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 1 5 0 \\mathrm { m V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "versus OCP to the final potential of 2?0 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "using a Biologic VMP potentiostat under the control of EC-Lab 10?02 software. The corrosion potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and corrosion current densities "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( i _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were estimated by user based analysis via EC-lab."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                565,
+                895,
+                803
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Microstructural analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                809,
+                705,
+                826
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The constituent phases of the HEAs were determined using X-ray diffraction (XRD). This was done using an X-ray diffractometer (Phillips PW1130), with a Cu target, a voltage of 40 kV, current of 25 mA and a scan range from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\bar { 0 } ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to 100u with a speed of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { \\cdot } 5 ^ { \\circ } \\operatorname* { m i n } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Known compounds in the powder diffraction database were not employed to identify phases for HEAs, as the phases (and their unique composition) in HEAs are largely unknown. Additionally, the interplanar spacing (d-spacing) of HEAs are unique and not in the powder diffraction database. Instead, we calculate the d-spacing for individual peaks in the collected XRD pattern and match the d-spacing according to the selection rules for the relevant crystal structure. For example, for an fcc structure, the d-spacing of peaks in XRD pattern shall refer to the (111), (200), (220) and (311) plane."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                826,
+                895,
+                907
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                15,
+                376,
+                28
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                42,
+                963,
+                55,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                961,
+                457,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                57,
+                494,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As such, what we are most concerned with (namely, for homogenous HEAs) is the crystal structure (i.e. fcc or bcc). The following is how we determine the crystal structure of phases. We calculate the dsp for individual peaks in XRD pattern and see if these dsp matches the selection rules for fcc or bcc structure. For example, for fcc structure, dsp of peaks in XRD pattern should refer to (111), (200), (220) and (311) plane."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                189,
+                494,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens were also investigated via scanning (SEM) and transmission electron microscopy (TEM). SEM samples were polished to a 1 mm diamond paste finish and then imaged using a FEI Nova NanoSEM 450 in the backscattered electron (BSE) mode. TEM specimens were prepared by focused ion beam milling, using a Quanta 3D FIB. A thin foil was milled from a bulk HEA specimen via Ga ion milling, followed by ‘lift out’ onto a Cu grid, and followed subsequently by a thinning process of the foil to *100 nm in thickness. TEM imaging was carried out using an FEI Tecnai G2 T20 TEM."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                292,
+                494,
+                438
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results and discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                449,
+                331,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Galvanic series and pitting potential of high entropy alloys"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                470,
+                468,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Based on results from potentiodynamic polarisation testing, the summary of the corrosion potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and pitting potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for a selection of HEAs in a quiescent 0?6 M NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(a standardised electrolyte to allow comparison with published galvanic series) is shown in Fig. 1."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                502,
+                494,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of these HEAs is in a range of *2498 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 1 8 0 \\mathrm { m V } _ { \\mathrm { S C E } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". As anticipated, the HEAs presented corrosion potentials that are significantly nobler than those of mild steel and aluminium alloys. The corrosion potentials of some of the select HEAs were in a band comparable to that between ferritic and austenitic stainless, with some HEAs displaying even more noble potentials than austenitic stainless steels. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of most HEAs studied herein is more positive than that of ferritic stainless steels. On the basis of discrimination of pitting susceptibility from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alone, several HEAs demonstrate a higher (more noble) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than austenitic stainless steel, particularly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i } _ { 0 \\cdot 3 } ( \\mathrm { C o \\dot { C } r F e N i } ) _ { 0 \\cdot 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy, which displays the very noble "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 4 0 \\mathrm { m V _ { S C E } }"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                580,
+                494,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Some general observations from Fig. 1 include that corrosion potentials of the HEAs are not necessarily in the range expected from their constituent metals. For example, for the HEA AlCoCrCuFe, one would expect that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "would be below "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot - 0 { \\cdot } 3 5 \\mathrm { t o } - 0 { \\cdot } 4 \\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(corresponding to the known OCPs of Cr, and Cu in chloride solutions, being the most noble elements in this HEA combination). This shows that the HEA forms heterogeneous and unique phases that have their own electrochemical characteristics, independent of their constituent metals. If one assumes CoFeNi (SPS) as the baseline for analysis, it can be seen that the addition of Cr ennobles the HEA (more noble "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and improves the HEA resistance to pitting (higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This can be inferred by comparing the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the HEA with the composition CoCrFeNi (Fig. 1). The incorporation of Ti into CoCrFeNi further increases the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as observed for the alloy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i } _ { 0 \\cdot 3 } ( \\mathrm { C o C r F e N i } ) _ { 0 \\cdot 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The addition of Al to the HEA with the base CoCrFeNi makes them more noble, as inferred from the corrosion potentials of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\Delta A l _ { 0 \\cdot 3 } C o C r F e N i \\mathrm { \\quad ( A M ) } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Al CoCrFeNi (AM) or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 0 } . 9 C o C r F e N i \\ ( A M ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", albeit that Al is the least noble element in all the HEAs studied (pure Al having its own characteristic potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sim - 1 \\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(in 0?6 M NaCl)."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                763,
+                494,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                514,
+                58,
+                907,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is also noteworthy that there is a significant difference in pitting potentials between HEAs made by SPS and HEAs with the identical composition made by AM. CoCrFeNi (AM) exhibits an "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 4 2 \\mathrm { m V } _ { \\mathrm { S C E } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while CoCrFeNi (SPS*) and CoCrFeNi (SPS^) have a much lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } } ~ ( - 2 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 28 mV<sub>SCE</sub> respectively). The possible reasons for these characteristics are discussed in the following sections."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                228,
+                905,
+                334
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical response and characterisation of select high entropy alloys"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                341,
+                897,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to consolidate the survey of the electrochemical properties of the HEAs reported herein, the alloys have been separated on the basis of some key characteristics. In the case of the data shown in Fig. 2, these three HEAs were selected on the basis that they present the most heterogeneous microstructures among the reported HEAs (their associated microstructures are seen in Fig. 2b–g). Such microstructures are dramatically different to stainless steels and significantly more heterogeneous than most conventional structural alloys."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                372,
+                907,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiodynamic polarisation curves of as cast AlCoCrCuFe, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { T i A l } ) _ { 0 \\cdot 7 } \\mathrm { V } _ { 0 \\cdot 1 5 } \\mathrm { F e } _ { 0 \\cdot 1 } \\mathrm { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and AlTiVCrSi in a 0?6 M NaCl solution are shown in Fig. 2a. The tabulated values of extracted parameters compared to 304L (from Hsu et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 1 9 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are listed in Table 1, which include corrosion potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "corrosion current density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i _ { \\mathrm { c o r r } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "pitting potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the potential range of the passive region "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { c o r r } } { - } E _ { \\mathrm { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The comparison to 304L was made on the basis that the HEAs are Mo free and C free. The electrochemical data reveal that these alloys are ‘spontaneously passive’. This is particularly obvious for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { T i A l } ) _ { 0 \\cdot 7 } \\mathrm { V } _ { 0 \\cdot 1 5 } \\mathrm { F e } _ { 0 \\cdot 1 } \\mathrm { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and AlTiVCrSi, but less so for AlCoCrCuFe. The latter alloy has significantly more rapid cathodic kinetics, and hence a significantly higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The enhanced cathodic kinetics of AlCoCrCuFe also results in a higher corrosion current density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( i _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The window of passivity on AlCoCrCuFe (from repeat tests) is as much "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { a \\bar { s } } \\ \\sim 1 3 0 \\mathrm { m V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; however it is between 600 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 0 \\mathrm { m V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for both AlTiVCrSi and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { T i A l } ) _ { 0 \\cdot 7 } \\mathrm { V } _ { 0 \\cdot 1 5 } \\mathrm { F e } _ { 0 \\cdot 1 - }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N i } _ { 0 \\cdot 0 5 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The latter alloys reveal a clear and wide window of passivity, in spite of the 0?6 M NaCl electrolyte and a heterogeneous microstructure, which is a key point. From an electrochemical perspective, such passivity in the presence of a multiphase microstructure is somewhat unprecedented in conventional alloys or stainless steels (perhaps with the exception of some superalloys or Zr alloys). The smaller window of passivity in the case of AlCoCrCuFe is perhaps associated with the presence of Co, and the intense segregation of heavier elements to the regions of light contrast as seen in Fig. 2c. Previous studies on Cu containing HEAs reveal that copper has the tendency to segregate into the interdendritic regions to form a Cu rich fcc phase between Cu depleted dendrites.<sup>9,19,40–41</sup> Table 2 lists the binary mixing of enthalpy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\Delta H _ { \\mathrm { m i x } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Cu with other elements. These values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta H _ { \\mathrm { m i x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are either very close to zero or fairly positive. This indicates that there is a weak bonding force between Cu and the other elements. Therefore, Cu tends to segregate into interdendritic regions. The XRD data for as cast AlCoCrCuFe are provided in Fig. 3. AlCoCrCuFe consists of a Cu rich fcc phase together with a bcc phase (Cu depleted matrix). When AlCoCrCuFe is exposed to an aqueous environment, the Cu depleted matrix is comparatively nobler than the Cu rich interdendritic regions; therefore, the Cu rich phase may be a site for preferential dissolution, with such aspects discussed in the following section."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                502,
+                907,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                15,
+                954,
+                28
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                961,
+                905,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                963,
+                954,
+                973
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f9bab29daaab2ae8b57d0ebe27bcb3b85903002bedb40049986380115aaebf4a.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                746,
+                585,
+                885,
+                670
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8829b272cdb5dda3c821daab9bc23b6721fd8c1ca5bc2f661fd6a6934e9337c9.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                600,
+                675,
+                741,
+                760
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a85ae139e61fa6ac782ec600ceb7da90140776a56383e682888c1a41c685da06.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                600,
+                586,
+                739,
+                670
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/121502afe6316c290bf95f6d1b8420845a4c3abd5d70667095c56b23487a31da.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "1 Summary of HEA corrosion potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathsf { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { m v } _ { \\mathtt { s c E } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and pitting potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathsf { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { m v } _ { \\mathtt { s c E } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in quiescent 0?6 M NaCl at 258C; CoCrFeNi (SPS*) was held at 10008C for 5 min, while CoCrFeNi (SPS^) was firstly held at 5008C for 5 min and then sintered at 10008C for another 5 min; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathsf { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { E } _ { \\mathsf { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "data of steels and aluminium alloys are obtained from previous studies<sup>24,38–39</sup>"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                171,
+                55,
+                811,
+                424
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/09f23e9ac4ad51479cd76d80bff433049379ab1562fa1ed5843c297e6b695e29.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                99,
+                500,
+                594,
+                758
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7a5a3398146fb76f15aece2b08342a787239a73168ce69a42794cbe7a856dbc5.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(g)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2 a polarisation curves for as cast AlCoCrCuFe, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { T i A l } ) _ { 0 \\cdot 7 } \\mathsf { V } _ { 0 \\cdot 1 5 } \\mathsf { F e } _ { 0 \\cdot 1 } \\mathsf { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and AlTiVCrSi in 0?6 M NaCl at 258C; b BSE image of AlCoCrCuFe at low magnification; c BSE image of AlCoCrCuFe at higher magnification; d BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { T i A l } ) _ { 0 \\cdot 7 } \\mathsf { V } _ { 0 \\cdot 1 5 } ."
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e } _ { 0 \\cdot 1 } \\mathsf { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at low magnification; e BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { T i A l } ) _ { 0 \\cdot 7 } \\mathsf { V } _ { 0 \\cdot 1 5 } \\mathsf { F e } _ { 0 \\cdot 1 } \\mathsf { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at higher magnification; fBSE image of AlTiVCrSi at low magnification; g BSE image of AlTiVCrSi at higher magnification"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                600,
+                495,
+                741,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                90,
+                835,
+                482,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                500,
+                835,
+                894,
+                915
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                15,
+                376,
+                28
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                963,
+                55,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                961,
+                457,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1a1acf705c0ab2744e23c880543fc739c868f117ee1c35c0ea9c5996fe8b187d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Electrochemical data associated with general corrosion and pitting corrosion of HEAs and 304L stainless steel in quiescent 0?6 M NaCl at 258C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Sample</td><td> $E _ { \\tt c o r r } / \\tt m V _ { \\tt s c E }$ </td><td> $i _ { \\mathrm { c o r r } } / \\mu \\mathsf { A c m } ^ { - 2 }$ </td><td> $E _ { \\sf p i t } / \\sf m V _ { \\sf S C E }$ </td><td>Average  $E _ { \\mathrm { p i t } } { - } E _ { \\mathrm { c o r r } } / \\mathsf { m V }$ </td></tr><tr><td> $\\mathsf { A l C o C r C u F e }$ </td><td> $- 2 6 4 \\pm 5$ </td><td> $0 { \\cdot } 9 6 7 { \\pm } 0 { \\cdot } 2 2$ </td><td> $- 1 3 0 \\pm 5$ </td><td>135</td></tr><tr><td> $( \\mathsf { T i A l } ) _ { 0 \\cdot 7 } \\mathsf { V } _ { 0 \\cdot 1 5 } \\mathsf { F e } _ { 0 \\cdot 1 } \\mathsf { N i } _ { 0 \\cdot 0 5 }$ </td><td> $- 3 8 8 \\pm 1 2$ </td><td> $0 { \\cdot } 0 3 7 { \\pm } 0 { \\cdot } 0 1$ </td><td> ${ 2 6 3 \\pm 1 0 }$ </td><td>651</td></tr><tr><td> $\\mathsf { A l T i V C r S i }$ </td><td> $- 4 9 8 \\pm 2 0$ </td><td> $0 { \\cdot } 1 6 8 { \\pm } 0 { \\cdot } 0 3$ </td><td> $1 1 \\pm 1 0$ </td><td>510</td></tr><tr><td> $3 0 4 \\mathsf { L } ^ { 1 9 }$ </td><td>-250</td><td>0·601</td><td>230</td><td>480</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                85,
+                904,
+                160
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/226f2f7368cb73000c3fe2375fe86731bef4690b86257cb70652a8e54f9da8b5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Binary mixing of enthalpy of Cu with Co, Cr and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e } ^ { 4 2 }"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Element pair</td><td> $\\Delta H _ { \\mathrm { m i x } } / \\mathrm { k J } \\ \\mathrm { m o l } ^ { - 1 }$ </td></tr><tr><td> $\\mathsf { C u \\mathrm { - } A l }$ </td><td>-1</td></tr><tr><td>Cu-Co</td><td>6</td></tr><tr><td>Cu-Cr</td><td>12</td></tr><tr><td> $\\mathtt { C u \\mathrm { - } F e }$ </td><td>13</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                104,
+                216,
+                490,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                310,
+                494,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In considering a family of HEAs that are of relatively similar composition, but which present a significant difference in electrochemical performance (especially in terms of passivation), the polarisation response of such a selection of alloys is shown in Fig. 4. The alloys presented (Fig. 4) are CoCrFeNiAl , CoCrFeNi (SPS^) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i } _ { 0 \\cdot 3 } ( \\mathrm { C o C r F e N i } ) _ { 0 \\cdot 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 0?6 M NaCl. As with all the HEAs surveyed, the alloys shown in Fig. 4 are ‘spontaneously passive’ in 0?6 M NaCl. In addition, these alloys all have very similar cathodic reaction kinetics. The cathodic kinetics are more rapid than those of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { T i A l } ) _ { 0 \\cdot 7 } \\mathrm { V } _ { 0 \\cdot 1 5 } \\mathrm { F e } _ { 0 \\cdot 1 } \\mathrm { N i } _ { 0 \\cdot 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and AlTiVCrSi (Fig. 2), and hence, it is posited that the presence of Co enhances the cathodic kinetics and concomitantly raises the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } ."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                361,
+                494,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The microstructures of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 } . _ { 9 } , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrFeNi (SPS^) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i } _ { 0 \\cdot 3 } ( \\mathrm { C o C r F e N i } ) _ { 0 \\cdot 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are also provided in Fig. 4, while the associated electrochemical parameters are presented in Table 3. The difference in the electrochemical properties of the alloys is that the passive window "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p i t } } - E _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "size scales according to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i } _ { 0 \\cdot 3 } ( \\mathrm { C o C r F e N i } ) _ { 0 \\cdot 7 }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { > ^ { \\bullet } C o C r F e N i A l _ { 0 \\cdot 9 } ~ > C o C r F e N i ~ ( S P S ^ { \\wedge } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This result is interesting on the basis of the conventional wisdom that relates to corrosion and merits comment. The largest window of passivity correlates to the alloy variant that contains Ti, which is conventional in its own right. However, it is unique when considered with the microstructure. The very large passive window of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\cdot T i _ { 0 \\cdot 3 } ( C o C r F e N i ) _ { 0 \\cdot 7 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "persists in spite of a very heterogeneous microstructure (at least three unique phases) and significant segregation. The phase denoted as ‘A’ in the BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T i _ { 0 \\cdot 3 } ( \\hat { C } o C r F e N i ) _ { 0 \\cdot 7 } \\quad ( F i g . } \\quad 4 g )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is enriched in Ti "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 6 2 { \\cdot } 8 \\mathrm { a t } \\mathrm { - } \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with the associated energy dispersive spectroscopy (EDS) point analysis shown in Table 4 . In the case of CoCrFeNi (SPS^), the microstructure is also multiphase, with the fine black dots in Fig. 4e that are actually synonymous with very fine pores. As noted, CoCrFeNi (SPS^) exhibits a significantly lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { p i t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "compared to CoCrFeNi (AM). In addition, the i ofCoCrFeNi(SPS^) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 { \\cdot } 6 1 0 \\mu \\mathrm { A } \\mathrm { c m } ^ { - 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is significantly larger than that of CoCrFeNi (AM) (0?108 mA cm<sup>22</sup>). CoCrFeNi (AM) is a single fcc solid solution, as indicated by the XRD spectrum in Fig. 5a. On the other hand, CoCrFeNi (SPS^) exhibits a multiple phase microstructure with the corresponding XRD spectrum, as shown in Fig. 5b, indicating that it consists of an fcc and sigma type phase (s). Praveen et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\cdot } a l . ^ { 4 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reported that CoCrFeNi sintered at 1000uC using SPS consisted of a major fcc phase and a minor Cr rich sigma phase. This sigma phase could be a CrFe/CrCo/CrFeCo intermetallic compound.<sup>43</sup> EDS mapping results for CoCrFeNi (SPS^) are provided in Fig. 6, confirming that the sigma phase is rich in Cr, while the fcc matrix is Cr depleted. In austenitic stainless steel, the s phase is an intermetallic compound with a complex tetragonal structure. The s phase is rich in Cr, with a typical normalised composition of the s phase being Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 5 9 \\mathrm { \\ w t - \\% } ) ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cr (*38 wt-%) and Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\sim 3 \\ : \\mathrm { w t - \\% } \\right) . ^ { 4 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "In stainless steel, Cr rich sigma phase has a detrimental effect on the corrosion resistance including pitting resistance.<sup>24</sup> Similar to the effect of Cr rich sigma phase in stainless steel, the evolution of a Cr rich s phase in CoCrFeNi (SPS^) is also detrimental. The Cr rich s phase is nobler than the adjacent Cr depleted fcc matrix, therefore rendering the Cr depleted matrix susceptible to corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                544,
+                494,
+                650
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/65440920531e3227df2fb543cff8d9173d67cefc6466a7ec05d28192daa8e0cc.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "3 XRD pattern for as cast AlCoCrFeCu"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                102,
+                677,
+                490,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                514,
+                196,
+                907,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the case of CoCrFeNiAl <sub>?</sub> , this alloy exhibits a fine interconnected microstructure, which is unique on the basis of the connectivity of microstructural features. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 \\cdot 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is comparatively very noble in 0?6 M NaCl and also exhibits a low corrosion current density compared to the other HEAs listed in Tables 1 and 3. In contrast to the posit that the presence of Co enhances cathodic kinetics and concomitantly raises the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a simpler microstructure is also associated with a high "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { \\mathrm { c o r r } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "albeit on the basis of reduced anodic kinetics. The instance of reduced anodic kinetics correlates with a low corrosion current density, as depicted by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 \\cdot 9 } . }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The XRD spectrum for as cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 } . _ { 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is shown in Fig. 7a. The as cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 \\cdot 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "consists of a combination of fcc and bcc phase, not excluding that the latter may be in the form of the B2 phase (which is an ordered bcc phase). The bright field (BF) image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 } . _ { 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is provided in Fig. 7b, and the select area diffraction pattern (SADP) of the dark contrast phase along the [011] zone axis is provided in Fig. 7c and is consistent with a B2 phase with a lattice parameter of 0?3001 nm. The SADP of the light contrast phase along the [011] zone axis in Fig. 7d is consistent with an fcc phase with a lattice parameter of 0?3704 nm. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 \\cdot 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "exhibits a simple microstructure (fcc B2), and there is no segregation of elements, like Cu in Cu containing HEAs or Cr in CoCrFeNi (SPS^), that could deteriorate the corrosion performance of the HEA. The simple microstructure and no elemental segregation could be associated with the relatively high corrosion potential and small corrosion current density of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 } . . }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                731,
+                907,
+                915
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                963,
+                954,
+                973
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                15,
+                954,
+                28
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                961,
+                905,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/4c9a69ef4d931935d20c013d93f15861bf47e24ee0e75f65e29c8c564155b3ce.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                100,
+                61,
+                591,
+                322
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b128a324e8fecfb1d9a7ac17b23324842e7b54ccc9c286f88cc926a7cf1d97b2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                598,
+                59,
+                737,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/50262b8cdc54c9d9ef274bc56c2e6ecb86b9206792b5349c27593038461e3987.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                742,
+                59,
+                884,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf5b9b813bdf2c3dbbbad8544e9f5c64ee7f2a7cd689099f4f32fb20338b80b6.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                596,
+                149,
+                737,
+                236
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3544f36ec894afe2f2b6a4d952e7de8814ca74ca9a94c113b5709142c339bb08.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                742,
+                149,
+                882,
+                235
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cea365982c92347b1e3884078db9167a3d5457e32a8758c0e6a71b14f2c7994d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                598,
+                239,
+                737,
+                324
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/33490182e888778a982bc79f8879b758e743494a485540afb9742793564c49d1.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "4 a polarisation curves for as cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C o C r F e N i A l _ { 0 . 9 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrFeNi and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\mathsf { T i } } _ { 0 . 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 . 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 0.6 M NaCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { 2 5 } ^ { \\circ } \\pmb { \\complement } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "b BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C o C r F e N i A l _ { 0 . 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at low magnification; c BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C o C r F e N i A l _ { 0 . 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at higher magnification; d BSE image of CoCrFeNi at low magnification; e BSE image of CoCrFeNi at higher magnification; f BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { \\mathsf { T i } } _ { 0 . 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 . 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at low magnification; g BSE image of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\mathsf { T i } } _ { 0 . 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 . 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at higher magnification"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                742,
+                239,
+                882,
+                323
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ba97e49d5ad8f368339edcea1902251a94abde2c615816a62222e4151650ae18.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 Electrochemical data associated with general corrosion and pitting corrosion of HEAs in 0.6 M NaCl at 258C [CoCrFeNi (SPS^) was first hold at 5008C for 5 min and then sintered at 10008C for another 5 min]"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Sample</td><td> $E _ { \\tt c o r r } / \\tt m V _ { \\tt s c E }$ </td><td> $i _ { \\mathrm { c o r r } } / \\mu \\mathsf { A c m } ^ { - 2 }$ </td><td> $E _ { \\sf p i t } / \\sf m V _ { \\sf S C E } )$ </td><td>Average  $E _ { \\mathrm { p i t } } { - } E _ { \\mathrm { c o r r } } / \\mathsf { m V }$ </td></tr><tr><td> $\\mathsf { C o C r F e N i A l _ { 0 . 9 } }$ </td><td> $- 2 1 7 \\pm 3 5$ </td><td> $0 { \\cdot } 0 9 3 { \\pm } 0 { \\cdot } 0 2 8$ </td><td> $1 6 4 \\pm 2 9$ </td><td>381</td></tr><tr><td> $\\mathsf { C o C r F e N i } ( \\bar { \\mathsf { S P S } } \\wedge )$ </td><td> $- 3 0 4 \\pm 3 1$ </td><td> $0 { \\cdot } 6 1 0 { \\pm } 0 { \\cdot } 2 7 6$ </td><td> $- 8 \\pm 5 9$ </td><td>260</td></tr><tr><td> $\\mathsf { T i } _ { 0 \\cdot 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 \\cdot 7 }$ </td><td> $- 2 7 3 \\pm 3 1$ </td><td> $0 { \\cdot } 0 3 6 { \\pm } 0 { \\cdot } 0 3 0$ </td><td> $1 0 4 0 \\pm 1 3$ </td><td>1313</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                435,
+                892,
+                497
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/449586f8a17eb4a639c26c511137bc8aa2b28e83fa402ac58af4c1ad8ce067ba.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 EDS point analysis of phase ‘A’ of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { \\mathsf { T i } } _ { 0 . 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 . 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicated in Fig. 4g"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>Ti/at-%</td><td>Co/at-%</td><td>Cr/at-%</td><td> $\\mathsf { F e } / \\mathsf { a t } { - } \\%$ </td><td>Ni/at-%</td></tr><tr><td> $\\mathsf { T i } _ { 0 . 3 } ( \\mathsf { C o C r F e N i } ) _ { 0 . 7 }$ </td><td>62.8</td><td>8.0</td><td>8.9</td><td>8.4</td><td>11.9</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                537,
+                892,
+                579
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a1f49da10e6cae597e8149220f93eea82b47937325287f368629737e74d37cfc.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "5 XRD pattern for a as cast CoCrFeNi (AM) and b as cast CoCrFeNi (SPS^)"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                97,
+                598,
+                489,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                90,
+                847,
+                482,
+                915
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0b6f09e12d7ac41b2820e70288736e765f9c98fe0365a65e9180747bc28cb7ff.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                492,
+                599,
+                887,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                502,
+                848,
+                894,
+                915
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                15,
+                376,
+                28
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                42,
+                963,
+                55,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                961,
+                457,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/edc827abfd50730c8327b4cbb3dd481cb000a4732f151ac17125dcfde2905493.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "6 EDS mapping results for CoCrFeNi (SPS^) reveal that sigma phase is rich in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { c r } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while the matrix is Cr depleted"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                253,
+                58,
+                757,
+                263
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f6c3b01b27cc14591c2c6a77de4449aaa729d3adab820bd2dbfe686a31bc0a01.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                110,
+                312,
+                458,
+                519
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/227468b2147105b4be50d340d8ec3bc37eaa9bf965519b9ed43e85e33eacacb1.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(c)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "7 a XRD pattern for as cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { 0 . 9 } \\mathsf { C o C r F e N i ; }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "b TEM BF image of as cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { 0 . 9 } \\mathsf { C o c r F e N i } ; c ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "d SADP along [011] zone axis for ‘dark’ and ‘light’ phase respectively"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                463,
+                313,
+                744,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                102,
+                568,
+                494,
+                675
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Avenues for future work"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                683,
+                305,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Future avenues of work in order to provide a more comprehensive determination of the corrosion of HEAs should pay particular attention to the following aspects."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                700,
+                494,
+                740
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiscale characterisation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                753,
+                287,
+                768
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The microstructures of HEAs present features that span the atomic scale to the tens of micrometre scale (*6 orders of magnitude). The area where the least characterisation exists to date is in the nanoscale, and therefore, HEAs should be examined by high resolution techniques such as atom probe tomography and high resolution TEM. Of the works to date that have studied nanostructure, useful insights have emerged, as one study<sup>45</sup> employs three-dimensional atom probe (3DAP), revealing the presence of fine Cu rich precipitates, Al–Ni rich plates and Cr–Fe rich features in cast AlCoCrCuFeNi HEA."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                769,
+                495,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Singh et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 4 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "used 3DAP and TEM to study the ferromagnetic behaviour of AlCoCrCuFeNi HEAs, revealing the decomposition of CrFeCo rich regions into FeCo rich and Cr rich domains respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                568,
+                907,
+                623
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Kinetics and nature of phase transformations"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                632,
+                820,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The majority of work to date that relates to HEAs (including the present work) have focused on ‘as produced alloys. This is in contrast to the very careful thermomechanical processing, which is applied to the study ofcommon structural metals. In terms of simplicity, thermogravimetric analysis needs to be performed on HEAs to study the kinetics of, and characteristic temperature of, phase transformation. While phase diagrams for HEAs would be beneficial for understanding the kinetics and nature of phase transformations, existing CALPHAD (calculated phase diagram) databases are presently too primitive to allow for accurate HEA phase prediction. Indeed, however, as has been shown,<sup>47</sup> CALPHAD will be a very important tool to calculate the phase fields and fractions for HEAs, with some success reported for the AlCoCrFeNi and AlCoCrFeNi systems."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                648,
+                907,
+                857
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Surface film characterisation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                871,
+                712,
+                884
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The surface films formed upon different HEAs have been characterised using X-ray photoelectron spectroscopy (XPS) by several researchers.<sup>17,20,31</sup> Such studies, however, have focused on the surface film following dissolution/polarisation. In one instance, both "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { A l } } _ { 0 } . { \\mathit { s } } { \\mathrm { C o C r C u F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l _ { 0 } . _ { 5 } C o C r C u F e N i B _ { 0 \\cdot 6 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were analysed following anodic polarisation in a deaerated 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. For these alloys, the predominant surface oxide was a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "based film. A native "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "film before dissolution would indeed contribute to beneficial pitting resistance, as typically demonstrated by such "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H E A s } . ^ { \\ Y _ { 0 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r F e } _ { 1 \\cdot 5 } \\mathrm { M n N i } _ { 0 \\cdot 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "HEA also forms a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "based passive film on the surface after anodic polarisation in a 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution (as detected by XPS).<sup>31</sup> "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l _ { 0 \\cdot 3 } C r F e _ { 1 \\cdot 5 } M n N i _ { 0 \\cdot 5 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "showed characteristic peaks corresponding to both "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(by XPS) after anodic treatment in a 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution.<sup>31</sup> It is not expected, however, that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "can form as a native oxide (in conjunction with, or in addition to, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf A l } _ { 2 } { \\bf O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is most likely formed due to preferential Al dissolution, then subsequent oxidation in the aqueous environment or air. Such a phenomenon of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "being detected in conjunction with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is common to Cr and Al containing superalloys (nominally Ni based superalloys) following high temperature oxidation.<sup>48–51</sup> In such instances, the oxidation occurs in air (at high temperatures) and preferential oxidation of Al occurs, somewhat akin to what occurs due to preferential Al dissolution in aqueous electrolytes. For example, in the case of AlCoCrFeNi coatings, after anodic polarisation in 3?5 wt-% NaCl, both "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf A l } _ { 2 } { \\bf O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r } _ { 2 } \\mathrm { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "peaks are observed in XPS spectra.<sup>17</sup> In any case, however, the XPS analysis of ‘as polished’ HEAs is particularly important to understand and is a particular aspect of HEAs that has essentially received no attention to date and must form the basis for future work. It has been observed herein that Ti improves the pitting resistance of the HEAs and also widens their passive window. The detection and quantification of Ti in passive films formed upon Ti based HEAs will also be important to study."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                885,
+                907,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                15,
+                954,
+                28
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                961,
+                905,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                963,
+                956,
+                973
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                90,
+                57,
+                484,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Long term exposure testing"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                581,
+                278,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In terms of studying the corrosion morphology, and the longer term damage accumulation (as a ground truth measurement), long term exposure testing is important. In terms of atmospheric corrosion resistance, because HEAs present passivity in the realm of stainless steels, atmospheric exposure will require very long term durations (i.e. years). In the laboratory setting, immersion in concentrated electrolytes is one avenue that is also beneficial. Kao et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 2 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Hsu et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 1 9 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "have reported mass loss/ immersion tests on the Al CoCrFeNi and FeCoNiCrCu systems respectively. For Al CoCrFeNi (where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x = 0 ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "0?25, 0?5 and 1), immersion test were conducted in 0?5 M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 15 days, with mass loss revealing that the corrosion rate of Al CoCrFeNi "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 1 \\ \\mathrm { g } \\ \\bar { \\mathrm { m } } ^ { - 2 } \\mathrm { h } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and AlCoCrFeNi "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\sim 2 \\mathrm { g } \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is significantly higher than that of CoCrFeNi "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 \\cdot 1 2 \\mathrm { g } \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf A l _ { 0 \\cdot 2 5 } C o C r F e N i }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 { \\cdot } 1 6 \\mathrm { g } \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "FeCoNiCrCu alloys have been immersed in 3?5 wt-% NaCl at 25uC for 30 days, with the corrosion rate of FeCoNiCrCu calculated from mass loss and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "obtained from polarisation tests revealing the same trend, in that the addition of Cu increases the corrosion rate.<sup>19</sup> It is, however, necessary to carry out longer term exposure testing in order to understand the general corrosion behaviour of HEAs."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                595,
+                482,
+                910
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                504,
+                60,
+                625,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. A galvanic series in 0?6 M NaCl for select HEAs produced by either LM, AM or SPS has been presented. It is seen that the HEAs tested are significantly nobler than carbon steel and aluminium alloys, occupying potentials in the range of ferritic and austenitic stainless steels, with some HEAs nobler than austenitic stainless steels."
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                77,
+                894,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. All the HEAs tested herein displayed ‘spontaneous passivity’ in 0?6 M NaCl. The pitting potentials, however, varied, with a range of passive windows "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( E _ { \\mathrm { p i t } } - E _ { \\mathrm { c o r r } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "varying by as much as 1 V. The passivation tendency of HEAs was evident, in spite of possessing significantly heterogeneous microstructures."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                168,
+                894,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Following from the point above, it should be noted that the microstructures evolved in the HEAs studied herein were nominally multiphase, with significant solute segregation. This aspect requires future work on the basis that characterisation is required to establish the kinetics of phase transformations, driven by partitioning, which is difficult to predict from existing thermodynamic calculations or conventional metallurgical systems."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                247,
+                894,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. In general, the addition of Cr to HEA systems improves their corrosion and pitting resistance. However, this benefit of Cr is severely decreased in HEAs processed by SPS (when compared to AM), as the Cr segregates to the Cr rich s phase, making the Cr depleted matrix more prone to corrosion. The addition ofTi to the CrCoFeNi (AM) system was found to further increase the pitting corrosion resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                365,
+                894,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Variations in the electrochemistry and passive window of the AlCoCrCuFe system were attributed to disadvantageous Cu segregation to interdendritic regions."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                468,
+                894,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C o C r F e N i A l _ { 0 } . _ { 9 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "displays a highly noble corrosion potential and low corrosion current density while possessing a simple structure of (fcc B2) with no severe elemental segregation."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                507,
+                894,
+                561
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                576,
+                694,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors express thanks to Professor B. S. Murthy (IIT Madras), A/Professor Rajeev Gupta (Akron) and Dr Daniel Fabijanic (Deakin) for provisions and assistance with some samples reported herein. The technical assistance of Dr Sebastian Thomas is also gratefully acknowledged. The authors also appreciate the use of facilities in the Monash Centre for Electron Microscopy (MCEM) and the Monash Centre for Additive Manufacturing (MCAM)."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                598,
+                894,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                504,
+                733,
+                615,
+                750
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. I. J. Polmear: ‘Light alloys’, 4th edn; 2005, Oxford, Butterworth-Heinemann."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. H. K. D. H. Bhadeshia and S. R. Honeycombe: ‘Steels’, 3rd edn; 2006, Oxford, Butterworth-Heinemann."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin, T. T. Shun, C. H. Tsau and S. Y. Chang: ‘Nanostructured high-entropy alloys with multiple principal elements: novel alloy design concepts and outcomes’, Adv. Eng. Mater., 2004, 6, (5), 299–303."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. S. Guo and C. T. Liu: ‘Phase stability in high entropy alloys: formation of solid-solution phase or amorphous phase’, Prog. Nat. Sci. Mater. Int., 2011, 21, (6), 433–446."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. F. Otto, Y. Yang, H. Bei and E. P. George: ‘Relative effects of enthalpy and entropy on the phase stability of equiatomic highentropy alloys’, Acta Mater., 2013, 61, (7), 2628–2638."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                755,
+                892,
+                776
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                15,
+                374,
+                28
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                963,
+                55,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                963,
+                457,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Y. Zhang, Y. J. Zhou, J. P. Lin, G. L. Chen and P. K. Liaw: ‘Solid-solution phase formation rules for multi-component alloys’, Adv. Eng. Mater., 2008, 10, (6), 534–538."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Y. Zhang, X. Yang and P. K. Liaw: ‘Alloy design and properties optimization of high-entropy alloys’, JOM, 2012, 64, (7), 830–838."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Y. J. Zhou, Y. Zhang, Y. L. Wang and G. L. Chen: ‘Microstructure and compressive properties of multicomponent Al<sub>x</sub>(TiVCrMnFeCoNiCu)<sub>1002x</sub> high-entropy alloys’, Mater. Sci. Eng. A, 2007, 454–455, 260–265."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. C. W. Tsai, M. H. Tsai, J. W. Yeh and C. C. Yang: ‘Effect of temperature on mechanical properties of Al CoCrCuFeN wrought alloy’, J. Alloys Compd, 2010, 490, (1–2), 160–165."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. X. F. Wang, Y. Zhang, Y. Qiao and G. L. Chen: ‘Novel microstructure and properties of multicomponent CoCrCuFeNiTi<sub>x</sub> alloys’, Intermetallics, 2007, 15, 357–362."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. O. N. Senkov, C. Woodward and D. B. Miracle: ‘Microstructure and properties of aluminum-containing refractory high-entropy alloys’, JOM, 2014, 66, (10), 2030–2042."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. O. N. Senkov, G. B. Wilks, D. B. Miracle, C. P. Chuang and P. K. Liaw: ‘Refractory high-entropy alloys’, Intermetallics, 2010, 18, (9), 1758–1765."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. X. W. Qiu and C. G. Liu: ‘Microstructure and properties of Al CrFeCoCuTiNi high-entropy alloys prepared by laser cladding’, J. Alloys Compd, 2013, 553, 216–220."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. M. H. Chuang, M. H. Tsai, W. R. Wang, S. J. Lin and J. W. Yeh: ‘Microstructure and wear behavior of Al<sub>x</sub>Co<sub>1?5</sub>CrFeNi<sub>1?5</sub>Ti<sub>y</sub> high-entropy alloys’, Acta Mater., 2011, 59, (16), 6308–6317."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. R. Sriharitha, B. S. Murty and R. S. Kottada: ‘Alloying, thermal stability and strengthening in spark plasma sintered Al CoCrCuFeNi high entropy alloys’, J. Alloys Compd, 2014, 583, 419–426."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Y. Y. Chen, T. Duval, U. D. Hung, J. W. Yeh and H. C. Shih: ‘Microstructure and electrochemical properties of high entropy alloys—a comparison with type-304 stainless steel’, Corros. Sci., 2005, 47, (9), 2257–2279."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Q. H. Li, T. M. Yue, Z. N. Guo and X. Lin: ‘Microstructure and corrosion properties of AlCoCrFeNi high entropy alloy coatings deposited on AISI 1045 steel by the electrospark process’, Metall. Mater. Trans. A, 2012, 44, (4), 1767–1778."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. X. W. Qiu: ‘Microstructure and properties of AlCrFeNiCoCu high entropy alloy prepared by powder metallurgy’, J. Alloys Compd, 2013, 555, 246–249."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Y. J. Hsu, W. C. Chiang and J. K. Wu: ‘Corrosion behavior of FeCoNiCrCu high-entropy alloys in 3?5% sodium chloride solution’, Mater. Chem. Phys., 2005, 92, (1), 112–117."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. C. P. Lee, Y. Y. Chen, C. Y. Hsu, J. W. Yeh and H. C. Shih: ‘The effect of boron on the corrosion resistance of the high entropy alloys Al<sub>0?5</sub>CoCrCuFeNiB<sub>x</sub>’, J. Electrochem. Soc., 2007, 154, (8), C424–C430."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. C. P. Lee, C. C. Chang, Y. Y. Chen, J. W. Yeh and H. C. Shih: ‘Effect of the aluminium content of Al CrFe MnNi high-entropy alloys on the corrosion behaviour in aqueous environments’, Corros. Sci., 2008, 50, (7), 2053–2060."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. Y. F. Kao, T. D. Lee, S. K. Chen and Y. S. Chang: ‘Electrochemical <sup>passive</sup> <sup>properties</sup> <sup>of</sup> <sup>Al</sup>x<sup>CoCrFeNi</sup> <sup>(x</sup>¼<sup>0,</sup> <sup>0?25,</sup> <sup>0?50,</sup> <sup>1?00)</sup> <sup>alloys</sup> <sup>in</sup> sulfuric acids’, Corros. Sci., 2010, 52, (3), 1026–1034."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Y. L. Chou, J. W. Yeh and H. C. Shih: ‘The effect ofmolybdenum on the corrosion behaviour of the high-entropy alloys Co CrFeNi Ti Mo in aqueous environments’, Corros. Sci., 2010, 52, (8), 2571–2581."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. A. J. Sedriks: ‘Corrosion of stainless steels’; 1996, New York, John Wiley and Sons."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. J. B. Cheng, X. B. Liang and B. S. Xu: ‘Effect of Nb addition on the structure and mechanical behaviors of CoCrCuFeNi highentropy alloy coatings’, Surf. Coat. Technol., 2014, 240, 184–190."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. X. W. Qiu, Y. P. Zhang and C. G. Liu: ‘Effect of Ti content on structure and properties of Al CrFeNiCoCuTi high-entropy alloy coatings’, J. Alloys Compd, 2014, 585, 282–286."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. B. Ren, R. F. Zhao, Z. X. Liu, S. K. Guan and H. S. Zhang: ‘Microstructure and properties of Al CrFe MnNi Ti and Al <sub>?</sub> CrFe <sub>?</sub> MnNi <sub>?</sub> Si high-entropy alloys’, Rare Met., 2014, 33, (2), 149–154."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. Y. Y. Chen, H. C. Shih, J. W. Yeh and T. Duval: ‘Electrochemical kinetics of the high entropy alloys in aqueous environments—a comparison with type 304 stainless steel’, Corros. Sci., 2005, 47, (11), 2679–2699."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. Y. Y. Chen, U. T. Hong, J. W. Yeh and H. C. Shih: ‘Selected corrosion behaviors of a Cu NiAlCoCrFeSi bulk glassy alloy in 2888C high-purity water’, Scr. Mater., 2006, 54, (12), 1997–2001."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. Y. Y. Chen, T. Duval, U. T. Hong, J. W. Yeh, H. C. Shih, L. H. Wang and J. C. Oung: ‘Corrosion properties of a novel bulk Cu NiAlCoCrFeSi glassy alloy in 2888C high-purity water’, Mater. Lett., 2007, 61, (13), 2692–2696."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "31. C. P. Lee, Y. Y. Chen, C. Y. Hsu, J. W. Yeh and H. C. Shih: ‘Enhancing pitting corrosion resistance of Al CrFe MnNi high-entropy alloys by anodic treatment in sulfuric acid’, Thin Solid Films, 2008, 517, (3), 1301–1305."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "32. Y. L. Chou, Y. C. Wang, J. W. Yeh and H. C. Shih: ‘Pitting corrosion of the high-entropy alloy "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\mathrm { C o _ { 1 } . _ { 5 } C r F e N i _ { 1 } . _ { 5 } T i _ { 0 } . _ { 5 } M o _ { 0 } . _ { 1 } }"
+                            },
+                            {
+                                "type": "text",
+                                "content": "in chloridecontaining sulphate solutions’, Corros. Sci., 2010, 52, (10), 3481–3491."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "33. C. M. Lin, H. L. Tsai and H. Y. Bor: ‘Effect of aging treatment on microstructure and properties of high-entropy Cu<sub>0?5</sub>CoCrFeNi alloy’, Intermetallics, 2010, 18, (6), 1244–1250."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "34. C. M. Lin and H. L. Tsai: ‘Effect of annealing treatment on microstructure and properties of high-entropy FeCoNiCrCu<sub>0?5</sub> alloy’, Mater. Chem. Phys., 2011, 128, (1–2), 50–56."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "35. C. M. Lin and H. L. Tsai: ‘Evolution of microstructure, hardness, and corrosion properties of high-entropy Al<sub>0?5</sub>CoCrFeNi alloy’, Intermetallics, 2011, 19, (3), 288–294."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "36. Z. H. Gan, L. M. Xu, Z. H. Lu, H. H. Zhou, C. H. Song, F. Huang and A. Novel: ‘High-entropy alloy AlMgZnSnPbCuMnNi with low free corrosion potential’, Appl. Mech. Mater., 2013, 327, 103–107."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "37. X. W. Qiu, Y. P. Zhang, L. He and C. G. Liu: ‘Microstructure and corrosion resistance of AlCrFeCuCo high entropy alloy’, J. Alloys Compd, 2013, 549, 195–199."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "38. D. A. Jones: ‘Principle and prevention of corrosion’, 2nd edn; 1996, Upper Saddle River, NJ, Prentice Hall."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "39. J. R. Davis: ‘Corrosion of aluminum and aluminum alloys’; 1999, Materials Park, OH, ASM International."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "40. M. A. Hemphill, T. Yuan, G. Y. Wang, J. W. Yeh, C. W. Tsai, A. Chuang and P. K. Liaw: ‘Fatigue behavior of Al CoCrCuFeNi high entropy alloys’, Acta Mater., 2012, 60, (16), 5723–5734."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "41. C. J. Tong, Y. L. Chen, S. K. Chen, J. W. Yeh, T. T. Shun, C. H. Tsau, S. J. Lin and S. Y. Chang: ‘Microstructure characterization of Al CoCrCuFeNi high-entropy alloy system with multiprincipal elements’, Metall. Mater. Trans. A, 2005, 36, (4), 881–893."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "42. A. Takeuchi and A. Inoue: ‘Classification of bulk metallic glasses by atomic size difference, heat of mixing and period of constituent elements and its application to characterization of the main alloying element’, Mater. Trans., 2005, 46, (12), 2817–2829."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "43. S. Praveen, B. S. Murty and R. S. Kottada: ‘Phase evolution and densification behavior of nanocrystalline multicomponent high entropy alloys during spark plasma sintering’, JOM, 2013, 65, (12), 1797–1804."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "44. J. M. Vitek and S. A. David: ‘The sigma phase transformation in austenitic stainless steels’, Weld. J., 1986, 65, 106–111."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "45. S. Singh, N. Wanderka, B. S. Murty, U. Glatzel and J. Banhart: ‘Decomposition in multi-component AlCoCrCuFeNi highentropy alloy’, Acta Mater., 2011, 59, (1), 182–190."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "46. S. Singh, N. Wanderka, K. Kiefer, K. Siemensmeyer and J. Banhart: ‘Effect of decomposition of the Cr–Fe–Co rich phase of AlCoCrCuFeNi high entropy alloy on magnetic properties’, Ultramicroscopy, 2011, 111, (6), 619–622."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "47. C. Zhang, F. Zhang, S. Chen and W. Cao: ‘Computational thermodynamics aided high-entropy alloy design’, JOM, 2012, 64, 839–845."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "48. M. F. Lo´pez, A. Gutie´rrez, M. C. Garcı´a-Alonso and M. L. Escudero: ‘Surface analysis of a heat-treated, Al-containing, iron-based superalloy’, J. Mater. Res., 1998, 13, (12), 3411–3416."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "49. H. P. Tang, Y. Wang, Y. Liu, W. J. Li and C. Han: ‘Oxidation behaviors of Ni–Cr–Al superalloy foams at 10008C in air’, J. Cent. South Univ., 2013, 20, 3345–3353."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "50. S. Seal, S. C. Kuiry and L. A. Bracho: ‘Surface chemistry of oxide scale on IN-738LC superalloy: effect of long-term exposure in air at 1173 K’, Oxid. Met., 2002, 57, 297–322."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "51. N. Birbilis and R. G. Buchheit: ‘Measurement and discussion of low-temperature hot corrosion damage accumulation upon nickel-based superalloy Rene 104’, Metall. Mater. Trans. A, 2008, 39, (13), 3224–3232."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                58,
+                492,
+                90
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Qiu et al. Corrosion characteristics of high entropy alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                621,
+                16,
+                954,
+                28
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials Science and Technology 2015 VOL 00 NO 0"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                963,
+                905,
+                973
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                963,
+                954,
+                973
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "View publication stats"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                988,
+                151,
+                996
+            ]
+        }
+    ]
+]

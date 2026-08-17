@@ -1,0 +1,3976 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of Alloying Elements and Residuals on Corrosion Resistance of Type 444 Stainless Steel"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                64,
+                169,
+                907,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "N.J.E. Dowling,* Y.-H. Kim, S.-K. Ahn, and Y.-D. Lee**"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                284,
+                451,
+                300
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                462,
+                168,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The principal criteria for the corrosion resistance of intermediate-grade ferritic stainless steels (SS) were examined in a neutral chloride (Cl<sup>–</sup>) solution. The effect of increasing quantities of chromium and molybdenum was estimated for several heats in terms of the breakdown potential (E ). The effect of inclusions (particularly the oxide-sulfide type) in type 444 SS ([UNS S44400] 19% Cr-2% Mo-Nb or 19% Cr-2% Mo alloy), combined with the alloying element trend, permitted derivation of an expression that integrated both phenomena. The expression represents the mutually opposing effects of the chromium/molybdenum passive film reinforcement as represented by the pitting resistance equivalent number (PREN), as well as incorporating the deleterious contribution of the inclusion density (C, /mm<sup>2</sup>). Aluminum reduced the total inclusion content, which was associated with an increase in E . Since no aluminum was detected in the passive film of high aluminum steels, it appeared likely that the prime effect of this element on corrosion resistance was via inclusion suppression. Corrosion studies of welded type 444 SS demonstrated that dual stabilization with low individual concentrations of titanium and niobium provided optimum corrosion resistance. This apparent synergism of niobium and titanium was independent of the surface of the welded materials, which were examined in the as-received, pickled,"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                491,
+                487,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "or polished states. The effect of the surface state in all cases was shown to exercise a critical effect on passive behavior."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                463,
+                942,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "KEY WORDS: aluminum, breakdown potential, chromium, corrosion resistance, inclusions, molybdenum, niobium, pitting resistance equivalent, stainless steel, titanium, type 444 stainless steel"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                500,
+                932,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                568,
+                673,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The development of ferritic stainless steels (SS) has focused mainly on advances in clean steel technology through processes such as argon-oxygen desulfurization (AOD) and vacuum oxygen desulfurization (VOD).<sup>1</sup> In terms of corrosion performance, these efforts have been rewarded by a significant increase in resistance to pitting and crevice corrosion in addition to the more usual problems of sensitization associated with chromium carbide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( C r _ { 2 3 } C _ { 6 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "precipitation. In addition to the considerable reduction in interstitial elements (sulfur, oxygen, carbon, and nitrogen), the use of low-level alloying has increased,<sup>2</sup> such that more than 50% of applications for ferritic SS patents in Japan, Europe, and the United States from 1969 to 1996 specified the addition of some minor component at < 1%. The most frequent goal of this tinkering is to extend the corrosion resistance of a certain grade with limited characteristics to cover a specific use, which lies just outside the normal operational specifications. Although the range of low-level alloying elements is wide (including lanthanides and rare-earth elements for specific tasks), the majority of multiapplication alloys limit"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                598,
+                947,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                947,
+                57
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Submitted for publication October 1997; in revised form, April 1998."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                840,
+                465,
+                864
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Stainless Steel Research Dept., Pohang Iron and Steel Co., Pohang P.O. Box 36, 1, Koedong-dong, Nam-ku, Pohang-shi, Kyung-buk, Korea. Present address: PETROFINA SA, 52 rue de l’industrie, B-1040, Brussels, Belgium."
+                    }
+                ]
+            },
+            "bbox": [
+                74,
+                863,
+                489,
+                906
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "** Stainless Steel Research Dept., Pohang Iron and Steel Co., Pohang P.O. Box 36, 1, Koedong-dong, Nam-ku, Pohang-shi, Kyung-buk, Korea."
+                    }
+                ]
+            },
+            "bbox": [
+                71,
+                905,
+                489,
+                939
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                296,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0010-9312/99/000041/$5.00+$0.50/0 © 1999, NACE International"
+                    }
+                ]
+            },
+            "bbox": [
+                388,
+                948,
+                625,
+                974
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "187"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                960,
+                947,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fc35258ec4310bcd1b8f58ec76220d0c59fd86c5e64bf4f920425c851021353e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Elemental Compositions of Experimental Heats"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Heat</td><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Cr</td><td>Mo</td><td>Nb</td><td>N</td><td>Nb/C + N</td></tr><tr><td>F18-2Nb</td><td>0.008</td><td>0.24</td><td>0.26</td><td>0.002</td><td>0.003</td><td>17.88</td><td>2.10</td><td>0.22</td><td>0.009</td><td>12.94</td></tr><tr><td>F19-0Nb</td><td>0.009</td><td>0.24</td><td>0.25</td><td>0.002</td><td>0.003</td><td>19.22</td><td>0</td><td>0.22</td><td>0.008</td><td>12.94</td></tr><tr><td>F19-1Nb</td><td>0.01</td><td>0.25</td><td>0.26</td><td>0.002</td><td>0.003</td><td>18.9</td><td>0.97</td><td>0.23</td><td>0.008</td><td>12.78</td></tr><tr><td>F19-3Nb</td><td>0.008</td><td>0.22</td><td>0.26</td><td>0.002</td><td>0.003</td><td>18.92</td><td>3.07</td><td>0.22</td><td>0.009</td><td>12.94</td></tr><tr><td>F22-1Nb</td><td>0.01</td><td>0.26</td><td>0.26</td><td>0.002</td><td>0.003</td><td>21.96</td><td>0.99</td><td>0.23</td><td>0.010</td><td>11.50</td></tr><tr><td>F24-0Nb</td><td>0.013</td><td>0.26</td><td>0.26</td><td>0.002</td><td>0.003</td><td>24.05</td><td>0</td><td>0.24</td><td>0.008</td><td>11.43</td></tr><tr><td>F19-2Nb</td><td>0.0011</td><td>0.26</td><td>0.26</td><td>0.002</td><td>0.003</td><td>19.03</td><td>2.03</td><td>0.23</td><td>0.014</td><td>9.20</td></tr><tr><td>F19-2CuNb</td><td>0.009</td><td>0.26</td><td>0.27</td><td>0.002</td><td>0.003</td><td>19.03</td><td>2.04</td><td>0.24</td><td>0.009</td><td>13.33</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                111,
+                930,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "microalloying to niobium, titanium, aluminum, and copper. These elements were the subject of the present study in the context of the medium-grade type 444 ferritic SS (UNS S44400)<sup>(1)</sup> of the basic composition 19% Cr-2% Mo."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                286,
+                458,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In general terms, pitting corrosion of mediumgrade, unwelded SS, of which the most important class is the sulfides, is controlled by inclusion type, size, and distribution.<sup>3</sup> Immediately following the initiation event, however, pit propagation is controlled mainly by alloy composition of the metal matrix. Most research into medium-grade SS in the last 20 years has focused largely on austenitic materials as a direct result of their simple fabrication characteristics to the detriment of the often more economical ferritic equivalents. However, recent advances in process manufacturing have made ferritic SS a more viable option in numerous environments.<sup>4-5</sup> The present study examined the corrosion resistance of medium-grade ferritic SS in neutral chloride (Cl<sup>–</sup>) environments and the utility of microalloying in the unwelded and welded states."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                360,
+                468,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS AND METHODS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                625,
+                303,
+                643
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Metallurgy and Specimen Fabrication"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                655,
+                375,
+                673
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Elemental compositions of the principal heats are provided in Table 1 and were analyzed for corrosion resistance with respect to their chromium and molybdenum contents. The heats were manufactured in 30-kg ingots, which subsequently were surfaceground and hot-rolled to 6 mm. After annealing at 1,100°C, the metal was cold-rolled to 2-mm thickness and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. Welded specimens were cut similarly in circular punched discs. However, great care was taken to place the fusion line in the center of each disc, thus leaving half the disc occupied by the weld metal and the other half a mixture of heat-affected zone (HAZ) and base metal."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                673,
+                468,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                284,
+                914,
+                316
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electron Spectroscopy for Chemical Analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                328,
+                708,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens were polished to a 1-µm diamond finish, degreased in acetone, and immersed in aerated 3% sodium chloride (NaCl) solution for 24 h. Subsequently, the specimens were rinsed briefly in distilled water, then rinsed in absolute alcohol, and dried in a stream of dry air. Depth profile analysis was carried out at 45° with a Perkin-Elmer Model Phi 5400<sup>†</sup> instrument. The sputtering rate was estimated to be 2 nm/min. The internal correction standard was C1s at 284.6 eV (the hydrocarbon [HC] peak). Depth profiles were obtained from base metal and the weld HAZ."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                361,
+                932,
+                540
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scanning Electron Microscopy and Electron Probe Microanalysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                506,
+                550,
+                802,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A metallurgically fine structure was revealed using a JEOL Model JXA-8600<sup>†</sup> superprobe. Specimens were polished to a 0.05-µm diamond finish and degreased prior to electrochemical polarization in 3% NaCl solution (deaerated). The samples were introduced into an EG&G<sup>†</sup> disc specimen holder where only the central region was exposed. The samples were subjected subsequently to a polarization sweep to the breakdown potential (E ) at which the test was stopped when the current exceeded "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { - 5 } \\mathrm { A } / \\mathrm { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In this way, subsequent examination of the surface by scanning electron microscopy (SEM) revealed the origins of the corrosion initiation without complete dissolution of the surrounding region. Electron probe microanalysis (EPMA) enabled a survey of the initiation zones including the predominating and associated inclusions. Prior to SEM and EPMA, the specimens were sputter-coated with a thin film of gold. Surface analysis generally was carried out at a magnification of 2,700x."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                586,
+                930,
+                882
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cyclic Polarization Studies"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                892,
+                743,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens not subject to post-test metallurgical analysis were polished to 600 grit (silicon carbide"
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                910,
+                923,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                314,
+                56
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>(1)</sup> UNS numbers are listed in Metals and Alloys in the Unified Numbering System, published by the Society of Automotive Engineers (SAE) and cosponsored by ASTM."
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                893,
+                427,
+                929
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>†</sup> Trade name."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                928,
+                152,
+                939
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "188"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                85,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/25d5ebf093270434c2b2d4df9e106f3d7f6c1753184c77a35d2a5f9d55a5890c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fundamental Polarization Characteristics of Experimental Heats in 3.5% NaCl at 30°C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Heat</td><td> $\\mathsf { E } _ { \\mathsf { b } }$ </td><td>OCP</td><td>Er</td><td> $\\mathbf { I _ { c o r r } }$ </td></tr><tr><td>F18-2Nb</td><td>0.439</td><td>-0.281</td><td>0.196</td><td> $8 . 1 2 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>F19-0Nb</td><td>0.310</td><td>-0.184</td><td>-0.128</td><td> $8 . 4 \\times 1 0 ^ { - 9 }$ </td></tr><tr><td>F19-1Nb</td><td>0.366</td><td>-0.184</td><td>0.253</td><td> $9 . 3 \\times 1 0 ^ { - 9 }$ </td></tr><tr><td>F19-3Nb</td><td>0.543</td><td>-0.170</td><td>0.113</td><td> $1 . 9 3 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>F22-1Nb</td><td>0.465</td><td>-0.203</td><td>0.222</td><td> $1 . 0 1 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>F24-0Nb</td><td>0.438</td><td>-0.156</td><td>0.225</td><td> $1 . 2 3 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>F19-2Nb</td><td>0.437</td><td>-0.28</td><td>0.193</td><td> $4 . 1 7 \\times 1 0 ^ { - 8 }$ </td></tr><tr><td>F19-2CuNb</td><td>0.451</td><td>-0.171</td><td>0.067</td><td> $8 . 1 \\times 1 0 ^ { - 9 }$ </td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                130,
+                111,
+                885,
+                245
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[SiC] paper), degreased with 95% ethanol, and dried in a stream of dry air. The metal coupons then were kept in a dry, dust-free place for 24 h immediately prior to use. Subsequently, the specimens were subjected to a dry air stream and introduced directly into an "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E G } \\& \\mathbf { G } ^ { \\dagger }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "disc specimen holder with special precautions against crevice formation. The test solution of 3.5% NaCl was deaerated with high-purity nitrogen at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "using a water bath. The specimens were polarized initially from –20 mV with respect to the corrosion potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( E _ { c o r r } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to a maximum potential of 0.8 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V } _ { \\mathrm { S C E } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The reverse polarization sweep was triggered at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\times 1 0 ^ { - 3 } \\mathrm { A } / \\mathrm { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The final potential was set to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { \\mathrm { c o r r } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with a sweep rate of 20 mV/min. The electrochemical vessels were deaerated systematically for 60 min prior to polarization. On the occasions when crevice corrosion occurred, the associated results were rejected, and no further reference is made to them in this work. Considerable difficulties were encountered only with heat-tinted weld specimens, which had a thick surface oxide film and necessitated embedding in an epoxy resin followed by sealing the edges with a commercial product. Nevertheless, dissolution of the welded specimens generally occurred in the HAZ region."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                288,
+                487,
+                661
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Welding Parameters"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                671,
+                246,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To evaluate the corrosion properties of actual bead on plate (BOP), weld specimens were manufactured by an autogenous gas-tungsten arc (GTA) weld process. The welding current and speed were 100 A at 60 cm/min, which corresponded to a weld heat input of 1.2 kJ/cm. Pure argon purge gas was used at a rate of 15 L/min to minimize oxidation of the weld surface and was supported with back shielding again with high-purity argon at a flow rate of 15 L/min."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                688,
+                482,
+                836
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Inclusion Analyses"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                848,
+                232,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Inclusion studies were carried out after polishing to a 1-µm mirror finish. Subsequent analyses were by two different methods. Image analysis, using a Cambridge Instruments Model Quantimet 570<sup>†</sup> at 500x magnification and SEM-EPMA analyses, was"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                865,
+                487,
+                941
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f94c23395f1ee92beed45d7e2b78e2d6947caead79c3949749686191170cc818.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 1. Effect of chromium addition on ferritic SS <sub>p</sub>olarization with and without molybdenum in 3% NaCl at 300°C (deaerated)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                522,
+                287,
+                947,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "carried out as previously described to confirm the nature of the inclusions."
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                550,
+                916,
+                581
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                593,
+                614,
+                611
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Macroelement"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                624,
+                656,
+                639
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(Chromium, Molybdenum) Pitting Studies"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                641,
+                880,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Chromium-containing alloys, where the chromium concentration > 12%, tend to form passive films that reduce the dissolution rate.<sup>6</sup> The intactness of this film depends principally upon the concentration of chromium and also upon singular elements such as molybdenum, which are incorporated specifically to increase the film resistance in reducing acids and Cl<sup>–</sup>-containing environments. Polarization results of the experimental alloys in neutral Cl– (≈ pH 6.6) solutions indicated a steep and clear increase in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as a function of chromium and molybdenum concentrations (Table 2). Figure 1 shows the relative effect on the polarization diagrams of increasing chromium concentrations with and without molybdenum. An increase from 19% Cr to 24% Cr gave an "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increase of 128 mV (25 mV/%Cr), while an increase of 3% Cr from 19% Cr-1% Mo to 22% Cr-1% Mo, increased E by 99 mV (33 mV/%Cr). This difference in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while not large, supported the concept of a synergistic effect between molybdenum and chromium with respect to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { E _ { b } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Chromium compounds form the principal part of any passive<sup>7</sup> film in the form of chromic oxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( C r _ { 2 } O _ { 3 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and chromic hydroxide (Cr[OH]<sub>3</sub>),<sup>8</sup> and in increasing quantities depending upon the bulk steel chromium concentration.<sup>9</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                659,
+                947,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                298,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "189"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                961,
+                947,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8d4eb16aa7950a82c1a647ca6efe9325ab7b798aeeaf101ba32988b7d5228333.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 2. Effectof mol<sub>y</sub>bdenum addition on ferritic SS<sub>p</sub>olarization in 3% NaCl at 300°C (deaerated)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                48,
+                79,
+                472,
+                284
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e243e4d37b9ea953c1a2a6e10dd643c58a7684ea8fe4e04267ee50a9a035c5e8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 3. E as a function of mol<sub>y</sub>bdenum concentration in ferritic SS (18% Cr to 19% Cr)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                48,
+                353,
+                472,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                48,
+                644,
+                472,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, the contribution of molybdenum contrasts with that of chromium in that molybdenum specifically may exclude penetrating Cl<sup>–</sup> ions from the passive film,<sup>10</sup> thus contributing to a reinforcement of the latter’s intactness. Figure 2 shows the evolution of the electrochemical polarization curve as a function of molybdenum addition for 18% Cr to 19% Cr ferritic SS. The relationship between "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and molybdenum concentration was almost linear over this range (Figure 3)."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                733,
+                473,
+                882
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Passive Film Composition"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                892,
+                277,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results of the polarization data were interpreted according to the surface elemental analysis provided by the investigations using electron spectroscopy for chemical analysis (ESCA, Table 3). As described in numerous studies, the passive film contained principally "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r } _ { 2 } { O } _ { 3 } . }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Figure 4 shows the chromium, iron, molybdenum, and oxygen surface elemental profiles of Heat F19-3. The exponential increase in iron after ≈ 1 min of sputtering pinpointed the passive film-solid metal interface, while discrete peaks of oxygen (maximum 80%), molybdenum (maximum 0.26%), and chromium (maximum 35%) appeared within the passive film itself. Results presented in Table 3 confirmed that the maximum chromium concentration in the passive film was a function of the bulk concentration, as shown by Boudin, et al.<sup>9</sup> The passive films under free corrosion conditions in aerated 3% NaCl solution after 24 h immersion were estimated to vary between 25 Å to 30 Å in thickness (Table 3)."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                910,
+                465,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                80,
+                930,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Distribution of the element maxima with depth was remarkably consistent between the heats. Results presented in Table 3 show that, while oxygen and molybdenum achieved their maxima within the passive film in the outer extremity at a depth of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\approx 5 \\mathrm { \\AA } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the chromium passive film concentration maximum occurred at around 12 Å to 16 Å. The film growth reactions in all cases were assumed to follow the overall scheme where the hydrated metal ions eventually formed stable oxides that underwent a condensation reaction to form a compact surface barrier layer generally described as:"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                347,
+                927,
+                526
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "2 \\mathrm { C r } \\big ( 0 \\big ) + 3 \\mathrm { H } _ { 2 } \\mathrm { O }  \\mathrm { C r } \\big ( \\mathrm { I I I } \\big ) _ { 2 } \\mathrm { O } _ { 3 } + 6 \\mathrm { H } ^ { + } + 6 \\mathrm { e } ^ { - }\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/319c50a42aad72bd1d2490828d5511a5f14206c685f3b2bb9923afaf28dd3327.jpg"
+                }
+            },
+            "bbox": [
+                565,
+                541,
+                847,
+                561
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { M o } \\mathrm { ( 0 ) } \\ + \\ 2 \\mathrm { H } _ { 2 } \\mathrm { O }  \\mathrm { M o } \\mathrm { ( I V ) } \\mathrm { O } _ { 2 } + \\ 4 \\mathrm { H } ^ { + } + 4 \\mathrm { e } ^ { - }\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a05ea83c8b9ce4dbc590ac964fa7ec2a806f2600c81f7b676e34257be95bf18c.jpg"
+                }
+            },
+            "bbox": [
+                564,
+                582,
+                852,
+                601
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { M o ( I V ) O _ { 2 } } + 2 \\mathrm { H _ { 2 } O }  \\mathrm { M o ( V I ) O _ { 4 } } ^ { 2 - } + 4 \\mathrm { H } ^ { + } + 2 \\mathrm { e } ^ { - }\\tag{3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/24f9c678fe769dbaa94ad2e28e93a6824f4f8a55082210a4580218b820af830c.jpg"
+                }
+            },
+            "bbox": [
+                553,
+                621,
+                859,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, Clayton and Lu suggested that Mo(VI)O<sup>2–</sup> is formed in a solid-state reaction from the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ \\mathrm { H _ { 2 } O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "molecules, and OH<sup>–</sup> is omnipresent in the outer extremities of the passive film.<sup>11</sup> The present data supported the hypothesis that excess "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ \\mathrm { H _ { 2 } O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and OH<sup>–</sup> were present in the outer extremities of the passive film since the quantity of oxygen at a depth of 5 Å exceeded that required to satisfy the relationships: Cr:O (2:3) and Mo:O (1:4). The observed atomic ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathrm { O } ] / [ \\mathrm { C r } + \\mathrm { M o } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", however, was in the region of 5.2 instead of the expected 1.5, which suggested the outer layers of the passive film were hydrated strongly. However, Reactions 1 through 3 imply that a reduction in pH is associated with passive film formation, which would affect the solubility of the barrier constituents below pH 6.<sup>12</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                659,
+                925,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At a low chromium concentration and in the absence of molybdenum (Heat F19-0, Figure 5), the outer part of the passive film was enriched with ferrous/ferric ions, which increased with decreasing chromium concentration.<sup>13</sup> It was deduced from Table 3 that the iron concentration in the outer layers of the passive film was to some degree inversely proportional to the pitting resistance equivalent (PREN). Compact passive films are associated with higher alloying and prevent the migration of ferrous ions to the film-electrolyte interface. Since corrosion of SS proceeds from the movement of cation and anion vacancies through the superficial layer, the electronic state of the film is of some critical importance. As expected, these results consistently showed that the passive film existed with an outer layer enriched in Mo(VI) with Fe(II/III) and an inner layer with Cr(III) predominating.<sup>11</sup> In the absence of molybdenum and at higher alloying levels (Heat F24-0Nb), however, no evidence was found for the existence of film where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was distributed unevenly. The absence of iron in the outer layers in Heat F24-0Nb suggested the passive film in this case was relatively homogenous, with the sole exception of the highly hydrated outer perimeter."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                896,
+                916,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                314,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "190"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                85,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f0a09b5f0bfe294c0fed81575a5216d8dbdfccb55603546bd1a00e5aeceb2671.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Passive Film Constituents and Depth Location Maxima (Å from Surface) in Experimental Heats"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "<sup>(A)</sup> NA, not applicable."
+                    }
+                ],
+                "html": "<table><tr><td>Heat</td><td>[0] (at%)</td><td>0 (Depth)</td><td>[Cr] (at%)</td><td>Cr (Depth)</td><td>[Mo] (at%)</td><td>Mo (Depth)</td><td>[Fe] (at%)</td><td>Fe (Depth)</td><td>Total Film Thickness</td></tr><tr><td></td><td></td><td></td><td>31</td><td></td><td>0.7</td><td>5</td><td>6</td><td></td><td></td></tr><tr><td>F18-2Nb F19-0Nb</td><td>82 75</td><td>5 5</td><td>24</td><td>16 16</td><td>0</td><td>NA(A)</td><td>12</td><td>5 5</td><td>32 30</td></tr><tr><td>F19-1Nb</td><td>82</td><td>5</td><td>27</td><td>16</td><td>0.35</td><td>5</td><td>7</td><td>5</td><td>25</td></tr><tr><td>F19-3Nb</td><td>84</td><td>5</td><td>36</td><td>16</td><td>0.26</td><td>5</td><td>1</td><td>5</td><td>25</td></tr><tr><td>F22-1Nb</td><td>72</td><td>8</td><td>32</td><td>12</td><td>1</td><td>8</td><td>1</td><td>5</td><td>25</td></tr><tr><td>F24-0Nb</td><td>78</td><td>5</td><td>35</td><td>12</td><td>0</td><td>NA</td><td>0</td><td>5</td><td>25</td></tr><tr><td>F19-2Nb</td><td>82</td><td>5</td><td>31</td><td>16</td><td>0.71</td><td>8</td><td>7</td><td>5</td><td>26</td></tr><tr><td>F19-2CuNb</td><td>81</td><td>5</td><td>30</td><td>16</td><td>0.63</td><td>12</td><td>11</td><td>5</td><td>27</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                111,
+                944,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                62,
+                303,
+                486,
+                632
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Inclusion Distribution and Alloying (Aluminum)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                641,
+                461,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting corrosion in SS is subject to the type, number, and size of intermetallic inclusions present in the steel matrix.<sup>14</sup> The inclusions in these experimental heats were dominated by large (> 8 µm) chromium and manganese oxides and somewhat smaller, fine niobium nitrides and carbides. Several experimental alloys (Table 4) contained aluminum at low levels to control residual oxygen and produce low inclusion-area (clean) steels, which were less subject to pitting. Secondary beneficial effects of aluminum were not defined as well. However, these may be associated with nitride formation<sup>15</sup> in stabilized steels where more niobium or titanium is made available for carbide and sulfide suppression."
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                659,
+                487,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To identify the pit origins in the SS, short polarizations of the highly polished alloys were carried out. In all cases, the sweep was arrested before severe damage of the steel matrix occurred, thus leaving the initiation sites relatively undamaged."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                865,
+                480,
+                941
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/354109791cad42cdc473b6c1fb16275a301e3c04db9cb2fc86c80e487fff4c2b.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 4. XPS de<sub>p</sub>th <sub>p</sub>rofile of a ferritic SS containin<sub>g</sub> 3% Mo."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                520,
+                301,
+                946,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These initiation sites were identified subsequently as exclusively associated with complex inclusions. The benefit of performing such experiments to identify inclusion-initiated pitting has been described in detail by Pickering and Frankenthal.<sup>16</sup> Figure 6 shows "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r } _ { 2 } O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and alumina "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathsf { A l } _ { 2 } \\mathbf { O } _ { 3 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oxide inclusions, the metal interfaces of which were dissolved partially during the short polarization sweep. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { A l } _ { 2 } \\mathrm { { O } _ { 3 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "inclusion in Figure 6 is shown to be partially surrounded by a dark surface stain, which was probably a ferrous hydroxide (FeOOH) corrosion product (EPMA). Figure 7 shows the partial crevice left by the dissolution of a manganese sulfide/silicon dioxide (MnS/ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { S i O _ { 2 } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "complex inclusion. Surface analysis revealed that the manganese oxidized to manganese dioxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathbf { M n O } _ { 2 } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or manganous hydroxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { { M n } [ \\mathrm { { O H } ] _ { 2 } } } \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The latter compound is more stable<sup>12</sup> and is detected after partial dissolution of MnS.<sup>17</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                569,
+                944,
+                836
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical studies of a series of experimental heats with the same macroelemental composition (i.e., 19% Cr, 2% Mo) revealed that even at low-sulfur concentrations (30 ppm), the overall number of inclusions determined the pitting resistance. Table 4 provides compositions of the heats examined for microelement variation. The first four heats (Heats"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                836,
+                946,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                298,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "191"
+                    }
+                ]
+            },
+            "bbox": [
+                914,
+                960,
+                946,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3f1be04a88dcf783d1927bcf8243a69f6357423aac94ee9db53a7c1d04f2200f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 5. XPS de<sub>p</sub>th <sub>p</sub>rofile of a ferritic SS in the absence of molybdenum."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                50,
+                79,
+                470,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "F19-2[a] through [d]) were identical in composition with the exception of the oxygen, aluminum, and inclusion content. Figure 8 presents the distribution of the pitting potentials of these heats as a function of inclusion content. Statistical data over multiple polarizations, where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { n } = ( 3 , . . . , 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was related highly to the inclusion content. Physical examination of the specimens showed that the large oxide inclusions surrounded by sulfide shells were the most frequent site of corrosion initiation. Linear regression of the 18 polarization sweeps showed that a power relation existed between "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the inclusion density (C, /mm<sup>2</sup>) where:"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                398,
+                472,
+                592
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { E _ { b } } = 0 . 6 4 5 - 0 . 1 0 5 \\times \\mathrm { l o g _ { 1 0 } } ( \\Psi )\\tag{4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/876dc8a793268cf83386cb85f985c707f81dde8d77beb253f058d1e01b2e0ebe.jpg"
+                }
+            },
+            "bbox": [
+                137,
+                609,
+                361,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No effort was made to distinguish statistically between the types of inclusions at high- and lowinclusion densities. However, qualitative analysis showed that manganese-chromium oxides dominated when the steel contained trace quantities of aluminum. While at higher aluminum concentrations, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { A l } _ { 2 } \\mathrm { { O } _ { 3 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was represented strongly. Since the sulfur, chromium, molybdenum, and niobium in Heats F19-2(a) through (d) remained constant, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "trend could be interpreted exclusively in terms of the oxide content."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                643,
+                472,
+                807
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stabilization Strategies in Welded Materials"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                818,
+                425,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The corrosion resistance limitation of SS weld sections is a problem of critical importance where the principal areas of corrosion interest are:<sup>18</sup> (1) sensitization through grain-boundary chromium depletion; (2) the appearance of secondary phases; and (3) surface heat tinting through ineffective gas shielding. While all heats were examined in the"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                836,
+                453,
+                939
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "welded and polished state (Table 1), the effect of surface tinting was observed in only a limited number (Table 4)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                80,
+                925,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Weld metal transverse microstructures of all test specimens showed large grains with columnar structure (evidence of epitaxial growth). In the HAZ, adjacent to the fusion line, coarsened grains were observed. These were significantly larger than those of the base metal. No surface defects or other subsurface abnormalities were observed in any polished transverse weld sections. To establish the effect of welding on corrosion resistance, all heats listed in Table 1 were welded, polished to 600 grit as previously, and subjected to electrochemical polarization in neutral 3.5% NaCl. In all cases, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the welded materials was significantly lower than those of the parent base metal, following no discernible trend according to chromium or molybdenum content. The niobium content in these welded steels (Table 1), of at least 0.22% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathrm { N b } / [ \\mathrm { C } + \\mathrm { N } ] > 9 . 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", did not alleviate the difference in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "between the unwelded base metal and the polished welds."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                125,
+                928,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To identify the weld region with the highest susceptibility to localized attack, several specimens were polished to 0.05 µm and subsequently were polarized according to the schema outlined above. After recovery from the electrochemical cell, these specimens were etched electrochemically in 50% nitric acid "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( H N O _ { 3 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 3 min at a potential of 3 V to reveal the grain structure around the pit and, more critically, the distance of the pit from the fusion line. However, some morphological distinctions were possible between the alloys. Figure 9 shows the simple form of a pit formed in the HAZ of Heat F22-1Nb (PREN = 24.5). The light "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H N O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "etch revealed that grain boundaries in the immediate proximity to the pit were more prone to dissolution than the inclusions, which suggested that, even in a niobium-stabilized alloy, some sensitization was possible. In contrast with the highly alloyed heat, however, F18-2Nb (PREN = 23, Figure 10) showed a veil form of primary and secondary pits, which evolved from lateral growth of a single pit. Examination of weld transverse sections showed development of the side lobes commonly associated with this kind of pit develop ment (Figure 11).<sup>19</sup> Heats with lower alloy contents (e.g., F18-2Nb) were subject to lateral pit growth producing the veil-type morphology demonstrated in Figure 10, while higher alloys (e.g., F22-1Nb) were more prone to a simple pit morphology with no evidence of such a complex expansion. Observation of the highly-polished, pitted, and ultimately "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H N O } _ { 3 ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "etched welds showed the pitting location exclusively in the HAZ ≈ 600 mm from the fusion line (Figure 12). This simple observation defined the HAZ as the most favorable location for pit propagation when unaffected by the usual surface constraints associ ated with welding. However, no evidence was"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                406,
+                927,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                314,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "192"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                85,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/46b3778d63fa8e8e34dbe4a82d4d0e995926015b20fe847eb5c9208a6a3b0426.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Compositions in Type 444 SS Heats for Comparison of Minor Alloying Element Effects(A) (Basic Composition: 19% Cr, 2.03% Mo, 0.26% Si, 0.27% Mn, 0.002% P)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "<sup>(A)</sup> Comparative inclusion effects on type 444 SS were observed for Heats (a) to (d) (Figure 8)."
+                    },
+                    {
+                        "type": "text",
+                        "content": "<sup>(B)</sup> NA, not applicable."
+                    },
+                    {
+                        "type": "text",
+                        "content": "<sup>(C)</sup> Welded specimens."
+                    }
+                ],
+                "html": "<table><tr><td>Heat</td><td>C (ppm)</td><td>S (ppm)</td><td>Stabilizing Element</td><td>AI (ppm)</td><td>0 (ppm)</td><td>N</td><td> $N b ( + T i ) / C + N$ </td><td>Inclusions (/mm²)</td></tr><tr><td>F19-2Nb (a)</td><td>90</td><td>30</td><td> ${ \\sf N b } = 0 . 2 3$ </td><td>0</td><td>360</td><td>NA(B)</td><td>NA</td><td>413</td></tr><tr><td>F19-2Nb (b)</td><td>110</td><td>30</td><td> ${ \\sf N b } = 0 . 2 3$ </td><td>0</td><td>360</td><td>0.014</td><td>9.2</td><td>164</td></tr><tr><td>F19-2Nb (c)</td><td>100</td><td>30</td><td> ${ \\sf N b } = 0 . 2 3$ </td><td>56</td><td>28</td><td>0.006</td><td>14.3</td><td>65</td></tr><tr><td>F19-2Nb (d)</td><td>90</td><td>30</td><td> ${ \\sf N b } = 0 . 2 3$ </td><td>1,350</td><td>22</td><td>0.007</td><td>14.3</td><td>19</td></tr><tr><td>F19-2T(C)</td><td>90</td><td>30</td><td> $\\Gamma \\mathrm { i } = 0 . 2$ </td><td>0</td><td>60</td><td>0.008</td><td>11.76</td><td>NA</td></tr><tr><td>F19-2Nb(C)</td><td>100</td><td>30</td><td> ${ \\sf N b } = 0 . 2 2$ </td><td>0</td><td>360</td><td>0.009</td><td>12.94</td><td>NA</td></tr><tr><td>F19-2NbT(C)</td><td>80</td><td>30</td><td> ${ \\sf N b } = 0 . 1 5$   ${ \\bar { \\mathsf { T i } } } = 0 . 0 2 6$ </td><td>0</td><td>160</td><td>0.009</td><td>10.35</td><td>NA</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                123,
+                944,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "obtained for the condition known as knife-line attack, which has been observed in high-carbon titanium- and niobium-stabilized steels. The carbon maximum of 130 ppm in these experimental steels was clearly too low."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                346,
+                477,
+                421
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of Surface State and Stabilization on Weld Corrosion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                64,
+                431,
+                378,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In contrast with the preceding observations, which were carried out on polished specimens (relatively ideal surface conditions) ferritic SS weld corrosion is affected largely by industrial considerations. Site fabrication problems often are associated with shield gas effectiveness, cooling rate, and the avoidance of weld-pool contamination. Both synthetic heat-treated specimens and actual welds acquire heat tints, which are characterized by chromium and iron oxides.<sup>20</sup> Under-scale chromium depletion of the metal-oxide interface results in thin and ineffective passive films with enhanced corrosion susceptibility. A study of the effect of the thickness and composition of these scales indicated a temperature-time relation between 800°C to 1,200°C, which associated chromium depletion with temperature and the consequential decrease in corrosion resistance.<sup>21</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                466,
+                489,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Since stabilization with titanium and niobium is effective in reducing classical weld sensitization, a comparative study was designed to examine the effectiveness of single and dual alloying using these elements to control weld oxidation and subsequent corrosion susceptibility. The steel compositions of three grades of type 444 SS with niobium-, titanium-, and Nb + Ti stabilization are presented in Table 4. With the exception of the stabilizing elements, these steels’ only significant variation in composition was in oxygen concentration, which coincided with titanium addition. Furthermore, titanium concentrations appeared, to some degree, to vary inversely with oxygen level. In contrast, niobium addition provoked no such changes in oxygen concentration."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                717,
+                489,
+                941
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d5a9a2e8881ddcd1045425478a1af5f02e4c067a33d699d521749b8e291aee8f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 6. SEM micro<sub>g</sub>ra<sub>p</sub>h of common oxides in t<sub>yp</sub>e 444 SS after corrosion initiation but not propagation."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                347,
+                946,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All three type 444 ferritic SS heats were stabilized to levels above "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathrm { N b } + \\mathrm { T i } ] / [ \\mathrm { C } + \\mathrm { N } ] = 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which is considered adequate for 19% Cr alloys with relatively low carbon levels (~ 100 ppm). The polarization behaviors of three surface states: as-welded, pickled, and polished are presented in Figures 13 through 15. Pickling was carried out using a proprietary process with sulfuric acid "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( H _ { 2 } S O _ { 4 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and fluoride salts. None of the as-welded steels exhibited any passive region, while the only passive member of the pickled welds was the dual-stabilized steel. All of the polished weld materials demonstrated a passive region (up to a minimum of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 5 \\mathrm { V } _ { \\mathrm { s c E } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In general terms, the polarization diagrams (Figures 13 through 15) indicated the high net corrosion susceptibility of the as-welded materials, followed to a lesser degree by the pickled welds, and finally, the most intact surface: the pol-"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                687,
+                944,
+                942
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "193"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                960,
+                947,
+                975
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                298,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e4a10fb871d71a512683df0e2ea7aa6af2e6ad1fca3613770720f1ff227b1f7c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 7. SEM micro<sub>g</sub>ra<sub>p</sub>hofan ox<sub>y</sub>sulfide inclusion int<sub>yp</sub>e444SS after corrosion initiation but not propagation."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                52,
+                81,
+                472,
+                344
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1703be86ebe1e6f3665217af8d9f8c8a91cbf7478e00ee6f828f119c9f945f29.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 8. Effect of increasin<sub>g</sub> inclusion content on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { b }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 3% NaCl at 300° C (deaerated)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                48,
+                416,
+                472,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ished welds. While addition of titanium increased "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to a slightly greater degree than niobium addition, dual stabilization with low titanium and a proportionately lowered niobium provided the highest value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                717,
+                468,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Direct comparison of the results was complicated by the absence in many cases of the principle characteristic of SS corrosion, namely "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", upon which much previous work has been based. Therefore, results are summarized in Table 5 where, in lieu of a comparison of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "values according to heat and surface state, a measure of their relative resistance to corrosion is provided by the current density (a selected potential), which, in this case, was 0 V<sub>SCE</sub>. Table 5 shows that in all states (as-welded, pickled,"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                793,
+                472,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and polished) dual stabilization provided the lowest current density."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                80,
+                914,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Surface depth profiling of the heat-tinted metal surfaces revealed a layer of iron oxide (probably ferric oxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left[ \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 } \\right] )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "obscuring the surface, which was accompanied by chromium depletion at the oxide scale-solid metal matrix interface. It was concluded that chromium was evaporated during the welding process, and its replacement in the passive film subsequently was hindered by scale formation. Since the scale oxide was extremely porous and hydroscopic, it was assumed that post-weld active behavior of the steel occurred through this region, analogous to grain-boundary sensitization."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                111,
+                930,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Post-polarization inspection of the welded metal specimens showed a distinct difference in surface aspect. While the polished specimens were subject to localized surface pitting with deep pits usually aligned with the weld, the pickled and as-welded specimens were subject to uniform corrosion of the HAZ, which removed a large quantity of surface oxide immediately above the metal (revealing bright metal underneath). This oxide removal was most pronounced in the HAZ immediately adjacent to the fusion line."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                288,
+                930,
+                452
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                506,
+                464,
+                631,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ferritic SS such as type 444 SS (19% Cr-2% Mo) display good corrosion resistance compared to other medium-grade SS.<sup>1,22</sup> As with all SS alloys, however, optimization necessitates taking into account not only the potential applications but fabrication constraints, including cold work and welding, which degrade effectiveness of the base metal. In consequence, a given application requires some assessment of both macro- (chromium and molybdenum) and micro- (sulfur, carbon, nitrogen, and oxygen) effects which, for economic reasons, favor minimum limits for chromium and molybdenum while controlling the residual elements with a combination of clean steel technology and microalloying."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                495,
+                930,
+                704
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Macroelement Effects"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                715,
+                703,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The relationship between SS content and the resultant actual corrosion resistance in a given environment is a question of considerable philosophical and commercial interest. With a number of important exceptions, the PREN permits a ranking of corrosion resistance according to alloy content. In austenitic SS, Alfonsson and Qvarfort have shown that several linear correlations between chromium, molybdenum, and nitrogen contents and pitting temperatures are possible where the weighting factors were adjusted to take into account the principal effects on the metallurgical structure and passive film.<sup>23</sup> The most frequent citations require a weighting factor of 3.3 for molybdenum and 16 for nitrogen (PREN = %Cr +"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                733,
+                932,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                314,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "194"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                85,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/688f8e86526eb525fbcfb227cd6497a7a3b42708c905751fa84f2562eb2f0e30.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 9. SEM micro<sub>g</sub>ra<sub>p</sub>hofasim<sub>p</sub>le<sub>p</sub>itin a22%Cr-1%Moferritic SS weld."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                69,
+                80,
+                487,
+                316
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3789ffcd780d27ef8c385244ec359931f07bdec2aa6039522d8330f8ca48ca80.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 11. O<sub>p</sub>tical micro<sub>g</sub>ra<sub>p</sub>hof<sub>p</sub>ittransversesection in a 18%Cr-2% Mo ferritic SS weld"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                67,
+                394,
+                486,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3% Mo + 16% N). In ferritic SS, however, the weighting factor for molybdenum is somewhat lower, and the contribution of nitrogen is omitted because of the low solubility of that element in a bodycentered cubic (bcc) matrix and the tendency to form nitrides, which are deleterious to corrosion resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                702,
+                484,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PREN values for the ferritic experimental alloys in this study (PREN = %Cr + x% Mo) were considered as a function of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Simple linear regression of these values provided an estimation of the degree of fit of the data in terms of the standard deviation (SD) and R-factor, as a function of the molybdenum weighting factor (x). Variation in the molybdenum weighting factor (x = 0 to 4) as a function of the degree of fit indicated that the optimal (x) value was ≈ 2.5 (Figure 16). Thus, the optimal equation for ranking intermediate-grade SS under these conditions was PREN = %Cr + 2.5% Mo. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "data was recalculated subsequently in terms of this arrangement, and results are presented in Figure 17."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                791,
+                484,
+                941
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8ec89d27d4cecd9c8a688422fc276c6645f5f14cde48b9f7bddfce16dc12835b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 10. O<sub>p</sub>tical micro<sub>g</sub>ra<sub>p</sub>h of a <sub>p</sub>it with a surface veil in a 18% Cr-2% Mo ferritic SS weld."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                80,
+                946,
+                316
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c039ad7c2865022f3ffdf3eec9ff69eff85f51b34a4cdbde6d88a2fbfe7f0daa.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 12. Surface mor<sub>p</sub>holo<sub>gy</sub> of<sub>p</sub>its located nearthe HAZ-weldmetal junction in a 18% Cr-2% Mo ferritic SS weld."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                394,
+                946,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                520,
+                702,
+                944,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Given the optimal PREN expression and constant experimental conditions, a high degree of linearity was observed (Figure 17) between the chromium and molybdenum compositions of the different heats and their respective "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "values. The simple regression line of these data was identified as:"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                761,
+                946,
+                851
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } { \\mathrm { E } _ { \\mathrm { b } } = } & { { } - 0 . 2 8 3 + 0 . 0 3 0 5 \\Big [ \\% \\mathrm { C r } + 2 . 5 \\% \\mathrm { M o } \\Big ] } \\end{array}\\tag{5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2b10af964e76e66ca57d1ac7b0fde009c8d04d1c9b28a6e8943b68bb6a376f10.jpg"
+                }
+            },
+            "bbox": [
+                576,
+                868,
+                868,
+                893
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Industrial PREN values of type 444 SS fall in the range from 23 to 24.5, which, given an average and predominantly oxide inclusion content of 300 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathrm { m m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with limited sulfur "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( < 0 . 0 0 4 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", gives a theoretical "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of 0.45 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", according to Equation (5). This value corresponds well with those reported by Steigerwald, et al.,<sup>1</sup> and Felloni, et al.,<sup>24</sup> despite certain experimental differences with the present study and an absence of inclusion values for these data."
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                909,
+                930,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                298,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "195"
+                    }
+                ]
+            },
+            "bbox": [
+                914,
+                960,
+                947,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/4ca17f4d0ab9451f2984a86c1a05881252eac108819ab9348d5cbccfa2813d55.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 13. Polarization of niobium- titanium- and dual-stabilized (Nb + Ti) variants of type 444 SS in 3% NaCl (deaerated) in the aswelded state."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                50,
+                79,
+                472,
+                287
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e6677bec0b4189be1f0019796b6feae283d8a4812b491024f9c4eaf7402ac12b.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 14. Polarization of niobium- titanium- and dual-stabilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N b + T i )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "variants of type 444 SS in 3% NaCI (deaerated) in the pickled state. (Only the dual-stabilized material displayed passive behavior)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                50,
+                369,
+                472,
+                581
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/78d86c26f300c4a4c1648d17243cc0eee3b3b78cf01d46e297540d5afe3a12cd.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 15. Polarization of niobium- titanium- and dual-stabilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N b + T i )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "variants of type 444 SS in 3% NaCI (deaerated) in the polished state."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                50,
+                678,
+                472,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                80,
+                921,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These changes in corrosion resistance correlated well with ESCA results of the passive film, which determined the compactness of the oxide layer (Table 3). The chromium and molybdenum content did not have a discernible effect on total thickness, which varied between 25 Å and 32 Å. Surface analytical data also revealed the presence of two molybdenum peaks (Figure 4) that accumulated at the outer extremity of the passive film (≈ 5 µm from the surface) and at the film-metal matrix interface. While the outer molybdenum Peak 1 located in the passive film was most prominent when the matrix contained 3% Mo, no actual increase in molybdenum concentration was observed (Table 3). This suggested that only the molybdate (MoO<sup>2–</sup>) accumulating at the film-metal interface (Peak 2) contributed to the corrosion resistance as detected by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", since higher molybdenum concentrations uniformly resulted in an increasing corrosion resistance (Figure 3)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                185,
+                928,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coincidence of molybdenum and the electronic bipolarity of passive films has been studied previously.<sup>11</sup> However, speculation on the role of this bipolarity on the movement of anion and cation vacancies has not been confirmed by interpretable changes in the electronic state of the passive film semiconductor properties. In addition, the contribution of the other commonly found element (iron) in the passive film is somewhat ambiguous. At higher PREN values, iron in the extreme passive film layer was below detectable limits. Therefore, it is possible to conclude that the presence of iron in the passive film was merely a result of the diffusion of ferrous iron through the more porous films present on lower alloy materials. These cations subsequently oxidized to insoluble "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "salts in the high "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "outer layer. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "then would occupy and block the external passive region since the pH and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "remained high.<sup>12</sup> Once installed in the outer regions of the passive film, however, the iron contributes almost exclusively to the n-type behavior of the capacitance,<sup>13</sup> which would tend to drive any corrosion propagation reaction in the early stages."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                466,
+                928,
+                808
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interaction of Alloying and Residual Elements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                818,
+                901,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Despite the remarkable absence of the minor elements in expressions such as PREN, which purport to rank SS, their contribution to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were not negligible (Figure 8). Since initiation is almost exclusively associated with galvanic couples or crevice geometries arising from the inclusion-metal interface, their type and number are critical to assessing the"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                836,
+                930,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                312,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "196"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                83,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d9e369f8f899613c7b2b01f05f714a45ffe797627b1fc6a975255024034cb6dc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Comparison Between Stabilization Modes in Type 444 SS in Neutral 3.5% NaCl as a Function of Exchange Current Density (A/cm²) at 0 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { s c E }"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Surface State</td><td> $\\bar { \\mathsf { T i } } \\bar { \\mathsf { - } }$  Stabilized</td><td>Nb- Stabilized</td><td>Dual- Stabilization</td></tr><tr><td>Polished</td><td> $8 . 2 7 \\times 1 0 ^ { - 7 }$ </td><td> $1 . 0 5 \\times 1 0 ^ { - 6 }$ </td><td> $7 . 8 9 \\times 1 0 ^ { - 7 }$ </td></tr><tr><td>Pickled</td><td> $5 . 0 \\times 1 0 ^ { - 5 }$ </td><td> $4 . 0 2 \\times 1 0 ^ { - 5 }$ </td><td> $9 . 7 \\times 1 0 ^ { - 7 }$ </td></tr><tr><td>As-welded</td><td> $5 . 1 4 \\times 1 0 ^ { - 5 }$ </td><td> $4 . 9 7 \\times 1 0 ^ { - 4 }$ </td><td> $4 . 9 \\times 1 0 ^ { - 6 }$ </td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                65,
+                137,
+                486,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "corrosion resistance of the SS grade. In an attempt to model these variations, Yazawa, et al., has proposed an expression for a calculated breakdown potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( E _ { b c } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which reflects the elemental composition of the different materials:<sup>25</sup>"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                256,
+                486,
+                329
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { c } { { \\mathrm { E _ { b c } = 2 9 . 4 C r + 2 1 8 . 8 M o + 3 8 2 . 3 N b } } } \\\\ { { + 3 5 4 . 5 \\mathrm { T i } - 3 8 . 2 \\mathrm { C u } - 6 . 5 4 0 \\mathrm { C } } } \\\\ { { + 1 , 3 6 4 . 8 \\mathrm { N } - 4 2 1 . 7 } } \\end{array}\\tag{6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/517d44082135a33ca41fad8de795aace87877b2ab55922ab830c683a03e14821.jpg"
+                }
+            },
+            "bbox": [
+                130,
+                352,
+                397,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E } _ { \\mathrm { b c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the experimental heats presented were calculated according to Equation (6), and the result is presented in Figure 18 compared with the actual breakdown data for the respective heats. The slopes of the two systems appeared to differ marginally. However, the calculated result spread according to the expression overlapped the experimental data (Equation [6]). Thus, it was concluded that the experimental data was in broad agreement with the expression, although the limits for this coincidence was limited by PREN values from 21 to 27. Outside this region, the expression engendered an increasing error."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                421,
+                486,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Aside from the effects of selected minor elements on corrosion resistance, which is the object of Equation (6), it is essential to rationalize the effect of both the macroelements embodied in the theoretical evaluation of an alloy using the PREN and the negative contribution provided by the common occurrence of mixed oxide-sulfide inclusions. Oxide and sulfide inclusions have a deleterious effect on corrosion resistance of SS (Figure 8).<sup>26</sup> The introduction of both aluminum and titanium into the melts had a clear suppression effect on oxygen and sulfur and consequently on C and corrosion resistance (Table 4, Figure 8). However, the extended use of this approach in industrial heats has well-defined metallurgical limitations. Furthermore, the total elimination of inclusions on an industrial scale is not practicable at present and in consequence, their effect on the corrosion resistance of a given SS may be considerable. An expression incorporating the contribution of the alloying elements (those with desirable properties) as well as the inclusion-forming residuals, therefore, is necessary to estimate the corrosion resistance of the steel. Therefore, a linear double regression is proposed which links "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } } , \\Psi"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the PREN:"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                614,
+                489,
+                941
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/924cfaf72c13da8241b1bbefce1b99953e99080b1c4aafad5ed5ea99f208769b.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 16. Estimates for the PREN mol<sub>y</sub>bdenum e<sub>q</sub>uivalent weighting factor in intermediate-chromium ferritic SS"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                522,
+                77,
+                947,
+                301
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/baeb90e17a3ea2706e057930166e5f7d554dcece6b2f28f14863ffa5bcaa3115.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 17. Summar<sub>y</sub> of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { b }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of <sub>p</sub>arent metal and welded <sub>p</sub>olished specimens as a function of variable PREN (PREN = %Cr + 2.5% Mo)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                524,
+                379,
+                946,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                522,
+                692,
+                916,
+                721
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { E _ { b } = a _ { 0 } + a _ { 1 } \\left( l o g _ { 1 0 } 4 \\right) + a _ { 2 } P R E N }\\tag{7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/39cc40ea0ba165698bd0d9ece0b37c4a7dce6a6e08a5320d4df3afecea18c406.jpg"
+                }
+            },
+            "bbox": [
+                614,
+                738,
+                833,
+                761
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where the coefficients "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a } _ { 0 } , \\mathbf { a } _ { 1 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are unknown. The usual solutions for the three unknowns are provided by Equations (8) through (10):"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                777,
+                937,
+                822
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathbf { a } _ { 0 } \\mathbf { n } + \\mathbf { a } _ { 1 } \\Sigma \\Bigl ( \\mathbf { L } \\mathbf { o g } _ { 1 0 } \\boldsymbol { \\Psi } \\Bigr ) + \\mathbf { a } _ { 2 } \\Sigma ( \\mathrm { P R E N } ) = \\Sigma \\Bigl ( \\mathbf { E } _ { \\mathbf { b } } \\Bigr )\\tag{8}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ab4fa8d159f40360a9b47f4f4c603a4d540eda2f854b6edc1020b07d39dab05a.jpg"
+                }
+            },
+            "bbox": [
+                579,
+                839,
+                864,
+                863
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } & { \\mathrm { \\bf ~ a } _ { 0 } \\Sigma \\Bigl ( \\log _ { 1 0 } \\Psi \\Bigl ) + \\mathrm { \\bf ~ a } _ { 1 } \\Sigma \\Bigl ( \\log _ { 1 0 } \\Psi ^ { 2 } \\Bigl ) + \\mathrm { \\bf ~ a } _ { 2 } \\Sigma \\Bigl ( \\log _ { 1 0 } \\Psi \\times \\mathrm { P R E N } \\Bigl ) } \\\\ & { \\quad \\quad \\quad = \\Sigma \\Bigl ( \\log _ { 1 0 } \\Psi \\times \\mathrm { E } _ { \\mathrm { b } } \\Bigl ) } \\end{array}\\tag{9}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/70c723d2ccb4fa212e1e77bc6ddd250f79631d1bfbcce025e8d969738328e7e4.jpg"
+                }
+            },
+            "bbox": [
+                543,
+                885,
+                899,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                42,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "197"
+                    }
+                ]
+            },
+            "bbox": [
+                914,
+                960,
+                947,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                957,
+                298,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1b0468d697236dfd33965c90db2cb6533a34851a4b9411d5c2ff360412df800d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 18. Com<sub>p</sub>arisonofex<sub>p</sub>erimentalresultswiththosecalculated from the expression determined by Yazawa, et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a / . ^ { 2 5 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                48,
+                79,
+                473,
+                318
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e16130016a1871261a7d056646bdad4f478b5fa733942a538b5139e78523c72c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 19. Theoretical relationshi<sub>p</sub>derivedfrom ex<sub>p</sub>erimentaldata between the effect of inclusions and chromium and molybdenum concentrations (PREN) on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { b } ."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                52,
+                376,
+                467,
+                655
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } & { \\mathrm {  ~ a _ 0 ~ } ^ { \\sum } \\Bigl ( { \\mathrm { P R E N } } \\Bigr ) + \\mathrm {  ~ a _ 1 ~ } ^ { \\sum } \\Bigl ( { \\log _ { 1 0 } } { \\Psi } \\times { \\mathrm { P R E N } } \\Bigr ) + \\mathrm {  ~ a _ 2 ~ } ^ { \\sum } \\Bigl ( { \\mathrm { P R E N } } ^ { 2 } \\Bigr ) } \\\\ & { \\qquad = \\Sigma \\Bigl ( { \\mathrm { P R E N } } \\times \\mathrm { E _ { b } } \\Bigr ) } \\end{array}\\tag{10}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9910dd95f7d989202b71228ef3c08c4d18383dee1f9030c043ee09b0fa82a360.jpg"
+                }
+            },
+            "bbox": [
+                67,
+                753,
+                418,
+                805
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where the final result for 18 data sets (variations of PREN and C) are given by:"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                825,
+                456,
+                854
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathbf { E _ { b } } = \\mathbf { - } 0 . 2 1 2 5 + 0 . 0 6 3 5 \\left( \\log _ { 1 0 } \\Psi \\right) - 0 . 1 0 5 \\left( \\mathbf { P R E N } \\right)\\tag{11}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/06b01151c655828cace10288084487420456571dc829c52c8b81090ffda64c10.jpg"
+                }
+            },
+            "bbox": [
+                67,
+                871,
+                418,
+                893
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 19 shows the calculated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { E _ { b } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "results for a range of PREN and C values. The data show that the critical region is from 0 inclusions/mm<sup>2</sup> to 500 inclusions "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathrm { m m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". An error certainly exists in that the contribution of the inclusions cannot be linear as suggested in Figure 19. It was anticipated that the breakdown influenced by C diminishes with increasing PREN values. Currently, however, no such information is available to estimate this effect."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                910,
+                468,
+                939
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                80,
+                925,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Weld corrosion is one of the chief problems of SS. The discontinuities in crystal size and orientation, combined with intergranular carbide precipitation and HAZ tinting, almost invariably result in a reduction in corrosion resistance of the weldment. In consequence, the wide use of the stabilizing elements<sup>27</sup> or titanium<sup>28</sup> have much improved corrosion resistance of the HAZ. The results presented suggest that dual stabilization with both elements provides optimum corrosion resistance, as suggested by Grubb and Fritz.<sup>29</sup> However, it is important to recognize that the titanium-substituted steel was more corrosion resistant than niobium-substituted steel, probably because of the precipitation of sulfur as insoluble titanium sulfide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( T i . S ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in addition to the more usual task of carbide stabilization."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                185,
+                925,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In low "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C } + \\mathbf { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "materials, the expected calculation for titanium is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\mathrm { ~ x ~ } ( \\mathrm { C } + \\mathrm { N } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and niobium is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mathrm { ~ x ~ } ( \\mathrm { C } + \\mathrm { N } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The reduced concentrations of both elements in the dual-stabilized heat (Table 4) provided a combined reduction in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathrm { N b + T i } ] / [ \\mathrm { C + N } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratio. Therefore, it was concluded that a synergistic effect was in effect, which provided a net increase in the weld corrosion resistance. This effect may have been because of the tendency of titanium to form insoluble sulfides and the partial suppression of oxides accompanied by the usual precipitation of carbides by the niobium."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                421,
+                930,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The deleterious effect of weld tints on type 444 SS has been described in previous studies.<sup>30</sup> The partial recovery of corrosion resistance after chemical elimination of the weld scale by pickling revealed that while the complete removal of the scale did not occur, the chromium-depleted layer clearly was reduced. The resulting reduction in the corrosion current density at 0 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "clearly showed that some partial reestablishment of the passive film was possible, although full recovery was not observed (Table 5)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                584,
+                930,
+                748
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CONCLUSIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                761,
+                652,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "❖ The corrosion performance of intermediate-grade ferritic SS was predictable using an expression incorporating both the alloying element concentrations as well as C."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                791,
+                927,
+                850
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "❖ The suppression of oxysulfide inclusions, partially by process technology and partly by aluminum/titanium addition, was shown to provide a significant improvement in the corrosion resistance. However, no evidence was obtained for the effect of aluminum or titanium on the passive film."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                851,
+                923,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                42,
+                312,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "198"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                961,
+                85,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–FEBRUARY 1999"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                957,
+                930,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "❖ The dual-stabilized variant of type 444 ferritic SS rather than single stabilization with either niobium or titanium offered the best weld corrosion resistance where intergranular attack of the HAZ was the principal attack."
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                81,
+                486,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "❖ The effectiveness of post-weld pickling was shown to be maximized in the case of dual-stabilized steels. This demonstrated the resistance of titanium carbide (TiC) and niobium carbide (NbC) to fluoride salts in acid solution during the pickling process and their subsequent contribution to the corrosion resistance in neutral Cl<sup>–</sup> environments."
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                155,
+                484,
+                259
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                269,
+                159,
+                282
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. R.F. Steigerwald, A.P. Bond, H.J. Dundas, E.A. Lizlovs, Corrosion 33 (1977): p. 279-295."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. W. Gordon, A. Van Bennekom, Mater. Sci. Technol. 12 (1996): p. 126-131."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. G. Wranglen, Corros. Sci. 14 (1974): p. 331."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. T. Adachi, M. Nishikawa, K. Hayashi, I. Sugimoto, Nisshin Steel Tech. Rep. 9 (1992): p. 118-131."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. J.E. Carew, A. Abdullah, Corros. Sci. 34 (1993): p. 217-231."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. A.J. Sedriks, Corrosion 42 (1986): p. 376."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. G. Okamoto, T. Shibata, Passivity of Metals Corrosion Monograph Series, eds. R.P. Frankenthal, J. Kruger (Pennington, NJ: The Electrochemical Society, 1978) p. 646."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. G.P. Halada, D. Kim, C.R. Clayton, Corrosion 52 (1996): p. 36-46."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. S. Boudin, C. Bombart, G. Lorang, M. Da Cunha Belo, “Depth Composition of Passive Films,” in Modifications of Passive Films, EFC Publication 12, Institute of Materials, eds. P. Marcus, B. Baroux, M. Keddam (London, England: Institute of Materials, 1994), p. 35."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. C. Hubschmidt, H.J. Mathieu, D. Landolt, “Comparative Analysis by AES and XPS of Passive Films,” in Modifications of Passive Films, EFC Publication 12, Institute of Materials, eds. P. Marcus, B. Baroux, M. Keddam (London, England: Institute of Materials, 1994), p. 1."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. C.R. Clayton, Y.C. Lu, J. Electrochem. Soc. 133 (1986): p. 2,465-2,473."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions (Houston, TX: NACE/CEBELCOR, 1974), p. 286."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. N.E. Hakiki, S. Boudin, B. Rondot, M. Da Cunha Belo, Corros. Sci. 37 (1995): p. 1,809-1,822."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Z. Szklarska-Smialowska, A. Szummer, M. Janic-Czachor, Brit. Corros. J. 5 (1970): p. 159-161."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. M. Colombie, A. Condylis, A. Desestret, R. Grand, R. Mayoud, Rev. Metal. 12 (1973): p. 949-961."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. H.W. Pickering, R.P. Frankenthal, “Mechanism of Pit and Crevice Propagation on Iron and Stainless Steels,” in Localized Corrosion, eds. B.F. Brown, J. Kruger, F.W. Staehle (Houston, TX: NACE, 1974)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. N.J.E. Dowling, C. Duret-Thual, G. Auclair, J.-P. Audouard, P. Combrade, Corrosion 51 (1995): p. 343-355."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. S. Kou, Welding Metallurgy (New York, NY: Wiley Interscience, 1987)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. P. Ernst, N.J. Laycock, M.H. Moayed, R.C. Newman, Corros. Sci. 39 (1997): p. 113-1,136."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. J.R. Kearns, “Corrosion of Heat-Tinted Austenitic Alloys,” CORROSION/85, paper no. 50 (Houston, TX: NACE, 1985)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. S. Turner, F.P.A. Robinson, Corrosion 45 (1989): p. 710-716."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. T. Utsunomiya, I. Sugimoto, T. Adachi, Y. Uematsu, Nisshin Steel Tech. Rep. 70 (1994): p. 45-58."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. E. Alfonsson, R. Qvarfort, Mater. Sci. Forum 111-112 (1992): p. 483-492."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. L. Felloni, R. Fratesi, O. Ruggeri, G. Samogna, Corrosion 41 (1985): p. 169-177."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. Y. Yazawa, S. Hasuno, Y. Sone, “Effect of Alloying Elements on Atmospheric Corrosion Resistance of Ferritic Stainless Steels,” Proc. Conf. Stainless Steels, June 10-13, 1991, Chiba (Chiyodaku, Tokyo: ISIJ Int., 1991), p. 337-342."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. M.A. Baker, J.E. Castle, Corros. Sci. 33 (1992): p. 1,295-1,312."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. C.A.C. Sousa, S.E. Kuri, Mater. Lett. 25 (1995): p. 57-60."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. J. Honeycombe, T.G. Gouch, Brit. Corros. J. 18 (1983): p. 25- 34."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. J.F. Grubb, J.D. Fritz, “Stabilization and Sensitization of Stainless Steel,” CORROSION/97, paper no. 185 (Houston, TX: NACE, 1997)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. S. Azuma, H. Mikuki, J. Murayama, T. Kudo, Boshoku Gijutsu 39 (1990): p. 603-609."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                74,
+                295,
+                477,
+                316
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION ENGINEERING SECTION"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                43,
+                946,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION–Vol. 55, No. 2"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                957,
+                296,
+                974
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "199"
+                    }
+                ]
+            },
+            "bbox": [
+                914,
+                961,
+                947,
+                974
+            ]
+        }
+    ]
+]

@@ -1,0 +1,1778 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The use of potentiostatic techniques in the development of improved stainless steels for chemical plant*"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                73,
+                873,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By R. Machin**) and P. Guha**)"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                132,
+                296,
+                146
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                59,
+                181,
+                154,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The behaviour patterns of the common conventional stainless steels, both wrought and cast, in corrosive environments, have been established over the years, mainly by long term immersion or exposure tests complemented by service experiences. Consequently, the development of steels of improved corrosion resistance has been a slow process mainly because of the length of time necessary to produce useful information from such tests. The introduction and development of potentiostatic techniques, however, in recent years have enabled the corrosion behaviour of stainless steels to be studied in a systematic way by tests of short duration. The present paper describes the results of such studies in the Authors' laboratory which firstly correlated the known corrosion behaviour of cast stainless steels in general production with their potentiostatic characteristics and, secondly, used the potentiostat extensively to guide and monitor all stages of developmenț of an improved stainless steel designated FERRALIUM®1) alloy. This steel was shown to possess an exceptional resistance to general corrosion in many aggressive environments and especially to attack in crevices or in circumstances normally associated with pitting corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                204,
+                489,
+                460
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a8074a1156530fa2c9ecac2286c580fab30faf4c3610617d3b45426d4227bcf9.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "is shown in Fig. 2 in which can also be seen the secondary active peak at around 50mV which is a characteristic of steels which are wholly or partially ferritic."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Polarisation characteristics of 18Cr10Ni in 1 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                508,
+                234,
+                911,
+                428
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiostatic Test Procedure"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                480,
+                272,
+                493
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potentiostatic studies were carried out using a Wenking potentiostat. The stepping rate during polarisation was maintained at 10 mV/min. using a stepping motor. The polarisation cell set-up and electrode holder were as recommended by Greene (1). Polarisation was carried out according to the recommendations of the ASTM G. 1 Committee. All test solutions were purged with oxygen-free high purity nitrogen. All potentials reported are with reference to a Standard Calomel Electrode (S.C.E.)."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                503,
+                491,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conventional stainless steels"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                636,
+                262,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(i) General Corrosion Resistance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                660,
+                291,
+                673
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 illustrates the typical polarisation curve in IN sulphuric acid of a cast 18Cr10Ni austenitic stainless steel in the annealed condition, showing an active current peak at -300mV and a passive range extending beyond +800mV. The passivation of this alloy in oxidizing conditions across this range has been demonstrated by immersion tests, for example, in 65% nitric acid (corresponding to a potential of 800mV S.C.E.) and in copper sulphate solution (zero mV S.C.E.) (2). It is considered by the authors, that the passivation of this type of steel is related to its stable austenitic microstructure. For comparison, the limited range of passivity of a ferritic nickel-free 17% chromium steel (wrought)"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                684,
+                489,
+                830
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/12d2ba013dc71e10b1f54701d55531663e7a9f3037f514d0a15b4049cbf7508a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Polarisation characteristics of 17 Cr ferritic steel in 1NH₂SO₄"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                505,
+                466,
+                909,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cast 17% Chromium steel containing up to 5% Nickel will also show a limited range of passivity and it is only when 8—10% Nickel is introduced that a wide passivation range is observed. With the 18Cr10Ni composition, a stable austenite is produced, not subject to breakdown to martensite. Although a small amount of stable ferrite may be present, this does not have any deleterious effect on the cast alloy's general corrosion behaviour."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                704,
+                937,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to the cast 18Cr10Ni steel improve its corrosion behaviour in sulphuric acid and, as shown in Fig. 3, this is reflected in a reduction of the active current peak. Comparison of Figs. 1 and 3 demonstrates that the passivity of 18Cr1ONi3Mo cast material is also maintained to above +800mV (S.C.E.) which is similar to 18Cr1ONi steel, thereby indicating that, contrary to general opinion, the alloy containing 3% Molybdenum is as resistant to nitric acid as the Molybdenum-free."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                800,
+                934,
+                909
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+                    }
+                ]
+            },
+            "bbox": [
+                623,
+                920,
+                930,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "40"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                44,
+                79,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                42,
+                868,
+                56
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*) Vortrag, gehalten anläßlich der Achema-Tagung 1973 in Frankfurt/M., 20.-27. Juni 1973."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                845,
+                475,
+                869
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "**) Langley Alloys Limited, SLOUGH, England."
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                869,
+                361,
+                882
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1) ®FERRALIUM is a registered trademark of Langley Alloys Limited."
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                882,
+                461,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3c9a490408d641e31d988eb734eecb63f313030e3ee5aaad724d325e1bc56936.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Polarisation characteristics of 18Cr10Ni3Mo in 1 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                69,
+                70,
+                475,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ability to correlate known corrosion behaviour with potentiostatic characteristics is further emphasised in the case of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { L A N G A L L O Y ^ { \\circledast } \\cdot 2 O V ^ { \\ast } } 2 ) _ { } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a special cast stainless steel of basic composition 29% Nickel, 20% Chromium, and including controlled amounts of Copper, Molybdenum and Niobium. This alloy has been shown in service to have an exceptionally high resistance to corrosion by sulphuric acid, e.g. a corrosion rate of less than 0.001 inches/year (0.025 mm) is shown in all concentrations of sulphuric acid at room temperature. This can be correlated with the polarisation curve in Fig. 4 where the active current peak extends over a much narrower potential range than that shown by the 18Cr10Ni3Mo steel (Fig. 3), implying a low rate of corrosion in non-oxidizing conditions. The displacement of the current peak to a more noble potential (-150mV S.C.E.) demonstrates, in particular, the relative immunity of this cast alloy to deaerated sulphuric acid at approximately zero hydrogen potential, i.e. -250m V S.C.E. (2)."
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                300,
+                480,
+                520
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/461b1cb7dcae2005056bdf8288bf2d24883166966721e3a2f445b8e7199919d8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Polarisation characteristics of Langalloy 20V special stainless steel in 1 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                59,
+                528,
+                465,
+                723
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(ii) Intergranular Corrosion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                57,
+                781,
+                253,
+                794
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Susceptibility to intergranular corrosion is normally measured by the Strauss test, wherein the test piece is immersed in boiling Copper Sulphate solution before bending to detect any intergranular attack. These corrosive conditions can be simulated by potentiostatic techniques in sulphuric acid at"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                804,
+                487,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a potential of zero mV (S.C.E.) (2). Thus Fig. 5 which shows a secondary peak at zero mV in cast 18Cr10Ni 0.07C steel after a sensitizing heat-treatment at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 0 \\ \\mathrm { { ^ \\circ C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicates that this material in this condition would not pass the Strauss test, i.e. it would be susceptible to intergranular corrosion as is well known from actual Strauss tests and from service experience. It is also known that this susceptibility can be removed by either the addition of a stabilizing element, e.g. Niobium or Titanium or by reducing the carbon content of the steel to a low level (0.03% in some specifications). Fig. 6 shows however that in the presence of 3% Molybdenum, even with a Carbon content as high as 0.07%, the current peak at zero mV is absent and that à cast steel of the 18Cr10Ni3Mo composition, even after a sensitizing heat-treatment, will not show intergranular corrosion. The foregoing conclusions have all been confirmed in the Authors' laboratory by practical Strauss tests. No further"
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                73,
+                930,
+                278
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fad64401b9b10725c6f8ced3f45c92c098cb656358016372c9d3ff2d604e5e80.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Polarisation characteristics of 18Cr10Ni in 1 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                503,
+                293,
+                907,
+                487
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/eedeb7d629cf5c56e9b35890e1a298a65d54066e69a19036f58f4e67ca7b2275.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Polarisation characteristics of 18Cr10Ni3Mo in 1 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                503,
+                516,
+                911,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "improvement is produced in the 18Cr10Ni3Mo cast steel by reduction of the Carbon content to 0.035% (Fig. 7). These results show that without need for stabilizing element additions, Carbon contents of up to 0.07% should be acceptable in 18Cr10Ni3Mo stainless steel castings."
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                746,
+                930,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "With regard to the use of stabilizing elements, of which Niobium is usually preferred to Titanium by foundries, the results of Fig. 8 which shows a polarisation curve of an 18Cr10Ni3Mo1Nb steel indicate an increase in the active current peak compared with a niobium-free casting (Fig. 3). Therefore, a deterioration in performance in sulphuric acid would be predicted. Thus the addition of niobium to cast 18Cr10Ni3Mo steels with up to 0.07% Carbon, would appear not only to be unnecessary in relation to intergranular corrosion resistance but in fact to be deleterious to general corrosion resistance in some applications."
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                810,
+                939,
+                908
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                41,
+                869,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "41"
+                    }
+                ]
+            },
+            "bbox": [
+                909,
+                45,
+                930,
+                55
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                920,
+                366,
+                933
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2) ®'LANGALLOY' is a registered trademark of Langley Alloys Limited,"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                884,
+                465,
+                908
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/edcbfc6a8698d6ee4b73a6bc0e2a0a7c938453dff2b890327ef8a0a2792235ae.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. Polarisation characteristics of low carbon 18Cr10Ni3Mo in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\ S 0 _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                62,
+                76,
+                468,
+                269
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/51b52e9949f431655196cedb58f407b190488d3138217681a46e2393d1f46a50.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Polarisation characteristics of 18Cr10Ni3Mo1Nb in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf H } _ { 2 } { \\bf S } { \\bf O } _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                64,
+                312,
+                465,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                62,
+                544,
+                489,
+                583
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(iii) Pitting Resistance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                64,
+                595,
+                223,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The pitting resistance of 18Cr10Ni steel in chloridecontaining environments is known from practical experience to be poor. This can also be demonstrated by potentiostatic tests conducted in sodium chloride solution. For example, Fig. 9 shows a breakdown potential of -50mV (S.C.E.) for a cast 18Cr10Ni steel in 3% sodium chloride solution."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                615,
+                489,
+                690
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/01b47a1ee6f23a16222c87659c0a4768517d2be54df4b861f7689ecab435dc29.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 9. Polarisation characteristics of 18Cr10Ni in 3% NaCl"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                64,
+                696,
+                468,
+                890
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction of Molybdenum to the 18Cr10Ni steel modifies this behaviour and improves the pitting resistance in chloride-containing environments, the breakdown potential being raised to 200mV, as shown in Fig. 10. The improvement is not however sufficient to eliminate pitting in service environments containing chloride."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                73,
+                927,
+                147
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/df9a2fc4fcaf951eec4fe8241566dbb8911d3d0b1b2cc747c8b35aee461bee73.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 10. Polarisation characteristics of 18Cr10Ni3Mo in 3% NaCl"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                508,
+                158,
+                914,
+                351
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(iv) Ferralium alloy"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                403,
+                651,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Increase of Chromium content from 18% to 25% can be shown to produce further improvement in general corrosion resistance and pitting resistance of a steel containing 10% Nickel and 3% Molybdenum and, at this level of Chromium, it has also been demonstrated that reduction of Nickel content to 5% produces an excellent combination of these properties. With adjustments of Molybdenum content and introduction of Copper, an optimum composition has been derived which produces in this proprietary alloy a duplex austenitic-ferritic (50 : 50) microstructure with excellent resistance to general corrosion, pitting and crevice attack, together with high strength and good ductility."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                427,
+                935,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This has been designated FERRALIUM alloy and is subject of Patents in the United Kingdom and other countries. Fig. 11 shows the remarkably high breakdown potential of the alloy in 3% sodium chloride at approx. +800mV, while the wide passive range in acid conditions, up to approx. +1000mV, accompanied by a low active current peak, shown in comparison with that of 18Cr10Ni3Mo in 1ON sulphuric acid in Fig. 12, indicates the high resistance to corrosion in a wide range of oxidizing and non-oxidizing"
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                571,
+                930,
+                682
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d9e8022619f891e3572f594d2a9192d5a59599e3a562d54f4a9f28c6ad5a0c82.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 11. Polarisation characteristics of Ferralium alloy in 3% NaCl"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                510,
+                695,
+                916,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "42"
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                45,
+                81,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                41,
+                868,
+                56
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8fc579c6c0023f996cf6fc95c88e02820ed5f427806c609bbbe4e6e76527726f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 12. Polarisation characteristics of Ferralium and 18Cr10Ni3Mo in 10 N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H } _ { 2 } \\mathbf { S } 0 _ { 4 }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                59,
+                70,
+                460,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "environments. These facts have been confirmed by laboratory immersion tests in acidified ferric-chloride and in various acids and in service applications."
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                304,
+                472,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The very small secondary peak at approx. +50mV in Fig. 12 is a characteristic of ferrite in the microstructure of the new alloy (cf. Fig. 2) and is not related to any intergranular corrosion tendencies, such as previously discussed in relation to sensitized fully austenitic steels."
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                347,
+                480,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A summary of the behaviour in sulphuric acid of the new alloy and the various other alloys discussed is presented as an isocorrosion chart in Fig. 13. This has been compiled from immersion tests which confirm the conclusions drawn from studies of polarisation characteristics."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                409,
+                484,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The second part of this paper will describe how the potentiostat provided details of the influence of compositional and processing variables during the development of the new alloy, and thereby assisted in finalising both the composition and the optimum production procedures."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                468,
+                484,
+                532
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloy development"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                547,
+                199,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The initial obiect of this development was to produce a cast stainless steel of high strength and hardness with corrosion resistance at least equivalent to that of austenitic steels of the 18Cr10Ni3Mo type. The composition ranges studied were based on 25 % Chromium, 5% Nickel, with controlled amounts of Molybdenum and Copper. This steel has a duplex 50 : 50 austenitic ferritic microstructure, known to provide high strength, which was enhanced by introduction of a precipitation-hardening mechnism. Stage 1 of the development determined the effects of variation in composition and heat-treatment on mechanical properties. Preliminary corrosion tests were also carried out during Stage 1 and these demonstrated that, in addition to the excellent combination of mechanical properties available, the alloy range being studied possessed corrosion resistance superior to that of the 18Cr10Ni3Mo austenitic stainless steel in many environments and that its pitting resistance in the presence of chloride was better than that of any austenitic stainless steel. Potentiostatic studies were thereafter used in Stage II of the development to optimise composition and heat-treatment in relation to corrosion resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                565,
+                472,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                74,
+                928,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 14 shows the results obtained from constant potential current/time studies in sodium chloride solution with steels of varying nickel contents from 3.5—8.5% on a base alloy composition of 25Cr3Cu2.5Mo. From these it was found that pitting resistance reduced significantly when the Nickel content was outside the range 5%-6% approx. Similar tests on a 5% Nickel steel with varying Chromium contents showed that for optimum pitting resistance, the Chromium content should be maintained above 24.5 %, as indicated in Fig. 15. Likewise, Fig. 16 shows how a Copper content of at least 0.5% was found to be necessary in this steel to produce good pitting resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                301,
+                923,
+                327
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7d288463f69030dd0ea470cb4dd41214d881fe5475f3f8f6e166fd7833aa0931.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 14. Effect of nickel content on pitting resistance in 3% NaCl - base composition 25Cr3Cu2.5Mo – potential 600 MV (S.C.E.) – temp. 30 °C - N2 purged"
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                332,
+                914,
+                530
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b57d7f7af1a39d0ecf7686b17cdee40da1c02fb1e93298f134a3a51133a5ec22.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 13. Sulphuric acid"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Material selection guide based on corrosion rate of 0.0015 inches/ month (0.5 mm/year)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Corrosion tests under plant conditions advised when possible"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                244,
+                603,
+                746,
+                861
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                41,
+                869,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "43"
+                    }
+                ]
+            },
+            "bbox": [
+                911,
+                42,
+                930,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                920,
+                371,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                59,
+                72,
+                480,
+                195
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f73ac616decff5e350f5513c3c67133b9628bb7bdabe1174f3af2d8980cd5e28.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 15. Effect of chromium content on pitting potential in 3% NaCl – base composition 5Ni3Cu2.5Mo – potential 600 MV (S.C.E.) – temp. 30 °C − N2 purged"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                59,
+                207,
+                465,
+                398
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a5ad97539b22dad05c742a568822569c533ba0e493d551c7d97051600401fa4a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 16. Effect of copper content on pitting resistance in 3% NaCl – base composition 25Cr5Ni2.5Mo – potential 600 MV (S.C.E.) – temp. 30 °C − N2 purged"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                60,
+                485,
+                456,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Further studies showed that heat-treatment and microstructure had significant effects on resistance to corrosion and especially pitting. Fig. 17 shows how the low pitting resistance in chloride of an as-cast structure is raised by solution treatment at 1120 °C. A subsequent ageing treatment at 500 °C. produces the optimum combination of mechanical properties but has little effect on the good pitting resistance obtained after annealing."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                748,
+                475,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At this stage it was concluded that an alloy could be produced which, when suitably heat-treated, would possess the required combination of:"
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                844,
+                480,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(a) High strength"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                881,
+                190,
+                893
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(b) Good ductility"
+                    }
+                ]
+            },
+            "bbox": [
+                64,
+                892,
+                197,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(c) Good corrosion resistance to oxidizing and non-oxidizing chemical environments."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                71,
+                920,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(d) High pitting resistance in the presence of chloride ions."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                96,
+                918,
+                109
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/c846432c0586b50cff138356be38c227eaf127119adfb9d527a3a9ba54419b25.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 17. Effect of solution treatment on polarisation characteristics in 3% NaCl – composition 25Cr5Ni3Cu2.5Mo – temp. 30 °C - N2 purged"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                508,
+                128,
+                914,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The composition of the new alloy was established with the following nominal alloy contents: ChromiumNickel Copper Molybdenum 25% 5.5% 3.0% 2.5%"
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                399,
+                916,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the successful production of complex castings, hot and cold working characteristics of the alloy were studied to enable all wrought forms to be made available together with welding consumables for the fabrication of the alloy. Potentiostatic tests were used at this stage to monitor the effects of hot working variables on corrosion resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                472,
+                934,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The new alloy has been in commercial production for several years and constant potential tests are currently used in production quality control of wrought and cast materials to ensure that a consistently high level of corrosion resistance and pitting resistance is maintained. The results of potentiostatic and laboratory controlled immersion tests during its development have been fully confirmed in field tests and by commercial applications. The high degree of resistance shown in many aggressive conditions has resulted in its extensive use in handling, for example, mineral acids, chloride solutions, hydroxides."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                559,
+                939,
+                694
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                508,
+                713,
+                583,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It has been shown that the behaviour of cast stainless steels of various types in a variety of corrosive conditions can be closely correlated with the results of potentiostatic tests. Conversely, potentiostatic techniques can accurately predict the corrosive behaviour of unfamiliar combinations of alloy and chemical environment. Such techniques provide an approach to the development of corrosion resistant alloys which is economic of time, labour and material. They have been used successfully in the development and production quality control of a new alloy, which has an exceptionally good combination of mechanical properties añd resistance to general corrosion and to pitting or crevice attack."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                736,
+                939,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In conclusion, several successful applications of this alloy in chemical environments are illustrated in Figs. 18—20."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                881,
+                934,
+                907
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "44"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                43,
+                79,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                41,
+                868,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft1/1974"
+                    }
+                ]
+            },
+            "bbox": [
+                626,
+                916,
+                935,
+                929
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 18 shows a cast impeller of a type which has given three years satisfactory service in ‘wet process' phosphoric acid production handling acid slurries containing approximately 30 % "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf P } _ { 2 } 0 _ { 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 30 % CaSo₄solids, 2 % "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 } \\thinspace \\mathsf { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", HF and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\bf H } _ { 2 } \\mathbb { S } \\mathrm { i } \\mathrm { \\bf F } _ { 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ^ { \\circ } - 8 0 ^ { \\circ } \\mathrm { C }"
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                74,
+                472,
+                137
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/13acc152d654afd8fb329ab739ec7047d9f3f70473819ca9b453541ad806a6ed.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 18. Cast Ferralium alloy impeller for ‘wet process' phosphoric acid production"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                62,
+                149,
+                460,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 19 shows a cast impeller of a pump handling sulphuric acid and other corrosive cargoes in a multi-purpose chemical tanker."
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                438,
+                486,
+                478
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1a54e2a1da19dd5bcb891cb48f998ae61035c005e6f84e83f1ae0a3df351788f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 19. Cast Ferralium alloy impeller for cargo pump of multipurpose chemical tanker"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                64,
+                497,
+                414,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 20 illustrates a marine propeller in cast alloy which, since it is unmarked by general corrosion, pitting or crevice attack after four years immersion in sea water, clearly demonstrates the suitability of the new alloy for applications in chloride-containing environments."
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                74,
+                923,
+                136
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/99f6da6fe611ed77c153f77253372d77bb5b665934c0d6806050c2c8da190bb0.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 20. Marine propeller in Ferralium alloy, completely uncorroded after four years immersion in sea-water"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                510,
+                147,
+                911,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Eingegangen: Juli 1973)"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                438,
+                687,
+                454
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                505,
+                467,
+                588,
+                481
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. N. D. Greene: Experimental Electrode Kinetics, Rensselaer Polytechnic Institute, Troy, N. York, 1965."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. M. Pourbaix and F. Vandervelden: Corrosion Science 5 (1965) No. 2."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                490,
+                925,
+                513
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Machin and Guha: The use of potentiostatic techniques in the development of improved stainless steels for chemical plant"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                41,
+                869,
+                55
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "45"
+                    }
+                ]
+            },
+            "bbox": [
+                911,
+                43,
+                930,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Werkstoffe und Korrosion 25. Jahrg. Heft 1/1974"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                920,
+                368,
+                933
+            ]
+        }
+    ]
+]

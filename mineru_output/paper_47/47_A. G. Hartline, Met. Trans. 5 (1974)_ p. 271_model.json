@@ -1,0 +1,6154 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9771,
+                "bbox": [
+                    128,
+                    96,
+                    1143,
+                    304
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9314,
+                "bbox": [
+                    228,
+                    339,
+                    498,
+                    373
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9889,
+                "bbox": [
+                    224,
+                    399,
+                    1339,
+                    817
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988,
+                "bbox": [
+                    127,
+                    855,
+                    827,
+                    1392
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    128,
+                    1391,
+                    820,
+                    1717
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    129,
+                    1716,
+                    816,
+                    1810
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988,
+                "bbox": [
+                    846,
+                    863,
+                    1544,
+                    1217
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    847,
+                    1217,
+                    1540,
+                    1686
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    847,
+                    1685,
+                    1528,
+                    2044
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9758,
+                "bbox": [
+                    129,
+                    1849,
+                    818,
+                    2041
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9184,
+                "bbox": [
+                    132,
+                    2065,
+                    511,
+                    2093
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9254,
+                "bbox": [
+                    1155,
+                    2065,
+                    1532,
+                    2093
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    93,
+                    1140,
+                    168
+                ],
+                "score": 0.99,
+                "text": "The Effect of Nitrogen Additions Upon the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    170,
+                    1085,
+                    236
+                ],
+                "score": 0.997,
+                "text": "Pitting Resistance of 18 Pct Cr, 18 Pct Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    242,
+                    471,
+                    302
+                ],
+                "score": 1.0,
+                "text": "Stainless Steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    234,
+                    340,
+                    493,
+                    373
+                ],
+                "score": 0.96,
+                "text": "A. G. HARTLINE, III"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    399,
+                    1326,
+                    431
+                ],
+                "score": 0.998,
+                "text": "The effect of nitrogen additions upon the pitting resistance of 18 pct Cr, 18 pct Mn stain-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    230,
+                    429,
+                    1341,
+                    462
+                ],
+                "score": 0.991,
+                "text": "less steel has been investigated by potentiokinetic techniques in a 1000 ppm NaCl solution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    230,
+                    459,
+                    1333,
+                    492
+                ],
+                "score": 0.999,
+                "text": "Nitrogen additions increased the pitting resistance of the steel irrespective of structure,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    490,
+                    1316,
+                    522
+                ],
+                "score": 0.996,
+                "text": "however, the ferritic steel was less pit resistant than the (duplex) steels containing both"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    518,
+                    1290,
+                    552
+                ],
+                "score": 0.99,
+                "text": "austenite and ferrite which, in turn, were less pit resistant than the totally austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    229,
+                    548,
+                    1307,
+                    582
+                ],
+                "score": 0.984,
+                "text": "steels. For steels having a duplex structure, the effect of nitrogen on the pitting resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    578,
+                    1331,
+                    611
+                ],
+                "score": 0.997,
+                "text": "tance was observed to follow a linear function of the relative amount of austenite in these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    230,
+                    608,
+                    1314,
+                    640
+                ],
+                "score": 1.0,
+                "text": "steels due to the area effects of the austenite and ferrite which are galvanically coupled"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    637,
+                    1327,
+                    670
+                ],
+                "score": 0.996,
+                "text": "in these steels. The addition of nitrogen was found to increase the amount of austenite at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    668,
+                    1324,
+                    700
+                ],
+                "score": 1.0,
+                "text": "a rate of approximately 200 times the percent nitrogen addition from 36 pct austenite for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    229,
+                    695,
+                    1321,
+                    730
+                ],
+                "score": 0.983,
+                "text": "the 0.02 pct N steel to 100 pct for the 0.40 pct nitrogen steel. The addition of nitrogen to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    726,
+                    1317,
+                    760
+                ],
+                "score": 1.0,
+                "text": "the totally austenitic steels increased the pitting resistance at the rate of approximately"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    229,
+                    755,
+                    1307,
+                    790
+                ],
+                "score": 0.985,
+                "text": "0.31 volts per pct nitrogen added, but no mechanism was found for the increased resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    786,
+                    309,
+                    813
+                ],
+                "score": 1.0,
+                "text": "tance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    889,
+                    819,
+                    922
+                ],
+                "score": 0.991,
+                "text": "recent interest because of the increasing cost of nickel,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    919,
+                    808,
+                    950
+                ],
+                "score": 0.997,
+                "text": "the expanded interest in CrMn steels, and the demands"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    949,
+                    800,
+                    980
+                ],
+                "score": 0.999,
+                "text": "for higher strength austenitic stainless steels. Nitro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    978,
+                    759,
+                    1011
+                ],
+                "score": 1.0,
+                "text": "gen additions were made in the Cr(Ni)Mn stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1009,
+                    808,
+                    1040
+                ],
+                "score": 0.998,
+                "text": "steels to augment the austenitizing power of Mn. While"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1038,
+                    781,
+                    1069
+                ],
+                "score": 0.999,
+                "text": "the primary interest in the development of Cr(Ni)Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1068,
+                    812,
+                    1098
+                ],
+                "score": 1.0,
+                "text": "stainless steel was for cost reduction, sufficient nitro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1097,
+                    805,
+                    1128
+                ],
+                "score": 0.994,
+                "text": "gen solubility existed in these steels to take advantage"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1126,
+                    813,
+                    1157
+                ],
+                "score": 0.99,
+                "text": "of the strengthening effect of the nitrogen addition. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1155,
+                    819,
+                    1186
+                ],
+                "score": 0.99,
+                "text": "development of the Cr(Ni)Mn stainless steel culminated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1185,
+                    804,
+                    1216
+                ],
+                "score": 0.999,
+                "text": "in a series of steels possessing similar corrosion re-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1216,
+                    822,
+                    1245
+                ],
+                "score": 0.992,
+                "text": "sistance and equal or greater strength than the AISI 300"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1244,
+                    820,
+                    1275
+                ],
+                "score": 0.99,
+                "text": "series stainless steels. While the general austenitizing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1274,
+                    821,
+                    1303
+                ],
+                "score": 0.998,
+                "text": "and strengthening effects of N additions have been stud-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1303,
+                    822,
+                    1333
+                ],
+                "score": 0.996,
+                "text": "ied, the effects of N upon the degree of austenite stabil-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1332,
+                    822,
+                    1362
+                ],
+                "score": 0.999,
+                "text": "ization and the pitting resistance of the Cr(Ni)Mn steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1361,
+                    552,
+                    1391
+                ],
+                "score": 0.999,
+                "text": "have not been extensively studied."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    857,
+                    780,
+                    894
+                ],
+                "score": 0.992,
+                "text": "NITROGEN bearing stainless steels have attracted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    1388,
+                    800,
+                    1422
+                ],
+                "score": 0.987,
+                "text": "Early investigations¹-ª indicated that nitrogen addi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1421,
+                    801,
+                    1452
+                ],
+                "score": 0.993,
+                "text": "tions had little or no effect upon the pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1449,
+                    773,
+                    1481
+                ],
+                "score": 0.99,
+                "text": "of stable austenitic stainless steels; however, these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1480,
+                    799,
+                    1510
+                ],
+                "score": 0.989,
+                "text": "results were obtained from alloys having such low ni-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1510,
+                    801,
+                    1540
+                ],
+                "score": 1.0,
+                "text": "trogen solubilities that the effect of nitrogen additions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1539,
+                    794,
+                    1569
+                ],
+                "score": 0.987,
+                "text": "might not have been discernible. However, studies⁴-⁸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1569,
+                    818,
+                    1600
+                ],
+                "score": 0.999,
+                "text": "of less stable alloys showed improvement in pitting re-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1600,
+                    787,
+                    1629
+                ],
+                "score": 0.992,
+                "text": "sistance as the result of nitrogen additions. This in-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1630,
+                    804,
+                    1658
+                ],
+                "score": 0.988,
+                "text": "creased pitting resistance was attributed to the elimi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1659,
+                    800,
+                    1686
+                ],
+                "score": 0.998,
+                "text": "nation of ferrite (which is normally detrimental to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1690,
+                    730,
+                    1715
+                ],
+                "score": 0.994,
+                "text": "pitting resistance of austenitic stainless steels)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1714,
+                    810,
+                    1747
+                ],
+                "score": 0.99,
+                "text": "H. H. Uhlig⁴ examined the effect of crystal structure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1747,
+                    759,
+                    1775
+                ],
+                "score": 0.996,
+                "text": "and nitrogen additions to the 18 Cr, 8 Ni (Type 304)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1777,
+                    810,
+                    1805
+                ],
+                "score": 0.993,
+                "text": "stainless steel. While this grade is usually considered"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    865,
+                    1490,
+                    891
+                ],
+                "score": 0.996,
+                "text": "austenitic, Uhlig transformed the alloy to ferrite by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    895,
+                    1479,
+                    920
+                ],
+                "score": 0.976,
+                "text": "lowering the carbon and nitrogen contents and then"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    924,
+                    1512,
+                    950
+                ],
+                "score": 0.989,
+                "text": "quenching from elevated temperatures where the fer-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    954,
+                    1508,
+                    978
+                ],
+                "score": 0.991,
+                "text": "ritic phase was stable. Uhlig found that the change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    983,
+                    1533,
+                    1010
+                ],
+                "score": 1.0,
+                "text": "crystal structure did not appreciably change the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    851,
+                    1013,
+                    1533,
+                    1038
+                ],
+                "score": 0.996,
+                "text": "resistance and, in fact, the ferritic structure displayed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1042,
+                    1538,
+                    1067
+                ],
+                "score": 0.981,
+                "text": "minimally better pitting resistance than the commercia."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1071,
+                    1524,
+                    1098
+                ],
+                "score": 0.997,
+                "text": "austenitic grade. Uhlig also added 0.24 pct nitrogen to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1101,
+                    1509,
+                    1126
+                ],
+                "score": 0.999,
+                "text": "Type 304. Tests in ferric chloride indicated that this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1131,
+                    1500,
+                    1157
+                ],
+                "score": 0.989,
+                "text": "addition increased the pitting resistance of Type 304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1161,
+                    1540,
+                    1185
+                ],
+                "score": 0.989,
+                "text": "from 2 to 10 times when compared with the commercial"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1191,
+                    1353,
+                    1215
+                ],
+                "score": 0.999,
+                "text": "austenitic grade or the ferritic samples."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    879,
+                    1216,
+                    1536,
+                    1244
+                ],
+                "score": 0.975,
+                "text": "M. A. Streicher® also investigated the effect of nitro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1248,
+                    1537,
+                    1273
+                ],
+                "score": 0.991,
+                "text": "gen and other alloy additions to Type 304 and found that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1277,
+                    1492,
+                    1302
+                ],
+                "score": 0.995,
+                "text": "increasing the molybdenum, nitrogen and/or silicon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1306,
+                    1484,
+                    1331
+                ],
+                "score": 1.0,
+                "text": "contents and reducing the carbon content increased"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1336,
+                    1516,
+                    1361
+                ],
+                "score": 0.998,
+                "text": "the pitting resistance of this steel. This investigation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1366,
+                    1528,
+                    1390
+                ],
+                "score": 0.999,
+                "text": "concluded that the benefit of nitrogen additions to Type"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1394,
+                    1532,
+                    1420
+                ],
+                "score": 0.999,
+                "text": "304 was through the elimination of the ferrite produced"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1424,
+                    1525,
+                    1449
+                ],
+                "score": 0.993,
+                "text": "by the addition of molybdenum or silicon from the mi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1454,
+                    1507,
+                    1478
+                ],
+                "score": 1.0,
+                "text": "crostructure. This conclusion follows from the work"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1480,
+                    1531,
+                    1510
+                ],
+                "score": 0.97,
+                "text": "of Odar and Smith¹º where 18 Cr, 8 Ni alloys containing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1513,
+                    1511,
+                    1537
+                ],
+                "score": 0.995,
+                "text": "austenite and ferrite displayed inferior pitting resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1542,
+                    1493,
+                    1566
+                ],
+                "score": 1.0,
+                "text": "tance to the totally austenitic steel. Streicher found"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1571,
+                    1527,
+                    1596
+                ],
+                "score": 0.997,
+                "text": "that increased pitting resistance resulted from the ad-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1601,
+                    1499,
+                    1625
+                ],
+                "score": 0.999,
+                "text": "dition of nitrogen to the totally austenitic steels, but"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1629,
+                    1498,
+                    1655
+                ],
+                "score": 0.996,
+                "text": "the benefit was relatively small unless accompanied"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1660,
+                    1441,
+                    1683
+                ],
+                "score": 0.998,
+                "text": "with the addition of molybdenum and/or silicon."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    880,
+                    1681,
+                    1513,
+                    1714
+                ],
+                "score": 0.986,
+                "text": "While recent studies-1² have further indicated the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1717,
+                    1519,
+                    1742
+                ],
+                "score": 0.993,
+                "text": "benefit of nitrogen additions to the Cr(Ni)Mn family of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1747,
+                    1512,
+                    1772
+                ],
+                "score": 0.987,
+                "text": "stainless steels, the exact effect of nitrogen has been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1777,
+                    1509,
+                    1801
+                ],
+                "score": 0.998,
+                "text": "partially masked because of changes in alloy content,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1806,
+                    1506,
+                    1831
+                ],
+                "score": 0.992,
+                "text": "particularly additions of chromium and molybdenum."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1837,
+                    1513,
+                    1858
+                ],
+                "score": 0.995,
+                "text": "The conclusions are also clouded because these stud-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1865,
+                    1487,
+                    1891
+                ],
+                "score": 1.0,
+                "text": "ies like those above appear partially contradictory."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1894,
+                    1511,
+                    1921
+                ],
+                "score": 0.985,
+                "text": "The lack of information on the effect of nitrogen upon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1925,
+                    1519,
+                    1949
+                ],
+                "score": 0.986,
+                "text": "the pitting resistance of the Cr(Ni)Mn stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1954,
+                    1507,
+                    1979
+                ],
+                "score": 0.991,
+                "text": "is of particular concern since they have both signifi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1984,
+                    1499,
+                    2008
+                ],
+                "score": 0.989,
+                "text": "cantly greater solubility for nitrogen than the Cr-Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    2014,
+                    1518,
+                    2038
+                ],
+                "score": 0.986,
+                "text": "stainless steels and the use of nitrogen is more prev-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1879,
+                    813,
+                    1905
+                ],
+                "score": 0.993,
+                "text": "Steel Corporation, Bar Products Division, Watervliet, N. Y. 12189. This"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1906,
+                    809,
+                    1932
+                ],
+                "score": 0.991,
+                "text": "paper is based on a presentation made at a symposium on \"New Devel-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1933,
+                    812,
+                    1958
+                ],
+                "score": 0.997,
+                "text": "opments in Ferritic and Duplex Stainless Steels,\" held at the Fall Meet-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1958,
+                    808,
+                    1987
+                ],
+                "score": 0.993,
+                "text": "ing in Cleveland, Ohio, on October 19, 1972, under the sponsorship of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1986,
+                    791,
+                    2012
+                ],
+                "score": 1.0,
+                "text": "the Corrosion Resistant Metals Committee of TMS-IMD and the Cor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2013,
+                    543,
+                    2036
+                ],
+                "score": 0.998,
+                "text": "rosion and Oxidation Activity of the ASM."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    1853,
+                    803,
+                    1878
+                ],
+                "score": 0.989,
+                "text": "A. G. HARTLINE, III is Development Engineer, Allegheny Ludlum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2068,
+                    508,
+                    2090
+                ],
+                "score": 0.984,
+                "text": "METALLURGICAL TRANSACTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1159,
+                    2071,
+                    1528,
+                    2088
+                ],
+                "score": 0.985,
+                "text": "VOLUME 5, NOVEMBER 1974-2271"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2176
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722,
+                "bbox": [
+                    129,
+                    96,
+                    819,
+                    156
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    128,
+                    156,
+                    806,
+                    746
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    130,
+                    746,
+                    814,
+                    1071
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    128,
+                    1070,
+                    835,
+                    1395
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    128,
+                    1394,
+                    836,
+                    1898
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9395,
+                "bbox": [
+                    282,
+                    1938,
+                    659,
+                    1969
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.961,
+                "bbox": [
+                    131,
+                    1982,
+                    811,
+                    2047
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    848,
+                    99,
+                    1550,
+                    544
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    850,
+                    543,
+                    1565,
+                    1221
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    853,
+                    1220,
+                    1553,
+                    1457
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    850,
+                    1457,
+                    1551,
+                    1638
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9362,
+                "bbox": [
+                    929,
+                    1714,
+                    1451,
+                    1742
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9752,
+                "bbox": [
+                    859,
+                    1755,
+                    1537,
+                    1984
+                ],
+                "index": 13,
+                "html": "<table><tr><td>Steel</td><td>C</td><td>Mn</td><td>P</td><td>S</td><td>Si</td><td>Cr</td><td>Ni</td><td>Cu</td><td>N</td></tr><tr><td>1</td><td>0.022</td><td>18.25</td><td>0.012</td><td>0.011</td><td>0.34</td><td>17.95</td><td>0.07</td><td>0.20</td><td>0.03</td></tr><tr><td>2</td><td>0.026</td><td>18.20</td><td>0.006</td><td>0.014</td><td>0.32</td><td>17.88</td><td>0.07</td><td>0.22</td><td>0.10</td></tr><tr><td>3</td><td>0.027</td><td>18.14</td><td>0.006</td><td>0.017</td><td>0.38</td><td>17.88</td><td>0.07</td><td>0.23</td><td>0.18</td></tr><tr><td>4</td><td>0.030</td><td>18.20</td><td>0.009</td><td>0.010</td><td>0.37</td><td>17.88</td><td>0.08</td><td>0.22</td><td>0.33</td></tr><tr><td>5</td><td>0.032</td><td>18.00</td><td>0.011</td><td>0.009</td><td>0.37</td><td>18.10</td><td>0.08</td><td>0.22</td><td>0.40</td></tr><tr><td>6</td><td>0.038</td><td>17.80</td><td>0.009</td><td>0.012</td><td>0.29</td><td>17.83</td><td>0.08</td><td>0.22</td><td>0.52</td></tr><tr><td>7*</td><td>0.037</td><td>18.25</td><td>0.008</td><td>0.013</td><td>0.40</td><td>18.25</td><td>0.07</td><td>0.24</td><td>0.69</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8969,
+                "bbox": [
+                    883,
+                    1994,
+                    1099,
+                    2021
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9008,
+                "bbox": [
+                    135,
+                    2061,
+                    517,
+                    2090
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9297,
+                "bbox": [
+                    1161,
+                    2062,
+                    1540,
+                    2090
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    97,
+                    815,
+                    129
+                ],
+                "score": 0.999,
+                "text": "alent in these alloy grades than for the Cr-Ni stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    128,
+                    221,
+                    153
+                ],
+                "score": 1.0,
+                "text": "steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    155,
+                    786,
+                    186
+                ],
+                "score": 0.999,
+                "text": "The corrosion resistance data obtained by investi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    181,
+                    789,
+                    219
+                ],
+                "score": 0.96,
+                "text": "gators such as Heger1ª or Nighawan et al¹⁴ have pro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    216,
+                    774,
+                    246
+                ],
+                "score": 0.994,
+                "text": "vided a comparison between the corrosion resistant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    244,
+                    752,
+                    276
+                ],
+                "score": 0.988,
+                "text": "Cr(Ni)Mn stainless steels and the Cr-Ni stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    274,
+                    774,
+                    305
+                ],
+                "score": 0.996,
+                "text": "steels. These studies have shown that the Cr(Ni)Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    333,
+                    779,
+                    364
+                ],
+                "score": 0.996,
+                "text": "ting resistance equivalent to steels such as AISI 304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    392,
+                    779,
+                    424
+                ],
+                "score": 0.997,
+                "text": "large changes in the Cr, Mn, Mo, and Ni contents so"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    451,
+                    795,
+                    483
+                ],
+                "score": 0.992,
+                "text": "of Cr(Ni)Mn stainless steels was not discernible. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    569,
+                    774,
+                    601
+                ],
+                "score": 1.0,
+                "text": "pitting resistance could be examined. The objective"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    718,
+                    474,
+                    744
+                ],
+                "score": 0.994,
+                "text": "of austenite in these steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    306,
+                    795,
+                    332
+                ],
+                "score": 0.991,
+                "text": "steels with or without nitrogen have corrosion or pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    365,
+                    801,
+                    392
+                ],
+                "score": 1.0,
+                "text": "or 316. The above investigations were encumbered by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    425,
+                    783,
+                    451
+                ],
+                "score": 0.994,
+                "text": "that the effect of nitrogen upon the pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    483,
+                    779,
+                    510
+                ],
+                "score": 0.999,
+                "text": "basic Cr-Mn steels were chosen for investigation to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    513,
+                    797,
+                    539
+                ],
+                "score": 0.999,
+                "text": "eliminate the effects of additional elements described"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    542,
+                    779,
+                    570
+                ],
+                "score": 0.989,
+                "text": "above so that the independent effect of nitrogen upon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    601,
+                    799,
+                    627
+                ],
+                "score": 0.988,
+                "text": "of the work described below was to investigate the ef-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    631,
+                    787,
+                    658
+                ],
+                "score": 0.994,
+                "text": "fect on nitrogen upon the pitting resistance of Cr-Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    661,
+                    804,
+                    687
+                ],
+                "score": 0.996,
+                "text": "stainless steels and to develop an understanding of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    690,
+                    779,
+                    717
+                ],
+                "score": 0.993,
+                "text": "effect of nitrogen additions upon the relative amount"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    745,
+                    800,
+                    777
+                ],
+                "score": 0.989,
+                "text": "This study was designed to determine the effects of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    776,
+                    808,
+                    807
+                ],
+                "score": 0.991,
+                "text": "nitrogen additions upon the pitting resistance and upon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    834,
+                    774,
+                    865
+                ],
+                "score": 0.991,
+                "text": "(austenite plus ferrite) and totally austenitic Cr-Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    863,
+                    809,
+                    896
+                ],
+                "score": 0.99,
+                "text": "stainless steels. For the purpose of this study, duplex"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    894,
+                    790,
+                    925
+                ],
+                "score": 1.0,
+                "text": "steels are those having any mixture of both austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    951,
+                    796,
+                    984
+                ],
+                "score": 1.0,
+                "text": "ation because of their high solubility for nitrogen and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    983,
+                    788,
+                    1011
+                ],
+                "score": 1.0,
+                "text": "because the relative amounts of austenite and ferrite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1012,
+                    781,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "may be adjusted both through thermal treatment and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1041,
+                    468,
+                    1069
+                ],
+                "score": 0.982,
+                "text": "by the addition of nitrogen."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    807,
+                    810,
+                    835
+                ],
+                "score": 1.0,
+                "text": "the relative amounts of austenite and ferrite in duplex,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    925,
+                    807,
+                    952
+                ],
+                "score": 1.0,
+                "text": "and ferrite. The Cr-Mn steels were chosen for evalu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    1069,
+                    806,
+                    1101
+                ],
+                "score": 0.992,
+                "text": "The 18 Cr, 18 Mn composition was chosen for evalu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1098,
+                    771,
+                    1129
+                ],
+                "score": 0.969,
+                "text": "ation because the data of Koster¹⁵ indicated that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1128,
+                    785,
+                    1160
+                ],
+                "score": 0.999,
+                "text": "nitrogen-free composition was duplex when annealed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1157,
+                    776,
+                    1190
+                ],
+                "score": 0.981,
+                "text": "at 1950°F (1070°C) and could be totally ferritized by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1186,
+                    777,
+                    1219
+                ],
+                "score": 0.978,
+                "text": "annealing near 2300°F (1260°C). The data developed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1215,
+                    803,
+                    1251
+                ],
+                "score": 0.979,
+                "text": "by Carney1⁶ indicated that the composition had a large"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1248,
+                    813,
+                    1280
+                ],
+                "score": 0.995,
+                "text": "solubility for nitrogen and could be totally austenitized"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1276,
+                    821,
+                    1310
+                ],
+                "score": 0.993,
+                "text": "through this addition. The composition, therefore, pro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1337,
+                    807,
+                    1368
+                ],
+                "score": 0.997,
+                "text": "high nitrogen solubility and diversity of crystal struc-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1366,
+                    427,
+                    1394
+                ],
+                "score": 1.0,
+                "text": "ture and phase balance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1309,
+                    833,
+                    1337
+                ],
+                "score": 0.989,
+                "text": "vided the two essential elements required for this study:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1390,
+                    803,
+                    1425
+                ],
+                "score": 0.985,
+                "text": "Investigations¹7,18 have indicated that nitrogen addi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1425,
+                    810,
+                    1454
+                ],
+                "score": 0.999,
+                "text": "tions provided a gradual improvement in pitting resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1453,
+                    820,
+                    1484
+                ],
+                "score": 0.988,
+                "text": "tance and moreover the improvement was more readily"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1483,
+                    824,
+                    1513
+                ],
+                "score": 0.996,
+                "text": "observed in the more aggressive solutions than in solu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1513,
+                    828,
+                    1543
+                ],
+                "score": 0.995,
+                "text": "tions having a low chloride concentration. To mimimize"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1543,
+                    793,
+                    1572
+                ],
+                "score": 0.996,
+                "text": "data scatter encountered by immersion testing and to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1571,
+                    811,
+                    1602
+                ],
+                "score": 1.0,
+                "text": "allow discrimination between relatively small nitrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1601,
+                    820,
+                    1632
+                ],
+                "score": 0.999,
+                "text": "increments, the determination of pitting resistance was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1631,
+                    835,
+                    1661
+                ],
+                "score": 0.999,
+                "text": "performed using potentiokinetic techniques that provided"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1661,
+                    793,
+                    1691
+                ],
+                "score": 0.999,
+                "text": "a variety of pitting environments which become more"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1691,
+                    827,
+                    1720
+                ],
+                "score": 0.993,
+                "text": "severe as the sample becomes more anodic. The deter-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1718,
+                    824,
+                    1750
+                ],
+                "score": 1.0,
+                "text": "mination of amount of austenite in the duplex alloys was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1749,
+                    808,
+                    1779
+                ],
+                "score": 0.98,
+                "text": "performed by X-ray techniques to minimize error and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1778,
+                    824,
+                    1808
+                ],
+                "score": 0.998,
+                "text": "the combination of these techniques provide an accurate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1807,
+                    834,
+                    1838
+                ],
+                "score": 0.989,
+                "text": "analysis of the effects of nitrogen upon the pitting resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1837,
+                    798,
+                    1867
+                ],
+                "score": 0.998,
+                "text": "tance and relative amount of austenite in 18 Cr, 18 Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1869,
+                    325,
+                    1892
+                ],
+                "score": 0.999,
+                "text": "stainless steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    288,
+                    1941,
+                    653,
+                    1972
+                ],
+                "score": 0.991,
+                "text": "METHODS AND PROCEDURE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    1982,
+                    775,
+                    2015
+                ],
+                "score": 1.0,
+                "text": "The 18 Cr, 18 Mn, N steels evaluated in this study"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2015,
+                    805,
+                    2043
+                ],
+                "score": 0.985,
+                "text": "were prepared from commercial grades of low carbon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    103,
+                    1477,
+                    127
+                ],
+                "score": 0.999,
+                "text": "ferroalloys and electrolytic metals. The series of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    132,
+                    1489,
+                    157
+                ],
+                "score": 0.983,
+                "text": "compositions listed in Table I were melted in a 20-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    161,
+                    1500,
+                    187
+                ],
+                "score": 0.987,
+                "text": "pound (9.2 kg) air induction furnace. The C, Cr, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    191,
+                    1510,
+                    215
+                ],
+                "score": 0.988,
+                "text": "Mn were held to close tolerances, the Ni, Cu, and Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    222,
+                    1512,
+                    245
+                ],
+                "score": 0.994,
+                "text": "were held to residual levels, and the nitrogen content"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    249,
+                    1512,
+                    275
+                ],
+                "score": 0.997,
+                "text": "was systematically increased using nitrided Mn. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    279,
+                    1536,
+                    305
+                ],
+                "score": 1.0,
+                "text": "nitrogen content was increased until ingot porosity was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    309,
+                    1520,
+                    334
+                ],
+                "score": 0.989,
+                "text": "observed indicating that the alloy meIt was fully satu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    338,
+                    1543,
+                    364
+                ],
+                "score": 0.989,
+                "text": "rated with nitrogen. In this manner, the complete range"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    368,
+                    1520,
+                    394
+                ],
+                "score": 1.0,
+                "text": "of nitrogen contents amenable to the 18 pct Cr, 18 pct"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    397,
+                    1527,
+                    422
+                ],
+                "score": 0.993,
+                "text": "Mn composition was studied. While the carbon content"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    427,
+                    1509,
+                    453
+                ],
+                "score": 0.999,
+                "text": "systematically increased with increasing nitrogen as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    456,
+                    1500,
+                    481
+                ],
+                "score": 0.999,
+                "text": "the result of the nitrided Mn addition, it was not felt"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    486,
+                    1513,
+                    510
+                ],
+                "score": 0.992,
+                "text": "that the range of 0.016 pct carbon would bias the data"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    515,
+                    1543,
+                    540
+                ],
+                "score": 0.988,
+                "text": "and was not considered in the interpretation of the data."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    885,
+                    543,
+                    1544,
+                    569
+                ],
+                "score": 0.995,
+                "text": "The mechanical processing of the ingots consisted of:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    575,
+                    1506,
+                    599
+                ],
+                "score": 0.994,
+                "text": "grinding the ingots to remove surface imperfections,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    603,
+                    1500,
+                    628
+                ],
+                "score": 0.977,
+                "text": "hot rolling the ingots at 2200°F (1205°C) to 0.150-in."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    633,
+                    1549,
+                    657
+                ],
+                "score": 0.993,
+                "text": "(3.8 mm) thick sheet followed by an air anneal at 1950°F"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    662,
+                    1540,
+                    687
+                ],
+                "score": 0.995,
+                "text": "(1070°C) for 15 min. The annealed sheet was then pick-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    693,
+                    1534,
+                    715
+                ],
+                "score": 0.991,
+                "text": "led in 10 pct HNO,:2 pct HF at 150°F to remove the hot"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    722,
+                    1540,
+                    745
+                ],
+                "score": 0.985,
+                "text": "rolling and annealing scale, cold rolled 50 pct to 0.075-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    750,
+                    1492,
+                    775
+                ],
+                "score": 0.988,
+                "text": "in. (1.9 mm) thickness, and then annealed at 1950°F"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    781,
+                    1537,
+                    804
+                ],
+                "score": 0.982,
+                "text": "(1070°C) for seven minutes in air, and pickled as above"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    810,
+                    1523,
+                    835
+                ],
+                "score": 0.999,
+                "text": "to remove the annealing scale. Microscopic examina-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    839,
+                    1524,
+                    864
+                ],
+                "score": 0.993,
+                "text": "tion of the annealed 0.075-in. (1.9 mm) strip indicated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    871,
+                    1550,
+                    893
+                ],
+                "score": 0.994,
+                "text": "that nitrogen adsorption during the 1950°F (1070°C) final"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    899,
+                    1547,
+                    923
+                ],
+                "score": 0.999,
+                "text": "anneal had produced an austenitized zone approximately"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    928,
+                    1542,
+                    953
+                ],
+                "score": 0.991,
+                "text": "0.001 in. (0.025 mm) thick at the surface which was re-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    958,
+                    1520,
+                    982
+                ],
+                "score": 0.999,
+                "text": "moved by another pickling treatment until a reduction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    986,
+                    1506,
+                    1014
+                ],
+                "score": 0.986,
+                "text": "in thickness of 0.003 in. (0.075 mm) was obtained.A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    1019,
+                    1535,
+                    1040
+                ],
+                "score": 0.989,
+                "text": "final heat treatment of 2300°F (1260°C) for 15 min. fol-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    1047,
+                    1540,
+                    1071
+                ],
+                "score": 0.991,
+                "text": "lowed by a water quench was given to a sample of Alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1106,
+                    1524,
+                    1129
+                ],
+                "score": 0.997,
+                "text": "sample was again pickled to remove the scale and au-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1135,
+                    1561,
+                    1159
+                ],
+                "score": 0.993,
+                "text": "stenitized zone. Samples of the steels were subsequently"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1165,
+                    1565,
+                    1188
+                ],
+                "score": 0.999,
+                "text": "sheared for evaluation by potentiokinetic and X-ray tech-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    1196,
+                    950,
+                    1221
+                ],
+                "score": 1.0,
+                "text": "niques."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    1075,
+                    1529,
+                    1102
+                ],
+                "score": 0.993,
+                "text": "No. 1 to ferritize the duplex structure, after which the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    1223,
+                    1549,
+                    1247
+                ],
+                "score": 0.999,
+                "text": "Determination of the pitting resistance of the ferritic,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    1254,
+                    1548,
+                    1275
+                ],
+                "score": 0.996,
+                "text": "duplex. and austenitic steels was obtained by a standard"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    1284,
+                    1494,
+                    1305
+                ],
+                "score": 0.996,
+                "text": "method in compliance with the ASTM recommended"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    1314,
+                    1522,
+                    1336
+                ],
+                "score": 0.995,
+                "text": "practice. Samples for potentiokinetic evaluation were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    1342,
+                    1491,
+                    1364
+                ],
+                "score": 0.997,
+                "text": "obtained from the processed strip described above."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    861,
+                    1371,
+                    1521,
+                    1394
+                ],
+                "score": 0.995,
+                "text": "Prior to testing, the samples were degreased in a hot"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    861,
+                    1401,
+                    1542,
+                    1424
+                ],
+                "score": 0.982,
+                "text": "(120°F (50°C)) concentrated solution of Alconox cleaner"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    860,
+                    1431,
+                    1393,
+                    1453
+                ],
+                "score": 0.989,
+                "text": "and thoroughly rinsed in water and alcohol."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    884,
+                    1460,
+                    1544,
+                    1483
+                ],
+                "score": 0.996,
+                "text": "Potentiokinetic evaluation of the alloys was conducted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1484,
+                    1513,
+                    1513
+                ],
+                "score": 0.981,
+                "text": "in a cell which has been described by M. J. Johnson¹9"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1511,
+                    1541,
+                    1546
+                ],
+                "score": 0.993,
+                "text": "which is similar to the Stern-Makrides² sample holder"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1549,
+                    1540,
+                    1572
+                ],
+                "score": 0.983,
+                "text": "specified in the ASTM recommended practice. The cell"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1578,
+                    1545,
+                    1602
+                ],
+                "score": 0.98,
+                "text": "is a high glass cylinder having aflat ground side through"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1607,
+                    1512,
+                    1632
+                ],
+                "score": 0.992,
+                "text": "which a hole nas been blown to produce tapered sides"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    935,
+                    1718,
+                    1446,
+                    1738
+                ],
+                "score": 0.985,
+                "text": "Table 1. Composition of 18 pct Cr, 18 pct Mn Steels Evaluated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    885,
+                    1998,
+                    1096,
+                    2018
+                ],
+                "score": 1.0,
+                "text": "*Ingot porosity observed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    2065,
+                    513,
+                    2088
+                ],
+                "score": 0.982,
+                "text": "2272-VOLUME 5,NOVEMBER 1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1164,
+                    2068,
+                    1535,
+                    2086
+                ],
+                "score": 0.993,
+                "text": "METALLURGICAL TRANSACTIONS"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2176
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887,
+                "bbox": [
+                    129,
+                    101,
+                    821,
+                    487
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    128,
+                    486,
+                    821,
+                    873
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863,
+                "bbox": [
+                    128,
+                    871,
+                    827,
+                    1083
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9873,
+                "bbox": [
+                    139,
+                    1112,
+                    809,
+                    1901
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9774,
+                "bbox": [
+                    129,
+                    1907,
+                    794,
+                    2037
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9871,
+                "bbox": [
+                    896,
+                    98,
+                    1487,
+                    882
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9644,
+                "bbox": [
+                    850,
+                    889,
+                    1501,
+                    945
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9841,
+                "bbox": [
+                    853,
+                    991,
+                    1527,
+                    1954
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9735,
+                "bbox": [
+                    848,
+                    1959,
+                    1508,
+                    2038
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9363,
+                "bbox": [
+                    133,
+                    2065,
+                    511,
+                    2093
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9378,
+                "bbox": [
+                    1154,
+                    2066,
+                    1533,
+                    2094
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    279,
+                    815,
+                    311
+                ],
+                "score": 0.991,
+                "text": "salt bridge located approximately 2 mm from the sam-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    337,
+                    771,
+                    370
+                ],
+                "score": 0.993,
+                "text": "made externally to the cell. A Wenking potentiostat"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    397,
+                    774,
+                    430
+                ],
+                "score": 0.978,
+                "text": "graphic display of the anodic polarization data. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    428,
+                    785,
+                    459
+                ],
+                "score": 1.0,
+                "text": "voltage increase was obtained using a motor drive to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    457,
+                    649,
+                    489
+                ],
+                "score": 0.982,
+                "text": "produce a 0.7 volt per hour scanning rate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    103,
+                    810,
+                    130
+                ],
+                "score": 0.988,
+                "text": "minimizing the entrapment of corrosion products. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    133,
+                    786,
+                    160
+                ],
+                "score": 0.998,
+                "text": "sample was attached to the cell by clamping to a flat"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    162,
+                    815,
+                    190
+                ],
+                "score": 0.992,
+                "text": "Teflon gasket with a 1/16 in. (1.6 mm) raised ring seal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    191,
+                    798,
+                    220
+                ],
+                "score": 0.982,
+                "text": "around a 1 cm² hole in the cell. The platinum counter"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    222,
+                    812,
+                    250
+                ],
+                "score": 0.989,
+                "text": "electrode, KCl saIt bridge and saturated Calomel elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    252,
+                    806,
+                    280
+                ],
+                "score": 0.996,
+                "text": "trode were of standard design with the capillary of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    310,
+                    787,
+                    338
+                ],
+                "score": 0.999,
+                "text": "ple surface. Electrical connection to the sample was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    370,
+                    783,
+                    397
+                ],
+                "score": 0.992,
+                "text": "used in conjunction with an X-Y recorder provided a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    485,
+                    779,
+                    516
+                ],
+                "score": 0.993,
+                "text": "After the sample was secured to the cell, internal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    685,
+                    549,
+                    814,
+                    576
+                ],
+                "score": 0.973,
+                "text": ". To avoid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    604,
+                    779,
+                    637
+                ],
+                "score": 0.983,
+                "text": "addition of acetic acid. After the external electrical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    634,
+                    801,
+                    666
+                ],
+                "score": 1.0,
+                "text": "connection was established, the sample was permitted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    752,
+                    793,
+                    785
+                ],
+                "score": 0.982,
+                "text": "0.7 volts per hour until pitting occurred, as indicated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    782,
+                    814,
+                    815
+                ],
+                "score": 0.998,
+                "text": "by a large increase in current. The total voltage range"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    812,
+                    778,
+                    843
+                ],
+                "score": 0.991,
+                "text": "scanned was approximately -0.3 to 1.0 volts. From"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    841,
+                    678,
+                    872
+                ],
+                "score": 0.994,
+                "text": "these data the pitting potential was obtained."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    517,
+                    799,
+                    545
+                ],
+                "score": 0.994,
+                "text": "electrical connection was established by adding 150 to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    546,
+                    697,
+                    574
+                ],
+                "score": 0.952,
+                "text": "200 ml of a solution of1000 ppm Cl\" as NaCI."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    577,
+                    799,
+                    605
+                ],
+                "score": 0.973,
+                "text": "pH effects, the pH was standardizedat 5.0 through the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    666,
+                    775,
+                    693
+                ],
+                "score": 0.993,
+                "text": "to remain in contact with the solution for 30 min. at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    696,
+                    796,
+                    722
+                ],
+                "score": 0.971,
+                "text": "- 0.3 to - 0.1 volts to passivate or reach equilibrium."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    725,
+                    797,
+                    752
+                ],
+                "score": 0.993,
+                "text": "The sample was then made more anodic at the rate of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    871,
+                    789,
+                    903
+                ],
+                "score": 0.994,
+                "text": "The pitting potential was experimentally defined as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1019,
+                    778,
+                    1050
+                ],
+                "score": 0.998,
+                "text": "observed, the above method, which may be called an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1049,
+                    780,
+                    1079
+                ],
+                "score": 0.991,
+                "text": "offset pitting potential, was employed to simplify the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    903,
+                    827,
+                    929
+                ],
+                "score": 0.991,
+                "text": "that voltage where the anodic polarization data exceeded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    932,
+                    803,
+                    958
+                ],
+                "score": 0.992,
+                "text": "0.02 mA without repassivation, i.e., decreases of cur-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    961,
+                    808,
+                    989
+                ],
+                "score": 0.999,
+                "text": "rent below 0.02 mA. While the pitting potential is gen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    992,
+                    808,
+                    1018
+                ],
+                "score": 0.99,
+                "text": "erally defined as that voltage where a current surge is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1933,
+                    774,
+                    1961
+                ],
+                "score": 0.992,
+                "text": "stainless steels of increasing nitrogen content. Offset pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1982,
+                    755,
+                    2012
+                ],
+                "score": 0.998,
+                "text": "anodic polarization data with the offset pitting amperage."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1910,
+                    756,
+                    1934
+                ],
+                "score": 0.979,
+                "text": "Fig. 1-Anodic polarization data for 18 pct Cr, 18 pct Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1960,
+                    788,
+                    1984
+                ],
+                "score": 0.997,
+                "text": "ting potential has been determined by the intersection of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2010,
+                    746,
+                    2032
+                ],
+                "score": 0.997,
+                "text": "1* indicates data for Alloy 1 after thermal ferritization."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    894,
+                    1498,
+                    916
+                ],
+                "score": 0.984,
+                "text": "Fig. 2—The effect of nitrogen additions upon the offset pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    918,
+                    1445,
+                    939
+                ],
+                "score": 0.996,
+                "text": "ting potential of 18 pct Cr, 18 pct Mn stainless steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1962,
+                    1472,
+                    1986
+                ],
+                "score": 0.986,
+                "text": "Fig. 3—The effect of nitrogen additions upon the relative"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1988,
+                    1504,
+                    2010
+                ],
+                "score": 0.991,
+                "text": "amount of austenite observed in 18 pct Cr, 18 pct Mn stain-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    2012,
+                    982,
+                    2035
+                ],
+                "score": 0.999,
+                "text": "less steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    2070,
+                    505,
+                    2089
+                ],
+                "score": 0.989,
+                "text": "METALLURGICAL TRANSACTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1158,
+                    2072,
+                    1529,
+                    2089
+                ],
+                "score": 0.974,
+                "text": "VOLUME 5.NOVEMBER 1974-2273"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1700,
+            "height": 2176
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9857,
+                "bbox": [
+                    133,
+                    105,
+                    815,
+                    541
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8585,
+                "bbox": [
+                    276,
+                    590,
+                    401,
+                    630
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8501,
+                "bbox": [
+                    518,
+                    587,
+                    660,
+                    625
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9864,
+                "bbox": [
+                    858,
+                    103,
+                    1537,
+                    542
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8415,
+                "bbox": [
+                    1012,
+                    593,
+                    1139,
+                    633
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8801,
+                "bbox": [
+                    1256,
+                    593,
+                    1380,
+                    630
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.985,
+                "bbox": [
+                    133,
+                    674,
+                    818,
+                    1113
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8357,
+                "bbox": [
+                    285,
+                    1161,
+                    411,
+                    1200
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7714,
+                "bbox": [
+                    529,
+                    1162,
+                    654,
+                    1201
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.985,
+                "bbox": [
+                    860,
+                    675,
+                    1536,
+                    1111
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8462,
+                "bbox": [
+                    1010,
+                    1161,
+                    1135,
+                    1200
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9009,
+                "bbox": [
+                    1253,
+                    1161,
+                    1377,
+                    1199
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9719,
+                "bbox": [
+                    132,
+                    1248,
+                    818,
+                    1694
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8137,
+                "bbox": [
+                    270,
+                    1731,
+                    397,
+                    1770
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7424,
+                "bbox": [
+                    514,
+                    1733,
+                    639,
+                    1769
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9784,
+                "bbox": [
+                    860,
+                    1248,
+                    1535,
+                    1687
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8319,
+                "bbox": [
+                    1011,
+                    1736,
+                    1136,
+                    1773
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6827,
+                "bbox": [
+                    1254,
+                    1734,
+                    1379,
+                    1770
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9499,
+                "bbox": [
+                    120,
+                    1780,
+                    1534,
+                    1837
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9817,
+                "bbox": [
+                    119,
+                    1883,
+                    832,
+                    2036
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    849,
+                    1880,
+                    1539,
+                    2034
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9426,
+                "bbox": [
+                    127,
+                    2065,
+                    515,
+                    2094
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9449,
+                "bbox": [
+                    1165,
+                    2063,
+                    1548,
+                    2092
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    278,
+                    590,
+                    401,
+                    637
+                ],
+                "score": 0.932,
+                "text": "Alloy 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    522,
+                    591,
+                    656,
+                    624
+                ],
+                "score": 0.958,
+                "text": "0.038% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1014,
+                    591,
+                    1139,
+                    642
+                ],
+                "score": 0.97,
+                "text": "Alloy 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1258,
+                    595,
+                    1378,
+                    630
+                ],
+                "score": 0.993,
+                "text": "0.10% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    287,
+                    1162,
+                    411,
+                    1205
+                ],
+                "score": 0.944,
+                "text": "Alloy 3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    531,
+                    1163,
+                    652,
+                    1201
+                ],
+                "score": 0.998,
+                "text": "0.18% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1011,
+                    1157,
+                    1136,
+                    1208
+                ],
+                "score": 0.971,
+                "text": "Alloy 4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1256,
+                    1165,
+                    1375,
+                    1199
+                ],
+                "score": 0.979,
+                "text": "0.33% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    272,
+                    1727,
+                    398,
+                    1778
+                ],
+                "score": 0.996,
+                "text": "Alloy 5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    516,
+                    1734,
+                    638,
+                    1772
+                ],
+                "score": 0.993,
+                "text": "0.40% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1012,
+                    1736,
+                    1136,
+                    1779
+                ],
+                "score": 0.889,
+                "text": "A1loy 6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1256,
+                    1737,
+                    1377,
+                    1771
+                ],
+                "score": 0.962,
+                "text": "0.52% N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1782,
+                    1530,
+                    1808
+                ],
+                "score": 0.988,
+                "text": "Fig. 4-Microstructures of 18 pct Cr-18 pct Mn stainless steels of varying nitrogen contents. The addition of 0.40 pct nitrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1810,
+                    846,
+                    1831
+                ],
+                "score": 0.999,
+                "text": "produced a nearly austenitic structure. Magnification 740 times."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1886,
+                    830,
+                    1913
+                ],
+                "score": 0.99,
+                "text": "determination of the pitting potential. The offset method"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    1917,
+                    766,
+                    1941
+                ],
+                "score": 0.999,
+                "text": "permits the determination of a potential where both"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1945,
+                    791,
+                    1973
+                ],
+                "score": 0.996,
+                "text": "crevice pitting at the metal Teflon interface and gen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1974,
+                    819,
+                    2003
+                ],
+                "score": 0.999,
+                "text": "eral pitting have begun. For instance, where the anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    2006,
+                    795,
+                    2030
+                ],
+                "score": 0.991,
+                "text": "polarization data exceeded 0.02 mA and then repassi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1886,
+                    1537,
+                    1908
+                ],
+                "score": 0.98,
+                "text": "vated as shown in Fig. 1 for Alloys 1 and 3, it was felt"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1916,
+                    1531,
+                    1938
+                ],
+                "score": 0.994,
+                "text": "that the passive film had reformed and the higher pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1946,
+                    1505,
+                    1968
+                ],
+                "score": 0.994,
+                "text": "ting potential was recorded. The offset method also"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1975,
+                    1488,
+                    1999
+                ],
+                "score": 0.996,
+                "text": "simplified the potential determination for Alloys 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    2004,
+                    1518,
+                    2027
+                ],
+                "score": 0.991,
+                "text": "(ferritized) and 7 shown in Fig. 1, where the onset of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    2070,
+                    511,
+                    2091
+                ],
+                "score": 0.994,
+                "text": "2274-VOLUME 5,NOVEMBER 1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1167,
+                    2069,
+                    1544,
+                    2088
+                ],
+                "score": 0.998,
+                "text": "METALLURGICAITRANSACTIONS"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1700,
+            "height": 2176
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9846,
+                "bbox": [
+                    205,
+                    94,
+                    753,
+                    1094
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9576,
+                "bbox": [
+                    129,
+                    1097,
+                    787,
+                    1152
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    127,
+                    1186,
+                    815,
+                    1334
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    127,
+                    1334,
+                    832,
+                    1782
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9265,
+                "bbox": [
+                    406,
+                    1819,
+                    537,
+                    1849
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838,
+                "bbox": [
+                    129,
+                    1863,
+                    836,
+                    2047
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    846,
+                    100,
+                    1546,
+                    876
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8813,
+                "bbox": [
+                    1111,
+                    932,
+                    1273,
+                    963
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    848,
+                    977,
+                    1543,
+                    1629
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    850,
+                    1626,
+                    1545,
+                    2045
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9338,
+                "bbox": [
+                    133,
+                    2064,
+                    514,
+                    2093
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9323,
+                "bbox": [
+                    1156,
+                    2064,
+                    1536,
+                    2093
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1099,
+                    783,
+                    1125
+                ],
+                "score": 0.988,
+                "text": "Fig. 5—The effect of the austenite content on the offset pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1125,
+                    713,
+                    1148
+                ],
+                "score": 0.997,
+                "text": "ting potential of 18 pct Cr, 18 pct Mn stainless steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1188,
+                    766,
+                    1217
+                ],
+                "score": 0.997,
+                "text": "pitting might be assigned to a number of potentials."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1218,
+                    808,
+                    1246
+                ],
+                "score": 0.987,
+                "text": "Reproducibility of the anodic polarization data was de-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1247,
+                    812,
+                    1277
+                ],
+                "score": 0.998,
+                "text": "termined by a single replication. The offset pitting po-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1276,
+                    808,
+                    1306
+                ],
+                "score": 0.989,
+                "text": "tential agreed to within 0.04 volts for the compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1306,
+                    260,
+                    1333
+                ],
+                "score": 1.0,
+                "text": "examined."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1334,
+                    814,
+                    1364
+                ],
+                "score": 0.999,
+                "text": "The determination of the relative amounts of austen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1364,
+                    823,
+                    1394
+                ],
+                "score": 0.982,
+                "text": "ite and ferrite was made by metallographic examination"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1394,
+                    801,
+                    1422
+                ],
+                "score": 1.0,
+                "text": "for the totally austenitic or ferritic steels and the du-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1424,
+                    827,
+                    1452
+                ],
+                "score": 0.996,
+                "text": "plex alloys were examined by X-ray techniques on sam-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1453,
+                    801,
+                    1481
+                ],
+                "score": 0.995,
+                "text": "ples of final annealed and pickled strip that were pre-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1482,
+                    811,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "pared for examination by electropolishing to a depth of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1510,
+                    805,
+                    1541
+                ],
+                "score": 0.994,
+                "text": "0.003 to 0.005 in. (0.075 to 0.125 mm) to eliminate any"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1541,
+                    792,
+                    1570
+                ],
+                "score": 0.996,
+                "text": "surface effects. The samples were mounted on a dif-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1570,
+                    778,
+                    1598
+                ],
+                "score": 0.995,
+                "text": "fractometer and the peak intensities of the austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1599,
+                    807,
+                    1630
+                ],
+                "score": 0.995,
+                "text": "and ferrite (222) and (220) peaks were measured using"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1630,
+                    826,
+                    1658
+                ],
+                "score": 0.981,
+                "text": "CrKα radiation and the degree of texture was measured"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1662,
+                    827,
+                    1686
+                ],
+                "score": 0.988,
+                "text": "for each phase using MoKα radiation. The peak intensi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1692,
+                    819,
+                    1716
+                ],
+                "score": 1.0,
+                "text": "ties were subsequently corrected to random orientation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1718,
+                    799,
+                    1747
+                ],
+                "score": 0.997,
+                "text": "and the ratio of peak intensities determined the phase"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1748,
+                    833,
+                    1777
+                ],
+                "score": 0.994,
+                "text": "balance of the steel using standard sample comparisons."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    411,
+                    1825,
+                    531,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "RESULTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    1865,
+                    769,
+                    1893
+                ],
+                "score": 0.985,
+                "text": "The effects of nitrogen additions upon the (offset)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1897,
+                    788,
+                    1923
+                ],
+                "score": 0.986,
+                "text": "pitting potential of the 18 pct Cr, 18 pct Mn stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1925,
+                    816,
+                    1953
+                ],
+                "score": 1.0,
+                "text": "steel are shown in Fig. 2. The addition of nitrogen was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1956,
+                    833,
+                    1983
+                ],
+                "score": 0.99,
+                "text": "found to increase the pitting potential or provide greater"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1984,
+                    816,
+                    2014
+                ],
+                "score": 0.998,
+                "text": "pitting resistance. These data indicated that the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    2017,
+                    811,
+                    2041
+                ],
+                "score": 0.999,
+                "text": "potential increased rapidly for nitrogen additions up to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    101,
+                    1511,
+                    130
+                ],
+                "score": 0.989,
+                "text": "0.40 pct after which the effect of nitrogen was dimin-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    134,
+                    1540,
+                    158
+                ],
+                "score": 0.995,
+                "text": "ished. The effect of nitrogen additions upon the relative"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    163,
+                    1530,
+                    189
+                ],
+                "score": 0.999,
+                "text": "amount of austenite is shown in Fig. 3. The addition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    193,
+                    1525,
+                    218
+                ],
+                "score": 0.992,
+                "text": "nitrogen was found to increase the amount of austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    222,
+                    1538,
+                    248
+                ],
+                "score": 0.993,
+                "text": "by a factor of 200 times the percent nitrogen added with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    253,
+                    1501,
+                    277
+                ],
+                "score": 0.99,
+                "text": "the exception of small nitrogen additions which were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    281,
+                    1503,
+                    306
+                ],
+                "score": 0.998,
+                "text": "accommodated without markedly altering the amount"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    310,
+                    1526,
+                    336
+                ],
+                "score": 0.998,
+                "text": "of austenite in the nitrogen-free alloy. The addition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    340,
+                    1497,
+                    367
+                ],
+                "score": 0.993,
+                "text": "0.40 pct nitrogen was found to nearly austenitize the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    370,
+                    1517,
+                    395
+                ],
+                "score": 0.98,
+                "text": "steel as observed by metallographic examination, Fig."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    400,
+                    1498,
+                    424
+                ],
+                "score": 0.994,
+                "text": "4. It was found that effect of nitrogen additions upon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    428,
+                    1539,
+                    455
+                ],
+                "score": 0.997,
+                "text": "the pitting resistance could be divided into two regions:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    458,
+                    1534,
+                    483
+                ],
+                "score": 0.998,
+                "text": "1) The elimination of ferrite in the structure of the du-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    488,
+                    1538,
+                    514
+                ],
+                "score": 0.987,
+                "text": "plex steels and 2) The addition of nitrogen to the totally"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    517,
+                    1542,
+                    543
+                ],
+                "score": 0.995,
+                "text": "austenitic steels. The effect of nitrogen additions in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    547,
+                    1508,
+                    573
+                ],
+                "score": 0.997,
+                "text": "first region is shown in Fig. 5. These data displayed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    577,
+                    1512,
+                    603
+                ],
+                "score": 0.992,
+                "text": "that the pitting resistance increased linearly with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    607,
+                    1531,
+                    632
+                ],
+                "score": 0.997,
+                "text": "amount of austenite in the duplex structure. The effect"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    636,
+                    1482,
+                    661
+                ],
+                "score": 0.991,
+                "text": "of nitrogen additions in the second region has been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    666,
+                    1526,
+                    690
+                ],
+                "score": 0.991,
+                "text": "shown in Fig. 2 for nitrogen contents in excess of 0.40"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    696,
+                    1531,
+                    720
+                ],
+                "score": 0.998,
+                "text": "pct. These data displayed that the pitting resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    725,
+                    1509,
+                    749
+                ],
+                "score": 0.994,
+                "text": "austenitic 18 Cr, 18 Mn stainless steel was increased"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    754,
+                    1517,
+                    779
+                ],
+                "score": 0.988,
+                "text": "by the addition of nitrogen. This improved pitting re-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    783,
+                    1504,
+                    807
+                ],
+                "score": 0.99,
+                "text": "sistance was displayed between 0.40 pct N where the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    812,
+                    1527,
+                    837
+                ],
+                "score": 0.992,
+                "text": "steel became austenitic and 0.69 pct N where the steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    842,
+                    1533,
+                    867
+                ],
+                "score": 0.998,
+                "text": "was saturated with nitrogen resulting in ingot porosity."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1116,
+                    939,
+                    1268,
+                    964
+                ],
+                "score": 1.0,
+                "text": "DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    880,
+                    981,
+                    1523,
+                    1004
+                ],
+                "score": 0.981,
+                "text": "It is clear from the results described above that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1011,
+                    1524,
+                    1035
+                ],
+                "score": 1.0,
+                "text": "addition of nitrogen increases the pitting resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1041,
+                    1512,
+                    1064
+                ],
+                "score": 0.999,
+                "text": "18 Cr, 18 Mn steel. The addition of nitrogen to duplex"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1070,
+                    1512,
+                    1093
+                ],
+                "score": 0.999,
+                "text": "steels eliminated ferrite (which decreased the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1099,
+                    1518,
+                    1123
+                ],
+                "score": 0.993,
+                "text": "resistance) and was in agreement with the results ob-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    852,
+                    1128,
+                    1481,
+                    1152
+                ],
+                "score": 0.97,
+                "text": "tained by Streicher° and by Odar and Smith.1º This"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1159,
+                    1505,
+                    1182
+                ],
+                "score": 0.996,
+                "text": "study also has shown that the addition of nitrogen in-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1188,
+                    1470,
+                    1212
+                ],
+                "score": 0.997,
+                "text": "creases the pitting resistance of totally austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1218,
+                    1502,
+                    1241
+                ],
+                "score": 0.988,
+                "text": "steels. While this was in agreement with the studies"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    853,
+                    1245,
+                    1530,
+                    1272
+                ],
+                "score": 0.978,
+                "text": "of both Uhlig⁴ and Streicher,º the effect of nitrogen ob-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1278,
+                    1533,
+                    1300
+                ],
+                "score": 0.993,
+                "text": "served in this work was more pronounced than that ob-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1305,
+                    1524,
+                    1330
+                ],
+                "score": 0.977,
+                "text": "served by Streicher® in that no molybdenum or silicon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1336,
+                    1537,
+                    1359
+                ],
+                "score": 0.999,
+                "text": "addition was required in addition to the nitrogen for in-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1366,
+                    1530,
+                    1388
+                ],
+                "score": 0.985,
+                "text": "creased pitting resistance. Finally, the totally ferritic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1395,
+                    1516,
+                    1419
+                ],
+                "score": 0.994,
+                "text": "steel was found to be inferior to the nitrogen austeni-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1424,
+                    1477,
+                    1448
+                ],
+                "score": 0.992,
+                "text": "tized steel. While this effect of structure is not in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1455,
+                    1502,
+                    1477
+                ],
+                "score": 0.997,
+                "text": "agreement with that observed by Uhlig for the 18 Cr,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1483,
+                    1507,
+                    1507
+                ],
+                "score": 0.99,
+                "text": "8 Ni steel, the addition of 0.40 pct nitrogen in the au-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1513,
+                    1541,
+                    1535
+                ],
+                "score": 0.981,
+                "text": "stenitic 18 Cr. 18 Mn steel imparts additional corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1542,
+                    1517,
+                    1564
+                ],
+                "score": 0.992,
+                "text": "resistance to this steel such that comparison with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    1571,
+                    1508,
+                    1594
+                ],
+                "score": 0.984,
+                "text": "ferritic 18 Cr, 18 Mn steel without nitrogen cannot be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1601,
+                    1037,
+                    1627
+                ],
+                "score": 1.0,
+                "text": "made directly."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    884,
+                    1630,
+                    1536,
+                    1654
+                ],
+                "score": 0.994,
+                "text": "The relation between the pitting potential and amount"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1659,
+                    1522,
+                    1683
+                ],
+                "score": 1.0,
+                "text": "of austenite in steels bears further explanation. Since"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    855,
+                    1688,
+                    1518,
+                    1713
+                ],
+                "score": 0.998,
+                "text": "the austenite and ferrite are galvanically coupled, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1719,
+                    1526,
+                    1740
+                ],
+                "score": 0.997,
+                "text": "potential of the couple lies between the potential of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1747,
+                    1515,
+                    1770
+                ],
+                "score": 0.998,
+                "text": "austenite and the ferrite as described by Fontana and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1772,
+                    1492,
+                    1802
+                ],
+                "score": 0.995,
+                "text": "Greene²¹ for galvanic couples of dissimilar metals."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    1806,
+                    1522,
+                    1829
+                ],
+                "score": 0.999,
+                "text": "Fontana and Greene describe the effect of altering the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    856,
+                    1837,
+                    1518,
+                    1860
+                ],
+                "score": 0.978,
+                "text": "areas of the metals galvanically coupled and conclude"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1866,
+                    1516,
+                    1889
+                ],
+                "score": 0.996,
+                "text": "that as the area of the more noble metal is increased"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1895,
+                    1519,
+                    1918
+                ],
+                "score": 0.997,
+                "text": "the corrosion potential increases. The addition of ni-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1926,
+                    1507,
+                    1947
+                ],
+                "score": 0.991,
+                "text": "trogen to the duplex steels increases the amount and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1954,
+                    1542,
+                    1977
+                ],
+                "score": 0.992,
+                "text": "the area of the austenite, the more noble phase in these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    1985,
+                    1537,
+                    2007
+                ],
+                "score": 0.993,
+                "text": "alloys. Therefore, the pitting potential of duplex alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    2015,
+                    1516,
+                    2035
+                ],
+                "score": 0.984,
+                "text": "has increased by the mechanism described above and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    2069,
+                    508,
+                    2091
+                ],
+                "score": 0.983,
+                "text": "METALLURGICAL TRANSACTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1161,
+                    2069,
+                    1531,
+                    2090
+                ],
+                "score": 0.974,
+                "text": "VOLUME 5, NOVEMBER 1974-2275"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1700,
+            "height": 2176
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9743,
+                "bbox": [
+                    130,
+                    98,
+                    815,
+                    157
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9864,
+                "bbox": [
+                    129,
+                    158,
+                    832,
+                    336
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9449,
+                "bbox": [
+                    274,
+                    361,
+                    673,
+                    391
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988,
+                "bbox": [
+                    128,
+                    406,
+                    826,
+                    883
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6754,
+                "bbox": [
+                    1106,
+                    100,
+                    1294,
+                    127
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9712,
+                "bbox": [
+                    866,
+                    145,
+                    1519,
+                    194
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9637,
+                "bbox": [
+                    866,
+                    195,
+                    1510,
+                    243
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9237,
+                "bbox": [
+                    864,
+                    244,
+                    1392,
+                    269
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9294,
+                "bbox": [
+                    864,
+                    269,
+                    1318,
+                    294
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9257,
+                "bbox": [
+                    865,
+                    293,
+                    1392,
+                    318
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9297,
+                "bbox": [
+                    865,
+                    318,
+                    1498,
+                    343
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9575,
+                "bbox": [
+                    866,
+                    344,
+                    1475,
+                    389
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9284,
+                "bbox": [
+                    864,
+                    392,
+                    1345,
+                    417
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9185,
+                "bbox": [
+                    862,
+                    415,
+                    1483,
+                    440
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9291,
+                "bbox": [
+                    858,
+                    440,
+                    1463,
+                    465
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9681,
+                "bbox": [
+                    858,
+                    465,
+                    1510,
+                    513
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9354,
+                "bbox": [
+                    857,
+                    514,
+                    1531,
+                    539
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9708,
+                "bbox": [
+                    858,
+                    540,
+                    1530,
+                    610
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9679,
+                "bbox": [
+                    856,
+                    611,
+                    1515,
+                    659
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9283,
+                "bbox": [
+                    856,
+                    660,
+                    1365,
+                    685
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9182,
+                "bbox": [
+                    856,
+                    685,
+                    1229,
+                    709
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9221,
+                "bbox": [
+                    856,
+                    709,
+                    1345,
+                    734
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9219,
+                "bbox": [
+                    856,
+                    734,
+                    1321,
+                    758
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9598,
+                "bbox": [
+                    856,
+                    758,
+                    1481,
+                    806
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.963,
+                "bbox": [
+                    855,
+                    832,
+                    1513,
+                    879
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9309,
+                "bbox": [
+                    856,
+                    807,
+                    1498,
+                    833
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9419,
+                "bbox": [
+                    134,
+                    2064,
+                    513,
+                    2091
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9428,
+                "bbox": [
+                    1157,
+                    2066,
+                    1533,
+                    2093
+                ],
+                "index": 28
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    127,
+                    313,
+                    156
+                ],
+                "score": 0.997,
+                "text": "in the sample."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    100,
+                    810,
+                    127
+                ],
+                "score": 0.991,
+                "text": "has been described in terms of the amount of austenite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    306,
+                    275,
+                    332
+                ],
+                "score": 0.969,
+                "text": "resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    160,
+                    786,
+                    187
+                ],
+                "score": 0.999,
+                "text": "The addition of nitrogen to totally austenitic 18 Cr,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    189,
+                    798,
+                    218
+                ],
+                "score": 0.992,
+                "text": "18 Mn steels produced an increased pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    220,
+                    820,
+                    247
+                ],
+                "score": 0.991,
+                "text": "which resulted in approximately a 0.31 volt per percent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    248,
+                    822,
+                    277
+                ],
+                "score": 0.992,
+                "text": "nitrogen added. While this effect has been observed, no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    279,
+                    829,
+                    306
+                ],
+                "score": 0.992,
+                "text": "mechanism has been uncovered for the increased pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    278,
+                    366,
+                    669,
+                    397
+                ],
+                "score": 0.978,
+                "text": "SUMMARY AND CONCLUSIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    582,
+                    769,
+                    615
+                ],
+                "score": 0.992,
+                "text": "of the duplex steels and was a linear function of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    731,
+                    775,
+                    763
+                ],
+                "score": 1.0,
+                "text": "of nitrogen to the totally austenitic steels increased"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    760,
+                    778,
+                    793
+                ],
+                "score": 0.98,
+                "text": "their pitting resistance but no mechanism was found"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    790,
+                    778,
+                    822
+                ],
+                "score": 0.993,
+                "text": "for the increase. The addition of nitrogen was found"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    848,
+                    631,
+                    880
+                ],
+                "score": 0.997,
+                "text": "of 200 times the percent nitrogen added."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    405,
+                    812,
+                    436
+                ],
+                "score": 0.999,
+                "text": "The effects of nitrogen upon the pitting resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    437,
+                    788,
+                    464
+                ],
+                "score": 0.997,
+                "text": "18 Cr, 18 Mn stainless steel have been determined by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    466,
+                    782,
+                    494
+                ],
+                "score": 0.987,
+                "text": "potentiokinetic techniques. The pitting resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    496,
+                    787,
+                    524
+                ],
+                "score": 0.996,
+                "text": "the thermally ferritized steel was inferior to the du-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    526,
+                    819,
+                    553
+                ],
+                "score": 0.992,
+                "text": "plex steels which were inferior to the austenitic steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    555,
+                    828,
+                    583
+                ],
+                "score": 0.996,
+                "text": "The addition of nitrogen increased the pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    614,
+                    824,
+                    642
+                ],
+                "score": 0.996,
+                "text": "amount of austenite in these steels. This increased pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    644,
+                    792,
+                    672
+                ],
+                "score": 0.997,
+                "text": "ting potential was related to the effects of nitrogen in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    673,
+                    777,
+                    701
+                ],
+                "score": 0.998,
+                "text": "the austenite and relative areas of the austenite and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    704,
+                    798,
+                    731
+                ],
+                "score": 0.994,
+                "text": "ferrite which were galvanically coupled. The addition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    822,
+                    813,
+                    849
+                ],
+                "score": 0.994,
+                "text": "to increase the relative amount of austenite by a factor"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1110,
+                    104,
+                    1290,
+                    127
+                ],
+                "score": 1.0,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    868,
+                    148,
+                    1517,
+                    169
+                ],
+                "score": 0.98,
+                "text": "1. Nitrogen in Chromium Alloy Steels, p. 17, Electro Metallurgical Company of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    174,
+                    1066,
+                    193
+                ],
+                "score": 0.998,
+                "text": "Union Carbide, 1941."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    868,
+                    198,
+                    1507,
+                    218
+                ],
+                "score": 0.989,
+                "text": "2. H. Spahn, H. Spekchardt, and W. Wessling: Chem. Ing. Tech., 1966, vol. 38,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    884,
+                    223,
+                    985,
+                    243
+                ],
+                "score": 0.994,
+                "text": "pp. 407-17."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    866,
+                    246,
+                    1389,
+                    268
+                ],
+                "score": 0.973,
+                "text": "3. T. G. Gooch: Metal Constr., 1969, vol. 1, no. 12, Pp. 569-74."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    866,
+                    271,
+                    1312,
+                    293
+                ],
+                "score": 0.991,
+                "text": "4. H. H. Uhlig: Trans. ASM, 1942, vol. 30, pp. 947-80."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    868,
+                    297,
+                    1386,
+                    316
+                ],
+                "score": 0.987,
+                "text": "5. O. Steensland: J. Iron Steel, 1969, vol. 42, no. 2, pp. 104-08."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    868,
+                    322,
+                    1495,
+                    341
+                ],
+                "score": 0.986,
+                "text": "6. W, Tofaunte and A. Schottky: Arch. Eisenhüttenw., 1942, vol. 15, p. 515."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    866,
+                    345,
+                    1471,
+                    366
+                ],
+                "score": 0.973,
+                "text": "7. Y. S. Medvedev and T. D. Tomilina: Zashch, Metal., 1969, vol. 5, no. 4,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    885,
+                    370,
+                    985,
+                    391
+                ],
+                "score": 0.989,
+                "text": "pp. 394-99."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    867,
+                    395,
+                    1342,
+                    414
+                ],
+                "score": 0.963,
+                "text": "8. H. Bennek: Arch. Eisenhüttenw., 1942, vol. 15, p. 515."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    868,
+                    418,
+                    1479,
+                    440
+                ],
+                "score": 0.987,
+                "text": "9. M. A. Streicher: J. Electrochem, Soc., 1956, vol. 103, no. 7, pp. 375-90."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    444,
+                    1458,
+                    463
+                ],
+                "score": 0.987,
+                "text": "10. S. P. Odar and H. A. Smith: Trans. AIME, 1939, vol. 135, pp. 526-28."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    467,
+                    1508,
+                    488
+                ],
+                "score": 0.985,
+                "text": "11. G. V. Kortvshenko, V. I. Grigorkin, and A. V. Zaslavskii: Izv. Vyssh. Ucheb."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    492,
+                    1320,
+                    513
+                ],
+                "score": 0.981,
+                "text": "Zaved. Chern. Met., 1969, vol. 12, no.8, pp. 124-26."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    516,
+                    1528,
+                    538
+                ],
+                "score": 0.991,
+                "text": "12. A. Condylis, F. Bayon, and A. Desestret: Rev. Met., 1970, vol. 5, pp. 399-412."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    542,
+                    1529,
+                    560
+                ],
+                "score": 0.986,
+                "text": "13. J.J. Heger: Mechanical Properties and Corrosion Resistance of a High-Strength"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    888,
+                    565,
+                    1500,
+                    587
+                ],
+                "score": 0.992,
+                "text": "Chromium-Manganese-Nitrogen-Stainless Steel, ASTM, STP 369, 1965, pp."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    885,
+                    589,
+                    944,
+                    611
+                ],
+                "score": 1.0,
+                "text": "54-61."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    613,
+                    1513,
+                    635
+                ],
+                "score": 0.964,
+                "text": "14. B. B. Nighawan, P. K. Gupte, S. S. Bhatnagar, B. K. Guha, and S. S. Dhanjal:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    640,
+                    1274,
+                    658
+                ],
+                "score": 0.988,
+                "text": "J. Iron Steel Inst., 1967, vol. 205, pp. 292-304."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    662,
+                    1362,
+                    684
+                ],
+                "score": 0.98,
+                "text": "15. W. Koster: Arch. Eisenhüttenw., 1934, vol. 7, pp. 687-88."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    686,
+                    1224,
+                    709
+                ],
+                "score": 0.981,
+                "text": "16. D. J, Carney: U.S. Patent No. 2,778,731."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    712,
+                    1341,
+                    731
+                ],
+                "score": 0.978,
+                "text": "17. H. Bennek: Arch, Eisenhüttenw., 1942, vol. 15, p. 515."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    735,
+                    1317,
+                    758
+                ],
+                "score": 0.995,
+                "text": "18. K. Bungandt: Stahl Eisen, 1950, vol, 70, pp. 582-96."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    857,
+                    760,
+                    1477,
+                    781
+                ],
+                "score": 0.992,
+                "text": "19. M. J. Johnson: Relative Critical Potentials for Pitting Corrosion of Some"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    885,
+                    786,
+                    1309,
+                    804
+                ],
+                "score": 0.988,
+                "text": "Stainless Steels, ASTM, STP-516, 1972, pp. 262-72."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    854,
+                    834,
+                    1511,
+                    854
+                ],
+                "score": 0.992,
+                "text": "21. M. Fontana and N. Greene: Corrosion Engineering, pp. 330-35, McGraw-Hill"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    884,
+                    858,
+                    975,
+                    879
+                ],
+                "score": 0.988,
+                "text": "Co., 1967."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    810,
+                    1495,
+                    830
+                ],
+                "score": 0.984,
+                "text": "20. M. Stern and A. C. Makrides: J. Electrochem, Soc., 1960, vol. 107, p. 782."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    2068,
+                    509,
+                    2090
+                ],
+                "score": 0.982,
+                "text": "2276-VOLUME 5,NOVEMBER 1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1160,
+                    2071,
+                    1529,
+                    2090
+                ],
+                "score": 0.983,
+                "text": "METALLURGICAL TRANSACTIONS"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1700,
+            "height": 2176
+        }
+    }
+]

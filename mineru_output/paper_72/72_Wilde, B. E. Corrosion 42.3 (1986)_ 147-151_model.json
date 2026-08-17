@@ -1,0 +1,5464 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9354,
+                "bbox": [
+                    219,
+                    24,
+                    439,
+                    55
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9712,
+                "bbox": [
+                    181,
+                    56,
+                    851,
+                    114
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9451,
+                "bbox": [
+                    182,
+                    115,
+                    850,
+                    147
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.971,
+                "bbox": [
+                    182,
+                    148,
+                    851,
+                    206
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801,
+                "bbox": [
+                    182,
+                    208,
+                    853,
+                    296
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9485,
+                "bbox": [
+                    179,
+                    297,
+                    852,
+                    328
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9709,
+                "bbox": [
+                    179,
+                    329,
+                    850,
+                    387
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.972,
+                "bbox": [
+                    180,
+                    388,
+                    852,
+                    446
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9727,
+                "bbox": [
+                    180,
+                    447,
+                    852,
+                    508
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9469,
+                "bbox": [
+                    181,
+                    512,
+                    849,
+                    544
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9702,
+                "bbox": [
+                    181,
+                    544,
+                    854,
+                    600
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9725,
+                "bbox": [
+                    181,
+                    601,
+                    852,
+                    659
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9491,
+                "bbox": [
+                    180,
+                    661,
+                    852,
+                    692
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9087,
+                "bbox": [
+                    958,
+                    21,
+                    1199,
+                    52
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9715,
+                "bbox": [
+                    917,
+                    53,
+                    1587,
+                    112
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9718,
+                "bbox": [
+                    918,
+                    115,
+                    1587,
+                    174
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.974,
+                "bbox": [
+                    918,
+                    175,
+                    1588,
+                    235
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9744,
+                "bbox": [
+                    919,
+                    237,
+                    1586,
+                    295
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9735,
+                "bbox": [
+                    919,
+                    298,
+                    1585,
+                    356
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9738,
+                "bbox": [
+                    918,
+                    357,
+                    1586,
+                    413
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9479,
+                "bbox": [
+                    919,
+                    415,
+                    1585,
+                    444
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9692,
+                "bbox": [
+                    919,
+                    444,
+                    1586,
+                    499
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9787,
+                "bbox": [
+                    919,
+                    500,
+                    1588,
+                    585
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9774,
+                "bbox": [
+                    917,
+                    587,
+                    1587,
+                    676
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9782,
+                "bbox": [
+                    446,
+                    831,
+                    1334,
+                    1009
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9368,
+                "bbox": [
+                    792,
+                    1056,
+                    979,
+                    1093
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9218,
+                "bbox": [
+                    821,
+                    1154,
+                    949,
+                    1187
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9875,
+                "bbox": [
+                    376,
+                    1187,
+                    1389,
+                    1455
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9476,
+                "bbox": [
+                    380,
+                    1455,
+                    1393,
+                    1547
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9357,
+                "bbox": [
+                    429,
+                    1657,
+                    605,
+                    1689
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867,
+                "bbox": [
+                    174,
+                    1689,
+                    857,
+                    2015
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    912,
+                    1658,
+                    1591,
+                    1892
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    911,
+                    1891,
+                    1589,
+                    2012
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.6719,
+                "bbox": [
+                    179,
+                    2037,
+                    831,
+                    2068
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9516,
+                "bbox": [
+                    1020,
+                    2036,
+                    1483,
+                    2069
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9781,
+                "bbox": [
+                    911,
+                    2070,
+                    1590,
+                    2159
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8046,
+                "bbox": [
+                    183,
+                    2054,
+                    856,
+                    2154
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9399,
+                "bbox": [
+                    176,
+                    2195,
+                    524,
+                    2231
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8616,
+                "bbox": [
+                    588,
+                    2170,
+                    1177,
+                    2232
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9128,
+                "bbox": [
+                    1531,
+                    2196,
+                    1583,
+                    2227
+                ],
+                "index": 40
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    26,
+                    435,
+                    55
+                ],
+                "score": 0.978,
+                "text": "No. 9, p. 12-1, 1980."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    56,
+                    849,
+                    85
+                ],
+                "score": 0.986,
+                "text": "16. J. B. Lumsden, R. W. Staehle, Scripta Met., Vol. 6, p. 1205,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    223,
+                    86,
+                    285,
+                    116
+                ],
+                "score": 1.0,
+                "text": "1972."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    118,
+                    849,
+                    144
+                ],
+                "score": 0.988,
+                "text": "17. K. Sugimoto, Y. Sawada, Corros. Sci., Vol. 17, p. 425, 1977."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    148,
+                    849,
+                    175
+                ],
+                "score": 0.988,
+                "text": "18. A. P. Bond, E. A. Lizlovs, J. Electrochem. Soc., Vol. 115,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    223,
+                    179,
+                    373,
+                    207
+                ],
+                "score": 0.969,
+                "text": "p. 1130, 1968."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    210,
+                    850,
+                    236
+                ],
+                "score": 0.993,
+                "text": "19. J. R. Ambrose, Passivity of Metals, R. P. Frankenthal, J. R."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    223,
+                    239,
+                    851,
+                    268
+                ],
+                "score": 0.994,
+                "text": "Kruger, Eds., Electrochemical Society, Pennington, New"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    223,
+                    271,
+                    445,
+                    297
+                ],
+                "score": 0.994,
+                "text": "Jersey, p. 749, 1978."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    298,
+                    850,
+                    327
+                ],
+                "score": 0.992,
+                "text": "20. K. Hashimoto, K. Asami, Corros. Sci., Vol. 19, p. 251, 1979."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    329,
+                    852,
+                    356
+                ],
+                "score": 0.987,
+                "text": "21. M. Da Cunha Belo, B. Rondot, F. Pons, J. Lehericy, J. P."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    361,
+                    824,
+                    385
+                ],
+                "score": 0.987,
+                "text": "Langeron, J. Electrochem. Soc., Vol. 124, p. 1317, 1977."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    388,
+                    851,
+                    417
+                ],
+                "score": 0.982,
+                "text": "22. M. Seo, Y. Matsumara, N. Sato, Trans. JIM, Vol. 20, p. 501,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    222,
+                    418,
+                    285,
+                    448
+                ],
+                "score": 1.0,
+                "text": "1979."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    450,
+                    851,
+                    474
+                ],
+                "score": 0.97,
+                "text": "23. D. R. Lamb, Electrical Conduction Mechanisms in Thin"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    482,
+                    675,
+                    506
+                ],
+                "score": 0.991,
+                "text": "Insulating Films, Methuen, London, 1967."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    514,
+                    846,
+                    542
+                ],
+                "score": 0.991,
+                "text": "24. L. Nevot, P. Croce, Rev. Phys. Appl., Vol. 15, p. 761, 1980."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    543,
+                    853,
+                    573
+                ],
+                "score": 0.988,
+                "text": "25. Y. Katsuta, A. E. Hill, A. M. Phale, J. H. Calderwood, Thin"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    573,
+                    561,
+                    601
+                ],
+                "score": 0.995,
+                "text": "Solid Films, Vol. 8, p. 53, 1973."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    601,
+                    851,
+                    632
+                ],
+                "score": 0.99,
+                "text": "26. S. Kondo, M. Muroya, H. Fujiwara, N. Yamaguchi, Bull."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    224,
+                    631,
+                    650,
+                    661
+                ],
+                "score": 0.991,
+                "text": "Chem. Soc. Jap., Vol. 46, p. 1362, 1973."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    662,
+                    851,
+                    690
+                ],
+                "score": 0.974,
+                "text": "27. E. M. Snow, A. S. Grove, B. E. Deal, D. T. Sah, J. Appl. Phys.,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    961,
+                    20,
+                    1196,
+                    54
+                ],
+                "score": 0.983,
+                "text": "Vol. 36, p. 1664, 1965."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    55,
+                    1585,
+                    82
+                ],
+                "score": 0.975,
+                "text": "28. S. R. Hoffstein, IEEE Trans. Electronic Devices, Vol. 13,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    962,
+                    85,
+                    1097,
+                    113
+                ],
+                "score": 0.981,
+                "text": "p. 222, 1966."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    116,
+                    1585,
+                    144
+                ],
+                "score": 0.995,
+                "text": "29. S. M. Sze, Physics of Semiconductor Devices, John Wiley"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    146,
+                    1371,
+                    174
+                ],
+                "score": 0.99,
+                "text": "and Sons, New York, New York, 1981."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    178,
+                    1586,
+                    205
+                ],
+                "score": 0.986,
+                "text": "30. C. Y. Chang, S. M. Sze, Solid State Electronics, Vol. 13,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    962,
+                    209,
+                    1099,
+                    237
+                ],
+                "score": 0.959,
+                "text": "p. 727, 1970."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    237,
+                    1584,
+                    266
+                ],
+                "score": 0.98,
+                "text": "31. A. I. Gubanov, Soviet Physics Solid State, Vol. 3, p. 2436,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    962,
+                    268,
+                    1025,
+                    298
+                ],
+                "score": 1.0,
+                "text": "1961."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    298,
+                    1583,
+                    326
+                ],
+                "score": 0.989,
+                "text": "32. K. Hashimoto, M. Naka, K. Asami, T. Masumoto, Corros."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    964,
+                    331,
+                    1238,
+                    355
+                ],
+                "score": 0.978,
+                "text": "Sci., Vol. 19, p. 165, 1979."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    356,
+                    1585,
+                    388
+                ],
+                "score": 0.969,
+                "text": "33. G. M. Bulman, A. C. C. Tseung, Corros. Sci., Vol. 13, p."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    388,
+                    1072,
+                    415
+                ],
+                "score": 0.99,
+                "text": "531, 1973."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    415,
+                    1584,
+                    444
+                ],
+                "score": 0.997,
+                "text": "34. N. Sato, K. Kudo, Electrochim. Acta, Vol. 16, p. 447, 1971."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    442,
+                    1585,
+                    473
+                ],
+                "score": 0.981,
+                "text": "35. N. Sato, K. Kudo, R. Nishimura, J. Electrochem. Soc.,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    473,
+                    1210,
+                    500
+                ],
+                "score": 0.982,
+                "text": "Vol. 123, p. 1419, 1976."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    501,
+                    1587,
+                    529
+                ],
+                "score": 0.989,
+                "text": "36. \"Surface et Interfaces,\" C.N.R.S. Report Mat. 7, Centre"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    961,
+                    531,
+                    1587,
+                    558
+                ],
+                "score": 0.99,
+                "text": "Nationale de la Recherche Scientifique, Toulouse, France,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    961,
+                    560,
+                    1096,
+                    586
+                ],
+                "score": 0.999,
+                "text": "March 1985."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    591,
+                    1586,
+                    615
+                ],
+                "score": 0.982,
+                "text": "37. F. M. Delnick, N. Hackerman, Passivity of Metals, R. P."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    960,
+                    619,
+                    1586,
+                    646
+                ],
+                "score": 0.986,
+                "text": "Frankenthal, J. R. Kruger, Eds., Electrochemical Society,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    651,
+                    1372,
+                    675
+                ],
+                "score": 0.991,
+                "text": "Pennington, New Jersey, p. 116, 1978."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    448,
+                    831,
+                    1333,
+                    896
+                ],
+                "score": 0.998,
+                "text": "The Influence of Silicon on the Pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    468,
+                    898,
+                    1316,
+                    949
+                ],
+                "score": 0.996,
+                "text": "Corrosion Resistance of an 18Cr-8Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    704,
+                    958,
+                    1078,
+                    1007
+                ],
+                "score": 1.0,
+                "text": "Stainless Steel*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    1062,
+                    978,
+                    1092
+                ],
+                "score": 0.992,
+                "text": "B. E. WILDE*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1156,
+                    947,
+                    1192
+                ],
+                "score": 1.0,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    382,
+                    1190,
+                    1386,
+                    1216
+                ],
+                "score": 0.991,
+                "text": "This paper describes the effect of silicon additions to an 18Cr-8Ni stainless steel (SS) on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1220,
+                    1384,
+                    1246
+                ],
+                "score": 0.992,
+                "text": "resistance to pit initiation in halide media. Electrochemical polarization measurements con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1250,
+                    1386,
+                    1276
+                ],
+                "score": 0.992,
+                "text": "ducted in aerated 3.5 wt% sodium chloride at 25 C indicate a progressive increase in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1280,
+                    1386,
+                    1304
+                ],
+                "score": 0.997,
+                "text": "critical breakdown potential (Ec) for 18Cr-8Ni alloys over the range 1.01 to 4.45 wt% silicon (0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1310,
+                    1386,
+                    1334
+                ],
+                "score": 0.988,
+                "text": "to 17% δ-ferrite), thereby predicting increasing resistance to pit initiation. Pitting corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1338,
+                    1386,
+                    1364
+                ],
+                "score": 0.996,
+                "text": "tests conducted in acidified 10% ferric chloride solution confirmed the trends predicted from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1368,
+                    1386,
+                    1391
+                ],
+                "score": 0.995,
+                "text": "electrochemical studies. Corrosion rates decreasing from 1016 to 50 mdd were observed over"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    380,
+                    1397,
+                    1386,
+                    1422
+                ],
+                "score": 0.996,
+                "text": "the silicon range of 1.01 to 4.45 wt%. The latter figure was approximately 20 times better than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    382,
+                    1427,
+                    709,
+                    1453
+                ],
+                "score": 0.981,
+                "text": "that observed on AISI 304 SS."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    434,
+                    1459,
+                    1390,
+                    1483
+                ],
+                "score": 0.996,
+                "text": "Analysis of cyclic potentiodynamic anodic polarization curves revealed that although a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    384,
+                    1488,
+                    1388,
+                    1514
+                ],
+                "score": 0.994,
+                "text": "significant increase in pit initiation resistance was observed on the duplex alloys, increasing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    1517,
+                    1386,
+                    1539
+                ],
+                "score": 0.998,
+                "text": "silicon additions (and δ-ferrite content) may increase their susceptibility to crevice corrosion."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    432,
+                    1657,
+                    600,
+                    1692
+                ],
+                "score": 1.0,
+                "text": "Introduction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1689,
+                    852,
+                    1719
+                ],
+                "score": 0.992,
+                "text": "Currently available austenitic stainless steels (SSs) have vary-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1719,
+                    853,
+                    1748
+                ],
+                "score": 0.983,
+                "text": "ing resistances to localized corrosion, although they exhibit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1746,
+                    853,
+                    1777
+                ],
+                "score": 0.998,
+                "text": "excellent resistance to general corrosive attack. For example,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1775,
+                    853,
+                    1806
+                ],
+                "score": 0.992,
+                "text": "AISI 304 SS exhibits excellent general corrosion resistance in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1809,
+                    851,
+                    1834
+                ],
+                "score": 0.996,
+                "text": "many applications, but is susceptible to chloride stress corro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1835,
+                    852,
+                    1865
+                ],
+                "score": 0.984,
+                "text": "sion cracking (SCC), pitting, and intergranular attack (IGA)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1864,
+                    852,
+                    1894
+                ],
+                "score": 0.999,
+                "text": "when heat treated to precipitate intergranular chromium car-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1894,
+                    851,
+                    1923
+                ],
+                "score": 0.996,
+                "text": "bides (sensitized). On the other hand, AISI 316 SS exhibits ex-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1924,
+                    852,
+                    1952
+                ],
+                "score": 0.99,
+                "text": "cellent resistance to general and pitting corrosion, but is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1952,
+                    852,
+                    1981
+                ],
+                "score": 0.999,
+                "text": "susceptible to chloride SCC and, when sensitized, to IGA. To"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1981,
+                    851,
+                    2011
+                ],
+                "score": 0.991,
+                "text": "overcome some of the above limitations and improve the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1659,
+                    1588,
+                    1686
+                ],
+                "score": 0.993,
+                "text": "resistance of 18Cr-8Ni SSs to localized attack, a program has"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1690,
+                    1587,
+                    1713
+                ],
+                "score": 0.992,
+                "text": "been initiated in which silicon additions were made to produce"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1719,
+                    1587,
+                    1744
+                ],
+                "score": 0.989,
+                "text": "alloys with duplex microstructures (austenite and ferrite)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1748,
+                    1587,
+                    1771
+                ],
+                "score": 0.996,
+                "text": "Thus far, investigations have indicated that the resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1775,
+                    1587,
+                    1802
+                ],
+                "score": 0.996,
+                "text": "these silicon-stabilized duplex alloys to general acid corro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1804,
+                    1587,
+                    1832
+                ],
+                "score": 0.997,
+                "text": "sion,1 chloride SCC,² and intergranular corrosion (IGC) in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1833,
+                    1587,
+                    1861
+                ],
+                "score": 0.999,
+                "text": "sensitized heat treated condition³ is markedly superior to that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1866,
+                    1488,
+                    1888
+                ],
+                "score": 0.99,
+                "text": "of any currently available commercial austenitic SS."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    966,
+                    1893,
+                    1583,
+                    1920
+                ],
+                "score": 0.992,
+                "text": "This paper describes some of the results of this program,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1924,
+                    1584,
+                    1949
+                ],
+                "score": 0.993,
+                "text": "namely, the resistance of silicon duplex 18Cr-8Ni alloys to pit-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1954,
+                    1585,
+                    1977
+                ],
+                "score": 0.991,
+                "text": "ting corrosion in sodium chloride and acidified ferric chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1985,
+                    1026,
+                    2009
+                ],
+                "score": 1.0,
+                "text": "solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    2042,
+                    824,
+                    2067
+                ],
+                "score": 0.982,
+                "text": "* Submitted for publication May 1985; revised August 1985."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1026,
+                    2040,
+                    1477,
+                    2068
+                ],
+                "score": 0.999,
+                "text": "Materials and Experimental Work"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    969,
+                    2072,
+                    1585,
+                    2096
+                ],
+                "score": 0.997,
+                "text": "Experimental alloys were made in a 500 Ib (227 kg) vacuum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    2100,
+                    1587,
+                    2125
+                ],
+                "score": 0.987,
+                "text": "furnace. The ingots were hot rolled down to a 0.5-in. thick"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    2130,
+                    1583,
+                    2154
+                ],
+                "score": 0.992,
+                "text": "(1.27-cm) plate and then cold rolled to a 0.25-in.-thick (0.64-cm)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    2049,
+                    825,
+                    2066
+                ],
+                "score": 0.755,
+                "text": "\" Suurnteu Tor puolicaton viay Tso, reviseu Auyust Tso."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    2071,
+                    852,
+                    2095
+                ],
+                "score": 0.983,
+                "text": "*Fontana Corrosion Center, Dept. of Metallurgical Engineering,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    2099,
+                    852,
+                    2123
+                ],
+                "score": 0.993,
+                "text": "Ohio State University, 116 West 19th Ave., Columbus, Ohio"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    2129,
+                    270,
+                    2152
+                ],
+                "score": 1.0,
+                "text": "43210."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    2198,
+                    521,
+                    2230
+                ],
+                "score": 0.962,
+                "text": "Vol. 42, No. 3, March 1986"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    732,
+                    2175,
+                    1029,
+                    2199
+                ],
+                "score": 1.0,
+                "text": "0010-9312/86/000041/$3.00/0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    592,
+                    2203,
+                    1172,
+                    2228
+                ],
+                "score": 0.995,
+                "text": "©1986, National Association of Corrosion Engineers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1530,
+                    2196,
+                    1585,
+                    2238
+                ],
+                "score": 1.0,
+                "text": "147"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1764,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9599,
+                "bbox": [
+                    535,
+                    31,
+                    1227,
+                    108
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9721,
+                "bbox": [
+                    181,
+                    121,
+                    1583,
+                    420
+                ],
+                "index": 2,
+                "html": "<table><tr><td>Alloy Designation</td><td>C</td><td>Mn</td><td>P</td><td>S</td><td>Si</td><td>Cu</td><td>Ni</td><td>Cr</td><td>Mo</td><td>N</td><td>AI</td><td>δ-Ferrite (%)</td></tr><tr><td>1</td><td>0.055</td><td>1.53</td><td>0.006</td><td>0.014</td><td>1.01</td><td>0.09</td><td>8.83</td><td>17.3</td><td>0.019</td><td>0.039</td><td>0.007</td><td>&lt;1</td></tr><tr><td>2</td><td>0.054</td><td>1.49</td><td>0.006</td><td>0.015</td><td>1.95</td><td>0.09</td><td>8.87</td><td>17.1</td><td>0.020</td><td>0.038</td><td>0.012</td><td>&lt;1</td></tr><tr><td>3</td><td>0.059</td><td>1.49</td><td>0.005</td><td>0.014</td><td>2.85</td><td>0.09</td><td>8.94</td><td>17.2</td><td>0.020</td><td>0.036</td><td>0.015</td><td>1.7</td></tr><tr><td>4</td><td>0.059</td><td>1.49</td><td>0.005</td><td>0.013</td><td>3.73</td><td>0.09</td><td>9.06</td><td>17.0</td><td>0.021</td><td>0.033</td><td>0.018</td><td>7.5</td></tr><tr><td>5</td><td>0.060</td><td>1.49</td><td>0.005</td><td>0.014</td><td>4.45</td><td>0.09</td><td>9.07</td><td>17.0</td><td>0.020</td><td>0.032</td><td>0.020</td><td>17.0</td></tr><tr><td>AISI 304</td><td>0.078</td><td>0.47</td><td>0.030</td><td>0.008</td><td>0.41</td><td>ND(1)</td><td>9.81</td><td>18.45</td><td>ND</td><td>ND</td><td>0.080</td><td>0.0</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.922,
+                "bbox": [
+                    179,
+                    475,
+                    448,
+                    511
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9868,
+                "bbox": [
+                    191,
+                    573,
+                    828,
+                    1112
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9722,
+                "bbox": [
+                    209,
+                    1169,
+                    820,
+                    1260
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    172,
+                    1304,
+                    852,
+                    1569
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9891,
+                "bbox": [
+                    171,
+                    1567,
+                    851,
+                    1972
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6305,
+                "bbox": [
+                    587,
+                    1714,
+                    673,
+                    1744
+                ],
+                "index": 8,
+                "latex": "{ \\mathsf { H N O } } _ { 3 } / 4"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    171,
+                    1971,
+                    849,
+                    2093
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6119,
+                "bbox": [
+                    327,
+                    1999,
+                    517,
+                    2030
+                ],
+                "index": 10,
+                "latex": "1 \\times 2 . 5 \\times 0 . 1 2 5"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5857,
+                "bbox": [
+                    556,
+                    1999,
+                    792,
+                    2030
+                ],
+                "index": 11,
+                "latex": "( 2 . 5 4 \\times 6 . 3 5 \\times 0 . 3 1 7"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    908,
+                    570,
+                    1588,
+                    781
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8889,
+                "bbox": [
+                    1192,
+                    719,
+                    1322,
+                    752
+                ],
+                "index": 13,
+                "latex": "F e C l _ { 3 } { \\cdot } 6 H _ { 2 } O"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6641,
+                "bbox": [
+                    915,
+                    838,
+                    971,
+                    868
+                ],
+                "index": 14,
+                "latex": "1 0 ^ { - 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9753,
+                "bbox": [
+                    908,
+                    780,
+                    1584,
+                    873
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9393,
+                "bbox": [
+                    1082,
+                    894,
+                    1416,
+                    927
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    908,
+                    926,
+                    1587,
+                    1161
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7939,
+                "bbox": [
+                    1063,
+                    1070,
+                    1097,
+                    1100
+                ],
+                "index": 18,
+                "latex": "\\tt E _ { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7333,
+                "bbox": [
+                    1397,
+                    1012,
+                    1441,
+                    1043
+                ],
+                "index": 19,
+                "latex": "( E _ { \\mathsf { C } } ) _ { : }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7584,
+                "bbox": [
+                    1479,
+                    1101,
+                    1512,
+                    1132
+                ],
+                "index": 20,
+                "latex": "\\tt E _ { \\tt C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7113,
+                "bbox": [
+                    914,
+                    1251,
+                    948,
+                    1282
+                ],
+                "index": 21,
+                "latex": "\\mathtt { E } _ { \\mathtt { C } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    909,
+                    1160,
+                    1588,
+                    1398
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    906,
+                    1396,
+                    1588,
+                    1744
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9699,
+                "bbox": [
+                    921,
+                    1798,
+                    1574,
+                    1892
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9832,
+                "bbox": [
+                    915,
+                    1893,
+                    1581,
+                    2157
+                ],
+                "index": 25,
+                "html": "<table><tr><td>Alloy Designation</td><td>SIlicon Contont (wt%)</td><td>δ-Ferrite Contont (%)</td><td>Critical Breakdown Potential (VsCE)</td></tr><tr><td>1</td><td>1.01</td><td>&lt; 1.0</td><td>0.220</td></tr><tr><td>2</td><td>1.95</td><td>&lt; 1.0</td><td>0.275</td></tr><tr><td>3</td><td>2.85</td><td>1.7</td><td>0.310</td></tr><tr><td>4</td><td>3.73</td><td>7.5</td><td>0.370</td></tr><tr><td>5</td><td>4.45</td><td>17.0</td><td>0.990</td></tr><tr><td>AISI 304</td><td>0.41</td><td>0.0</td><td>0.065</td></tr></table>"
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.875,
+                "bbox": [
+                    175,
+                    2119,
+                    455,
+                    2154
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.903,
+                "bbox": [
+                    177,
+                    2199,
+                    233,
+                    2231
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7323,
+                "bbox": [
+                    1284,
+                    2197,
+                    1581,
+                    2232
+                ],
+                "index": 28
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    539,
+                    32,
+                    1222,
+                    72
+                ],
+                "score": 0.985,
+                "text": "TABLE 1 — Chemical Composition of Alloys Used"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    71,
+                    925,
+                    108
+                ],
+                "score": 1.0,
+                "text": "(wt%)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    476,
+                    444,
+                    511
+                ],
+                "score": 0.997,
+                "text": "(1)ND = not determined."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    1174,
+                    816,
+                    1198
+                ],
+                "score": 0.986,
+                "text": "FIGURE 1 — Metallographic structure of the sensitized"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1203,
+                    815,
+                    1227
+                ],
+                "score": 0.985,
+                "text": "[1150 F (620 C) 24 h] experimental alloys: 10% oxalic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    1231,
+                    396,
+                    1254
+                ],
+                "score": 0.997,
+                "text": "acid etch (100X)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1308,
+                    847,
+                    1333
+                ],
+                "score": 0.997,
+                "text": "plate. The cold-rolled plate was solution annealed at 2000 F"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1338,
+                    848,
+                    1363
+                ],
+                "score": 0.993,
+                "text": "(1092 C) for 60 min and quenched in flowing water. The final"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1365,
+                    848,
+                    1394
+                ],
+                "score": 0.989,
+                "text": "chemical compositions are given in Table 1, along with those"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1396,
+                    847,
+                    1421
+                ],
+                "score": 0.998,
+                "text": "of the alloys tested for comparison. The typical microstruc-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1422,
+                    848,
+                    1451
+                ],
+                "score": 1.0,
+                "text": "tures of the experimental alloys are shown in Figure 1, from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1452,
+                    846,
+                    1479
+                ],
+                "score": 0.999,
+                "text": "which the changes in grain size and δ-ferrite content can read-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1480,
+                    846,
+                    1509
+                ],
+                "score": 0.995,
+                "text": "ily be seen. The residual δ-ferrite content was close to that pre-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1509,
+                    846,
+                    1538
+                ],
+                "score": 0.993,
+                "text": "dicted by the Schaeffler diagram4 (see Table 1), and no evi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1540,
+                    838,
+                    1567
+                ],
+                "score": 0.991,
+                "text": "dence of a sigma phase was noted during x-ray examination."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    226,
+                    1567,
+                    847,
+                    1596
+                ],
+                "score": 0.999,
+                "text": "Specimens for electrochemical measurements were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1597,
+                    845,
+                    1626
+                ],
+                "score": 0.991,
+                "text": "machined from annealed stock in the form of cylinders, 0.25-in."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1627,
+                    847,
+                    1654
+                ],
+                "score": 0.998,
+                "text": "dameter by 0.75-in. long (0.625 by 1.9 cm). Each specimen was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1656,
+                    845,
+                    1683
+                ],
+                "score": 0.992,
+                "text": "polished to a 600 grit SiC finish and mounted on a Teflon(1)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    1684,
+                    846,
+                    1714
+                ],
+                "score": 0.993,
+                "text": "compression gasket.⁵ Specimens were then degreased in an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1715,
+                    585,
+                    1742
+                ],
+                "score": 1.0,
+                "text": "ultrasonic cleaner, pickled in 25 vol%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    674,
+                    1716,
+                    846,
+                    1743
+                ],
+                "score": 0.976,
+                "text": "vol% HF at 140"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1743,
+                    846,
+                    1772
+                ],
+                "score": 1.0,
+                "text": "F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1770,
+                    845,
+                    1799
+                ],
+                "score": 0.998,
+                "text": "25 C), and hot air dried. Before polarization, the mounted elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1799,
+                    845,
+                    1828
+                ],
+                "score": 0.99,
+                "text": "trodes were painted at the Teflon/steel interface with an alkyd"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1827,
+                    845,
+                    1855
+                ],
+                "score": 0.999,
+                "text": "varnish to avoid interference from crevice corrosion. Elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1856,
+                    844,
+                    1884
+                ],
+                "score": 0.995,
+                "text": "trochemical tests were conducted in aerated 3.5 wt% NaCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1888,
+                    844,
+                    1912
+                ],
+                "score": 0.999,
+                "text": "made from reagent grade chemicals and distilled water. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1917,
+                    844,
+                    1941
+                ],
+                "score": 0.992,
+                "text": "precise experimental procedures and apparatus used have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    1943,
+                    474,
+                    1970
+                ],
+                "score": 1.0,
+                "text": "been detailed previously.6,7"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1972,
+                    843,
+                    2000
+                ],
+                "score": 0.994,
+                "text": "Freely corroding pitting tests were conducted on rectang-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    2002,
+                    324,
+                    2026
+                ],
+                "score": 0.995,
+                "text": "ular coupons"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    519,
+                    2002,
+                    553,
+                    2028
+                ],
+                "score": 1.0,
+                "text": "in."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    2003,
+                    845,
+                    2032
+                ],
+                "score": 1.0,
+                "text": "cm),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    2033,
+                    845,
+                    2057
+                ],
+                "score": 0.996,
+                "text": "machined from the annealed stock, and polished to a No. 4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2061,
+                    842,
+                    2087
+                ],
+                "score": 0.992,
+                "text": "surface finish. The coupons were degreased in an ultrasonic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    573,
+                    1583,
+                    600
+                ],
+                "score": 0.991,
+                "text": "cleaner, pickled and washed as described above, and hot air"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    603,
+                    1583,
+                    630
+                ],
+                "score": 0.999,
+                "text": "dried. Test coupons were placed in 150-mL beakers on an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    634,
+                    1583,
+                    660
+                ],
+                "score": 0.996,
+                "text": "angle and completely covered with the test solution. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    663,
+                    1583,
+                    690
+                ],
+                "score": 0.993,
+                "text": "beakers were partially immersed in a constant temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    693,
+                    1582,
+                    719
+                ],
+                "score": 0.994,
+                "text": "bath and covered with a plastic wrap to avoid evaporation. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    722,
+                    1187,
+                    748
+                ],
+                "score": 0.972,
+                "text": "test solution was 10 wt%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1323,
+                    725,
+                    1581,
+                    748
+                ],
+                "score": 0.997,
+                "text": "with the pH adjusted to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    754,
+                    1202,
+                    778
+                ],
+                "score": 0.984,
+                "text": "0.9 with concentrated HCl."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    781,
+                    1580,
+                    810
+                ],
+                "score": 0.989,
+                "text": "Corrosion rates were calculated in terms of milligrams"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    815,
+                    1576,
+                    840
+                ],
+                "score": 0.99,
+                "text": "weight loss per square decimeter per day [mdd (1 mdd = 4 ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    843,
+                    1054,
+                    872
+                ],
+                "score": 0.995,
+                "text": "mm/y)]."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1089,
+                    897,
+                    1410,
+                    928
+                ],
+                "score": 1.0,
+                "text": "Results and Discussion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    926,
+                    1583,
+                    956
+                ],
+                "score": 0.995,
+                "text": "Potentiodynamic anodic polarization curves for two"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    958,
+                    1582,
+                    983
+                ],
+                "score": 0.994,
+                "text": "alloys are shown in Figure 2. A wide range of the potential-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    986,
+                    1582,
+                    1011
+                ],
+                "score": 0.985,
+                "text": "independent passive current density (CD) was observed on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1012,
+                    1396,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "each alloy, with a clear breakdown potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1442,
+                    1012,
+                    1583,
+                    1041
+                ],
+                "score": 0.987,
+                "text": "marking the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1041,
+                    1582,
+                    1070
+                ],
+                "score": 0.976,
+                "text": "onset of pit initiation. Previous studies8-10 have shown that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1073,
+                    1062,
+                    1098
+                ],
+                "score": 1.0,
+                "text": "magnitude of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1098,
+                    1073,
+                    1581,
+                    1098
+                ],
+                "score": 1.0,
+                "text": "is qualitatively related to the resistance of an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1099,
+                    1478,
+                    1130
+                ],
+                "score": 0.993,
+                "text": "alloy to pit initiation; the more noble or positive the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1513,
+                    1099,
+                    1581,
+                    1130
+                ],
+                "score": 1.0,
+                "text": "value,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1130,
+                    1448,
+                    1157
+                ],
+                "score": 0.99,
+                "text": "the more resistant the material is to pit initiation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    964,
+                    1161,
+                    1583,
+                    1191
+                ],
+                "score": 0.991,
+                "text": "The observed breakdown potentials for all of the alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1192,
+                    1583,
+                    1219
+                ],
+                "score": 0.999,
+                "text": "used in this investigation are summarized in Table 2. In the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1222,
+                    1582,
+                    1250
+                ],
+                "score": 0.993,
+                "text": "experimental duplex alloys (1 through 5), a gradual increase in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    950,
+                    1252,
+                    1583,
+                    1280
+                ],
+                "score": 0.996,
+                "text": "was observed as the silicon and δ-ferrite content was in-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1282,
+                    1583,
+                    1310
+                ],
+                "score": 0.989,
+                "text": "creased. On the basis of the data in Table 2, the resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1312,
+                    1583,
+                    1340
+                ],
+                "score": 0.99,
+                "text": "the silicon duplex alloys to pit initiation—with the exception"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1341,
+                    1583,
+                    1369
+                ],
+                "score": 0.976,
+                "text": "of Alloy 1 (1.01 wt% Si)—should be superior to that of AISI 304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1372,
+                    1150,
+                    1395
+                ],
+                "score": 1.0,
+                "text": "SS used as a control."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    1394,
+                    1585,
+                    1426
+                ],
+                "score": 0.984,
+                "text": "Potentiodynamic anodic polarization data11,12 may be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1425,
+                    1583,
+                    1454
+                ],
+                "score": 0.997,
+                "text": "analyzed to predict alloy resistance to crevice corrosion propa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1452,
+                    1584,
+                    1480
+                ],
+                "score": 0.991,
+                "text": "gation as well as to pit initiation. These analyses show that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1480,
+                    1582,
+                    1508
+                ],
+                "score": 0.997,
+                "text": "when cyclic potential sweeps are applied to the test specimen,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1507,
+                    1583,
+                    1536
+                ],
+                "score": 0.981,
+                "text": "a marked hysteresis is observed on the polarization plot, as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1536,
+                    1583,
+                    1565
+                ],
+                "score": 0.992,
+                "text": "shown in Figure 3. The area in the hysteresis loop is related to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1564,
+                    1583,
+                    1594
+                ],
+                "score": 0.992,
+                "text": "the resistance of the alloy to pit propagation or crevice corro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1594,
+                    1583,
+                    1623
+                ],
+                "score": 0.99,
+                "text": "sion propagation; the larger the area, the more susceptible the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1623,
+                    1583,
+                    1651
+                ],
+                "score": 0.994,
+                "text": "alloy is to crevice corrosion. The justification for this latter"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1651,
+                    1582,
+                    1680
+                ],
+                "score": 1.0,
+                "text": "statement can be seen from the linear relationship shown in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1681,
+                    1582,
+                    1710
+                ],
+                "score": 0.989,
+                "text": "Figure 4, where the crevice corrosion weight loss incurred on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1710,
+                    1581,
+                    1740
+                ],
+                "score": 0.997,
+                "text": "a number of stainless alloys immersed in seawater for 4.25 y is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1031,
+                    1829,
+                    1464,
+                    1862
+                ],
+                "score": 0.998,
+                "text": "Silicon Alloys and Controls In Aerated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1141,
+                    1860,
+                    1353,
+                    1889
+                ],
+                "score": 0.982,
+                "text": "3.5% NaCl at 25 C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    926,
+                    1801,
+                    1568,
+                    1830
+                ],
+                "score": 0.991,
+                "text": "TABLE 2 — Critical Breakdown Potentials for Experimental"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    2122,
+                    451,
+                    2155
+                ],
+                "score": 0.999,
+                "text": "(1)Registered trade name."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2200,
+                    231,
+                    2242
+                ],
+                "score": 1.0,
+                "text": "148"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1287,
+                    2201,
+                    1576,
+                    2236
+                ],
+                "score": 0.994,
+                "text": "CORROSION—NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1764,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9859,
+                "bbox": [
+                    311,
+                    16,
+                    1452,
+                    891
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5298,
+                "bbox": [
+                    666,
+                    951,
+                    697,
+                    982
+                ],
+                "index": 2,
+                "latex": "\\begin{array} { r } { \\pmb { \\complement _ { 3 } } } \\end{array}"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9618,
+                "bbox": [
+                    388,
+                    918,
+                    1402,
+                    985
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9849,
+                "bbox": [
+                    357,
+                    1052,
+                    1458,
+                    1893
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9572,
+                "bbox": [
+                    388,
+                    1919,
+                    1404,
+                    1986
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.928,
+                "bbox": [
+                    184,
+                    2196,
+                    534,
+                    2234
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9001,
+                "bbox": [
+                    1538,
+                    2194,
+                    1594,
+                    2227
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    394,
+                    922,
+                    1397,
+                    950
+                ],
+                "score": 0.986,
+                "text": "FIGURE 2 — Typical potentiodynamic anodic polarization curves for selected alloys in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    395,
+                    953,
+                    665,
+                    979
+                ],
+                "score": 0.969,
+                "text": "aerated 3.5% NaCl at 25"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    698,
+                    953,
+                    931,
+                    979
+                ],
+                "score": 0.999,
+                "text": "sweep speed, 0.6 V/h."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    396,
+                    1925,
+                    1398,
+                    1951
+                ],
+                "score": 0.993,
+                "text": "FIGURE 3 — Schematic representation of a cyclic potentiodynamic anodic polarization curve"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    396,
+                    1958,
+                    657,
+                    1980
+                ],
+                "score": 0.997,
+                "text": "for SSs in halide media."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    2200,
+                    529,
+                    2232
+                ],
+                "score": 0.983,
+                "text": "Vol. 42, No. 3, March 1986"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1539,
+                    2195,
+                    1593,
+                    2236
+                ],
+                "score": 1.0,
+                "text": "149"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1764,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.69,
+                "bbox": [
+                    492,
+                    110,
+                    525,
+                    142
+                ],
+                "index": 1,
+                "latex": "\\ E _ { \\mathsf { c } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6025,
+                "bbox": [
+                    492,
+                    142,
+                    525,
+                    171
+                ],
+                "index": 2,
+                "latex": "\\sum p"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9813,
+                "bbox": [
+                    314,
+                    24,
+                    1436,
+                    834
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9581,
+                "bbox": [
+                    376,
+                    867,
+                    1385,
+                    933
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9664,
+                "bbox": [
+                    463,
+                    975,
+                    1302,
+                    1050
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9821,
+                "bbox": [
+                    378,
+                    1062,
+                    1385,
+                    1404
+                ],
+                "index": 8,
+                "html": "<table><tr><td>Alloy Designation</td><td>Silicon Content (wt%)</td><td>δ-Ferrite Content (%)</td><td><eq>\\pmb { \\mathrm { E } } _ { \\circ } ( \\pmb { \\nu } _ { \\mathsf { s c e } } )</eq></td><td><eq>\\pmb { \\mathrm { E } } _ { \\mathsf { p } } ^ { ( 1 ) } ( \\mathsf { V } _ { \\mathsf { S C E } } )</eq></td><td><eq>\\mathsf { E } _ { \\mathsf { c } } - \\mathsf { E } _ { \\mathsf { p } } ( \\mathsf { M }</eq></td></tr><tr><td>1</td><td>1.01</td><td>&lt; 1.0</td><td>0.220</td><td>-0.030</td><td>0.250</td></tr><tr><td>2</td><td>1.95</td><td>&lt; 1.0</td><td>0.275</td><td>-0.010</td><td>0.285</td></tr><tr><td>3</td><td>2.85</td><td>1.7</td><td>0.310</td><td>0.100</td><td>0.210</td></tr><tr><td>4</td><td>3.73</td><td>7.5</td><td>0.370</td><td></td><td></td></tr><tr><td>5</td><td>4.45</td><td>17.0</td><td>0.990</td><td>0.030</td><td>0.960</td></tr><tr><td>AISI 304</td><td>0.41</td><td>0.0</td><td>0.065</td><td>-0.110</td><td>0.175</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.907,
+                "bbox": [
+                    384,
+                    1415,
+                    1141,
+                    1450
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8675,
+                "bbox": [
+                    629,
+                    1516,
+                    743,
+                    1548
+                ],
+                "index": 11,
+                "latex": "( E _ { \\mathsf { C } } - E _ { \\mathsf { p } } ) ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8753,
+                "bbox": [
+                    337,
+                    1575,
+                    468,
+                    1607
+                ],
+                "index": 12,
+                "latex": "4 , ( E _ { 0 } - E _ { \\mathsf { p } } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8197,
+                "bbox": [
+                    337,
+                    1664,
+                    381,
+                    1697
+                ],
+                "index": 13,
+                "latex": "( E _ { \\mathsf { p } } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873,
+                "bbox": [
+                    174,
+                    1514,
+                    853,
+                    1811
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.772,
+                "bbox": [
+                    817,
+                    1517,
+                    849,
+                    1549
+                ],
+                "index": 15,
+                "latex": "E _ { p }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    174,
+                    1810,
+                    854,
+                    2162
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5256,
+                "bbox": [
+                    1215,
+                    1516,
+                    1278,
+                    1547
+                ],
+                "index": 17,
+                "latex": "F e C l _ { 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    908,
+                    1514,
+                    1588,
+                    1776
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6177,
+                "bbox": [
+                    962,
+                    1686,
+                    1026,
+                    1718
+                ],
+                "index": 19,
+                "latex": "\\mathsf { s s s } , \\mathsf { \\pmb { \\mathscr { s } } } _ { \\mathrm { \\pmb { \\mathscr { s } } } } ^ { \\mathsf { \\pmb { \\mathscr { s } } } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887,
+                "bbox": [
+                    903,
+                    1774,
+                    1585,
+                    2185
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9184,
+                "bbox": [
+                    1398,
+                    1890,
+                    1511,
+                    1923
+                ],
+                "index": 21,
+                "latex": "( E _ { \\tt C } \\mathrm { ~ - ~ } E _ { \\tt D } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7487,
+                "bbox": [
+                    1219,
+                    1978,
+                    1281,
+                    2009
+                ],
+                "index": 22,
+                "latex": "\\mathsf { F e C l } _ { 3 }"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9021,
+                "bbox": [
+                    179,
+                    2199,
+                    235,
+                    2231
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9318,
+                "bbox": [
+                    1284,
+                    2195,
+                    1581,
+                    2229
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    383,
+                    870,
+                    1381,
+                    899
+                ],
+                "score": 0.974,
+                "text": "FIGURE 4 — Correlation between the “difference potential\" and corrosion weight loss of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    384,
+                    903,
+                    893,
+                    929
+                ],
+                "score": 0.995,
+                "text": "stainless alloys exposed in seawater for 4.25 y."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    468,
+                    976,
+                    1297,
+                    1011
+                ],
+                "score": 0.995,
+                "text": "TABLE 3 — Repassivation Potentials for Experimental Alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    587,
+                    1015,
+                    1180,
+                    1044
+                ],
+                "score": 0.995,
+                "text": "and Controls in 3.5% NaCl, Aerated at 25 C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    388,
+                    1417,
+                    1137,
+                    1449
+                ],
+                "score": 0.991,
+                "text": "(1)Sweep reversal conducted after the applied CD reached 10 mA/cm²."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1518,
+                    628,
+                    1544
+                ],
+                "score": 0.976,
+                "text": "plotted against the “difference potential,\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    746,
+                    1518,
+                    816,
+                    1544
+                ],
+                "score": 1.0,
+                "text": "where"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1548,
+                    848,
+                    1573
+                ],
+                "score": 0.995,
+                "text": "is the repassivation potential obtained during cyclic polarizà-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1579,
+                    335,
+                    1604
+                ],
+                "score": 0.972,
+                "text": "tion. In Figure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    469,
+                    1577,
+                    849,
+                    1604
+                ],
+                "score": 1.0,
+                "text": "is used as a semiquantitative index"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1608,
+                    848,
+                    1633
+                ],
+                "score": 0.989,
+                "text": "of the area in the hysteresis loop (see Figure 3). By using the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1637,
+                    848,
+                    1661
+                ],
+                "score": 0.98,
+                "text": "above cyclic polarization technique, values of the repassiva-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1667,
+                    335,
+                    1691
+                ],
+                "score": 0.999,
+                "text": "tion potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    388,
+                    1666,
+                    848,
+                    1690
+                ],
+                "score": 0.999,
+                "text": "were obtained on the experimental alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1695,
+                    847,
+                    1721
+                ],
+                "score": 0.996,
+                "text": "and are summarízed in Table 3. It would appear the increasing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1726,
+                    847,
+                    1750
+                ],
+                "score": 0.995,
+                "text": "the silicon content in a duplex matrix, despite increasing the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1754,
+                    849,
+                    1779
+                ],
+                "score": 0.999,
+                "text": "resistance to pit initiation, decreases the resistance of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1784,
+                    662,
+                    1809
+                ],
+                "score": 1.0,
+                "text": "alloy to crevice corrosion or pit propagation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    1813,
+                    848,
+                    1835
+                ],
+                "score": 0.99,
+                "text": "As a cross check on the predictions of the electrochemi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1842,
+                    848,
+                    1864
+                ],
+                "score": 0.997,
+                "text": "cal tests for pit initiation, the resistance of the alloys in Table"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1959,
+                    849,
+                    1981
+                ],
+                "score": 0.996,
+                "text": "to the 18Cr-8Ni matrix resulted in a progressive decrease in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1988,
+                    850,
+                    2010
+                ],
+                "score": 0.997,
+                "text": "corrosion rate, which is in complete agreement with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    2103,
+                    850,
+                    2125
+                ],
+                "score": 0.977,
+                "text": "for example, 50 and 2170 mdd, respectively. The apparent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1869,
+                    850,
+                    1896
+                ],
+                "score": 0.993,
+                "text": "1 to pitting corrosion in aqueous ferric chloride water was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1898,
+                    848,
+                    1926
+                ],
+                "score": 0.984,
+                "text": "determined. Corrosion rates obtained over four days of ex-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1927,
+                    848,
+                    1955
+                ],
+                "score": 0.99,
+                "text": "posure are summarized in Table 4. Increasing silicon additions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    2014,
+                    849,
+                    2042
+                ],
+                "score": 0.993,
+                "text": "predictions of the electrochemical data. The lowest corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    2042,
+                    848,
+                    2070
+                ],
+                "score": 0.989,
+                "text": "rate (50 mdd) obtained on Alloy 5 should be compared with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    2071,
+                    847,
+                    2099
+                ],
+                "score": 0.989,
+                "text": "that obtained on typically produced commercial AISI 304 SS,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    2129,
+                    849,
+                    2157
+                ],
+                "score": 0.991,
+                "text": "inconsistency between the large difference potential for Alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1519,
+                    1213,
+                    1543
+                ],
+                "score": 1.0,
+                "text": "5 and the low weight loss in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    1519,
+                    1582,
+                    1543
+                ],
+                "score": 1.0,
+                "text": "can be explained as follows."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1546,
+                    1584,
+                    1573
+                ],
+                "score": 0.994,
+                "text": "The pitting potential denotes the oxidizing conditions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1575,
+                    1585,
+                    1602
+                ],
+                "score": 0.995,
+                "text": "necessary to initiate pits on a passive surface; in the case of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1605,
+                    1582,
+                    1630
+                ],
+                "score": 0.993,
+                "text": "Alloys 4 and 5, it has a value of 0.37 and 0.99 VsCE, respective-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1633,
+                    1583,
+                    1658
+                ],
+                "score": 0.987,
+                "text": "ly. The redox potential of the acidified ferric chloride solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1660,
+                    1582,
+                    1688
+                ],
+                "score": 0.971,
+                "text": "used for exposure has been found to be 0.300 VsCE on AISI"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1689,
+                    961,
+                    1717
+                ],
+                "score": 1.0,
+                "text": "304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1028,
+                    1690,
+                    1582,
+                    1717
+                ],
+                "score": 0.99,
+                "text": "thus, no pit initiation occurred on the specimens"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1720,
+                    1582,
+                    1746
+                ],
+                "score": 0.999,
+                "text": "(and, consequently, a relatively low and similar weight loss"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1751,
+                    1087,
+                    1776
+                ],
+                "score": 1.0,
+                "text": "was measured)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    963,
+                    1777,
+                    1577,
+                    1801
+                ],
+                "score": 0.997,
+                "text": "On the other hand, the data in Table 3 were obtained elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1807,
+                    1578,
+                    1831
+                ],
+                "score": 0.999,
+                "text": "tronically where the pit initiation potential was purposely ex-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1836,
+                    1577,
+                    1860
+                ],
+                "score": 0.997,
+                "text": "ceeded and the different potential data reflects the ease (or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1864,
+                    1578,
+                    1888
+                ],
+                "score": 0.987,
+                "text": "difficulty, in the case of Alloy 5) with which the growing pit (or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    1893,
+                    1396,
+                    1920
+                ],
+                "score": 0.998,
+                "text": "crevice) could repassivate. Hence, the large"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1515,
+                    1893,
+                    1580,
+                    1919
+                ],
+                "score": 1.0,
+                "text": "value"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    1924,
+                    1578,
+                    1948
+                ],
+                "score": 0.992,
+                "text": "for Alloy 5, which suggests susceptibility to crevice córrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    910,
+                    1952,
+                    1579,
+                    1977
+                ],
+                "score": 0.989,
+                "text": "(or pit growth), does not conflict with the relatively low passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1981,
+                    1217,
+                    2005
+                ],
+                "score": 0.996,
+                "text": "corrosion rates noted in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1284,
+                    1981,
+                    1579,
+                    2005
+                ],
+                "score": 0.994,
+                "text": "tests. Thus, the addition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    910,
+                    2008,
+                    1579,
+                    2036
+                ],
+                "score": 0.995,
+                "text": "silicon (with the formation of δ-ferrite) is highly beneficial for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2040,
+                    1578,
+                    2064
+                ],
+                "score": 0.989,
+                "text": "improving the resistance of the alloy to pit initiation. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    2069,
+                    1577,
+                    2093
+                ],
+                "score": 0.997,
+                "text": "mechanistic reasons for the dramatic beneficial effect of sili-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2099,
+                    1577,
+                    2123
+                ],
+                "score": 0.994,
+                "text": "con on pit initiation resistance is currently under investigation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    2127,
+                    1578,
+                    2151
+                ],
+                "score": 0.995,
+                "text": "It is surmised that the previously noted beneficial effect of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    910,
+                    2155,
+                    1486,
+                    2179
+                ],
+                "score": 1.0,
+                "text": "silicon enrichment in the passive film is involved.13,14"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    2202,
+                    233,
+                    2240
+                ],
+                "score": 1.0,
+                "text": "150"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1289,
+                    2199,
+                    1577,
+                    2231
+                ],
+                "score": 0.98,
+                "text": "CORROSION—NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1764,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9605,
+                "bbox": [
+                    187,
+                    29,
+                    837,
+                    102
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8096,
+                "bbox": [
+                    581,
+                    64,
+                    653,
+                    100
+                ],
+                "index": 2,
+                "latex": "F o C l _ { 3 }"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9769,
+                "bbox": [
+                    176,
+                    114,
+                    852,
+                    383
+                ],
+                "index": 3,
+                "html": "<table><tr><td>Alloy Designation</td><td>Sllicon Contont (wt%)</td><td>δ-Ferrite Content (%)</td><td>Corroslon Rate(1) (mdd)</td></tr><tr><td>1</td><td>1.01</td><td>&lt; 1.0</td><td>1016.0</td></tr><tr><td>2</td><td>1.95</td><td>&lt; 1.0</td><td>634.0</td></tr><tr><td>3</td><td>2.85</td><td>1.7</td><td>105.0</td></tr><tr><td>4</td><td>3.73</td><td>7.5</td><td>65.3</td></tr><tr><td>5</td><td>4.45</td><td>17.0</td><td>50.0</td></tr><tr><td>AISI 304</td><td>0.41</td><td>0.0</td><td>2170.0</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8625,
+                "bbox": [
+                    186,
+                    427,
+                    675,
+                    462
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9439,
+                "bbox": [
+                    423,
+                    519,
+                    602,
+                    552
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718,
+                "bbox": [
+                    171,
+                    553,
+                    851,
+                    612
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    171,
+                    611,
+                    851,
+                    753
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9753,
+                "bbox": [
+                    171,
+                    752,
+                    850,
+                    843
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9286,
+                "bbox": [
+                    431,
+                    866,
+                    595,
+                    898
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8355,
+                "bbox": [
+                    184,
+                    898,
+                    849,
+                    931
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9744,
+                "bbox": [
+                    950,
+                    32,
+                    1582,
+                    123
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9801,
+                "bbox": [
+                    922,
+                    123,
+                    1583,
+                    242
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9779,
+                "bbox": [
+                    923,
+                    244,
+                    1583,
+                    334
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9514,
+                "bbox": [
+                    923,
+                    334,
+                    1508,
+                    366
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9715,
+                "bbox": [
+                    923,
+                    364,
+                    1582,
+                    421
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.973,
+                "bbox": [
+                    923,
+                    422,
+                    1582,
+                    478
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9779,
+                "bbox": [
+                    924,
+                    478,
+                    1583,
+                    563
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9715,
+                "bbox": [
+                    923,
+                    564,
+                    1582,
+                    622
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9728,
+                "bbox": [
+                    921,
+                    622,
+                    1582,
+                    680
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9714,
+                "bbox": [
+                    916,
+                    681,
+                    1583,
+                    739
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9715,
+                "bbox": [
+                    914,
+                    739,
+                    1582,
+                    797
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9485,
+                "bbox": [
+                    915,
+                    798,
+                    1504,
+                    829
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9442,
+                "bbox": [
+                    915,
+                    829,
+                    1527,
+                    858
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9689,
+                "bbox": [
+                    916,
+                    859,
+                    1583,
+                    915
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9778,
+                "bbox": [
+                    410,
+                    1046,
+                    1349,
+                    1227
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9392,
+                "bbox": [
+                    701,
+                    1302,
+                    1059,
+                    1339
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9266,
+                "bbox": [
+                    825,
+                    1376,
+                    953,
+                    1409
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6672,
+                "bbox": [
+                    380,
+                    1408,
+                    1394,
+                    1529
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.7482,
+                "bbox": [
+                    380,
+                    1526,
+                    1394,
+                    1620
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9414,
+                "bbox": [
+                    426,
+                    1741,
+                    604,
+                    1773
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    173,
+                    1773,
+                    855,
+                    1951
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6311,
+                "bbox": [
+                    179,
+                    1978,
+                    818,
+                    2011
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6784,
+                "bbox": [
+                    183,
+                    2010,
+                    850,
+                    2097
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8356,
+                "bbox": [
+                    173,
+                    2096,
+                    849,
+                    2159
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9363,
+                "bbox": [
+                    913,
+                    1733,
+                    1588,
+                    1828
+                ],
+                "index": 35,
+                "latex": "| = | \\mathsf { \\Gamma } _ { \\mathsf { c o r r } } \\left[ \\mathsf { e x p } \\frac { 2 . 3 0 3 \\left( \\mathsf { E } - \\mathsf { E } _ { \\mathsf { C O r r } } \\right) } { \\mathsf { b } _ { \\mathsf { a } } } - \\mathsf { e x p } \\frac { - 2 . 3 0 3 \\left( \\mathsf { E } - \\mathsf { E } _ { \\mathsf { C O r r } } \\right) } { \\mathsf { b } _ { \\mathsf { C } } } \\right] _ { ( 1 ) }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8345,
+                "bbox": [
+                    915,
+                    1973,
+                    947,
+                    2003
+                ],
+                "index": 36,
+                "latex": "{ \\sf b _ { C } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9864,
+                "bbox": [
+                    909,
+                    1849,
+                    1590,
+                    2002
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8464,
+                "bbox": [
+                    963,
+                    2033,
+                    995,
+                    2062
+                ],
+                "index": 38,
+                "latex": "{ \\mathsf b } _ { \\mathsf c }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8147,
+                "bbox": [
+                    1510,
+                    1944,
+                    1542,
+                    1974
+                ],
+                "index": 39,
+                "latex": "\\mathsf { b } _ { \\mathsf { a } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    910,
+                    2001,
+                    1591,
+                    2152
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6233,
+                "bbox": [
+                    1485,
+                    2004,
+                    1585,
+                    2035
+                ],
+                "index": 41,
+                "latex": "\\mathsf { \\Gamma } _ { \\mathsf { c o r r } } , \\mathsf { b } _ { \\mathsf { a } } ,"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9486,
+                "bbox": [
+                    174,
+                    2193,
+                    523,
+                    2230
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.942,
+                "bbox": [
+                    584,
+                    2171,
+                    1175,
+                    2233
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9169,
+                "bbox": [
+                    1529,
+                    2194,
+                    1581,
+                    2227
+                ],
+                "index": 44
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    31,
+                    833,
+                    67
+                ],
+                "score": 0.992,
+                "text": "TABLE 4 — Corrosion Rates of Experimental Silicon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    223,
+                    67,
+                    578,
+                    96
+                ],
+                "score": 0.991,
+                "text": "Alloys and Controls in 10 w/o"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    657,
+                    71,
+                    825,
+                    97
+                ],
+                "score": 0.943,
+                "text": "(pH 0.9) at 25 C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    431,
+                    671,
+                    461
+                ],
+                "score": 0.997,
+                "text": "(1)Average of two coupons exposed for four days."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    427,
+                    521,
+                    598,
+                    555
+                ],
+                "score": 1.0,
+                "text": "Conclusions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    226,
+                    555,
+                    848,
+                    583
+                ],
+                "score": 0.998,
+                "text": "The following conclusions may be drawn from the data"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    587,
+                    293,
+                    609
+                ],
+                "score": 1.0,
+                "text": "presented:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    612,
+                    847,
+                    640
+                ],
+                "score": 0.998,
+                "text": "1. The addition of silicon to an 18Cr-8Ni base alloy in-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    642,
+                    848,
+                    669
+                ],
+                "score": 0.998,
+                "text": "creased the resistance to pit initiation. The addition of 4.45"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    671,
+                    847,
+                    698
+                ],
+                "score": 0.982,
+                "text": "wt% silicon (17% δ-ferrite) resulted in an alloy with a pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    697,
+                    847,
+                    725
+                ],
+                "score": 0.99,
+                "text": "corrosion rate in ferric chloride solution of approximately 2%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    726,
+                    421,
+                    749
+                ],
+                "score": 0.996,
+                "text": "of that of AISI 304 SS."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    755,
+                    847,
+                    782
+                ],
+                "score": 0.992,
+                "text": "2. Although silicon duplex SSs exhibit superior resist-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    784,
+                    846,
+                    811
+                ],
+                "score": 0.995,
+                "text": "ance to pit initiation, electrochemical data suggest that they"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    815,
+                    681,
+                    839
+                ],
+                "score": 0.994,
+                "text": "may be more susceptible to crevice corrosion."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    435,
+                    866,
+                    592,
+                    902
+                ],
+                "score": 1.0,
+                "text": "References"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    901,
+                    845,
+                    928
+                ],
+                "score": 0.984,
+                "text": "1. B. E. Wilde, \"The Influence of Silicon on the Electrochem-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    954,
+                    35,
+                    1579,
+                    59
+                ],
+                "score": 0.978,
+                "text": "ical Polarization Characteristics of an AISI 304 Stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    954,
+                    65,
+                    1579,
+                    90
+                ],
+                "score": 0.978,
+                "text": "Steel in Dilute Sulfuric Acid,\" submitted for publication"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    956,
+                    96,
+                    1184,
+                    120
+                ],
+                "score": 1.0,
+                "text": "in Corrosion Journal."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    923,
+                    125,
+                    1580,
+                    151
+                ],
+                "score": 0.991,
+                "text": "2. B. E. Wilde, \"The Influence of Silicon on the Chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    955,
+                    156,
+                    1580,
+                    183
+                ],
+                "score": 0.977,
+                "text": "Stress Corrosion Cracking Behavior of an AISI 304 Stain-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    956,
+                    186,
+                    1581,
+                    213
+                ],
+                "score": 0.989,
+                "text": "less Steel,\" submitted for publication in Corrosion Jour-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    954,
+                    217,
+                    1001,
+                    243
+                ],
+                "score": 1.0,
+                "text": "nal."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    925,
+                    247,
+                    1579,
+                    271
+                ],
+                "score": 0.976,
+                "text": "3. B. E. Wilde, \"The Influence of Silicon on the Intergranular"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    957,
+                    278,
+                    1579,
+                    302
+                ],
+                "score": 0.963,
+                "text": "Corrosion Behavior of an AISl 304 Stainless Steel,\"sub-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    958,
+                    309,
+                    1429,
+                    332
+                ],
+                "score": 0.989,
+                "text": "mitted for publication in Corrosion Journal."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    927,
+                    339,
+                    1504,
+                    363
+                ],
+                "score": 0.985,
+                "text": "4. G. E. Linert, Metals Eng. Quart., Vol. 7, p. 10, 1967."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    926,
+                    368,
+                    1579,
+                    392
+                ],
+                "score": 0.987,
+                "text": "5. M. Stern, A. C. Makrides, J. Electrochem. Soc., Vol. 107,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    955,
+                    397,
+                    1091,
+                    422
+                ],
+                "score": 0.99,
+                "text": "p. 782, 1960."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    924,
+                    423,
+                    1580,
+                    451
+                ],
+                "score": 0.967,
+                "text": "6. W. D. Henry, B. E. Wilde, Corrosion, Vol. 25, No. 12, p."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    956,
+                    453,
+                    1064,
+                    477
+                ],
+                "score": 0.979,
+                "text": "515, 1969."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    925,
+                    479,
+                    1580,
+                    505
+                ],
+                "score": 0.991,
+                "text": "7. B. E. Wilde, N. D. Greene, Scientific Report No. 3, Air Force"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    957,
+                    508,
+                    1580,
+                    534
+                ],
+                "score": 0.995,
+                "text": "Cambridge Research Laboratories, AFCRL 64-518, June"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    957,
+                    538,
+                    1054,
+                    565
+                ],
+                "score": 0.981,
+                "text": "15, 1964."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    924,
+                    566,
+                    1581,
+                    592
+                ],
+                "score": 0.986,
+                "text": "8. B. E. Wilde, E. Williams, J. Electrochem. Soc., Vol. 116,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    955,
+                    596,
+                    1105,
+                    623
+                ],
+                "score": 0.998,
+                "text": "p. 1539, 1969."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    926,
+                    626,
+                    1580,
+                    650
+                ],
+                "score": 0.98,
+                "text": "9. B. E. Wilde, E. Williams, J. Electrochem. Soc., Vol. 117,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    956,
+                    654,
+                    1093,
+                    682
+                ],
+                "score": 0.971,
+                "text": "p. 775, 1970."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    684,
+                    1579,
+                    708
+                ],
+                "score": 0.977,
+                "text": "10. B. E. Wilde, E. Williams, J. Electrochem. Soc., Vol. 118"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    956,
+                    713,
+                    1106,
+                    740
+                ],
+                "score": 0.963,
+                "text": "p. 1057, 1971."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    739,
+                    1581,
+                    770
+                ],
+                "score": 0.972,
+                "text": "11. B. E. Wilde, E. Williams, Electrochim. Acta, Vol. 16, p."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    959,
+                    771,
+                    1079,
+                    799
+                ],
+                "score": 0.987,
+                "text": "1971, 1971."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    802,
+                    1499,
+                    827
+                ],
+                "score": 0.989,
+                "text": "12. B. E. Wilde, Corrosion, Vol. 28, No. 8, p. 283, 1972."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    832,
+                    1523,
+                    857
+                ],
+                "score": 0.981,
+                "text": "13. T. N. Rhodin, Corrosion, Vol. 12, No. 3, p. 123t, 1956."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    858,
+                    1581,
+                    889
+                ],
+                "score": 0.989,
+                "text": "14. N. A. Nielson, T. N. Rhodin, Z. Electrochem., Vol. 62, p."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    957,
+                    890,
+                    1066,
+                    917
+                ],
+                "score": 0.994,
+                "text": "707, 1958."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    426,
+                    1046,
+                    1331,
+                    1108
+                ],
+                "score": 0.982,
+                "text": "A Noniterative Method for Determining"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    414,
+                    1108,
+                    1348,
+                    1168
+                ],
+                "score": 0.999,
+                "text": "Corrosion Parameters From a Sequence"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    636,
+                    1172,
+                    1122,
+                    1223
+                ],
+                "score": 1.0,
+                "text": "of Polarization Data*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    705,
+                    1306,
+                    1058,
+                    1335
+                ],
+                "score": 0.997,
+                "text": "V. FELIU* and S. FELIU**"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    830,
+                    1379,
+                    950,
+                    1412
+                ],
+                "score": 1.0,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    1411,
+                    1389,
+                    1440
+                ],
+                "score": 0.994,
+                "text": "In this report, a new calculation method, which is fundamentally different from those currently"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    387,
+                    1442,
+                    1391,
+                    1468
+                ],
+                "score": 0.999,
+                "text": "used, is described for the determination of corrosion parameters from a series of polarization"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    387,
+                    1472,
+                    1391,
+                    1498
+                ],
+                "score": 0.983,
+                "text": "points. This method may be applied in any laboratory with a microcomputer, and it requires"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    388,
+                    1502,
+                    702,
+                    1525
+                ],
+                "score": 0.994,
+                "text": "writing only a short program."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    436,
+                    1527,
+                    1387,
+                    1556
+                ],
+                "score": 0.991,
+                "text": "Since the method is not iterative, the calculations may be conducted in a few seconds."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    1557,
+                    1389,
+                    1586
+                ],
+                "score": 0.99,
+                "text": "On the other hand, its advantage over the algebraic methods is that it can accept a large"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    387,
+                    1590,
+                    1091,
+                    1614
+                ],
+                "score": 0.999,
+                "text": "number of points, which affords accuracy to the determinations."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    432,
+                    1746,
+                    598,
+                    1775
+                ],
+                "score": 1.0,
+                "text": "Introduction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1776,
+                    851,
+                    1802
+                ],
+                "score": 1.0,
+                "text": "From the Butler-Volmer equation for electrochemical kinetics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1805,
+                    852,
+                    1831
+                ],
+                "score": 0.99,
+                "text": "and the assumptions that (1) no ohmic voltage drops and no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1833,
+                    852,
+                    1859
+                ],
+                "score": 0.995,
+                "text": "concentration polarization exists and (2) the rest potential of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1862,
+                    851,
+                    1886
+                ],
+                "score": 1.0,
+                "text": "the corroding system is sufficiently displaced from the reversi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1891,
+                    851,
+                    1914
+                ],
+                "score": 0.996,
+                "text": "ble potentials of the anodic and cathodic reactions, the follow-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1920,
+                    599,
+                    1944
+                ],
+                "score": 0.994,
+                "text": "ing well-known relationship is derived:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1984,
+                    813,
+                    2008
+                ],
+                "score": 0.979,
+                "text": "* Submitted for publication March 1985; revised July 1985."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    2014,
+                    846,
+                    2037
+                ],
+                "score": 0.981,
+                "text": "*Dept. de Electronica y Automatica, E.T.S. de Ingenieros"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    2043,
+                    847,
+                    2065
+                ],
+                "score": 0.996,
+                "text": "Industriales de la Universidad Nacional de Educacion a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    2072,
+                    543,
+                    2096
+                ],
+                "score": 0.984,
+                "text": "Distancia, Madrid 28040, Spain."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    2099,
+                    846,
+                    2125
+                ],
+                "score": 0.992,
+                "text": "**Centro Nacional de Investigaciones Metalurgicas, Ciudad"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    2130,
+                    575,
+                    2154
+                ],
+                "score": 0.998,
+                "text": "Universitaria, Madrid 28040, Spain."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1851,
+                    1586,
+                    1880
+                ],
+                "score": 0.983,
+                "text": "where I is the current that flows between the metal and coun-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1882,
+                    1587,
+                    1910
+                ],
+                "score": 0.992,
+                "text": "ter electrode (equal to the difference between the partial an-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1913,
+                    1587,
+                    1939
+                ],
+                "score": 0.997,
+                "text": "odic and cathodic currents); E is the potential imposed on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1942,
+                    1509,
+                    1971
+                ],
+                "score": 0.981,
+                "text": "metal; Eçorr is the open circuit corrosion potential; and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1543,
+                    1942,
+                    1588,
+                    1971
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    950,
+                    1973,
+                    1406,
+                    2001
+                ],
+                "score": 0.99,
+                "text": "are the anodic and cathodic Tafel slopes."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    967,
+                    2003,
+                    1481,
+                    2029
+                ],
+                "score": 0.997,
+                "text": "Only in very special cases can the parameters"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    2030,
+                    962,
+                    2063
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    996,
+                    2030,
+                    1586,
+                    2063
+                ],
+                "score": 1.0,
+                "text": "be algebraically calculated from Equation (1) (e.g., by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    2059,
+                    1587,
+                    2091
+                ],
+                "score": 0.975,
+                "text": "means of the \"three point\"1,2 and “four point\"3 algebraic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    2091,
+                    1585,
+                    2119
+                ],
+                "score": 0.987,
+                "text": "methods). For some time, other methods have been devised to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    2121,
+                    1585,
+                    2148
+                ],
+                "score": 0.976,
+                "text": "overcome this problem. The \"intercept\" method and the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2197,
+                    519,
+                    2229
+                ],
+                "score": 0.972,
+                "text": "Vol. 42, No. 3, March 1986"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    728,
+                    2175,
+                    1027,
+                    2200
+                ],
+                "score": 1.0,
+                "text": "0010-9312/86/000043/$3.00/0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    590,
+                    2203,
+                    1170,
+                    2229
+                ],
+                "score": 0.989,
+                "text": "©1986, National Association of Corrosion Engineers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1528,
+                    2196,
+                    1580,
+                    2233
+                ],
+                "score": 1.0,
+                "text": "151"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1764,
+            "height": 2250
+        }
+    }
+]

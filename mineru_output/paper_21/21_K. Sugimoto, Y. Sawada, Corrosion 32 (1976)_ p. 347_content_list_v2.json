@@ -1,0 +1,3339 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The Role of Alloyed Molybdenum in Austenitic Stainless Steels in the Inhibition of Pitting in Neutral Halide Solutions*"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                185,
+                20,
+                812,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "KATSUHISA SUGIMOTO AND YOSHINOBU SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                122,
+                720,
+                138
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                463,
+                194,
+                534,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the passive region of austenitic stainless steels alloyed with Mo, the formation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions can be expected in neutral halide solutions by the transpassive dissolution of Mo. It has been shown that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions added to neutral NaCl solutions act as an effective inhibitor against pitting of austenitic stainless steels with and without Mo. The interaction between alloyed Mo in the steels and added "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions in the solutions is appreciable. It is likely that the inhibition of pit growth by the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which are thought to result from the dissolution of the steels at the initia! stage of pitting leads to increased pitting resistance of austenitic stainless steels containing Mo."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                220,
+                836,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is a well known fact that the addition of Mo to austenitic stainless steels increases pitting resistance because of shifts of the pitting potential in the noble direction.1-6 Laboratory experiments, however, show that the factors which lead to the increase in the pitting resistance of the steel by alloying Mo are very complex. For instance, the beneficial effect of Mo addition decreases with increase in temperature,7 and the critical temperature at which pitting initiates depends on the Mo content of the steel and the Ci concentration of the solution used.8 It has been reported that alloyed Mo is ineffective to inhibit bromide pitting. 4,9,10 Furthermore, published data indicating some differences between the effects of Mo additions on austenitic stainless steel and ferritic stainless steel have been presented.11"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                336,
+                479,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although the action of Mo in regard to improving the resistance of austenitic stainless steels against pitting is not known precisely, we have proposed the following 2 mechanisms to account for the inhibition: (1) the inhibition of pit initiation by an improvement of the properties of the passive film for protection against invasion of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\complement 1 ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, and (2) the inhibition of pit growth by the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, which are thought to be concentrated within a pit, by the dissolution of the alloyed Mo at the initial stage of pitting."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                504,
+                479,
+                606
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our recent X-ray photoelectron spectroscopy (ESCA) studies on the passive film compositions of austenitic stainless steels containing Mo have shown that Mo is one of the essential constituents of the passive film, and that the Mo content of the film increases with increase in Mo content of the steels.1² Therefore, it would be reasonable to expect that the contribution of Mo in the passive film is the cause of the improved pitting resistance of steel. It is uncertain, however, whether the increase in pitting resistance is brought about only by modifications of the properties ofthe passive film, because the alloyed Mo may dissolve as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions by the transpassive reaction of Mo in the passive region of the steel. Furthermore, it is difficult to explain by the film theory why the alloying addition of Mo is ineffective in a NaBr solution."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                605,
+                479,
+                773
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although knowledge of the contribution of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to the mechanism of pitting inhibition for the Mo-containing austenitic stainless steel is insufficient, it has previously been reported that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions added to a neutral NaCl solution effectively inhibit the pitting dissolution of an austenitic stainless steel that does not contain Mo.1 Suzuki, et al, suggested the possibility of a higher concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O               4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions in an active pit than in the bulk solution for Type 316L and an 18Cr-16Ni-5Mo steel.'4"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                772,
+                479,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The purpose of the present study is to clarify the common feature in both methods for pitting inhibition, that is, the alloying addition of Mo to steels and the addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to halide solutions, and to speculate on the role of alloyed Mo in the inhibition of pitting. To achieve this, anodic polarization curves and ESCA spectra were measured using several combination of austenitic stainless steels with and without Mo, and halide solutions with and without "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } \\mathrm { \\Lambda } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                873,
+                479,
+                901
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/292c12e54ec48a7e125aebd1e59d10ac363b5d4982e6af7214549f95602fa3a2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1 — Composition of the Steels Studied (Wt%)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Specimen</td><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Cr</td><td>Ni</td><td>Mo</td></tr><tr><td>20Cr-25Ni</td><td>0.053</td><td>0.54</td><td>1.53</td><td>0.009</td><td>0.010</td><td>20.06</td><td>25.58</td><td>0.01</td></tr><tr><td>20Cr-25Ni-1Mo</td><td>0.057</td><td>0.48</td><td>1.48</td><td>0.009</td><td>0.010</td><td>19.99</td><td>25.88</td><td>1.05</td></tr><tr><td>20Cr-25Ni-3Mo</td><td>0.064</td><td>0.52</td><td>1.47</td><td>0.009</td><td>0.010</td><td>20.16</td><td>25.52</td><td>2.97</td></tr><tr><td>20Cr-25Ni-5Mo</td><td>0.059</td><td>0.46</td><td>1.44</td><td>0.008</td><td>0.010</td><td>19.96</td><td>25.66</td><td>5.06</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                518,
+                358,
+                965,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                514,
+                445,
+                968,
+                524
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                689,
+                536,
+                795,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rolled sheets of austenitic 20Cr-25Ni steels containing 0 to 5 Wt% Mo and pure Mo (99.99 Wt%) were used as specimens. Analytical compositions of the stainless steels used are listed in Table 1. Specimens "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 ~ \\times ~ 2 0 ~ \\times ~ 1 . 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(mm) were used for electrochemical polarization measurements, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\times 5 \\times 0 . 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(mm) for ESCA measurements. All of these specimens were annealed at 1050 C for 2 hours in vacuo and then water-quenched at 0 C."
+                    }
+                ]
+            },
+            "bbox": [
+                516,
+                549,
+                968,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimen surfaces were mechanically polished with emery papers up to No. 6/0 and with cloth using the diluted suspension of chromium oxide, degreased with absolute ethyl alcohol, washed in distilled water, and finally dried with air blasts. Specimens for the electrochemical polarization measurements were masked with Teflon seal tapes attached to an epoxy resin undercoating, except for an area "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\ c m ^ { 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "while those for ESCA measurements were not masked."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                640,
+                968,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As test solutions, 0.05 to 0.1M-NaCl, 0.1M-NaBr, NaCl + "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { N a } } _ { 2 } { \\mathsf { M o O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(NaCI : 0.05~ 0.5M, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { N a } _ { 2 } \\mathsf { M o O } _ { 4 } : 0 . 0 2 \\sim 0 . 2 \\mathsf { M } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and NaBr "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ \\mathsf { N a } _ { 2 } \\mathsf { M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(NaBr : 0.1M, Na "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { , } \\mathsf { M o O } _ { 4 } \\ : \\ 0 . 2 \\sim \\ 1 . 0 \\mathsf { M } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were used. All the solutions used were approximately neutral; for example, the pH values of 0.1M-NaCl, 0.1M-NaCl + 0.1M-Na₂MoO₄, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 M - N a C l + 0 . 2 M - N a _ { 2 } M o O _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were 6.16, 6.68, and 7.27, respectively. The solutions were deaerated by bubbling pure nitrogen for more than 30 minutes."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                741,
+                968,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the measurement of anodic polarization curves, the electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 minute at the setting of the potential which was increased successively from the corrosion potential in steps of 25 mV. In this paper, the potentials of test electrodes are represented with respect to the standard hydrogen electrode (NHE), although the values were measured using a saturated calomel reference electrode. Measurements were made at various temperatures in the range 10 to 70 C under a stationarystate condition."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                843,
+                968,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "347"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                962,
+                963,
+                974
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Submitted for publication May, 1974; revised April, 1975."
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                906,
+                419,
+                919
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Department of Metallurgy, Faculty of Engineering, Tohoku University, Sendai, Japan."
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                919,
+                476,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 32, No. 9; September, 1976"
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                960,
+                277,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/cea559cfe53777e5e77da5c84a9543a59f1d7a961c10e3769f5d786e36b1af0f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 1 - Anodic polarization curves for pure Mo in 0.1M-NaCl and 0.1M-NaBr at 25 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                58,
+                20,
+                455,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                31,
+                745,
+                480,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Surface analyses of specimens which were treated anodically in chloride solutions were performed by means of ESCA using a Kokusai Denki type KES-X-2001 electron spectrometer. The aluminum "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { K } _ { \\alpha 1 , 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "X-ray generated at 1486.6 eV was used for excitation. The voltage and the current applied to the X-ray tube were 10 kV and 20 mA, respectively. The specimen container was evacuated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tan \\_ 1 0 ^ { - 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Torr and held at room temperature. The photoelectron spectra of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\mathsf { p } _ { \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 2 { \\mathsf p } _ { 3 / 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for Fe, Cr, Ni, and Cl, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 3 \\mathsf { d } _ { 3 / 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathsf { d } _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the 1s level for O and C were measured. The binding energies at the peaks of the photoelectron spectra obtained were corrected by the energy of C 1s of the background spectrum as a reference, assuming the energy difference between the 1s level for C and the Fermi level for metallic Pd to be 285.0 eV. The valencies of elements in passive"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                769,
+                482,
+                947
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a75cd9a57433ddeed6efd01ef6aa22398bfb3df9dbfce3b61abec936141d43b1.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 2 — Critical pitting temperature as a function of the Mo content of 20Cr-25Ni steels in 0.1M-NaCl."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                519,
+                21,
+                957,
+                317
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "films were evaluated by comparing the binding energies at the peaks"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "of the photoelectron spectra of passive films and several kinds of 15"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "pure compounds."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                384,
+                966,
+                424
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                711,
+                435,
+                772,
+                449
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic Dissolution of Pure Mo in"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                463,
+                772,
+                477
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "NaCl and NaBr Solution"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                477,
+                704,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1 shows anodic polarization curves for pure Mo in 0.1M-NaCl and 0.1M-NaBr. Corrosion potentials of pure Mo in these solutions were nearly equal, that is, approximately +0.15 V. The general dissolution occurred in both solutions with a steep increase in current as the electrode potential was changed from the corrosion potential to higher values. The general dissolution in this case is probably caused, not by the pitting dissolution, but by the transpassivation reaction, since pure Mo showed the same mode of dissolution when anodically polarized in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mathsf { M } . \\mathsf { N a } _ { 2 } \\mathsf { S O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from a corrosion potential of approximately +0.15 V."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                491,
+                966,
+                621
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of Temperature on Pitting of Mo-Containing Steels in NaCI Solution"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                635,
+                809,
+                663
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of temperature on anodic polarization curves of 20Cr-25Ni steels containing 1 to 5 Wt% Mo in 0.1M-NaCl was determined."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                663,
+                966,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2 shows the relation between the critical pitting temperature and the Mo content of the steels. Below these critical temperatures for the pitting initiation, each steel maintained passivity to about +1.15 V until the transpassive dissolution occurred with the accompanying oxygen evolution. The critical pitting temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { T } _ { \\mathsf { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "became higher with increase in Mo content. This is defined as"
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                701,
+                968,
+                791
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "{ \\sf T } _ { \\sf p i t } = 5 ~ \\left[ { \\sf M o \\% l } + 2 0 \\mathrm { ~  ~ \\sigma ~ } \\right] \\mathrm { ~  ~ \\zeta ~ } ^ { \\circ } { \\bf C } \\mathrm { ) } .\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d1584899e28cd9e02d750e0d2adfd335c5a23962a7450aebad8b5c8fc38641c5.jpg"
+                }
+            },
+            "bbox": [
+                642,
+                800,
+                838,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The critical temperature depended on NaCl concentration too and were observed to decrease with increasing concentration."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                828,
+                965,
+                854
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of Temperature on Pitting of"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                867,
+                798,
+                881
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mo-free Steels in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N a C l + N a _ { 2 } M o O _ { 4 } \\ S o / u t i o n s"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                882,
+                860,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It has previously been reported that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O  } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions added to a NaCl solution act as an effective inhibitor against pitting of austenitic stainless steels.13 In the present work, the authors investigated the temperature range in which "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions show an effective inhibition, the change in pitting potential with the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O              } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration, and the relation between the chloride concentration and the critical concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O                } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions required to completely inhibit pitting."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                895,
+                968,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "348"
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                964,
+                67,
+                977
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION-NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                798,
+                963,
+                963,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/dd64961f5502b1dd8cc5bc62b9876a9968ee05c77ecc0b6d5f7a27eff7c96248.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 3 — Critical pitting temperature of 20Cr-25Ni steel as a function of the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in 0.1M-NaCl."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                36,
+                20,
+                470,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                29,
+                397,
+                479,
+                449
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3 shows the effect of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration on the critical pitting temperature of the 20Cr-25Ni steel in 0.1M-NaCI. The critical temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( { \\mathsf { T } } _ { \\mathsf { p i t } } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increased linearly with the MoO₄² concentration. The linear relation is expressed as"
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                448,
+                479,
+                503
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { T } _ { \\mathsf { p i t } } = 6 5 7 . 1 \\ ( \\mathsf { M o O } _ { 4 } ) ^ { 2 - } , \\mathsf { m o l } / \\mathsf { L } \\ ) \\cdot 3 2 . 2 8 \\ \\mathrm { ~ \\iota ~ ~ \\mathsf ~ { ~ \\iota ~ ~ } ~ } ^ { \\circ } \\mathsf { C } \\cdot \\mathsf { I } .\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9aeb4c06f34eec38f2fac613d7b1b6b3ffcc5598142c450a824aa5e1429c824f.jpg"
+                }
+            },
+            "bbox": [
+                102,
+                512,
+                408,
+                528
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting on the steel in 0.1M-NaCl below "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\ \\subset"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was completely inhibited when the solution contained "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions more than 0.2M. When the complete inhibition is achieved, the 20Cr-25Ni steel retains passivity to about +1.15 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { v } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and then the transpassive dissolution occurs, accompanying oxygen evolution."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                539,
+                477,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4 shows the change in the pitting potential of the 20Cr-25Ni steel with the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in 0.1M-NaCl at 50 C. The pitting potential was shifted linearly in the noble direction with increase in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { 0 } { 0 _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration up to 0.12M, over which pitting was completely inhibited at 50 C."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                603,
+                479,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5 shows the relation between the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { C l } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration and the minimum concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O  } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which is required to inhibit pitting of the 20Cr-25Ni steel at 25 C. The linear relation given in Equation (3) is obtained in the log-log plot between the Cl and the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration (mol/L):"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                666,
+                479,
+                731
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\log ( \\bar { \\bf C l } ^ { - } ) = 1 . 1 7 \\log ( \\mathsf { M o O    _ { 4 } } ^ { 2 - } ) + 0 . 0 7 9 .\\tag{3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f3514a22d6b9570a25243338a1a259349b6dae94307f282e5ce71085722e7d4d.jpg"
+                }
+            },
+            "bbox": [
+                128,
+                741,
+                378,
+                756
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interaction in Pitting Inhibition Between Mo in Steel and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M O O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "lons in Solutions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                778,
+                345,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic polarization behavior of Mo-containing austentic steels in NaCl solutions with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ M o O _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions shows that Mo in the steels and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions in the solutions interact with each other to inhibit pitting. Figure 6 shows the anodic polarization curves for the 20Cr-25Ni-3Mo steel in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textsf { a } 0 . 1 { \\mathsf { M } } { \\mathsf { - N a C l } } + 0 . 1 1 { \\mathsf { M } } { \\mathsf { - N a } } _ { 2 } { \\mathsf { M } } { \\mathsf { o O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution at 50 C and the 20Cr-25Ni-5Mo steel in the same solution at 60 C. Both curves show stable passivity up to the transpassive potential. As a matter of course, pitting was not observed in either case. As previously stated, both steels used here underwent pitting in 0.1M-NaCl without "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions at 50 or 60 C (Figure 2), and the addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { 0 } { 0 _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions up to 0.11M to 0.1M-NaCl above 50 C was insufficient to inhibit pitting of the 20Cr-25Ni steel without Mo (Figure 3). As shown in Figure "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf 6 , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "however, a simultaneous application of Mo alloying and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "addition inhibited pitting effectively, as against a separate use of these procedures by which pitting cannot be eliminated. These results suggest that there exists a common feature in the pitting inhibition mechanism between alloyed Mo and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions added to the solution."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                806,
+                479,
+                945
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/afd5b9130f8c9fb65655f3a041e09fe802e7362a5dbb7f7e06c8cc4c9e2bb704.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 4 - Pitting potential of 20Cr-25Ni steel as a function of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { 0 } { \\ o \\mathsf { O } _ { 4 } } ^ { \\bar { 2 } - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in 0.1M-NaCl at 50 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                522,
+                22,
+                959,
+                318
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8c677332f9a186565252c7890c496314ae5e3139a1d3d657a67415f99804dc3a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 5 - Effect of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tt c } ! ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration on the minimum concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o o } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which is necessary for pitting inhibition of 20Cr-25Ni steel at 25 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                523,
+                394,
+                957,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                514,
+                776,
+                968,
+                865
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting Behavior of 20Cr-25Ni and"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                879,
+                777,
+                893
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "20Cr-25Ni-5Mo Steels in NaBr Solution"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                893,
+                816,
+                907
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic polarization curves for 20Cr-25Ni and 20Cr-25Ni-5Mo steels in 0.1M and 1.0M-NaBr at 25 C are shown in Figure 7. The effect of Mo content on the pitting potential was scarcely observed,"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                907,
+                966,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 32, No. 9, September, 1976"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                960,
+                277,
+                975
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "349"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                961,
+                963,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) = Shoulder"
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                933,
+                107,
+                944
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/14b045ee05250811b3942311353019919298c510648be43e6a3f37978a008eba.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 6 - Anodic polarization curves for 20Cr-25Ni-3Mo and 20Cr-25Ni-5Mo steels in a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 { \\mathsf { M } } { \\mathsf { - N a C l } } + 0 . 1 1 { \\mathsf { M } } { \\mathsf { - N a } } _ { 2 } { \\mathsf { M o O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution at 50 and 60 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                36,
+                22,
+                476,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "since the pitting potentials of both steels were almost equal in the solutions of the same NaBr concentration. For example, the pitting potential for both steels was +0.521 V in 0.1M-NaBr. The effect of alloyed Mo, however, was clearly observed on the rate of pitting dissolution in the solutions. That is, an increase in the Mo content decreases the rate, since the anodic polarization curve of Figure 7 for the 20Cr-25Ni-5Mo steel in 0.1M-NaBr represents a larger polarization than that for the 20Cr-25Ni steel in the same solution and a temporary decrease in current in the potential range higher than the pitting potential."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                327,
+                479,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Then, the inhibiting efficiency of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions for the bromide pitting of the 20Cr-25Ni steel without Mo was examined in 0.1M-NaBr containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } \\ L ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions up to 1.0M at 25 C. Increasing the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in the solution shifted the pitting potential of the steel in the noble direction and made the polarization of the anodic curve larger. This means that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O        _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions act as an inhibitor against pitting of the steel in NaBr solutions. However, the inhibiting efficiency of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O            _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions for pitting in NaBr solutions was extremely low compared with the case of NaCl solutions. For example, at a temperature of 25 C, it was impossible to prevent the initiation of pitting in 0.1M-NaBr above +0.97 V, even if the solution contained "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 0 M . M 0 0 _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; on the other hand, the complete inhibition was achieved in 0.1M-NaCl by adding only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 1 M . M 0 0 _ { 4 } ^ { 2 - }"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                454,
+                481,
+                636
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/15ce7503b8c034b030001ea66493d972d48aee702a9d7f95b3ba81aa9fc304b6.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 7 — Anodic polarization curves for 20Cr-25Ni and 20Cr-25Ni-5Mo steels in 0.1M and 1M-NaBr at 25 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                516,
+                22,
+                965,
+                256
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8fd82a229a4089a85111be9710e5c6bcb8b25579d6d77c20de57feb20900afc3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2 - Passivation Treatments for Specimens Used for X-ray Photoelectron Spectroscopic Analyses"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol of Specimen</td><td>Material</td><td>Passivation Treatment</td></tr><tr><td>A</td><td>20Cr-25Ni</td><td>0.1M-NaCl (20 C), +0.946 V, 60 min</td></tr><tr><td>B</td><td>20Cr-25Ni-5Mo</td><td>0.1M-NaCl (20 C), +0.946 V, 60 min</td></tr><tr><td>C</td><td>20Cr-25Ni</td><td>0.1M-NaCl + 0.2M-Na₂MoO4 (20 C), +0.946 V, 60 min</td></tr><tr><td>D</td><td>20Cr-25Ni-5Mo</td><td>Passivated in the air at room temperature</td></tr><tr><td>Mo sheet</td><td>99.99% Mo</td><td>Freshly polished with emery paper</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                520,
+                349,
+                958,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "examined on the basis of the photoelectron spectra. The stainless steel specimens used for the measurement of photoelectron spectra are given in Table 2. Specimen A was a Mo-free 20Cr-25Ni steel on which pitting occurred in a NaCl solution. Specimen B was the 20Cr-25Ni-5Mo steel which was resistant to pitting in the solution. Specimen C was a Mo-free 20Cr-25Ni steel which was prevented from pitting by adding "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O               _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to the solution. Specimen D was the 20Cr-25Ni-5Mo steel with air-formed films which was used for comparison. The values of binding energy at the peaks of the photoelectron spectra for the specimens listed in Table 2 and reference pure compounds are tabulated in Table 3."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                454,
+                967,
+                597
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                698,
+                607,
+                784,
+                621
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "X-ray Photoelectron Spectra of"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                648,
+                270,
+                663
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic Polarization Behavior of Pure Mo in Neutral Halide Solutions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                632,
+                799,
+                660
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Passive Films"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                663,
+                136,
+                674
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The resistance of austenitic stainless steels against pitting in NaCl solutions is expected to depend on the chemical properties of their passive films formed in the solutions. The differences in the chemical composition of surface films between the specimens susceptible or not susceptible to pitting in NaCl solutions were"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                674,
+                481,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It had been said that the passive film of pure Mo was composed of MoO₂ and the reaction product of the transpassivation was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - } \\mathsf { \\bar { \\Gamma } } \\mathsf { i o n s } . \\mathsf { 1 6 - 1 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Accordingly, the transpassivation reaction for Mo in a neutral solution with pH higher than 6, and its equilibrium potential, may be represented by the following equations, respectively: :19"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                660,
+                967,
+                738
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b1cb1a8fe142b2ba0230c88fd0cd2d10001aa6e9d27ec66998408c675a80cec1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 3 — Binding Energies for the Peaks Observed in the X-ray Photoelectron Spectra"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Electrons Analyzed (Binding energy, eV)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Specimen</td><td colspan=\"2\">Fe 2p3/2</td><td colspan=\"2\">Cr 2p3/2</td><td colspan=\"3\">Ni 2p3/2</td><td colspan=\"4\">Mo 3d3/2 and 3d5/2 Oxide</td><td rowspan=\"2\" colspan=\"3\"></td></tr><tr><td colspan=\"2\">Oxide</td><td colspan=\"2\">Oxide Metal</td><td colspan=\"2\">Oxide</td><td colspan=\"2\">3d3/2</td><td colspan=\"2\">Metal 3d3/2</td><td colspan=\"2\">Q 1s</td></tr><tr><td></td><td></td><td>Metal</td><td></td><td></td><td></td><td></td><td>Metal</td><td>3d5/2</td><td></td><td></td><td>3d5/2</td><td></td><td>2P1/2</td><td>2p3/2</td></tr><tr><td>A</td><td> $7 1 2 . 9 _ { \\textrm { -- } } ^ { ( 1 ) }$ </td><td>708.0(2)</td><td>577.4(1)</td><td> $5 7 4 . 1 ^ { ( 3 ) }$ </td><td>861.1(2)</td><td>855.5(1)</td><td></td><td></td><td> $2 3 2 . 2 _ { \\textit { c } \\cdot \\textit { n } } ^ { ( 1 ) }$ </td><td></td><td></td><td>532.1(3) 530.5(1)</td><td> $1 9 9 . 8 _ { . } ^ { ( 3 ) }$ </td><td> $1 9 8 . 2 \\AA _ { i \\ldots } ^ { ( 1 ) }$ </td></tr><tr><td>8</td><td> $7 1 2 . 1 \\dot { ( 1 ) }$ </td><td> $7 0 7 . 7 _ { \\cdots } ^ { ( 2 ) }$ </td><td> $5 7 7 . 1 \\dot { ( } 1 )$ </td><td></td><td> $8 6 1 . 6 ^ { ( 2 ) }$ </td><td> $8 5 6 . 3 \\AA ^ { ( 1 ) }$   $\\bar { 8 5 6 . 2 } _ { \\ldots } ^ { ( 1 ) }$ </td><td> $2 3 5 . 5 ^ { ( 2 ) }$ </td><td></td><td> ${ } _ { 2 3 0 , 9 } ( 3 )$ </td><td> $_ { 2 2 7 . 8 } ( 2 )$ </td><td></td><td> $\\mathfrak { s } 3 2 . 0 \\AA _ { \\cdot \\infty } ^ { ( 3 ) }$   $\\bar { 5 } 3 0 . 5 \\AA ^ { ( 1 ) }$ </td><td> $2 0 2 . 0 _ { \\cdot \\cdot \\cdot } ^ { ( 3 ) }$ </td><td> $2 0 0 , 2 _ { \\cdot \\cdot } ^ { ( 1 ) }$ </td></tr><tr><td>C</td><td> $7 1 2 . 2 _ { \\cdots } ^ { ( 1 ) }$ </td><td> $7 0 7 . 8 _ { \\cdots } ^ { ( 2 ) }$ </td><td> $. 5 7 7 . 6 _ { \\cdot \\cdot \\cdot } ^ { ( 1 ) }$  574.8(3)</td><td></td><td> $8 6 2 . 6 ^ { ( 2 ) }$ </td><td></td><td> $2 3 5 . 6 ^ { ( 3 ) }$ </td><td> $2 3 2 . 3 ^ { ( 1 ) }$ </td><td></td><td></td><td> $5 3 2 . 5 \\AA ^ { ( 3 ) }$ </td><td>530.8(1)</td><td>201.8(3)</td><td> $2 0 0 . 8 ^ { ( 1 ) }$ </td></tr><tr><td>D</td><td> $7 1 2 . 2 ^ { ( 1 ) }$ </td><td> $7 0 7 . 4 ^ { ( 2 ) }$ </td><td>577.5(1) 574.2(3)</td><td></td><td> $8 5 7 . 4 ^ { ( 2 ) }$ </td><td> $. 8 5 3 . 6 ^ { ( 1 ) }$ </td><td> $2 3 5 . 2 ^ { ( 2 ) }$ </td><td> $2 3 2 . 2 ^ { ( 1 ) }$ </td><td> $_ { 2 3 0 . 7 } ( 1 )$ </td><td> $2 2 7 . 7 ^ { ( 2 ) }$ </td><td> $5 3 1 \\hat { . 8 } ^ { ( 1 ) }$ </td><td> ${ \\mathfrak { s } } 3 0 . 0 ^ { ( 3 ) }$ </td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> ${ } _ { 2 3 1 , 0 } ( { } ^ { 2 } )$ </td><td> $2 2 7 . 9 ^ { ( 1 ) }$ </td><td> ${ \\mathfrak { s } } 3 3 . 3 ^ { ( 3 ) }$ </td><td> $5 3 1 . 3 \\AA _ { i \\cdot 1 } ^ { ( 1 ) }$ </td><td></td><td></td></tr><tr><td>Mo sheet MoO₃</td><td></td><td></td><td></td><td></td><td></td><td></td><td> $2 3 5 . 8 ^ { ( 2 ) }$ </td><td> $2 3 2 . 7 \\AA ^ { ( 1 ) }$ </td><td></td><td></td><td></td><td> $5 3 1 . 1 \\cdots$ </td><td></td><td></td></tr><tr><td>Na2MoO₄·2H₂2O</td><td></td><td></td><td></td><td></td><td></td><td></td><td> $2 3 5 . 3 ^ { ( 2 ) }$ </td><td> $2 3 2 . 2 ^ { ( 1 ) }$ </td><td></td><td></td><td></td><td> $5 3 0 . 7 ^ { ( 1 ) }$ </td><td></td><td></td></tr><tr><td>NaCl</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> $_ { 2 0 0 , 0 ^ { ( 3 ) } }$ </td><td> $_ { 1 9 8 . 5 } ( 1 )$ </td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                40,
+                796,
+                956,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "350"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                963,
+                67,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION-NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                797,
+                963,
+                963,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { M o O } _ { 2 } + 2 \\mathsf { H } _ { 2 } \\mathsf { O } = \\mathsf { M o O } _ { 4 } { } ^ { 2 - } + 4 \\mathsf { H } ^ { + } + 2 \\mathsf { e } ^ { - } ,\\tag{4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5578356c18335494ae7b8733af356f2c4f00983b5f49dd6cfefc65f6201eb42b.jpg"
+                }
+            },
+            "bbox": [
+                121,
+                22,
+                383,
+                38
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { E } = 0 . 6 0 6 \\cdot 0 . 1 1 8 2 \\mathsf { p } \\mathsf { H } + 0 . 0 2 9 5 1 \\mathsf { o g } \\ a _ { \\mathsf { M } \\mathsf { o } \\mathsf { O } _ { 4 } } \\mathsf { \\bar { \\varepsilon } } ^ { - } .\\tag{5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1ab63a6e406361c5d6fda157e8442bb658bd404de66157f0468c8cd100689a69.jpg"
+                }
+            },
+            "bbox": [
+                99,
+                49,
+                408,
+                66
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As the pH of 0.1M-NaCl used is 6.16, Mc "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ _ { \\mathrm { { } } } } { _ { \\mathrm { { } } } } { _ { \\mathrm { { } } } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions should be more stable than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the potential region above -0.199 V, assuming "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a _ { \\mathsf { M o O } _ { 4 } } \\mathrm { { } } ^ { 2 - } = \\mathrm { ~ 1 0 ^ { - 6 } ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It is possible to assume that the oxide film of MoO₃ is formed on the Mo electrode in the potential region of transpassivity according to Equation (6):"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                74,
+                480,
+                139
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { M o O } _ { 2 } + \\mathsf { H } _ { 2 } \\mathsf { O } = \\mathsf { M o O } _ { 3 } + 2 \\mathsf { H } ^ { + } + 2 \\mathsf { e } ^ { - } ,\\tag{6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/46558c3b99e26d7dd54f4e8cad42ac0768467ecfd086effbb877a4563e1d50a7.jpg"
+                }
+            },
+            "bbox": [
+                132,
+                151,
+                373,
+                166
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { E } = \\mathbf { 0 . 3 2 0 \\cdot 0 . 0 5 9 1 \\ p H . }\\tag{7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b3ddb6d327aca76e8a2b7ae3928c52ba0944dad65a830809db6a2f768a60e997.jpg"
+                }
+            },
+            "bbox": [
+                176,
+                177,
+                338,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "film, however, even if formed in this solution, will be porous and not depress the anodic dissolution of the electrode because the oxide "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dissolves as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { H M o O } } _ { 4 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } \\mathrm { \\Lambda } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions in solutions with pH higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 7 ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                203,
+                478,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The general dissolution of pure Mo observed in 0.1M-NaCl and 0.1M-NaBr when polarized in the noble direction from the corrosion potential (about +0.15 V) is thought to be the transpassive dissolution caused by the reaction of Equation (4). The passive region of the 20Cr-25Ni steels containing 1 to 5 Wt% Mo in 0.1M-NaCl corresponds to the transpassive region of pure Mo (because the corrosion potentials of these steels in the solution are about +0.1 V). "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O  } _ { 4 } \\ L ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, therefore, should be formed if these steels are dissolved by pitting in their passive regions."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                255,
+                480,
+                371
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting Inhibition Mechanism of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                29,
+                379,
+                335,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ions Added to Neutral NaCI Solutions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                395,
+                318,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ M O O _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to NaCl solutions, the following 2 pitting inhibition mechanisms may be considered for austenitic stainless steels without Mo: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ ( 1 ) \\ M { \\circ } { \\ O _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions are adsorbed preferentially on the steel surface and preclude the adsorption of Cl ions, and (2) the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "film is formed on the steel surface by the reduction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, and this film prevents the chloride attack. Since the pH values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf N a C l } + { \\sf N a } _ { 2 } { \\sf M o O } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions used are approximately "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 7 , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the equilibrium potential for the reaction represented by Equation (4) is -0.251 V as calculated from Equation (5). Consequently, the reduction of MoC "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ ) _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is improbable in the potential region of passivity for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mathsf { C r } 2 5 \\mathsf { N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "steel, because corrosion potentials of the steel in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { N a C l } } \\ + \\ { \\mathsf { N a } } _ { 2 } { \\mathsf { M o O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions, which are approximately +0.05 V, are higher than the equilibrium potential for Equation (4). For the 20Cr-25Ni steel passivated in a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 1 M . N a C l ~ + ~ 0 . 2 M . N a _ { 2 } M o O _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution, the X-ray photoelectron spectra studies showed that Mo is oxidized to about Mo(Vi) in the passive film, as mentioned later. Consequently, the mechanism which assumes the formation of the Mo(IV) oxide, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", cannot be considered valid. On the other hand, the mechanism based on the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions is more likely to be valid, because the linear relation, represented by Equation (3), between the logarithmic concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tt C I } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the logarithmic concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which is required to inhibit pitting, suggests the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M o O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions according to the Freundrich-type adsorption isotherm. Judging from the coefficient (1.17) of the logarithmic term in Equation (3), the inhibiting efficiency of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o o } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to the chloride pitting of austenitic stainless steels is thought to be lower than that of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { N O } } _ { 3 } { \\mathsf { ^ { - } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions but higher than that of 20 acetate ions."
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                409,
+                480,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interaction Between Molybdenum in Steel"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                792,
+                349,
+                805
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M O O _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "lons in Solution"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                31,
+                806,
+                252,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The common features observed in the pitting inhibition by alloying Mo in steels and adding "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to chloride solutions are summarized as follows:"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                820,
+                478,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The pitting potential is shifted in the noble direction with increase in Mo content of steels or in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                858,
+                478,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. It is impossible to inhibit the initiation of pitting by either method at elevated temperatures. The critical temperature for pitting initiation becomes higher with increasing Mo content in steels or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { 0 } { 0 _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                895,
+                478,
+                946
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Pitting of the Mo-containing steels can be inhibited by small additions of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o o } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to solutions by which pitting of the Mo-free steel cannot be suppressed."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                26,
+                966,
+                64
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Consequently, it is reasonable to assume the existence of a common process in mechanisms of pitting inhibition by the above two methods. Since the formation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O              4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, as previously mentioned, can be expected in the initial stage of pitting of the Mo-containing steel, it is presumed that the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions on the active sites within pits plays an important role in the inhibition of pitting. That is, the adsorption process of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, which suppress the pit growth, is thought to be common in both methods."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                66,
+                968,
+                180
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting of Mo-containing Steels in NaBr Solutions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                191,
+                769,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although the rates of pitting dissolution of the 20Cr-25Ni steel without Mo in NaBr solutions is decreased by the addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, the inhibiting efficiency of the ions to bromide pitting is extremely low and an almost tenfold addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions is required for complete inhibition of bromide pitting compared with the case for the chloride pitting. The amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O  } _ { 4 } { } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which are concentrated within a pit at the initial stage of pitting of the Mo containing steel is thought to be almost equal in both cases for chloride and bromide solutions. Consequently, even the 20Cr-25Ni-5Mo steel, which shows higher resistance to pitting in NaCl solutions, seems to be liable to pitting in NaBr solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                218,
+                966,
+                360
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Oxidation States of Constituents of Passive Film Formed in Chloride Solutions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                373,
+                841,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Oxidation states of the film constituents of specimens A, B, C, and D in Table 2 were estimated from the values of binding energy at the peaks of the photoelectron spectra. The oxidation states of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e } , \\mathsf { C r } , \\mathsf { N i } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and O in surface films were determined on the basis of our previous data in which the photoelectron spectra for the passivation 18Cr-8Ni steel and various kinds of pure oxides, hydroxides, and oxihydroxides were studied in detail.15 The oxidation states of Mo and Cl were determined from the photoelectron spectra obtained from pure Mo, molybdenum compounds, and sodium chloride in the present study. Literature values for the photoelectron spectra of several molybdenum compounds were also 21 used for comparison."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                401,
+                966,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The characteristic features of photoelectron spectra for specimens "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A } , \\mathsf { B } , \\mathsf { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and D, and the oxidation states of their passive film constituents are summarized as follows:"
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                555,
+                966,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fe. A strong peak at about 712 eV which is usually observed on the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2p3/2 spectra of these specimens can be assigned to oxidized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F } _ { \\mathsf { e } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[approximately Fe(III)] in the passive films."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                593,
+                966,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cr. A strong peak at about 577 eV for the Cr 2p "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra of these specimens can be assigned to oxidized Cr [approximately Cr(111)] in the passive films."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                632,
+                966,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ni. Counting rates of Ni 2p3/2 spectra for the stainless steel specimens were very low, suggesting that the Ni content of their passive films is extremely low. The strong peak at about 856 eV is thought to result from oxidized Ni [approximately Ni(II)] in the passive films.15 A weak peak at about 862 eV can be assigned to the peak due to \"shake-up\" in the Ni(Il) oxide."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                670,
+                966,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "O. O 1s spectra of passive films always have two peaks at about 532 and 531 eV, which are attributed to oxygen in the M-OH (M: metal element) or O-OH bond and that in the M-O bond, respectively.15 Since the intensity of the 531 eV peak is stronger than that of the 532 eV peak in O 1s spectra of specimens "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A } , \\mathsf { B } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\complement ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the passive film formed by the anodic oxidation should be composed of an oxide which contains a small amount of hydroxyl groups."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                745,
+                966,
+                846
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cl. The binding energy of Cl 2p3/2 electrons for specimen "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "198.2 eV, is almost equal to that for NaCl powder, 198.5 eV. However, the values of binding energy for Cl 2p3/2 electrons of specimens B and C, which are around 200.2 eV, are approximately 2 eV higher than those for NaCl powder, suggesting that weakly adsorbed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { C l } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or Cl exists in the specimen surface. Such "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { C l } } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or Cl may be produced by. prolonged exposure of the specimens to X-ray radiation.²2"
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                846,
+                966,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "351"
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                963,
+                965,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 32, No. 9, September, 1976"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                961,
+                278,
+                975
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mo. Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathsf { d } _ { 3 / 2 ^ { - 3 \\mathrm { d } _ { 5 / 2 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra obtained from specimens B and D show four peaks at about 235.5, 232.2, 230.9, and 227.8 eV. Among these peaks, the 230.9 and the 227.8 eV peaks are thought to result from metallic Mo or extremely lower valent "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M _ { 0 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "because they correspond to the peaks which appeared at 231.0 and 227.9 eV in the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathrm { d } _ { 3 / 2 ^ { - 3 \\mathrm { d } _ { 5 / 2 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectra of pure Mo which were measured immediately after polishing with emery paper. The other two peaks at 235.5 and 232.2 eV correspond to the peaks observed at about 235.8 and 232.7 eV in Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathsf { d } _ { 3 / 2 } . 3 \\mathsf { d } _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectrum obtained from powders of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N a _ { 2 } M o O _ { 4 } \\cdot 2 H _ { 2 } O"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Consequently, Mo in the passive film of the 20Cr-25Ni-5Mo steel should be oxidized to approximately Mo(VI) when subjected to anodic oxidation or air-oxidation."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                22,
+                480,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A very clear spectrum of Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathsf { d } _ { 3 / 2 ^ { - 3 \\mathsf { d } } 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "photoelectrons was obtained from specimen "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf C } , \\ i . \\ e ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the 20Cr-25Ni steel treated in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { N a C l } } + { \\mathsf { N a } } _ { 2 } { \\mathsf { M o O } } _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. Since specimen C contains no Mo in the matrix, the spectrum of Mo obtained is thought to result from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { \\hat { 2 } - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions adsorbed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tt o r"
+                    },
+                    {
+                        "type": "text",
+                        "content": "included in the passive film from the solution used. Two peaks are observed at 235.6 and 232.3 eV on the spectrum, and these two peaks agree with the 235.6 and the 232.2 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { e v }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "peaks in the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathsf { d } _ { 3 / 2 ^ { - 3 \\mathrm { d } _ { 5 / 2 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "spectrum for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { N a } _ { 2 } \\mathsf { M o O } _ { 4 } \\cdot 2 \\mathsf { H } _ { 2 } \\mathsf { O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "powder. It is, therefore, likely that the passive film which is formed by anodic oxidation in a NaCl solution with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O   _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions contains Mo(VI)."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                189,
+                480,
+                328
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Finally, it is concluded that Mo in passive films exists as Mo(VI) ions in both cases of the pitting inhibition, that is, the alloying addition of Mo in steels and the addition of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O              } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to chloride solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                328,
+                478,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                215,
+                399,
+                292,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It was found that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ M o O _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions added to a neutral NaCl solution acts effectively as a pitting inhibitor for the 20Cr-25Ni steel without Mo. Both pit initiation and growth are suppressed by small additions of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O  } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions. Several similar effects are observed in both methods for pitting inhibition, that is, alloying Mo in steels and adding "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O    _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions to chloride solutions. Moreover, the multiplied effect in the inhibition of pitting between Mo in the steel and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O               } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions in the solution is recognized."
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                413,
+                478,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From results of the surface analysis by X-ray photoelectron spectroscopy (ESCA), it is found that Mo(VI) ions in the passive film participate in the inhibition of the chloride pitting of austenitic stainless steel by alloyed Mo or added "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { M o O } _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions, or both."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                518,
+                480,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On the basis of these facts, it is reasonable to assume that the resistance against pitting of Mo-containing austenitic stainless steels in neutral halide solutions results from the inhibition of pit growth by the adsorption of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { M o O            _ { 4 } } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which is concentrated in pits at the initial stage of pitting."
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                572,
+                480,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgment"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                674,
+                22,
+                811,
+                35
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors are indebted to S. Soma of Tohoku University for his technical assistance throughout this work. Thanks are also due to Professor S. Ikeda and Dr. K. Kishi of Osaka University for the X-ray photoelectron spectroscopic analyses."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                37,
+                967,
+                88
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                698,
+                98,
+                786,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. J. M. Kolotyrkin. Corrosion, Vol. 19, p. 261 (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. N. Tomashov, G. Chernova, and O. Marcova. Corrosion, Vol. 20, p. 166t (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. V. Hospodaruk and J. V. Petrocelli. J. Electrochem. Soc., Vol. 113, p. 878 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. J. Horvath and H. H. Uhlig. J. Electrochem. Soc., Vol. 115, p. 791 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. A. P. Bond and E. A. Lizlovs. J. Electrochem. Soc., Vol. 115, p. 1130 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. P. Forchhammer and H. J. Engell. Werkst. u. Korr., Vol. 20, p. 1 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. R. J. Birgham. Corrosion, Vol. 28, p. 177 (1972)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. R. J. Brigham and E. W. Tozer. Corrosion, Vol. 29, p. 33 (1973)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. M. A. Streicher. J. Electrochem. Soc., Vol. 103, p. 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. H. H. Uhlig and J. Wulff. Trans. AIME, Vol. 135, p. 494 (1939)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. A. P. Bond. J. Electrochem. Soc., Vol. 120, p. 603 (1973)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. K. Sugimoto, K. Kishi, S. Ikeda, and Y. Sawada. Extended Abstracts of the 75th Meeting of the Japan Inst. Metals, p. 92 (1974)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. K. Sugimoto and Y. Sawada. Boshoku Gijutsu, Vol. 20, p. 264 (1971)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. T. Suzuki, M. Yamabe, and Y. Kitamura. Corrosion, Vol. 29, p. 18 (1973)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. K. Sugimoto, K. Kishi, S. Ikeda, and Y. Sawada. J. Japan Inst. Metals, Vol. 38, p. 54 (1974)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. M. Koenig and H. Goehr. Ber. Bunsenges. Phys. Chem., Vol. 67, p. 837 (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. L. L. Wikstrom and Ken Nobe. J. Electrochem. Soc., Vol. 116, p. 525 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Th. Heumann and G. Hauck. Z. Metallkde., Vol. 56, p. 75 (1965)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. E. Deltombe, N. De Zoubov and M. Pourbaix. Atlas of Electrochemical Equilibria in Aqueous Solutions, Ed. by M. Pourbaix, Pergamon Press, London, p. 272 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. H. P. Leckie and H. H. Uhlig. J. Electrochem. Soc., Vol. 113, p. 1261 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. W. E. Swartz, Jr. and D. M. Hercules. Anal. Chem., Vol. 43, p. 1774 (1971)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. K. Kishi and S. Ikeda. J. Phys. Chem., Vol. 78, p. 107 (1974)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                112,
+                892,
+                125
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "352"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                962,
+                65,
+                975
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION-NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                795,
+                962,
+                959,
+                977
+            ]
+        }
+    ]
+]

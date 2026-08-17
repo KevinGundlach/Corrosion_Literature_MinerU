@@ -1,0 +1,5177 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9755,
+                "bbox": [
+                    314,
+                    52,
+                    1199,
+                    160
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6621,
+                "bbox": [
+                    442,
+                    222,
+                    1073,
+                    295
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9223,
+                "bbox": [
+                    702,
+                    349,
+                    826,
+                    383
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.733,
+                "bbox": [
+                    1100,
+                    412,
+                    1175,
+                    439
+                ],
+                "index": 4,
+                "latex": "{ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }"
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9873,
+                "bbox": [
+                    248,
+                    408,
+                    1269,
+                    552
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6442,
+                "bbox": [
+                    51,
+                    870,
+                    91,
+                    900
+                ],
+                "index": 6,
+                "latex": "{ \\mathrm { a l } } , ^ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.989,
+                "bbox": [
+                    45,
+                    623,
+                    726,
+                    1012
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.989,
+                "bbox": [
+                    46,
+                    1010,
+                    726,
+                    1234
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.989,
+                "bbox": [
+                    45,
+                    1233,
+                    726,
+                    1512
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    46,
+                    1512,
+                    726,
+                    1709
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98,
+                "bbox": [
+                    46,
+                    1708,
+                    726,
+                    1795
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.929,
+                "bbox": [
+                    336,
+                    1816,
+                    499,
+                    1846
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.968,
+                "bbox": [
+                    48,
+                    1845,
+                    725,
+                    1904
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9637,
+                "bbox": [
+                    858,
+                    622,
+                    1397,
+                    682
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9863,
+                "bbox": [
+                    781,
+                    699,
+                    1465,
+                    922
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>Mn</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>Si</td><td rowspan=1 colspan=1>P</td><td rowspan=1 colspan=1>S</td><td rowspan=1 colspan=1>Cr</td><td rowspan=1 colspan=1>Ni</td><td rowspan=1 colspan=1>N</td></tr><tr><td rowspan=1 colspan=1>0.035.79.611.715.110.0</td><td rowspan=1 colspan=1>0.00750.01900.0130.0150.0015n.d.</td><td rowspan=1 colspan=1>0.230.270.570.230.500.50</td><td rowspan=1 colspan=1>0.0340.0290.0310.0300.0300.027</td><td rowspan=1 colspan=1>0.0140.0140.0140.0180.0180.017</td><td rowspan=1 colspan=1>17.217.417.617.617.617.5</td><td rowspan=1 colspan=1>5.515.475.525.485.445.69</td><td rowspan=1 colspan=1>0.0660.0610.0490.0650.0860.019</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9293,
+                "bbox": [
+                    781,
+                    935,
+                    1460,
+                    991
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9689,
+                "bbox": [
+                    783,
+                    1038,
+                    1464,
+                    1094
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9152,
+                "bbox": [
+                    1413,
+                    2064,
+                    1462,
+                    2093
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5034,
+                "bbox": [
+                    852,
+                    1230,
+                    939,
+                    1260
+                ],
+                "index": 19,
+                "latex": "0 . 8 ~ \\mathrm { c m } _ { \\circ } ^ { 2 } ."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    780,
+                    1094,
+                    1466,
+                    1288
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6476,
+                "bbox": [
+                    842,
+                    1316,
+                    918,
+                    1344
+                ],
+                "index": 21,
+                "latex": "\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773,
+                "bbox": [
+                    782,
+                    1287,
+                    1465,
+                    1371
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6357,
+                "bbox": [
+                    843,
+                    1483,
+                    904,
+                    1514
+                ],
+                "index": 23,
+                "latex": "( \\mathrm { E _ { n p } ^ { \\prime } } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    781,
+                    1371,
+                    1467,
+                    1593
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6131,
+                "bbox": [
+                    787,
+                    1540,
+                    827,
+                    1569
+                ],
+                "index": 25,
+                "latex": "{ \\bf ( i _ { p } ) }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5843,
+                "bbox": [
+                    1019,
+                    1512,
+                    1070,
+                    1542
+                ],
+                "index": 26,
+                "latex": "( \\mathbf { i } _ { \\mathbf { k } \\mathbf { p } } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6812,
+                "bbox": [
+                    1228,
+                    1483,
+                    1287,
+                    1513
+                ],
+                "index": 27,
+                "latex": "( { \\mathrm { E } } _ { \\mathbf { k p } } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    781,
+                    1594,
+                    1466,
+                    1706
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9245,
+                "bbox": [
+                    1080,
+                    1728,
+                    1172,
+                    1758
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7348,
+                "bbox": [
+                    783,
+                    1783,
+                    1012,
+                    1813
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835,
+                "bbox": [
+                    780,
+                    1813,
+                    1465,
+                    1923
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9806,
+                "bbox": [
+                    782,
+                    1922,
+                    1466,
+                    2004
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.949,
+                "bbox": [
+                    824,
+                    2004,
+                    1465,
+                    2033
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.914,
+                "bbox": [
+                    50,
+                    1947,
+                    448,
+                    1978
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.928,
+                "bbox": [
+                    51,
+                    1977,
+                    722,
+                    2034
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9273,
+                "bbox": [
+                    53,
+                    2066,
+                    350,
+                    2100
+                ],
+                "index": 36
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    316,
+                    55,
+                    1196,
+                    105
+                ],
+                "score": 0.999,
+                "text": "Susceptibility of Cr-Ni-Mn Stainless Steels to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    460,
+                    109,
+                    1050,
+                    160
+                ],
+                "score": 0.998,
+                "text": "Pitting in Chloride Solutions*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    445,
+                    225,
+                    1068,
+                    260
+                ],
+                "score": 0.997,
+                "text": "E. LUNARSKA, Z. SZKLARSKA-SMIALOWSKA, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    624,
+                    268,
+                    896,
+                    297
+                ],
+                "score": 0.996,
+                "text": "M. JANIK-CZACHOR*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    705,
+                    349,
+                    822,
+                    384
+                ],
+                "score": 1.0,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    256,
+                    411,
+                    1097,
+                    434
+                ],
+                "score": 0.984,
+                "text": "Anodic behavior of 18Cr-5Ni steels containing 0.03 to 15% Mn was studied in 0.1N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1179,
+                    416,
+                    1261,
+                    434
+                ],
+                "score": 1.0,
+                "text": "solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    439,
+                    1262,
+                    463
+                ],
+                "score": 0.99,
+                "text": "with additions of 0.01 to 0.1N NaCl. The presence of 5.7 to 15% Mn in those steels decreases their"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    469,
+                    1262,
+                    493
+                ],
+                "score": 0.995,
+                "text": "ability to passivate and their resistance to pitting. The most susceptible locations for pit nucleation are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    256,
+                    498,
+                    1263,
+                    519
+                ],
+                "score": 0.993,
+                "text": "boundaries between the austenite matrix and the carbide particles. The pitting resistance of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    524,
+                    1116,
+                    547
+                ],
+                "score": 0.987,
+                "text": "chromium-nickel-manganese steels is discussed with respect to their phase compositions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    626,
+                    720,
+                    648
+                ],
+                "score": 0.996,
+                "text": "Only a scarcity of information on the susceptibility of Cr-Ni-Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    652,
+                    720,
+                    678
+                ],
+                "score": 0.996,
+                "text": "stainless steels to pitting exists in the literature, and the few existing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    683,
+                    720,
+                    703
+                ],
+                "score": 0.994,
+                "text": "data are controversial. This is chiefly due to the fact that these steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    712,
+                    719,
+                    732
+                ],
+                "score": 0.994,
+                "text": "are extremely sensitive to the presence of minor components,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    738,
+                    721,
+                    761
+                ],
+                "score": 0.999,
+                "text": "particularly nitrogen. Researchers have not paid sufficient respect to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    763,
+                    721,
+                    789
+                ],
+                "score": 0.986,
+                "text": "this element. Thus, Murgulescu and Radovici¹ studied the anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    793,
+                    720,
+                    815
+                ],
+                "score": 0.987,
+                "text": "behavior of steels with 17 to 19% Cr, 5 to 7% Ni, and 4.4 to 7.7%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    821,
+                    721,
+                    843
+                ],
+                "score": 0.999,
+                "text": "Mn, and found a detrimental effect of increasing Mn content on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    850,
+                    720,
+                    870
+                ],
+                "score": 0.993,
+                "text": "ability of these steels to passivate. On the other hand, Knyazheva, et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    102,
+                    877,
+                    720,
+                    897
+                ],
+                "score": 0.992,
+                "text": "observed that addition of up to 10% Mn to 18%Cr-5%Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    905,
+                    719,
+                    925
+                ],
+                "score": 0.987,
+                "text": "steels does not affect the passive dissolution rate in sulfuric acid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    932,
+                    720,
+                    952
+                ],
+                "score": 0.998,
+                "text": "solutions, but increases the critical current density and the critical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    961,
+                    719,
+                    982
+                ],
+                "score": 0.993,
+                "text": "passivation potential. Unfortunately, in both papers, the nitrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    988,
+                    308,
+                    1008
+                ],
+                "score": 1.0,
+                "text": "content was not indicated."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1009,
+                    722,
+                    1038
+                ],
+                "score": 0.993,
+                "text": "Condylis, et al,³ compared the corrosion resistance of 304L and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1039,
+                    720,
+                    1065
+                ],
+                "score": 0.997,
+                "text": "316L austenitic stainless steels with that of substitutional 204L and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1068,
+                    721,
+                    1092
+                ],
+                "score": 0.993,
+                "text": "216L steels containing about 6% Ni, 10% Mn, and 0.2% N. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1097,
+                    719,
+                    1119
+                ],
+                "score": 0.991,
+                "text": "substitutional low-nickel steels behaved like the ordinary austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1125,
+                    721,
+                    1147
+                ],
+                "score": 0.996,
+                "text": "stainless steels in many solutions. The important exception was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1152,
+                    719,
+                    1177
+                ],
+                "score": 0.998,
+                "text": "nitric acid. In that solution, the manganese steels were less resistant."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1181,
+                    720,
+                    1203
+                ],
+                "score": 0.994,
+                "text": "In chloride solutions, the pitting resistance of Mn-containing steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1210,
+                    498,
+                    1230
+                ],
+                "score": 0.993,
+                "text": "was higher than that of 304L and 316L steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    1234,
+                    720,
+                    1258
+                ],
+                "score": 0.984,
+                "text": "According to Shams El Din, et al,4 who investigated the anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1264,
+                    721,
+                    1287
+                ],
+                "score": 0.988,
+                "text": "behavior of 17Cr-5Ni steels containing from 0.03 to 13.9% Mn, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1291,
+                    722,
+                    1314
+                ],
+                "score": 0.991,
+                "text": "corrosion behavior of the 17Cr-5Ni-5.6Mn alloy approaches that of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1318,
+                    721,
+                    1342
+                ],
+                "score": 0.986,
+                "text": "the 18Cr-8Ni steel. However, a further increase in the Mn content is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1347,
+                    720,
+                    1371
+                ],
+                "score": 0.985,
+                "text": "detrimental to both the corrosion resistance and ability to passivate."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1374,
+                    720,
+                    1398
+                ],
+                "score": 0.985,
+                "text": "In a subsequent paper,⁵ these authors argue that additions of Mn to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1402,
+                    721,
+                    1427
+                ],
+                "score": 0.993,
+                "text": "17Cr-5Ni alloys adversely affect their pitting resistance. On the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1429,
+                    722,
+                    1455
+                ],
+                "score": 0.997,
+                "text": "contrary, the experimental results of Troselius6 suggest that Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1457,
+                    720,
+                    1483
+                ],
+                "score": 0.985,
+                "text": "addition to Cr-Ni steels has a beneficial influence on the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1489,
+                    155,
+                    1510
+                ],
+                "score": 1.0,
+                "text": "resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    1515,
+                    720,
+                    1537
+                ],
+                "score": 0.992,
+                "text": "When considering the effect of Mn on the corrosion resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1545,
+                    720,
+                    1565
+                ],
+                "score": 0.984,
+                "text": "of stainless steels, it must be taken into account that the change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1572,
+                    720,
+                    1593
+                ],
+                "score": 0.978,
+                "text": "the chemical composition might be accompanied by a change in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1600,
+                    718,
+                    1621
+                ],
+                "score": 0.997,
+                "text": "phase composition of the alloy. This change could significantly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1627,
+                    720,
+                    1650
+                ],
+                "score": 0.999,
+                "text": "affect the mechanical and chemical properties. In this respect, minor"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1657,
+                    720,
+                    1678
+                ],
+                "score": 0.997,
+                "text": "elements and impurities (C,N,P) play a role as important as that of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1686,
+                    203,
+                    1706
+                ],
+                "score": 1.0,
+                "text": "Cr, Ni, and Mn."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    1712,
+                    722,
+                    1734
+                ],
+                "score": 0.992,
+                "text": "The purpose of the present work was to study the effect of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1740,
+                    721,
+                    1762
+                ],
+                "score": 0.988,
+                "text": "different additions of Mn to the 18Cr-5Ni alloy on the phase"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1769,
+                    659,
+                    1789
+                ],
+                "score": 1.0,
+                "text": "composition and susceptibility to pitting in chloride solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    341,
+                    1820,
+                    495,
+                    1847
+                ],
+                "score": 1.0,
+                "text": "Experimental"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    1851,
+                    719,
+                    1871
+                ],
+                "score": 0.999,
+                "text": "Alloys used for this study were kindly supplied by the Institute"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1876,
+                    720,
+                    1898
+                ],
+                "score": 0.993,
+                "text": "of Iron Metallurgy (Gliwice, Poland) in the form of hot forged rods,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    862,
+                    626,
+                    1392,
+                    650
+                ],
+                "score": 0.973,
+                "text": "TABLE 1 — Chemical Composition of 18Cr-5Ni-Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1009,
+                    652,
+                    1237,
+                    679
+                ],
+                "score": 1.0,
+                "text": "Stainless Steels(1)(%)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    813,
+                    969,
+                    960,
+                    988
+                ],
+                "score": 1.0,
+                "text": "Gliwice, Poland."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    936,
+                    1456,
+                    969
+                ],
+                "score": 0.989,
+                "text": "(1)Chemical analysis performed by the Institute of Iron Metallurgy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1043,
+                    1459,
+                    1065
+                ],
+                "score": 0.99,
+                "text": "18 mm in diameter. Compositions of these alloys are listed in Table"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1069,
+                    812,
+                    1093
+                ],
+                "score": 1.0,
+                "text": "1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1414,
+                    2065,
+                    1461,
+                    2098
+                ],
+                "score": 1.0,
+                "text": "231"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1098,
+                    1459,
+                    1119
+                ],
+                "score": 0.999,
+                "text": "The steels were tested both in the as-received and quenched"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1126,
+                    1460,
+                    1146
+                ],
+                "score": 0.977,
+                "text": "conditions. Quenching in water occurred after either (1) heating 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1153,
+                    1459,
+                    1174
+                ],
+                "score": 0.988,
+                "text": "hour in air at 1050 C, (2) heating 0.5 hour in air at 1050 C, or (3)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1181,
+                    1459,
+                    1201
+                ],
+                "score": 0.994,
+                "text": "heating 0.5 hour in air at 950 C. The specimens were cut from rods"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1209,
+                    1460,
+                    1230
+                ],
+                "score": 0.992,
+                "text": "and mounted in epoxy resin so that the exposed surface area was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1236,
+                    849,
+                    1258
+                ],
+                "score": 1.0,
+                "text": "about"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    940,
+                    1235,
+                    1460,
+                    1258
+                ],
+                "score": 0.993,
+                "text": "This surface was coarse-ground with silicon-carbide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1265,
+                    1261,
+                    1285
+                ],
+                "score": 0.996,
+                "text": "papers and then fine-ground with alumina paste."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1291,
+                    1461,
+                    1313
+                ],
+                "score": 0.989,
+                "text": "The electrochemical measurements were performed at 25 C in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    1317,
+                    841,
+                    1341
+                ],
+                "score": 1.0,
+                "text": "0.1N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    925,
+                    1318,
+                    1459,
+                    1341
+                ],
+                "score": 0.993,
+                "text": "with different additions of NaCl ranging from 0.01 to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    1344,
+                    847,
+                    1369
+                ],
+                "score": 1.0,
+                "text": "0.1N."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1374,
+                    1460,
+                    1397
+                ],
+                "score": 0.996,
+                "text": "To compare the pitting susceptibility with the ability to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1403,
+                    1460,
+                    1425
+                ],
+                "score": 0.994,
+                "text": "passivate, potentiokinetic polarization curves were measured, step"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1430,
+                    1460,
+                    1452
+                ],
+                "score": 0.988,
+                "text": "by step, using a rate of 50 mV per 30 seconds. This enabled the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1458,
+                    1461,
+                    1481
+                ],
+                "score": 0.993,
+                "text": "determination of the following parameters: potential of pit nuclea-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    1484,
+                    834,
+                    1510
+                ],
+                "score": 1.0,
+                "text": "tion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    905,
+                    1486,
+                    1216,
+                    1508
+                ],
+                "score": 0.983,
+                "text": ", critical passivation potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1288,
+                    1487,
+                    1460,
+                    1507
+                ],
+                "score": 0.997,
+                "text": ", critical current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1514,
+                    1018,
+                    1537
+                ],
+                "score": 1.0,
+                "text": "density for passivation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1071,
+                    1514,
+                    1460,
+                    1537
+                ],
+                "score": 0.991,
+                "text": ", and current density in the passive state"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    828,
+                    1541,
+                    1462,
+                    1565
+                ],
+                "score": 0.987,
+                "text": ". Those parameters are indicated in Figure 1 for the example of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1571,
+                    984,
+                    1591
+                ],
+                "score": 0.998,
+                "text": "steel with 5.7% Mn."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1596,
+                    1460,
+                    1620
+                ],
+                "score": 0.987,
+                "text": "Before and after exposure to the corrosive solution, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1625,
+                    1459,
+                    1647
+                ],
+                "score": 0.992,
+                "text": "specimens were examined by optical microscopy. Complementary"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1653,
+                    1459,
+                    1675
+                ],
+                "score": 0.988,
+                "text": "X-ray diffraction and electron microprobe analysis studies were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1680,
+                    900,
+                    1703
+                ],
+                "score": 1.0,
+                "text": "performed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1082,
+                    1730,
+                    1169,
+                    1759
+                ],
+                "score": 1.0,
+                "text": "Results"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1785,
+                    1006,
+                    1815
+                ],
+                "score": 1.0,
+                "text": "Phase Composition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    828,
+                    1816,
+                    1459,
+                    1838
+                ],
+                "score": 0.982,
+                "text": "In the as-received specimens of the 18Cr-5Ni-0.03Mn steel,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1845,
+                    1459,
+                    1867
+                ],
+                "score": 1.0,
+                "text": "metallographic examination revealed the presence of martensite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1872,
+                    1460,
+                    1893
+                ],
+                "score": 0.992,
+                "text": "with some inclusions of δ-ferrite. These mostly appeared at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1898,
+                    1205,
+                    1921
+                ],
+                "score": 0.998,
+                "text": "boundaries of the original austenite grains."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1925,
+                    1461,
+                    1947
+                ],
+                "score": 0.996,
+                "text": "As determined by X-ray analysis, the alloys with more than 5%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1953,
+                    1461,
+                    1974
+                ],
+                "score": 0.991,
+                "text": "Mn contained austenite and ferrite. No traces of σ-phase were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1979,
+                    882,
+                    2002
+                ],
+                "score": 1.0,
+                "text": "detected."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    2006,
+                    1460,
+                    2030
+                ],
+                "score": 0.997,
+                "text": "The electron microprobe analysis revealed some enrichment of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1949,
+                    443,
+                    1979
+                ],
+                "score": 0.993,
+                "text": "*Submitted for publication April, 1974."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1979,
+                    718,
+                    2005
+                ],
+                "score": 0.991,
+                "text": "*Institute of Physical Chemistry of the Polish Academy of Sciences,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    2007,
+                    365,
+                    2030
+                ],
+                "score": 0.988,
+                "text": "Warsaw, Kasprzaka 44, Poland."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    2068,
+                    345,
+                    2100
+                ],
+                "score": 0.991,
+                "text": "Vol. 31, No. 7, July, 1975"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1517,
+            "height": 2153
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9826,
+                "bbox": [
+                    50,
+                    45,
+                    725,
+                    495
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9679,
+                "bbox": [
+                    88,
+                    533,
+                    702,
+                    591
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9822,
+                "bbox": [
+                    56,
+                    643,
+                    729,
+                    1037
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9685,
+                "bbox": [
+                    87,
+                    1073,
+                    700,
+                    1130
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5977,
+                "bbox": [
+                    245,
+                    1183,
+                    279,
+                    1208
+                ],
+                "index": 5,
+                "latex": "\\mathrm { C r , }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9493,
+                "bbox": [
+                    53,
+                    1181,
+                    680,
+                    1210
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    52,
+                    1209,
+                    734,
+                    1349
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    53,
+                    1349,
+                    733,
+                    1434
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8907,
+                "bbox": [
+                    268,
+                    1405,
+                    362,
+                    1433
+                ],
+                "index": 9,
+                "latex": "\\mathbf { M e } _ { 2 3 } \\mathbf { C } _ { 6 } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    52,
+                    1433,
+                    735,
+                    1740
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9415,
+                "bbox": [
+                    55,
+                    1760,
+                    411,
+                    1790
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5894,
+                "bbox": [
+                    248,
+                    1818,
+                    517,
+                    1845
+                ],
+                "index": 12,
+                "latex": "0 . 1 \\mathrm { N } \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } + 0 . 0 1 \\mathrm { N } \\mathrm { N a C l }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873,
+                "bbox": [
+                    51,
+                    1792,
+                    735,
+                    2068
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9847,
+                "bbox": [
+                    801,
+                    50,
+                    1455,
+                    513
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9648,
+                "bbox": [
+                    825,
+                    546,
+                    1443,
+                    606
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9847,
+                "bbox": [
+                    806,
+                    638,
+                    1466,
+                    1366
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9686,
+                "bbox": [
+                    826,
+                    1402,
+                    1439,
+                    1460
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9313,
+                "bbox": [
+                    790,
+                    1514,
+                    1143,
+                    1543
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6716,
+                "bbox": [
+                    1006,
+                    1516,
+                    1130,
+                    1542
+                ],
+                "index": 19,
+                "latex": "0 . 1 \\mathrm { N } \\mathrm { H } _ { 2 } \\mathrm { S } 0 _ { 4 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7176,
+                "bbox": [
+                    955,
+                    1627,
+                    982,
+                    1655
+                ],
+                "index": 20,
+                "latex": "\\mathbf { i _ { p } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867,
+                "bbox": [
+                    787,
+                    1542,
+                    1472,
+                    1792
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7674,
+                "bbox": [
+                    1185,
+                    1656,
+                    1223,
+                    1685
+                ],
+                "index": 22,
+                "latex": "\\mathrm { i } _ { \\mathbf { k } \\mathbf { p } } ."
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7739,
+                "bbox": [
+                    1318,
+                    1571,
+                    1387,
+                    1601
+                ],
+                "index": 23,
+                "latex": "3 , \\mathrm { E } _ { \\mathrm { k p } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.684,
+                "bbox": [
+                    1354,
+                    1656,
+                    1402,
+                    1684
+                ],
+                "index": 24,
+                "latex": "{ \\mathrm { o f ~ i _ { p } ~ } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    787,
+                    1790,
+                    1473,
+                    1987
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8789,
+                "bbox": [
+                    1235,
+                    1845,
+                    1280,
+                    1877
+                ],
+                "index": 26,
+                "latex": "\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8602,
+                "bbox": [
+                    1158,
+                    1929,
+                    1202,
+                    1962
+                ],
+                "index": 27,
+                "latex": "\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9264,
+                "bbox": [
+                    788,
+                    2009,
+                    1304,
+                    2040
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9306,
+                "bbox": [
+                    828,
+                    2041,
+                    1470,
+                    2070
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9158,
+                "bbox": [
+                    55,
+                    2100,
+                    105,
+                    2129
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.937,
+                "bbox": [
+                    1214,
+                    2102,
+                    1467,
+                    2133
+                ],
+                "index": 31
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    534,
+                    698,
+                    560
+                ],
+                "score": 0.986,
+                "text": "FIGURE 1 - Effect of heat treatment on the anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    95,
+                    566,
+                    540,
+                    586
+                ],
+                "score": 0.99,
+                "text": "polarization curves of 18 Cr-5 Ni-10 Mn steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    1075,
+                    696,
+                    1102
+                ],
+                "score": 0.983,
+                "text": "FIGURE 2 - Anodic polarization curves of 18Cr-5Ni steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    94,
+                    1105,
+                    395,
+                    1125
+                ],
+                "score": 0.999,
+                "text": "with different additions of Mn."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1185,
+                    244,
+                    1209
+                ],
+                "score": 0.987,
+                "text": "the ferrite phase in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    280,
+                    1185,
+                    675,
+                    1209
+                ],
+                "score": 0.999,
+                "text": "with impoverishment in Fe, Ni, and Mn."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1213,
+                    727,
+                    1235
+                ],
+                "score": 0.997,
+                "text": "The amount of δ-phase depended upon the steel composition."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1241,
+                    728,
+                    1262
+                ],
+                "score": 1.0,
+                "text": "The higher the Mn content was and the lower the C and the N"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1271,
+                    727,
+                    1289
+                ],
+                "score": 0.995,
+                "text": "contents were, the greater the amount of δ-phase present. However,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1297,
+                    729,
+                    1318
+                ],
+                "score": 0.991,
+                "text": "heat-to-heat variations also very likely influenced the phase compo-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1325,
+                    439,
+                    1347
+                ],
+                "score": 0.993,
+                "text": "sition of the alloys under investigation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    1351,
+                    728,
+                    1375
+                ],
+                "score": 0.994,
+                "text": "In all specimens, small particles of a foreign phase were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1379,
+                    728,
+                    1401
+                ],
+                "score": 0.997,
+                "text": "detected. They were identified by electron probe analysis as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1410,
+                    264,
+                    1430
+                ],
+                "score": 0.999,
+                "text": "carbides (presumably"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    101,
+                    1436,
+                    728,
+                    1458
+                ],
+                "score": 0.992,
+                "text": "Quenching did not essentially change the phase composition,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1465,
+                    728,
+                    1485
+                ],
+                "score": 0.995,
+                "text": "but it affected the grain morphology and homogeneity. Thus, a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1494,
+                    728,
+                    1513
+                ],
+                "score": 0.998,
+                "text": "longer duration and a higher annealing temperature before quench-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1520,
+                    729,
+                    1542
+                ],
+                "score": 0.997,
+                "text": "ing induced homogenization of both the δ and γ-phases, and a slight"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1549,
+                    726,
+                    1569
+                ],
+                "score": 0.992,
+                "text": "increase in size of the δ-grains, whose shape became more nearly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1577,
+                    728,
+                    1596
+                ],
+                "score": 0.988,
+                "text": "round. Moreover, the tendency of δ-grains and of grain boundaries"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1603,
+                    728,
+                    1626
+                ],
+                "score": 0.997,
+                "text": "to be attacked by etchants decreased significantly after quenching."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1632,
+                    730,
+                    1654
+                ],
+                "score": 1.0,
+                "text": "This was accompanied by an increase in the ability to passivate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1659,
+                    730,
+                    1681
+                ],
+                "score": 0.996,
+                "text": "(Figure 2). Therefore, most of the electrochemical and corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1688,
+                    731,
+                    1708
+                ],
+                "score": 0.991,
+                "text": "experiments were performed on specimens quenched after 1 hour of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1715,
+                    241,
+                    1735
+                ],
+                "score": 0.982,
+                "text": "heating at 1050 C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1763,
+                    404,
+                    1789
+                ],
+                "score": 1.0,
+                "text": "Electrochemical Measurements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1794,
+                    730,
+                    1816
+                ],
+                "score": 0.999,
+                "text": "Some examples of anodic polarization curves measured on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    61,
+                    1822,
+                    243,
+                    1843
+                ],
+                "score": 0.991,
+                "text": "quenched steels in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    521,
+                    1823,
+                    728,
+                    1844
+                ],
+                "score": 0.992,
+                "text": "are given in Figure 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1848,
+                    730,
+                    1872
+                ],
+                "score": 0.989,
+                "text": "There are only slight differences between the shapes of the curves"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1875,
+                    730,
+                    1900
+                ],
+                "score": 0.991,
+                "text": "for ferritic-austenitic steels containing from 5.7 to 15% Mn, whereas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1903,
+                    729,
+                    1926
+                ],
+                "score": 0.983,
+                "text": "the curve for the martensitic-ferritic steel with 0.03% Mn is quite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1930,
+                    729,
+                    1955
+                ],
+                "score": 0.983,
+                "text": "different. This steel is passive in the above medium, so there is no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1958,
+                    729,
+                    1982
+                ],
+                "score": 0.983,
+                "text": "range of an active metal dissolution, and the current density within"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1985,
+                    729,
+                    2009
+                ],
+                "score": 0.993,
+                "text": "the passive region is significantly lower than that for the other"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    2012,
+                    729,
+                    2037
+                ],
+                "score": 0.999,
+                "text": "steels. Differences also occur within the transpassive region. These"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    2040,
+                    726,
+                    2063
+                ],
+                "score": 0.995,
+                "text": "differences occurred in all the solutions used, i.e., containing from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    833,
+                    582,
+                    926,
+                    600
+                ],
+                "score": 1.0,
+                "text": "potential."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    833,
+                    553,
+                    1437,
+                    574
+                ],
+                "score": 0.981,
+                "text": "FIGURE 3 — Effect of Mn content on critical passivation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    833,
+                    1404,
+                    1434,
+                    1431
+                ],
+                "score": 0.982,
+                "text": "FIGURE 4 - Effect of Mn content on current density in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1437,
+                    959,
+                    1457
+                ],
+                "score": 1.0,
+                "text": "passive state."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    1518,
+                    1003,
+                    1540
+                ],
+                "score": 0.999,
+                "text": "0.01 to 0.1N NaCl in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    835,
+                    1544,
+                    1467,
+                    1570
+                ],
+                "score": 0.999,
+                "text": "Plots characterizing the ability of the steels to passivate are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1571,
+                    1317,
+                    1596
+                ],
+                "score": 0.986,
+                "text": "summarized in Figures 3 and 4. According to Figure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1390,
+                    1576,
+                    1468,
+                    1596
+                ],
+                "score": 1.0,
+                "text": "shows a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1600,
+                    1465,
+                    1623
+                ],
+                "score": 0.999,
+                "text": "tendency to increase with the Mn content in the range from 5.7 to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1626,
+                    954,
+                    1652
+                ],
+                "score": 0.996,
+                "text": "15%. Similarly,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    983,
+                    1626,
+                    1466,
+                    1652
+                ],
+                "score": 0.997,
+                "text": "increased with the percentage of Mn (Figure 4),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1655,
+                    1184,
+                    1680
+                ],
+                "score": 0.99,
+                "text": "and such a tendency was also found for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1224,
+                    1655,
+                    1353,
+                    1680
+                ],
+                "score": 1.0,
+                "text": "Comparison"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1404,
+                    1658,
+                    1467,
+                    1679
+                ],
+                "score": 1.0,
+                "text": "values"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1682,
+                    1466,
+                    1707
+                ],
+                "score": 0.985,
+                "text": "observed for specimens in the as-received condition with those in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1711,
+                    1466,
+                    1737
+                ],
+                "score": 1.0,
+                "text": "the quenched condition (Figure 4) shows again that heat treatment"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    793,
+                    1738,
+                    1463,
+                    1764
+                ],
+                "score": 0.988,
+                "text": "considerably improves the ability of the steels to anodically"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1768,
+                    889,
+                    1789
+                ],
+                "score": 1.0,
+                "text": "passivate."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    836,
+                    1792,
+                    1466,
+                    1816
+                ],
+                "score": 0.995,
+                "text": "The results in Figure 5 show that an increase in the Mn content"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1818,
+                    1467,
+                    1845
+                ],
+                "score": 0.999,
+                "text": "from 0.03 to 5.7% has a detrimental effect on the propensity of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1846,
+                    1229,
+                    1873
+                ],
+                "score": 1.0,
+                "text": "these steels to pitting. Within this range,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1285,
+                    1849,
+                    1465,
+                    1872
+                ],
+                "score": 0.997,
+                "text": "manifests a sharp"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1875,
+                    1466,
+                    1900
+                ],
+                "score": 0.999,
+                "text": "decrease, while a further addition of Mn to the alloy does not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1902,
+                    1467,
+                    1929
+                ],
+                "score": 0.996,
+                "text": "significantly affect that value. The heat treatment does not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1931,
+                    1157,
+                    1957
+                ],
+                "score": 0.989,
+                "text": "significantly influence the value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1203,
+                    1931,
+                    1465,
+                    1957
+                ],
+                "score": 0.982,
+                "text": ", which is almost identical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1958,
+                    1183,
+                    1983
+                ],
+                "score": 0.996,
+                "text": "for the as-received and quenched steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    2010,
+                    1297,
+                    2041
+                ],
+                "score": 0.999,
+                "text": "Metallographic Examination After Corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    835,
+                    2040,
+                    1466,
+                    2069
+                ],
+                "score": 0.994,
+                "text": "In the as-received condition, i.e., hot forged steels, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    2100,
+                    103,
+                    2137
+                ],
+                "score": 1.0,
+                "text": "232"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1217,
+                    2108,
+                    1464,
+                    2134
+                ],
+                "score": 0.994,
+                "text": "CORROSION-NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1521,
+            "height": 2184
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9751,
+                "bbox": [
+                    57,
+                    48,
+                    711,
+                    971
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9472,
+                "bbox": [
+                    82,
+                    996,
+                    691,
+                    1056
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9789,
+                "bbox": [
+                    167,
+                    1109,
+                    604,
+                    1569
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9579,
+                "bbox": [
+                    79,
+                    1610,
+                    688,
+                    1667
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    43,
+                    1709,
+                    721,
+                    1985
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9758,
+                "bbox": [
+                    43,
+                    1984,
+                    721,
+                    2069
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9839,
+                "bbox": [
+                    900,
+                    56,
+                    1353,
+                    526
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9632,
+                "bbox": [
+                    817,
+                    566,
+                    1430,
+                    623
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.987,
+                "bbox": [
+                    789,
+                    677,
+                    1458,
+                    1142
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.962,
+                "bbox": [
+                    812,
+                    1174,
+                    1426,
+                    1259
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801,
+                "bbox": [
+                    777,
+                    1292,
+                    1461,
+                    1406
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9385,
+                "bbox": [
+                    47,
+                    2100,
+                    345,
+                    2134
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9313,
+                "bbox": [
+                    1055,
+                    1428,
+                    1183,
+                    1458
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    776,
+                    1458,
+                    1460,
+                    1627
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    773,
+                    1626,
+                    1458,
+                    1903
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829,
+                "bbox": [
+                    773,
+                    1902,
+                    1456,
+                    2012
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9677,
+                "bbox": [
+                    774,
+                    2011,
+                    1456,
+                    2069
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9095,
+                "bbox": [
+                    1400,
+                    2102,
+                    1452,
+                    2131
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    999,
+                    688,
+                    1023
+                ],
+                "score": 0.982,
+                "text": "FIGURE 5 - Effect of Mn content on potential of pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    87,
+                    1029,
+                    196,
+                    1050
+                ],
+                "score": 1.0,
+                "text": "nucleation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    84,
+                    1612,
+                    684,
+                    1639
+                ],
+                "score": 0.979,
+                "text": "FIGURE 6 - Typical micrograph of forged steel after"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    86,
+                    1642,
+                    256,
+                    1663
+                ],
+                "score": 0.995,
+                "text": "corrosion. 1600X"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1713,
+                    715,
+                    1735
+                ],
+                "score": 0.998,
+                "text": "formation of pits was accompanied by etching of both the δ-ferrite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1742,
+                    714,
+                    1762
+                ],
+                "score": 0.997,
+                "text": "grains and grain boundaries (Figure 6). The pits predominantly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1770,
+                    716,
+                    1789
+                ],
+                "score": 0.995,
+                "text": "formed at the boundaries between γ and δ phases, which both were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1797,
+                    715,
+                    1817
+                ],
+                "score": 0.997,
+                "text": "attacked during the further pit development. On the contrary, in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    50,
+                    1824,
+                    716,
+                    1845
+                ],
+                "score": 0.981,
+                "text": "quenched steels, no etching of the γ-δ boundaries was observed, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1852,
+                    716,
+                    1874
+                ],
+                "score": 0.999,
+                "text": "no pits formed at them. There were some indications suggesting that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1880,
+                    715,
+                    1900
+                ],
+                "score": 1.0,
+                "text": "the pit nucleation occurred at boundaires between the γ-phase and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1907,
+                    715,
+                    1926
+                ],
+                "score": 0.994,
+                "text": "carbide particles. Quite often, pits were observed at sites where"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    50,
+                    1933,
+                    715,
+                    1955
+                ],
+                "score": 0.996,
+                "text": "inclusions of the δ-phase were rather rare, and at large accumulation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1961,
+                    496,
+                    1983
+                ],
+                "score": 0.988,
+                "text": "of this phase, pitting did not occur (Figure 7)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    1988,
+                    715,
+                    2010
+                ],
+                "score": 0.998,
+                "text": "In the quenched steels, the δ-phase is very resistant against"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    2015,
+                    715,
+                    2037
+                ],
+                "score": 0.981,
+                "text": "pitting and does not undergo any dissolution during pit growth"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    2042,
+                    714,
+                    2064
+                ],
+                "score": 0.996,
+                "text": "(Figure 8). This conclusion is valid for all the steels investigated,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    568,
+                    1426,
+                    595
+                ],
+                "score": 0.984,
+                "text": "FiGURE 7 — Typical micrograph of quenched steel after"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    599,
+                    997,
+                    618
+                ],
+                "score": 0.995,
+                "text": "corrosion. 1600X"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1176,
+                    1422,
+                    1202
+                ],
+                "score": 0.98,
+                "text": "FIGURE 8 — Pit growth in quenched austenitic-ferritic steel,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    818,
+                    1206,
+                    1422,
+                    1229
+                ],
+                "score": 0.987,
+                "text": "γ-phase undergoes corrosion, whereas δ-phase remains un-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1235,
+                    911,
+                    1255
+                ],
+                "score": 0.962,
+                "text": "attacked."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1295,
+                    1456,
+                    1319
+                ],
+                "score": 0.996,
+                "text": "irrespective of their Mn content. It should also be pointed out that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1322,
+                    1456,
+                    1347
+                ],
+                "score": 0.992,
+                "text": "in the case of steel with 0.03% Mn, the austenite degradation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1351,
+                    1455,
+                    1375
+                ],
+                "score": 0.988,
+                "text": "products do not play any part in stimulating the pit nucleation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1381,
+                    865,
+                    1403
+                ],
+                "score": 1.0,
+                "text": "process."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    50,
+                    2101,
+                    342,
+                    2135
+                ],
+                "score": 0.994,
+                "text": "Vol. 31, No. 7, July, 1975"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1058,
+                    1430,
+                    1179,
+                    1460
+                ],
+                "score": 1.0,
+                "text": "Discussion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    1461,
+                    1454,
+                    1486
+                ],
+                "score": 0.997,
+                "text": "Our results show that the presence of 5.7 to 15% Mn in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    1489,
+                    1454,
+                    1513
+                ],
+                "score": 0.988,
+                "text": "18Cr-5Ni steels adversely affects their ability tò passivate and their"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1518,
+                    1453,
+                    1541
+                ],
+                "score": 0.99,
+                "text": "resistance to pitting (Figures 3-5). This harmful effect increases with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1547,
+                    1454,
+                    1570
+                ],
+                "score": 0.997,
+                "text": "increasing Cl concentration in the electrolyte. The effect is greater"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1575,
+                    1453,
+                    1598
+                ],
+                "score": 0.999,
+                "text": "for steels in the as-received condition, i.e., hot forged steels, than in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1603,
+                    942,
+                    1624
+                ],
+                "score": 0.972,
+                "text": "quenched steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    1628,
+                    1453,
+                    1653
+                ],
+                "score": 0.993,
+                "text": "A decrease of the corrosion resistance of 18Cr-5Ni-Mn steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1656,
+                    1452,
+                    1679
+                ],
+                "score": 0.992,
+                "text": "relative to the 18Cr-8Ni austenitic stainless steels cannot be ascribed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    781,
+                    1683,
+                    1452,
+                    1708
+                ],
+                "score": 0.995,
+                "text": "to the presence of the δ-phase (δ-ferrite) in the alloys under"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1711,
+                    1451,
+                    1734
+                ],
+                "score": 0.995,
+                "text": "investigation. This conclusion is based on the following arguments:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1740,
+                    1452,
+                    1762
+                ],
+                "score": 0.987,
+                "text": "(1) the relatively high corrosion resistance and ease of passivation of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1766,
+                    1451,
+                    1790
+                ],
+                "score": 0.999,
+                "text": "the martensitic-ferritic steel, (2) the corrosion immunity of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    781,
+                    1794,
+                    1451,
+                    1818
+                ],
+                "score": 0.998,
+                "text": "δ-phase in quenched alloys, and (3) the similar shapes of the anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1822,
+                    1451,
+                    1845
+                ],
+                "score": 0.999,
+                "text": "polarization curves for quenched alloys containing 9.6% Mn and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1850,
+                    1451,
+                    1872
+                ],
+                "score": 0.995,
+                "text": "10% Mn, despite their different phase compositions. The 10% Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1877,
+                    1343,
+                    1899
+                ],
+                "score": 0.998,
+                "text": "alloy contained much more δ-ferrite than the other alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    823,
+                    1905,
+                    1452,
+                    1927
+                ],
+                "score": 0.997,
+                "text": "Suggestion can be made that in ternary Cr-Ni-Mn alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    781,
+                    1932,
+                    1452,
+                    1955
+                ],
+                "score": 0.999,
+                "text": "compared with ordinary Cr-Ni stainless steels, the austenite has a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    781,
+                    1961,
+                    1451,
+                    1982
+                ],
+                "score": 0.988,
+                "text": "lower ability to be passivated anodically in chloride solutions, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    781,
+                    1987,
+                    1046,
+                    2009
+                ],
+                "score": 0.991,
+                "text": "forms weaker passive films."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    822,
+                    2013,
+                    1450,
+                    2038
+                ],
+                "score": 0.988,
+                "text": "As revealed by metallographic examination, the most suscep-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    2042,
+                    1450,
+                    2065
+                ],
+                "score": 0.991,
+                "text": "tible locations for pit nucleation in quenched steels are the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1401,
+                    2102,
+                    1451,
+                    2135
+                ],
+                "score": 1.0,
+                "text": "233"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1510,
+            "height": 2189
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8465,
+                "bbox": [
+                    596,
+                    51,
+                    640,
+                    83
+                ],
+                "index": 1,
+                "latex": "\\mathrm { E } _ { \\mathrm { n p } } ^ { \\prime }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    48,
+                    51,
+                    733,
+                    305
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.924,
+                "bbox": [
+                    317,
+                    329,
+                    464,
+                    357
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9506,
+                "bbox": [
+                    50,
+                    360,
+                    730,
+                    416
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9652,
+                "bbox": [
+                    49,
+                    416,
+                    731,
+                    500
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8796,
+                "bbox": [
+                    91,
+                    501,
+                    731,
+                    530
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9058,
+                "bbox": [
+                    793,
+                    50,
+                    1009,
+                    81
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8897,
+                "bbox": [
+                    1066,
+                    105,
+                    1199,
+                    134
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9691,
+                "bbox": [
+                    795,
+                    136,
+                    1471,
+                    190
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9733,
+                "bbox": [
+                    795,
+                    193,
+                    1470,
+                    248
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9708,
+                "bbox": [
+                    795,
+                    250,
+                    1470,
+                    303
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9777,
+                "bbox": [
+                    794,
+                    307,
+                    1472,
+                    387
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9713,
+                "bbox": [
+                    793,
+                    391,
+                    1470,
+                    444
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9473,
+                "bbox": [
+                    794,
+                    446,
+                    1338,
+                    474
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9706,
+                "bbox": [
+                    794,
+                    476,
+                    1469,
+                    529
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9732,
+                "bbox": [
+                    342,
+                    614,
+                    1188,
+                    722
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9263,
+                "bbox": [
+                    484,
+                    784,
+                    1042,
+                    817
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9156,
+                "bbox": [
+                    702,
+                    909,
+                    823,
+                    943
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9895,
+                "bbox": [
+                    250,
+                    971,
+                    1274,
+                    1171
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6346,
+                "bbox": [
+                    370,
+                    1296,
+                    427,
+                    1324
+                ],
+                "index": 20,
+                "latex": "\\mathrm { T i O } _ { 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887,
+                "bbox": [
+                    50,
+                    1211,
+                    736,
+                    1603
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5283,
+                "bbox": [
+                    383,
+                    1685,
+                    418,
+                    1712
+                ],
+                "index": 22,
+                "latex": "{ \\mathrm { T i } } ,"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    51,
+                    1602,
+                    735,
+                    1910
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9674,
+                "bbox": [
+                    788,
+                    1212,
+                    1472,
+                    1269
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9332,
+                "bbox": [
+                    991,
+                    1293,
+                    1271,
+                    1323
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    787,
+                    1324,
+                    1474,
+                    1522
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    788,
+                    1522,
+                    1475,
+                    2021
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7697,
+                "bbox": [
+                    1040,
+                    1910,
+                    1077,
+                    1940
+                ],
+                "index": 28,
+                "latex": "( \\mathrm { I } _ { \\mathbf { g } } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7808,
+                "bbox": [
+                    1121,
+                    1881,
+                    1158,
+                    1913
+                ],
+                "index": 29,
+                "latex": "\\overline { { ( \\mathrm { i } _ { \\mathrm { g } } } } )"
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9122,
+                "bbox": [
+                    64,
+                    1941,
+                    517,
+                    1971
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9095,
+                "bbox": [
+                    60,
+                    1971,
+                    731,
+                    2027
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9247,
+                "bbox": [
+                    55,
+                    2025,
+                    730,
+                    2081
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9331,
+                "bbox": [
+                    997,
+                    2024,
+                    1261,
+                    2053
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.942,
+                "bbox": [
+                    828,
+                    2054,
+                    1470,
+                    2083
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9018,
+                "bbox": [
+                    54,
+                    2119,
+                    105,
+                    2147
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.927,
+                "bbox": [
+                    1214,
+                    2118,
+                    1466,
+                    2148
+                ],
+                "index": 36
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    54,
+                    595,
+                    77
+                ],
+                "score": 0.986,
+                "text": "boundaries between the γ-phase and carbide particles."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    641,
+                    55,
+                    726,
+                    76
+                ],
+                "score": 1.0,
+                "text": "is nearly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    83,
+                    729,
+                    107
+                ],
+                "score": 0.986,
+                "text": "equal for both the hot-forged and quenched alloys. This suggests"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    111,
+                    728,
+                    133
+                ],
+                "score": 1.0,
+                "text": "that in both cases the most susceptible locations for pit nucleation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    139,
+                    728,
+                    162
+                ],
+                "score": 1.0,
+                "text": "are the same. In hot forged steels, fine carbide precipitations were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    167,
+                    729,
+                    189
+                ],
+                "score": 0.986,
+                "text": "observed at γ-δ-boundaries, as well as within the δ-phase itself"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    195,
+                    728,
+                    218
+                ],
+                "score": 0.991,
+                "text": "(Figure 7). These precipitates form during hot forging or slow"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    224,
+                    727,
+                    244
+                ],
+                "score": 0.993,
+                "text": "cooling as a result of the δ-phase degradation. The relatively higher"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    250,
+                    725,
+                    274
+                ],
+                "score": 0.992,
+                "text": "corrosiveness of the δ-phase in the as-received alloys was most likely"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    281,
+                    379,
+                    301
+                ],
+                "score": 1.0,
+                "text": "due to those carbide precipitates."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    322,
+                    331,
+                    459,
+                    358
+                ],
+                "score": 1.0,
+                "text": "Conclusions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    363,
+                    728,
+                    385
+                ],
+                "score": 0.993,
+                "text": "1. Addition of 5.7 to 15% Mn to 18Cr-5Ni steels diminishes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    392,
+                    631,
+                    414
+                ],
+                "score": 0.99,
+                "text": "their ability to be passivated and their resistance to pitting."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    97,
+                    420,
+                    728,
+                    442
+                ],
+                "score": 0.991,
+                "text": "2. The most susceptible locations for pit nucleation in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    448,
+                    727,
+                    469
+                ],
+                "score": 0.998,
+                "text": "quenched steels are the boundaries between the γ-phase and carbide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    477,
+                    145,
+                    499
+                ],
+                "score": 1.0,
+                "text": "particles."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    96,
+                    503,
+                    728,
+                    527
+                ],
+                "score": 0.998,
+                "text": "3. The presence of the δ-phase in the steels does not affect"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    798,
+                    55,
+                    1006,
+                    77
+                ],
+                "score": 0.995,
+                "text": "pitting susceptibility."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1070,
+                    104,
+                    1196,
+                    138
+                ],
+                "score": 1.0,
+                "text": "References"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    136,
+                    1470,
+                    165
+                ],
+                "score": 0.998,
+                "text": "1. J. G. Murgulescu and O. Radovici. Z. Phys. Chem., Vol. 214, p."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    164,
+                    948,
+                    190
+                ],
+                "score": 1.0,
+                "text": "288 (1960)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    193,
+                    1470,
+                    221
+                ],
+                "score": 0.999,
+                "text": "2. V. M. Knyazheva, M. A. Vedeneeva, S. Esseldin-Halil, and Ya."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    222,
+                    1371,
+                    249
+                ],
+                "score": 0.994,
+                "text": "Kolotyrkin. Zashchita Metallov., Vol. 1, p. 465 (1965)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    250,
+                    1469,
+                    278
+                ],
+                "score": 0.99,
+                "text": "3. A. Condylis, F. Bayon, and A. Desestret. Rev. Metallurgie, Vol."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    280,
+                    989,
+                    303
+                ],
+                "score": 0.966,
+                "text": "67, (1970) May."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    306,
+                    1470,
+                    334
+                ],
+                "score": 0.984,
+                "text": "4. A. M. Shams El Din, M. M. Badran, and S. E. Khalil."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    363,
+                    1046,
+                    388
+                ],
+                "score": 0.996,
+                "text": "Vol. 24, p. 23 (1973)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    336,
+                    1470,
+                    361
+                ],
+                "score": 0.991,
+                "text": "Werkst.u.Korros., Vol. 23, p. 576 (1972); and Werkst.u.Korros.,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    390,
+                    1468,
+                    418
+                ],
+                "score": 0.985,
+                "text": "5. A. M. Shams El Din, M. M. Badran, and S. E. Khalil."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    826,
+                    419,
+                    1237,
+                    444
+                ],
+                "score": 0.995,
+                "text": "Werkst.u.Korros., Vol. 24, p. 290 (1973)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    447,
+                    1336,
+                    474
+                ],
+                "score": 0.99,
+                "text": "6. L. Troselius. Corrosion Sci., Vol. 11, p. 473 (1971)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    475,
+                    1470,
+                    503
+                ],
+                "score": 0.989,
+                "text": "7. O. A. Bannykh. Metallovedenie i Termicheskaya Obrabotka"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    826,
+                    504,
+                    1116,
+                    528
+                ],
+                "score": 0.981,
+                "text": "Metallov., No. 4, p. 6 (1964)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    406,
+                    615,
+                    1129,
+                    666
+                ],
+                "score": 0.993,
+                "text": "Effect of Plating Current Density on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    341,
+                    671,
+                    1185,
+                    720
+                ],
+                "score": 0.991,
+                "text": "Properties of Titanium-Cadmium Deposit*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    488,
+                    789,
+                    1039,
+                    814
+                ],
+                "score": 0.995,
+                "text": "DAN ALTURA* and FLORIAN MANSFELD**"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    704,
+                    909,
+                    821,
+                    945
+                ],
+                "score": 1.0,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    259,
+                    976,
+                    1268,
+                    996
+                ],
+                "score": 0.992,
+                "text": "Titanium-cadmium plating was evaluated at various plating current densities which may be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    257,
+                    1004,
+                    1267,
+                    1024
+                ],
+                "score": 0.99,
+                "text": "encountered in industrial practice. Both high and low current densities resulted in increased hydrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    259,
+                    1035,
+                    1267,
+                    1051
+                ],
+                "score": 0.991,
+                "text": "embrittlement tendency over the optimal plating condition. Deleting the current strike had no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    260,
+                    1063,
+                    1267,
+                    1079
+                ],
+                "score": 0.997,
+                "text": "noticeable effect on embrittlement behavior. Salt spray testing indicated that gross corrosion behavior"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    259,
+                    1089,
+                    1268,
+                    1108
+                ],
+                "score": 0.99,
+                "text": "was independent of plating current density. The corrosion behavior of cadmium-plated steel coupled"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    257,
+                    1118,
+                    1265,
+                    1138
+                ],
+                "score": 0.993,
+                "text": "to aluminum alloys was both a function of plating current density and the type of aluminum alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    257,
+                    1146,
+                    994,
+                    1166
+                ],
+                "score": 0.991,
+                "text": "used. Plate microstructure was a strong function of plating current density."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    1215,
+                    727,
+                    1236
+                ],
+                "score": 0.995,
+                "text": "The addition of titanium compounds to a cadmium-cyanide plating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1242,
+                    729,
+                    1266
+                ],
+                "score": 0.997,
+                "text": "bath was originally suggested as a means of improving the corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1269,
+                    731,
+                    1292
+                ],
+                "score": 0.999,
+                "text": "resistance of the resultant cadmium plate. Subsequently it was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1299,
+                    369,
+                    1320
+                ],
+                "score": 0.988,
+                "text": "discovered that the addition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    433,
+                    1298,
+                    729,
+                    1319
+                ],
+                "score": 0.991,
+                "text": "(pertitanate) to the cadmium-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1327,
+                    729,
+                    1349
+                ],
+                "score": 0.999,
+                "text": "cyanide bath significantly reduces the amount of hydrogen absorbed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1382,
+                    729,
+                    1405
+                ],
+                "score": 0.992,
+                "text": "codeposition of titanium with the cadmium, resulting in a change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1412,
+                    730,
+                    1433
+                ],
+                "score": 0.99,
+                "text": "the structure of the deposit which guards against the entry of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    367,
+                    1439,
+                    730,
+                    1462
+                ],
+                "score": 0.999,
+                "text": "In order to further reduce the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1469,
+                    729,
+                    1489
+                ],
+                "score": 0.998,
+                "text": "embrittling tendency of this cyanide bath, the use of organic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1497,
+                    726,
+                    1518
+                ],
+                "score": 0.992,
+                "text": "brighteners has been eliminated. The lower embrittlement tendency"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1525,
+                    728,
+                    1545
+                ],
+                "score": 0.991,
+                "text": "of the titanium-cadmium (Ti-Cd) plating bath has made it an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1552,
+                    730,
+                    1572
+                ],
+                "score": 0.993,
+                "text": "effective replacement for the bright cyanide bath in the plating of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1580,
+                    252,
+                    1601
+                ],
+                "score": 1.0,
+                "text": "high-strength steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1433,
+                    382,
+                    1466
+                ],
+                "score": 0.997,
+                "text": "hydrogen into the steel.3,5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1606,
+                    730,
+                    1628
+                ],
+                "score": 0.997,
+                "text": "Optimal operation of the Ti-Cd plating bath requires tight"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1634,
+                    729,
+                    1654
+                ],
+                "score": 0.992,
+                "text": "control of plating bath parameters. Chemical composition of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1662,
+                    729,
+                    1681
+                ],
+                "score": 0.997,
+                "text": "bath is controlled through periodic chemical analysis of such"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    1689,
+                    382,
+                    1709
+                ],
+                "score": 1.0,
+                "text": "important bath constituents as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    425,
+                    1689,
+                    729,
+                    1709
+                ],
+                "score": 0.997,
+                "text": "Cd, and cyanide. One plating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1716,
+                    730,
+                    1738
+                ],
+                "score": 0.996,
+                "text": "parameter which is difficult to control effectively and can some-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1745,
+                    729,
+                    1765
+                ],
+                "score": 0.995,
+                "text": "times fall outside the optimal range is local plating current density."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1772,
+                    729,
+                    1794
+                ],
+                "score": 0.996,
+                "text": "The plating current density at edges or other projections can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1799,
+                    729,
+                    1821
+                ],
+                "score": 0.997,
+                "text": "significantly greater than the nominal value, while in voids the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1827,
+                    730,
+                    1849
+                ],
+                "score": 0.999,
+                "text": "current density can be smaller than the nominal. This study was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    59,
+                    1856,
+                    730,
+                    1876
+                ],
+                "score": 0.987,
+                "text": "initiated to investigate the effect of plating current density on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    1883,
+                    729,
+                    1904
+                ],
+                "score": 0.985,
+                "text": "performance of the Ti-Cd bath. Bath performance was evaluated in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1217,
+                    1468,
+                    1237
+                ],
+                "score": 0.995,
+                "text": "terms of hydrogen embrittlement tendency of the steel substrate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1243,
+                    1170,
+                    1265
+                ],
+                "score": 0.988,
+                "text": "and corrosion behavior of the deposit."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    996,
+                    1298,
+                    1266,
+                    1322
+                ],
+                "score": 0.985,
+                "text": "Experimental Procedure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    1329,
+                    1469,
+                    1350
+                ],
+                "score": 0.985,
+                "text": "Plating solutions contained 15 oz/gal (112 g/l) sodium cyanide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1356,
+                    1470,
+                    1380
+                ],
+                "score": 0.979,
+                "text": "and 3.4 oz/gal (25.4 g/l) CdO. Titanium content of the plating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1386,
+                    1468,
+                    1406
+                ],
+                "score": 0.994,
+                "text": "solution was controlled by using atomic absorption analysis."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    1414,
+                    1467,
+                    1434
+                ],
+                "score": 0.991,
+                "text": "Temperature of the bath was maintained at 21 (± 3) C. Cadmium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1442,
+                    1468,
+                    1462
+                ],
+                "score": 0.982,
+                "text": "balls were the anodes. Plating current densities which were studied"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1469,
+                    1467,
+                    1491
+                ],
+                "score": 0.994,
+                "text": "are given in Table 1. Average plating thickness was 13 μm (0.0005"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1499,
+                    1305,
+                    1519
+                ],
+                "score": 0.994,
+                "text": "inch). Specimens were not baked after being plated."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    1525,
+                    1468,
+                    1548
+                ],
+                "score": 0.993,
+                "text": "Hydrogen embrittlement testing was done by recording time to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1553,
+                    1469,
+                    1575
+                ],
+                "score": 0.995,
+                "text": "failure of HEP embrittlement test strips (Luster-On Products, Inc)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    1580,
+                    1471,
+                    1603
+                ],
+                "score": 0.995,
+                "text": "which had a stress applied to them by bending and placing in a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1603,
+                    1472,
+                    1633
+                ],
+                "score": 0.991,
+                "text": "Lucite fixture within 1 hour after plating.6. These strips were shown"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    1636,
+                    1470,
+                    1657
+                ],
+                "score": 0.998,
+                "text": "to be very sensitive to hydrogen embrittlement and also repro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1656,
+                    1476,
+                    1690
+                ],
+                "score": 0.996,
+                "text": "ducible in a previous study on porous Cd plating.6 Corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1690,
+                    1470,
+                    1713
+                ],
+                "score": 0.992,
+                "text": "behavior was evaluated using the salt spray test (ASTM method"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1717,
+                    1470,
+                    1741
+                ],
+                "score": 0.998,
+                "text": "B-117) and a galvanic couple test. AISI 4130 steel sheet was utilized"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1745,
+                    1470,
+                    1770
+                ],
+                "score": 0.993,
+                "text": "for both types of tests. In the galvanic couple test, Ti-Cd plated steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1774,
+                    1470,
+                    1797
+                ],
+                "score": 0.989,
+                "text": "was coupled to either Al 2024-T851 or Al 7075-T7651 alloys in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1801,
+                    1469,
+                    1826
+                ],
+                "score": 0.98,
+                "text": "3.5% NaCl for a period of 24 hours. The Cd dissolution rate was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1832,
+                    1467,
+                    1851
+                ],
+                "score": 0.995,
+                "text": "calculated by weighing the Cd/steel sample before and after the test"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1859,
+                    1467,
+                    1879
+                ],
+                "score": 0.998,
+                "text": "to 0.1 mg and dividing by the geometric area and time of test. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1886,
+                    1120,
+                    1908
+                ],
+                "score": 1.0,
+                "text": "average galvanic current density"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1161,
+                    1885,
+                    1468,
+                    1908
+                ],
+                "score": 0.99,
+                "text": "was calculated by dividing the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    1914,
+                    1039,
+                    1934
+                ],
+                "score": 0.975,
+                "text": "average galvanic current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1078,
+                    1914,
+                    1468,
+                    1934
+                ],
+                "score": 0.985,
+                "text": "obtained by integration of the galvanic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    1941,
+                    1468,
+                    1964
+                ],
+                "score": 0.995,
+                "text": "current-time trace) by the geometric area of the Cd/steel specimen."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1967,
+                    1469,
+                    1991
+                ],
+                "score": 0.997,
+                "text": "The test methods used here are described in greater detail"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1986,
+                    919,
+                    2025
+                ],
+                "score": 0.999,
+                "text": "elsewhere.6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    1940,
+                    515,
+                    1974
+                ],
+                "score": 1.0,
+                "text": "*Submitted for publication November, 1974."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    68,
+                    1974,
+                    727,
+                    1996
+                ],
+                "score": 0.989,
+                "text": "*Los Angeles Aircraft Division, Rockwell International Los"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    79,
+                    2002,
+                    341,
+                    2024
+                ],
+                "score": 0.999,
+                "text": "Angeles, California 90009."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    2030,
+                    727,
+                    2052
+                ],
+                "score": 0.989,
+                "text": "**Science Center, Rockwell International Thousand Oaks, Califor-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    2058,
+                    185,
+                    2079
+                ],
+                "score": 0.991,
+                "text": "nia 91360."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1001,
+                    2024,
+                    1257,
+                    2054
+                ],
+                "score": 1.0,
+                "text": "Results and Discussion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    834,
+                    2055,
+                    1466,
+                    2083
+                ],
+                "score": 0.998,
+                "text": "Table 1. which summarizes the results, indicates that variation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    2119,
+                    104,
+                    2154
+                ],
+                "score": 1.0,
+                "text": "234"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1218,
+                    2123,
+                    1462,
+                    2147
+                ],
+                "score": 0.993,
+                "text": "CORROSION-NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1525,
+            "height": 2200
+        }
+    }
+]

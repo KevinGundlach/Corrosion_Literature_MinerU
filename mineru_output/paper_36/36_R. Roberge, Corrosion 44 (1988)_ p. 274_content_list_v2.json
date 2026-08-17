@@ -1,0 +1,2884 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e1ae18553b93b50ad40c4623ed16775a67f2dfe804a601d4f23150c536a68191.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 11 — SEM micrograph of colonized unpolarized electrode."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                18,
+                474,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "environment under the laboratory conditions described. (Microbiologically produced acetic acid can dissolve a protecting calcareous film and induce an increase in corrosion CD.)"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                306,
+                475,
+                347
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                214,
+                353,
+                359,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These experiments were planned with the late S. M. Gerchakov, who was with the University of Miami, Miami, Florida. This work was supported in part by the Office of Naval Research, Program Element"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                368,
+                478,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "61153N, through the NORDA Defense Research Sciences Program, NORDA Contribution No. 333:013:87."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                17,
+                896,
+                42
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                659,
+                58,
+                751,
+                71
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. C. A. H. Von Wolzogen Kuhr, L. S. van der Vlugt, Water (den Haag), Vol. 18, p. 147, 1934."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. R. A. King, C. K. Duttmer, J. D. A. Miller, Brit. Corro. J., Vol. 11, p. 105, 1976."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. W. P. Iverson, Science, Vol. 151, p. 986, 1966."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. J. A. Hardy, J. L. Brown, Corrosion, Vol. 40, p. 650, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. C. O. Obuekwe, D. W. S. Westlake, J. A. Plembick, F. D. Cook, Corrosion, Vol. 37, p. 461, 1981."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. D. J. Duquette, R. E. Ricker, Biologically Induced Corrosion NACE-8, S. C. Dexter, Ed., 1986."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. S. C. Dexter, L. N. Moettus, K. E. Lucas, Corrosion, Vol. 41, p. 598, 1985."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. C. H. Culberson, CORROSION/83, Paper 61, National Association of Corrosion Engineers, Houston, Texas, 1983."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. W. H. Hartt, H. M. Kunjapur, S. W. Smith, CORROSION/86, Paper 291, National Association of Corrosion Engineers, Houston, Texas, 1986."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. A. S. Gordon, S. M. Gerchakov, L. Udey, Canadian J. of Microbiology, Vol. 27, p. 698, 1981."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. H. P. Dahr, D. W. Howell, J. O'M. Bockris, J. Electrochem. Soc., Vol. 129, p. 2178, 1982."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. E. Littauer, D. M. Jennings, Proc. 2nd Int. Cong. Marine Corrosion and Fouling, p. 527, 1968."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. R. G. J. Edyvean, Proc. 6th Int. Cong. Marine Corrosion and Fouling, p. 469, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. R. Johnson, E. Bardal, Corrosion, Vol. 41, p. 296, 1985."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                73,
+                897,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of the Nickel Content in the Pitting of Stainless Steels in Low Chloride and Thiosulfate Solutions"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                212,
+                460,
+                776,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "R. ROBERGE*"
+                    }
+                ]
+            },
+            "bbox": [
+                439,
+                541,
+                549,
+                558
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                459,
+                587,
+                530,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of the nickel content on the pitting resistance of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { A l S l } } ^ { ( 1 ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "304 stainless steel (SS) and Alloys 800 and 600 in chloride-thiosulfate solutions was investigated using two techniques, scratching and slow-stepped potentiostatic polarization. Adverse effects of nickel were seen at both low and high thiosulfate concentrations. For a constant chloride concentration at 24 and 80 C the pitting potential (Ep) exhibited a minimum value with the change in thiosulfate concentration. At this minimum, a semi-logarithmic relation prevailed between the nickel content and the ratio of the chloride-thiosulfate concentrations. With the nickel addition, the alloy became susceptible to larger concentration ratios and a tenfold increase in ratio occurred between AISI 304 SS and Alloy 600. The maximum decrease in Ep recorded at 80 C going from chloride to chloride-thiosulfate solutions amounted to 550, 625, and 700 mV for AISI 304 SS, Alloy 800, and Alloy 600 respectively. This decrease suggests that the presence of thiosulfate may account for some of the failures that have occurred with AISI 304 SS and Alloy 800 when used as tubing materials in fresh water-cooled heat exchangers."
+                    }
+                ]
+            },
+            "bbox": [
+                207,
+                599,
+                782,
+                753
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                237,
+                795,
+                335,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The resistance of stainless alloys to generalized corrosion is provided by the growth of a thin oxide film. In aqueous solutions, however, impurities can locally destroy this passive layer and render the alloys susceptible to localized corrosion. Thiosulfate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( { \\mathsf { S } } _ { 2 } { \\mathsf { O } } _ { 3 } ^ { - } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "has been recognized as a potentially aggressive anion for several years now and various forms of localized corrosion having far-reaching consequences in the nuclear, petroleum, and pulp and paper industries have been detected and studied for a range of stainless steels (SSs). Thus, AISI 304 SS and Alloy 600, both sensitized, were found susceptible to stress corrosion cracking in thiosulfate solutions.1-5 Although for pitting and crevice corrosion, the thiosulfate ion itself was not found to be aggressive to SSs, in combination with chloride and sulfate ions it has proved extremely deleterious. Pitting conditions have been studied by Newman and collaborators6,7and Garner® for a pure FeCrNi alloy, AISI 304, 316, and 317L SSs, while Tromansº extended his crevice corrosion work to AISI 904L SS."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                816,
+                477,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                792,
+                897,
+                945
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "\"Submitted for publication September 1986; revised August 1987. *Metallurgy and Materials Technology, IREQ (Institut de recherche d'Hydro-Quebec), 1800 montee Ste-Julie, Varennes, Quebec, Canada JOL 2PO."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                876,
+                477,
+                930
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)American Iron and Steel Institute, Washington, DC."
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                931,
+                400,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "274"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                962,
+                127,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0010-9312/88/00083/$3.00/0 ©1987, National Association of Corrosion Engineers"
+                    }
+                ]
+            },
+            "bbox": [
+                338,
+                952,
+                640,
+                977
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                733,
+                960,
+                896,
+                976
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/686add7312cebb1bbd48129c27aaf68c3312b4393dcf8d7abc3c150c3b3e39fa.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1 — Composition of the Alloys (wt%)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Mill chemical analysis."
+                    }
+                ],
+                "html": "<table><tr><td>Alloy</td><td>Fe</td><td>Ni</td><td>Cr</td><td>C</td><td>Mn</td><td>S</td><td>Si</td><td>Cu</td><td>Mo</td><td>P</td></tr><tr><td>AISI 304 SS</td><td>71.49</td><td>8.46</td><td>16.62</td><td>0.054</td><td>1.78</td><td>0.007</td><td>0.56</td><td>0.21</td><td>0.21</td><td>0.03</td></tr><tr><td>Alloy 800</td><td>47.64</td><td>31.79</td><td>18.50</td><td>0.023</td><td>0.70</td><td>0.004</td><td>0.39</td><td>0.64</td><td>0.20</td><td>一</td></tr><tr><td>Alloy  $6 0 0 ^ { ( 1 ) }$ </td><td>9.72</td><td>73.86</td><td>15.50</td><td>0.04</td><td>0.31</td><td>0.001</td><td>0.26</td><td>0.31</td><td></td><td>一</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                244,
+                40,
+                744,
+                103
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/20b09837d1c7a5761718df3e08a8dea7d3bbb18f2e083bbeb20fa0f958c4e63d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 1 — Variations of the pitting potential in 7.0 x "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { - 4 } \\ M C 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions at (a) 24 C for Alloy 600 (•  ); Alloy 800 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\bullet - - \\bullet ) ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "AISI 304 SS (∆, ▲, + for repassivating pits, stable pitting and potentiostatically initiated pits respectively); (b) 80 C for Alloy 600 (•  – ●); Alloy 800 (); AISI 304 SS ()."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                81,
+                152,
+                480,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In his studies of the pitting of SS in thiosulfate solutions containing chloride or sulfate ions, Newman suggested that the thiosulfate ion was an activating species in the anodic dissolution of nickel. From the reduction of the thiosulfates in the pit nuclei, adsorbed sulfur (or sulfide) is produced on the bare metal surface thus hindering the repassivation processes. Newman paralleled this behavior with the known effect of adsorbed sulfur on FeNi alloys.1º Following sulfur adsorption, the usual pitting mechanism occurs with the hydrolysis of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C r ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions and the decrease in pH to a value low enough to sustain the very high rate of anodic dissolution. Garner found that very small additions (5 to 20 ppm) of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } \\mathrm { \\mathrm { : } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to a standard paper-machine white water (100 ppm "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { S O } } _ { 4 } ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 4.5 pH and 50 C) with or without chloride could pit AISI 304 SS and that an increase to neutral pH had very little effect on the thiosulfate attack. Both authors agree that alloying with molybdenum renders the alloy more resistant to pitting under thiosulfate conditions. So far, no study has been made of thiosulfate pitting of more highly alloyed nickel materials."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                598,
+                481,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An area where the pitting of molybdenum-free stainless materials is often attributed to simple chloride ions is in natural water. In fact, AISI 304 SS, when used as a material for heat exchanger tubing in such conditions, is well known to pit. More recently, Alloy 800, although it contains roughly four times the nickel content of AISl 304 SS, was also found susceptible to pitting attack in fresh water-cooled heat exchangers.11 It cannot be excluded a priori, however, that the presence of small amounts of thiosulfates in the water in contact with the tubes may have caused the observed effect on those alloys. Indeed, suitable conditions exist for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "production, whether from hydrogen sulfide or metallic sulfide under oxygenated conditions,12.13 or as an intermediate species under anaerobic conditions in the reduction of sulfates by microorganisms.14"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                819,
+                481,
+                946
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                155,
+                894,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Based on the aforementioned studies and observations, the present work was undertaken to investigate the effect of nickel additions on the thiosulfate pitting of SSs. It was expected that, according to the proposed mechanism of sulfur adsorption and enhanced anodic dissolution of nickel, an increase in the nickel content would somehow affect the pitting behavior. A low-level chloride solution typical of natural fresh water was chosen as a base solution and various amounts of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { S } } _ { 2 } { \\mathsf { O } } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were added. The materials selected, AISI 304 SS, Alloy 800, and Alloy 600, are of practical importance as heat exchanger tubing materials and of fundamental interest due to the range of nickel content they offer.A scratching technique was used to determine the pitting potential (Ep) at two temperatures and for a range of [S2O₃\"]. Stepped potentiostatic polarization experiments were also conducted in order to determine Ep in pure chloride solutions and for a single characteristic ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C l } ^ { - } { : \\mathsf { S } } _ { 2 } \\mathsf { O } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentrations with a view to comparing procedures and possibly elucidating the mechanistic features of the pitting processes."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                199,
+                896,
+                416
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental Procedures"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                609,
+                434,
+                804,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The elemental composition of the alloys investigated is shown in Table 1. Samples measuring "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\times 4 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 100 x 100 mm were prepared from sheet material and used in the scratching and polarization experiments, respectively. Since the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C l } ^ { - } { : \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "system allows early detection of pits on highly polished materials due to the formation of a black substance covering them, the samples were gradually ground to a 4/0 finish using emery paper and an electrical connection was made. Degreased in acetone first, then in methanol, they were fixed on the base of an appropriate cell and their edges were masked with a silicon-base sealer to prevent crevice corrosion. Solutions were prepared from deionized water (conductivity < 0.1 μS/cm) and certified grade NaCl and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N a _ { 2 } S _ { 2 } O _ { 3 } \\cdot 5 H _ { 2 } O"
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                449,
+                897,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the scratching experiments, temperatures of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 \\pm 2 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 80 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm \\ : 2 \\ : 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were tested for Ep determination in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 0 \\times 1 0 ^ { - 4 } \\mathsf { M C l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions to which various amounts of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were added. Scratches about 20 mm long and 75 to 120 μm wide were made with a diamond engraving pencil. The electrode was maintained at fixed potentials with a PAR† potentiostat, Model 273. A saturated Ag/AgCl reference electrode was used with no Luggin probe. Current transients from the scratch were recorded on a chart recorder (Omega† Model 585). Whenever pitting activities occurred and were recorded over a significant period, the electrode was switched to a cathodic potential of -0.25 V or less to deactivate any pits formed previously. After deactivation, the potential was switched back to the next value until steady-state current was reached. To determine the variations of the pitting potential of the alloys against the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { \\scriptscriptstyle = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the applied potential was generally increased by steps of 25 mV until a positive transient after scratching was recorded."
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                601,
+                897,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization curves were produced for each alloy at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\pm 2 \\mathsf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Pure chloride solutions (7.00 x 10-4 M) were tested,as well as a single ratio of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { C l } ^ { - } { : \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "their concentration being "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 0 0 \\times 1 0 ^ { - 5 } \\mathrm { ~ M ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively. The potential was controlled by a Wenking† potentiostat (Model 68 TS-3) and changed in steps of 10 mV with a Wenking SMP 69 scanning potentiometer every hour for the positive polarization direction until the onset of pitting or appearance of pits, and every 100 s for the reverse scan until zero current. A platinum-screen counter electrode approximately 50 x 100 mm facing the working electrode was used. The tip of the Ag/AgCi †Registered trade name."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                801,
+                899,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "275"
+                    }
+                ]
+            },
+            "bbox": [
+                864,
+                963,
+                896,
+                976
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 44, No. 5, May 1988"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                960,
+                283,
+                976
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/87848ade6975367b3c78be571e01c7f04ec49694369b86188c232f14cc95fd60.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 2 — Scratch current transients obtained for AISI 304 SS in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { c } \\mathbf { l } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 8.0 x "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ^ { - 5 } M S _ { 2 } O _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 24 C and various potentials. The arrows indicate the moment the scratches were made."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                184,
+                15,
+                804,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reference electrode was about 5 mm directly above the sample at one corner.The potential was initially held at 150 mV for 1 h to attain stable current, whereupon the scanning potentiometer was activated. Potentials measured with a Keithley† Model 614 electrometer were recorded against the log of steady-state currents from a DC amplifier (Logalex† 100B) on a HP 7090A recorder. After the tests, the samples were examined under a scanning electron microscope (SEM) to ascertain the presence of pits."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                364,
+                477,
+                469
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                255,
+                493,
+                316,
+                507
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scratching Experiments"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                96,
+                513,
+                270,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A large number of tests were performed to determine the lowest Ep for AISI 304 SS, Alloy 800, and Alloy 600. Figure 1 allows a global survey of the results for Ep as a function of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { \\mathrm { ~ - ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration in solutions of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 0 \\times 1 0 ^ { - 4 } M C l ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 24 and 80 C. These variations are characterized by quasi-monotonic curves where Ep increases with the amount of thiosulfates due to preferential electromigration.⁶ Individual points represent the data obtained at 24 C for AISI 304 SS, as explained below."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                526,
+                477,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "24 C. Figure 2 illustrates the particular behavior which is sometimes seen in the records of current transients, but especially for pit initiation and propagation in AISI 304 SS at this temperature. It gives the current transients following scratching at four applied potentials in the solution with the lowest thiosulfate content that gives rise to pitting. It should be noted that initiated pits were not deactivated throughout the course of this experiment. The first transient, at 100 mV (Ag/AgCl) denotes a fast repassivation process without pit initiation. Initiation occurs at higher potentials. Already, at 150 mV, the first 5 min are marked by small current transients superimposed on the main one, which may indicate activity elsewhere on the scratch or a tendency for the already formed pits to repassivate. Sudden repassivation does in fact occur but may not be completed because a second short-lived transient follows. The total charge at 150 mV was insufficient for visible pit formation. The transient at 325 mV shows a longer propagation time. Pits formed on the scratch were visible but, compared to the last transient, at 375 mV, clearly stopped early. The latter transient, initiated through simple contact of the diamond tip with the electrode, had a propagation time of over 14 h and was accompanied by a very dark black deposit. For SSs, there exists a strong probability that initiated pits will repassivate. It has been shown1⁵ that such a phenomenon is a function of the surface preparation since an abraded surface has a much lower pit half-life than an oxidized surface. The lowest applied potential that shows a current transient characteristic of pit initiation should therefore be considered as the lowest pitting potential. At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathbb { S } _ { 2 } { \\mathsf { O } _ { 3 } } ^ { = } ] \\ 0 \\mathsf { f } \\ 2 . 7 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M or over, potentiostatic initiation occurs on scratches made earlier in the experiment (Figure 1). In diluted Cl solutions, the range of thiosulfate additions that caused pitting of AlSI 304 SS is between about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 0 \\times 1 0 ^ { - 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 . 0 \\times 1 0 ^ { - 4 } \\mathsf { M }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", a result which compares well to that of Garner⁸ also obtained with diluted solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                628,
+                480,
+                946
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                363,
+                897,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The larger amount of nickel in Alloy 800 and Alloy 600 stabilizes pit propagation (Figure 1). On a macroscopic basis, once pits are initiated they always propagate. Compared to AISI 304 SS, the susceptibility of both alloys to pitting is somewhat higher in the lower range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "At thiosulfate concentrations below "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 3 0 \\times 1 0 ^ { - 4 } M ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Alloy 600 is more resistant to pitting and its Ep shifts to more noble values. This result is in line with the trend experimentally observed when alloying nickel to FeCr alloys.16,17 At higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentrations, a reversal occurs."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                452,
+                896,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "80 C. Compared to the results obtained at 24 C, lower Ep are observed at all "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = } ] \\left( \\mathsf { F i g u r e } \\ 1 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Depending on that concentration, the decrease is between 80 and 140 mV for Alloy 600 and between 110 and 200 mV for Alloy 800, while for AISI 304 SS, taking the lowest Ep values recorded, the decrease is between 130 and 240 mV. These variations in Ep with an increase in the temperature had already been observed in the case of SSs in chloride solutions.18,19 The higher temperature significantly stabilizes the pit initiation and propagation processes in AISI 304 SS. Pitting of Alloy 600 clearly extends to lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by about one order of magnitude compared to Alloy 800 and AISI 304 SS. It is also seen that a minimum occurs for each alloy in the low range of thiosulfate concentrations, at which point a nearly equipotential value exists. From that minimum, a further decrease in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } { \\mathsf { O } } _ { 3 } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is followed by a rise in Ep and experience has shown that pitting could be initiated within a very narrow range of applied potentials at least at the lowest "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ { \\mathsf { S } } _ { 2 } { \\mathsf { O } } _ { 3 } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This is shown in Figure 3 for Alloy 600. Stable pits were easy to initiate at 50 mV, but delayed repassivation occurs at 100 mV even when five scratches were successively produced on the electrode. In every case, the next higher concentration tested gave a broader range of available potentials for pitting to occur. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A } \\mathsf { t } 2 . 7 0 \\times 1 0 ^ { - 6 } \\mathsf { M }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Alloy 600 was successfully pitted at 200 mV. Higher potentials were not examined. For all alloys and below the lowest "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "pitting potentials will suddenly increased to the range of values found in pure chlorides such as it is measured in the next section by polarizatior."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                565,
+                897,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A similar pitting potential inversion was noted as at 24 C for Alloys 600 and 800 at the largest thiosulfate concentrations. The general behavior of the pitting potentials with the thiosulfate concentration is roughly the same for the three alloys and similar to the results of Newman, et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a 1 ^ { 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 0.25 M NaCl solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                881,
+                899,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "276"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                962,
+                129,
+                976
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                733,
+                960,
+                897,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/c81fec8a63e40ab2039038769849492f57b8dcf94eace8314850339d85a797c4.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 3 — Current-transient response for Alloy 600 in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M Cl~ and 9.0 x 10⁻7 M S2O₃= at 80 C (a) 50 mV; (b) 100 mV, one scratch; (c) 100 mV, five scratches. The insert shows a SEM micrograph of a covered pit observed in the scratch at 50 mV."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                96,
+                12,
+                481,
+                405
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization Data"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                94,
+                501,
+                223,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stepped potentiostatic polarization curves were recorded despite the fact that in the past poorer reproducibility, due in part to the statistical nature of the pitting phenomena, was noticed for polarization methods than for scratching techniques.2º Such recordings, however, can furnish information that scratching tests fail to provide. For example scratch tests do not provide positive current transients, like in Figure 3 Curve (a), characteristic of pit propagation for FeCrNi SSs in pure chloride solutions. Newman, et al, observing this behavior, suggested that the scratch held at a sufficiently high anodic potential behaves like a single elongated pit but with a recorded current density at least one order of magnitude lower than for normal pit propagation. According to Barbosa and Scully,²1 since the pitting of SSs is associated with inclusions rather than with repassivation processes, scratch techniques are useless for determining the pitting potentials in pure chloride or in mixtures of chloride and sulfate ions. Polarization data can also provide information on a second critical potential, the repassivation, or protection potential (Epp), which is defined as the potential below which a pit can neither initiate nor propagate. Although it is still a matter of controversy as to whether or not the Epp value can be related to a unique property of the material,22-25 it can provide useful mechanistic information and be of practical significance."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                517,
+                480,
+                794
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4 presents the potentiostatic polarization curves obtained for the three alloys at 80 C in a plain chloride solution. It can be seen that Ep increases with an increase of the Ni content of the alloy in the following order: AISI 304 SS < Alloy 800 < Alloy 600. The sudden current increase usually recorded with polarization methods at the onset of pitting was not always clearly identified in this study, probably owing to the presence of a thin film covering the pit nuclei. Actually, without such a film small initiated pits would have had a tendency to spontaneously repassivate in the dilute solutions used, as a result of the diffusion of the highly concentrated chloride solution away from the pit. Large hystereses characterize the polarization curves of AISI 304 SS and Alloy 600. Protection potentials recorded at zero current are markedly more positive for Alloys 600 and 800 (Table 2). This is consistent with an enriched nickel layer at the bare metal surface which controls anodic dissolution in the active pit. For AISI 304 SS, the nickel is not as enriched as for Alloy 800 and Alloy 600 and the repassivation potential is lower."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                794,
+                481,
+                945
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d4947a87504d45e02925e0873e8f5b6437352b077225c80ea16ecd02a93ebed3.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 4 — Stepped potentiostatic polarization curves for Alloy 600 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( - \\longleftarrow ) ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Alloy 800 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- \\longrightarrow ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "AISI 304 SS(—--)in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\mathrm { c } } \\pmb { \\mathrm { l } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions at 80 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                508,
+                23,
+                889,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                511,
+                321,
+                894,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When thiosulfate is added, the sudden increase in current density that usually characterizes the onset of pitting no longer occurs (Figure 5). A very small number of pits covered with a black material are seen on the surface of the electrodes before any substantial increase in current. According to the experimental observations and the nearly identical form of the curves, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "values were selected at a characteristic change in the shape of those curves. As expected, compared to the results obtained in pure chloride solutions, the decrease in Ep is significant (Table 2). It is very consistent between the alloys, amounting to about 300 mV in the potentiostatic tests. A further drop of about 200 mV occurs in the scratch technique. The pitting potentials obtained by scratching are generally closer to the protection potentials recorded under potentiostatic polarization conditions. The Epp values are now very similar and reflect the conditions present in the pits; compared with the plain chíoride environment, where the anodic dissolution inside is controlled by a surface monolayer ( or sub-monolayer) of nickel, in thiosulfate adsorbed sulfur greatly accelerates the nickel dissolution and the three SSs resemble nickel-free alloys from the point of view of pit behavior."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                385,
+                896,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                662,
+                656,
+                751,
+                671
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of the Nickel Content"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                676,
+                718,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The variation in the pitting potentials of SSs with the thiosulfate concentration in chloride or sulfate solutions is generally explained6.8 by (1) insufficient coverage of the adsorbed sulfur on the bare metal surface when a threshold minimum concentration is attained and where Ep increases to the value found in pure chloride and (2) preferential electromigration of thiosulfates which inhibit pitting at higher concentrations. From the data obtained in this study, the effect of the thiosulfate concentration can be further elucidated."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                691,
+                896,
+                792
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the present purpose, the abovementioned threshold concentration of thiosulfates is taken at the minimum pitting potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { E P } ^ { m i n } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "found in the curves of Figure 1. The discussion will hinge on the results obtained at 80 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\complement ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "since they allow clear detection of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { E } p ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "although a similar behavior would have been found at 24 C if a more restricted range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ S _ { 2 } O _ { 3 } ^ { ~ \\ast } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "had been studied. Figure 6 illustrates the relation found between the ratio of the Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { \\ = \\ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p ^ { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the nickel content of the alloys and clearly shows that the position of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E p } ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Figure 1 is related to the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for AISI 304 SS, Alloy 800, and Alíoy 600 at constant chloride concentration. (Included in this figure are the data obtained at room temperature; the bar indicates the area of uncertainty between the lowest ratio observed experimentally and the highest one investigated for which no such low "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was detected.) The ratio value obtained at 80 C increases from about 20 for AISI 304 SS, which is in good agreement with the value deduced from the data of Newman, et al⁶ in 0.25 M NaCl, to about 50 and 220 for Alloys 800 and 600, respectively. The relation shows that a decrease in the amount of chloride ions in the solution will result in a further decrease in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E } p ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". For a specific alloy, it is thus the chloride ion that inhibits the low potential thiosulfate pitting for concentrations less than the one obtained at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E } p ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". By lowering the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = } ] ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tt C l } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions electromigrate in larger amounts until they prevent the sufficient coverage of adsorbed sulfur in the pit nuclei. Below the thiosulfate concentration at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E } \\mathsf { p } ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ep increases somewhat until, at the limit, the transport processes favor the chloride ions because of their large concentrations. At this point, the Ep of the individual alloys increases to its value in pure chloride. As observed by Newman,7 however, pitting of AISI 304 SS, Alloy 800, and Alloy 600 is not expected to occur in thiosulfates at zero chloride concentration. A lower limit in [Cl\"] for which the relation in Figure 6 is obeyed should thus exist."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                792,
+                897,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 44, No. 5, May 1988"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                960,
+                283,
+                977
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "277"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                960,
+                892,
+                973
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/241a5c895309427898cd2d48bdd883383d2afeaab5cea26708c280f9303ed9b3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2 — Pitting and Protection Potentials of AISI 304 SS, Alloy 800, and Alloy 600 in Pure Chloride and a Chloride-Thiosulfate Solution at 80 C"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "equation_inline",
+                        "content": "{ } ^ { ( 1 ) } \\in [ 0 / 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "- pitting potentials obtained by scratching"
+                    }
+                ],
+                "html": "<table><tr><td></td><td colspan=\"2\">Cl</td><td colspan=\"2\"> $\\mathbf { C l } : \\mathbb { S } _ { 2 } \\mathbb { O } _ { 3 }$ </td></tr><tr><td>Alloy</td><td colspan=\"2\"> $( 7 . 0 0 \\times 1 0 ^ { 4 } M )$  Ep (mV)</td><td colspan=\"2\">(7.00 × 10 4 M: 8.00  $\\yen 10$ </td></tr><tr><td></td><td></td><td>Epp (mV)</td><td> $E _ { P } : E _ { P } / s ^ { ( 1 ) } ( m \\vee )$ </td><td>Epp (mV)</td></tr><tr><td>AISI 304 SS</td><td>500</td><td>105</td><td> $2 1 5 ; \\quad 2 5$ </td><td></td></tr><tr><td>Alloy 800</td><td>550</td><td>315</td><td>290:100</td><td>10 50</td></tr><tr><td>Alloy 600</td><td>650</td><td>310</td><td>350:150</td><td>10</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                270,
+                51,
+                719,
+                147
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/702045bf8034e947c7fa15be11cf9163a66c965294427e657963ae917614dc71.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 5 — Stepped potentiostatic polarization curves for Alloy 600 ( ); Alloy 800 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( - \\mathrm { ~ -- ~ } ) ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "AISI 304 SS (—— —) in 7.0 x 104 M Cl and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 0 \\times 1 0 ^ { - 5 } \\mathrm { M } { \\mathbb S } _ { 2 } { { \\mathsf O } _ { 3 } } ^ { = } \\mathrm { a t }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "80 C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                94,
+                183,
+                483,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                94,
+                512,
+                478,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Extrapolation to pure nickel was not performed in Figure 6 because it was verified for a 99.9% Ni electrode held at –50 mV that the current transients after scratching were indicative of enhanced anodic dissolution without repassivation for thiosulfate concentrations of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 7 \\times 1 0 ^ { - 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M to 1.0 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M at 80 C. In a plain chloride solution, however, the nickel electrode slowly repassivated. A different behavior seems to occur in the case of pure nickel for which it would have been necessary to further reduce the applied potentials in order to locate the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E P } ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", if any."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                753,
+                478,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Above a certain concentration of thiosulfate, Alloy 600 tends to be more susceptible to pitting than Alloy 800. This observation suggests that the amount of nickel at the bare metal surface in the pit nuclei gradually comes to form a complete monolayer. If this ever happens to an alloy, there should be no electrochemical difference, other things being equal, between this alloy at the bottom of a pit and pure nickel. Above the nickel content found in Alloy 600, the Ep should further decrease until, at the limit for pure nickel, it attains the steady potential of about –50 mV where the reduction of thiosulfates becomes spontaneous, as explained below. Thus, although at high concentrations thiosulfate inhibits pitting, inhibition is less efficient for alloys containing about 75% or more Ni. These hypotheses are in the process of being verified for pure NiCr alloys with a high nickel content."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                869,
+                478,
+                945
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/07773dde086e5793bceda838cd35605613fd59c3a923967c6b8426e37a4220d9.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIGURE 6 — Variations in the nickel content of AISI 304 SS, Alloy 800, and Alloy 600 with the ratios of the chloride:thiosulfate concentrations at the minimum pitting potential. The bar in the 24 C extends the data to the next highest ratio investigated for which no pitting was observed."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                507,
+                184,
+                911,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                617,
+                897,
+                719
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting Mechanisms"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                510,
+                726,
+                658,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The foregoing considerations emphasize that the chemical and electrochemical conditions at the site of an initiating pit bear little resemblance to those characterizing the interface between the alloy and the bulk solution. Drops in pH and potentials inside pits are frequently reported in the literature.24,26A discussion of the knowledge that can be gained from the present chloride-thiosulfate system can shed light on such important factors in pitting processes."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                741,
+                897,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From the results obtained in this study, it is obvious that the potential value inside the pit nuclei must be made more active in order to account thermodynamically for the reduction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which may be estimated to occur at around "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 5 0 \\mathrm { \\ m V } , ^ { 2 , 2 7 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "just where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E p } ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 80 C is found. At the passive film present on SSs, this reaction would be irreversible and no metallic sulfide has ever been observed at the surface of samples held around this potential. It has been verified, however, that spontaneous reduction of thiosulfates with the production of nonuniform black deposits occurs on a 99.9% Ni electrode for a thiosulfate concentration above "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 5 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M in chloride solutions. After 30 min, the potential was stable at about –50 mV. Under strong agitation with a magnetic stirrer, a uniform thin grey layer covered the nickel electrode, which reached a steady potential of -20 mV. It seems that the film present on nickel is not very protective in such environments and that a large supply of nickel is necessary to reduce the thiosulfate. This condition exists in pit nuclei. In the scratch tests at high thiosulfate concentrations and in the polarization experiments, large potential shifts should occur to account for the thiosulfate reduction. In fact, for Alloy 600 pitted under potentiostatic polarization, a potential drop of at least 400 mV must be assumed. The situation in the present scratch tests is more complicated owing to the IR drop created when scratching. For Alloy 800 in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 0 \\times 1 0 ^ { - 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } { \\mathrm { \\Delta } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 80 C, a maximum IR drop of about 175 mV was estimated using the formula given by Pearson, et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { a l } ^ { 2 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a measured solution conductivity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 8 \\times 1 0 ^ { - 4 } 0 \\mathsf { h m } ^ { - 1 } \\mathsf { c m } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Even for a pit initiated at the very moment the scratch is performed, its potential must to be decreased by at least another 375 mV. To account for pH drops in SS pitting, the mechanism generally put forward involves the hydrolysis of the metal ions formed when a large current transient develops at the initiation sites. For Alloy 600 at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { E p } ^ { \\mathsf { m i n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", thiosulfate concentrations of about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 2 \\times 1 0 ^ { - 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M at 80 C (Figure 1) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 3 \\times 1 0 ^ { - 5 } \\mid"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M at 24 C (deduced from Figure 6) were found, which correspond closely to the minimum amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "H _ { 2 } S"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 ^ { - 5 } M )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "obtained by Marcus, et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a 1 2 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to actively dissolve a Ni-25% Fe alloy in sulfuric acid 0.1 N (pH of about 1.2) for potentials that would otherwise lead to its passivation in the absence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf H } _ { 2 } { \\sf S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "This agreement between results generated by very dissimilar experiments sustains the idea that a sudden pH drop does indeed occur when is pitting initiated. The final value of pH in a saturated pit solution may be different, however, and is generally believed³o,31 to be less than 1.0."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                832,
+                897,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION-NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                962,
+                896,
+                977
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "278"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                960,
+                125,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                92,
+                34,
+                480,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For pitting to occur in the potentiostatic experiments, the applied potential must be 200 mV more anodic than in scratch tests in the same environment. For these experimental conditions, this is probably the potentials where local breakdown of the passive film starts. In the absence of thiosulfates, continuous film, breakdown and repair events would have occurred but, with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } { \\mathrm { \\Delta \\overline { { { \\vphantom { \\Lambda } } } } } } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "present, the fast dissolution of metal elements in the pit nuclei, the shift in electrochemical potential and the drop in pH make their reduction on the bare nickel surface sublayer possible. Adsorbed sulfur is therefore rapidly produced and interferes with any repassivation processes. Without thiosulfate at the same potential, the electrochemical conditions in the pit nuclei are not sufficiently changed to be able to sustain the very high rate of anodic dissolution and a larger applied potential is required for the buildup of the high concentrated and dissolved metal-chloride solution. It thus appears that these results support the idea of the film breaking mechanism for pit initiation and agree with the findings of MacDougall and Graham³2-34 to the effect that the chloride ion interferes with the repassivation processes and not with the breakdown of passivity."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                439,
+                478,
+                679
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting of SS Heat Exchanger Tubes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                96,
+                696,
+                362,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In heat exchangers cooled by fresh water, the chemical environment is very dilute and AISI 304 SS, Alloy 800, and Alloy 600 should all reach corrosion potentials of about 50 to 100 mV(Ag/AgCl). It is thus surprising that one would simply consider pure chloride pitting, unless a rather strong oxidizing agent is present to raise the potentials to the range of 500 to 650 mV required to pit these SSs. Moreover, the alkalinity measured in fresh water should, to some extent, inhibit pitting and shift the potentials to more positive values. However, with appropriate amounts of thiosulfates and reasonable "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ \\mathsf { C l } ^ { - } ] : [ \\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } ^ { - } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ratios, pitting can be expected to occur. It may be estimated from the present results with 25 mg/L of Cl that it would take only about 1.0 mg/L of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to pit those materials at the temperatures at which many heat exchangers operate. Even smaller amounts of thiosulfates would be necessary to initiate stable pits in more dilute chloride environments. The same basic materials alloyed with a minimum amount of molybdenum would probably resist thiosulfate-contaminated environments, although further experiments are needed to confirm this hypothesis."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                719,
+                481,
+                946
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                653,
+                32,
+                754,
+                46
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Nickel SSs are very susceptible to chloride-thiosulfate pitting. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { C l } } ^ { - } { : \\mathsf { S } } _ { 2 } { \\mathsf { O } } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "= ratios, critical for finding the lowest pitting potentials, change according to the nickel content. Chloride ions inhibit the low-potential thiosulfate pitting for an amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf S } _ { 2 } { \\sf O } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "below a minimum threshold concentration. An increase of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { S } _ { 2 } \\mathsf { O } _ { 3 } { } ^ { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "concentration may not be able to efficiently inhibit pitting of molybdenumfree stainless alloys containing more than about 75% Ni."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                46,
+                892,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Fast pH and potential drops occur at pit initiation sites and the chloride-thiosulfate system in dilute aqueous solutions provides further justification for the film breaking mechanism."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                135,
+                892,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. The results suggest that the presence of thiosulfates should be considered seriously when dealing with failures of SSs in fresh water-cooled heat exchangers. Substitute materials need to bę carefully tested in chloride-thiosulfate environments."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                172,
+                894,
+                224
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                633,
+                239,
+                776,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The assistance of R. Rioux in some of the experimental work is gratefully acknowledged. Discussions with L. Brossard (IREQ) and R. C. Newman (UMIST) were greatly appreciated."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                253,
+                894,
+                292
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                659,
+                315,
+                751,
+                328
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. H. S. Isaacs, B. Vyas, M. W. Kendig, Corrosion, Vol. 38, No. 3, p. 130, 1982."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. R. C. Newman, K. Sieradszki, H. S. Isaacs, Met. Trans. A, Vol. 13A, p. 2015, 1982."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. R.C. Newman, R. Roberge, R. Bandy, Corrosion, Vol. 39, No. 10, p. 386, 1983."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. R. C. Newman, R. Roberge, R. Bandy, “Environment-Sensitive Fracture: Evaluation and Comparison of Test Methods,\" ASTM STP 821, S. W. Dean, E. N. Pugh, G. M. Ugiansky, Eds., American Society for Testing and Materials, Philadelphia, Pennsylvania, p. 310, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. H. H. Horowitz, J. Electrochem. Soc., Vol. 132, No. 9, p. 2064, 1985."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. R. C. Newman, H. S. Isaacs, B. Alman, Corrosion, Vol. 38, No. 5, p. 261, 1982."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. R. C. Newman, Corrosion, Vol. 41, No. 8, p. 450, 1985."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. A. Garner, Corrosion, Vol. 41, No. 10, p. 587, 1985."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. D. Tromans, L. Frederick, Corrosion, Vol. 40, No. 12, p. 633, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. P. Marcus, J. Oudar, Fundamental Aspects of Corrosion Protection by Surface Modification, E. McCafferty, C.R. Clayton, Eds., The Electochemical Society, Pennington, New Jersey, p. 173, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. G. Bellamy, M. A. Clark, P. J. King, R. G. Barton, Proc. 2nd. Int. Symp. Environmental Degradation of Materials in Nuclear Power Systems — Water Reactors, American Nuclear Society, La Grange Park, Illinois, p. 247, 1986."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. J. D. Cline, F. A. Richards, Environ. Sci. Technol., Vol. 3, No. 9, p. 838, 1969."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. H. H. Horowitz, Corros. Sci., Vol. 23, No. 4, p. 353, 1983."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. G. Cragnolino, O. H. Tuovinen, “The Role of Sulfate-Reducing and Sulfur-Oxidizing Bacteria on Localized Corrosion,\" CORROSION/83, Paper No. 244, National Association of Corrosion Engineers, Houston, Texas."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. H. S. Isaacs, G. Kissel, J. Electrochem. Soc., Vol. 119, No. 12, p. 1629, 1972."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Ya. M. Kolotyrkin, Corrosion, Vol. 19, p. 261t, 1963."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. J. Horvath, H. H. Uhlig, J. Electrochem. Soc., Vol. 115, No. 8, p. 791, 1968."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Z. Szklarska-Smialowska, Corrosion, Vol. 27, No. 6, p. 223, 1971."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. C. J. Semino, P. Pedeferri, G. T. Burstein, T. P. Hoar, Corros. Sci., Vol. 19, p. 1069, 1979."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. N. Pessall, C. Liu, Electrochim. Acta, Vol. 16, p. 1987, 1971."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. M. Barbosa, J. C. Scuily, Passivty of Metals, R. P. Frankental, J. Kruger, Eds., The Electrochemical Society, Princeton, New Jersey, p. 403, 1978."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. B. E. Wilde, E. Williams, Electrochim. Acta, Vol. 16, p. 197, 1971."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                330,
+                892,
+                356
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 44, No. 5, May 1988"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                962,
+                285,
+                977
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "279"
+                    }
+                ]
+            },
+            "bbox": [
+                866,
+                963,
+                896,
+                976
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. T. Nakayama, K. Sasa, Corrosion, Vol. 32, No. 7, p. 283, 1976."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. H.-H. Strehblow, Werkst. Korros., Vol. 35, p. 437, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. R. C. Newman, E. M. Franz, Corrosion, Vol. 40, No. 7, p. 325, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. J. R. Galvele, Treatise on Materials Science and Technology, Vol. 23, J. C. Scully, Ed., Academic Press, London, England, p. 1,1983."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. R. J. Biernat, R. G. Robins, Electrochim. Acta, Vol. 14, p. 809, 1969."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. H. J. Pearson, G. T. Burstein, R. C. Newman, J. Electrochem. Soc., Vol. 128, No. 11, p. 2297, 1981."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. P. Marcus, A. Bouruet, J. Oudar, Mem. Sci. Rev. Met., Vol. 78, No. 9, p. 509, 1981."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. J. Mankowski, J. Szklarska-Smialowska, Corros. Sci., Vol. 15, p.493, 1975."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "31. R. C. Newman, H. S. Isaacs, Passivity of Metals and Semiconductors, M. Froment, Ed., Elsevier, Amsterdam, Holland, p. 269, 1983."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "32. B. MacDougall, D. F. Mitchell, M. J. Graham, J. Electrochem. Soc., Vol. 132, No. 12, p. 2895, 1985."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "33. B. MacDougall, M. J. Graham, J. Electrochem. Soc., Vol. 131, No. 4, p. 727, 1984."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "34. B. MacDougall, D. F. Mitchell, G. I. Sproule, M. J. Graham, J. Electrochem. Soc., Vol. 130, No. 3, p. 543, 1983."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                27,
+                475,
+                41
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical Impedance Technique — A Practical Tool for Corrosion Prediction"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                211,
+                297,
+                779,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. C. SILVERMAN and J. E. CARRICO*"
+                    }
+                ]
+            },
+            "bbox": [
+                351,
+                352,
+                640,
+                368
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                461,
+                397,
+                530,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical impedance (AC impedance) measurements are practical for predicting corrosion behavior. Combining this technique with small amplitude DC polarization offers a rapid method of estimating corrosion rates. Optimization of the potentiostat gain allows for the rapid estimation of very low corrosion rates. Full use of this technique in predicting corrosion behavior is achieved by using a microcomputer to control data acquisition and a mainframe computer for data analysis. Successful use of this combination to estimate low corrosion rates and to determine other types of corrosion behavior is demonstrated for several practical applications. These applications are rapid estimation of passive alloy corrosion and evaluation of inhibitors of carbon steel corrosion in neutral pH water."
+                    }
+                ]
+            },
+            "bbox": [
+                209,
+                410,
+                781,
+                513
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                239,
+                553,
+                335,
+                566
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical impedance (AC impedance) measurements have been gaining increasing favor for making practical corrosion predictions. A number of reviews have been written that discuss both the theory and many areas of application.1-3 These reviews suggest that two areas of application are rapid estimates of a wide range of corrosion rates and practical insights into corrosion mechanisms, especially in the presence of an adsorbed film or an applied organic coating. Other applications have been reported. Either their reduction to practice is not as well developed or the application has less relevance to the immediate need."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                577,
+                477,
+                704
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The use of electrochemical impedance for corrosion rate estimation is well established. In its simplest form, the method requires two steps. The frequency response of the corroding electrode is used to obtain the polarization or charge transfer resistance. The current vs voltage curve obtained by DC polarization is then used to estimate the Tafel slopes. Finally, the corrosion rate is obtained through the equation"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                705,
+                478,
+                795
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "| \\mathsf { \\Pi } _ { \\mathsf { c o r r } } = \\mathrm { ~ \\frac { ~ \\mathsf { B } ~ } { ~ 2 . 3 0 3 ~ \\mathsf { R } _ { \\mathsf { P } } ~ } ~ o r ~ } \\mathsf { I } _ { \\mathsf { c o r r } } = \\mathrm { ~ \\frac { ~ \\mathsf { B } ~ } { ~ 2 . 3 0 3 ~ \\mathsf { R } _ { \\mathsf { t } } ~ } ~ }\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/36654a9bdb422352cf96db702d7e00a7a5d7f7ffe3fe9299e33baf1093e22f42.jpg"
+                }
+            },
+            "bbox": [
+                144,
+                801,
+                429,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                849,
+                137,
+                861
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "B = \\frac { b _ { a } b _ { c } } { b _ { a } + b _ { c } }\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/52d3099742d1dfec5caafcfac48504ab79007812275436084a2f3adc92a1ccd3.jpg"
+                }
+            },
+            "bbox": [
+                244,
+                877,
+                332,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All symbols are defined at the end of the paper. The method is valid as long as corrosion is uniform (no separated anodic and cathodic areas) and there is one dominant charge transfer reaction that controls corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                551,
+                896,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There have been a number of studies that show that Equations (1) and (2) can be used very effectively to estimate corrosion rates. For example, Mansfeld has used Equation (1) to estimate the corrosion rate of iron in 0.5 M sulfuric acid in the absence and presence of inhibitors.4 The corrosion rates were fairly high, 25 mm/y for iron in sulfuric acid and ~0.025 to 0.25 mm/y in inhibited sulfuric acid. More recently, Williams and Asher reported that the electrochemical impedance technique could be used to estimate extremely low corrosion rates, of the order of 500 nm/y to 1 μm/y.⁵ This development has tremendous importance for application in the chemical process industries. The acceptability of an alloy is increasingly being dictated not by gross corrosion but by contamination. Corrosion rates as low as 1 to 2 μm/y might be unacceptable because of fluid contamination by metal ions created by the corrosion process. This corrosion rate is barely measurable by traditional 30-day coupon immersion tests. Therefore, one area of interest is the estimation of low corrosion rates by electrochemical impedance. The accuracy is at least comparable to if not better than estimates from 30-day immersion tests. Electrochemical impedance estimates are available in far less time."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                614,
+                897,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The second area of application is to evaluate inhibitors, especially for water treatment. The use of electrochemical impedance analysis to examine inhibitors is well-documented, especially in acidic solutions.² However, water as that used for process cooling is usually in the neutral pH range. Corrosion rate measurements can be more difficult in such systems, e.g., carbon steel in cooling water,"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                869,
+                897,
+                945
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Submitted for publication January 1987; revised July 1987."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                917,
+                436,
+                931
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Monsanto Co., 800 N. Lindbergh Blvd., St. Louis, Missouri 63167."
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                933,
+                477,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "280"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                962,
+                125,
+                974
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0010-9312/88/00085/$3.00/0 ©1987, National Assocíation of Corrosion Engineers"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                950,
+                645,
+                976
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION—NACE"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                960,
+                894,
+                976
+            ]
+        }
+    ]
+]

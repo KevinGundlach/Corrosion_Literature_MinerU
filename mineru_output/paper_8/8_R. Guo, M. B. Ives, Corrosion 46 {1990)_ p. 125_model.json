@@ -1,0 +1,5966 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9216,
+                "bbox": [
+                    1481,
+                    55,
+                    1585,
+                    84
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9466,
+                "bbox": [
+                    183,
+                    128,
+                    394,
+                    164
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823,
+                "bbox": [
+                    178,
+                    201,
+                    837,
+                    345
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.977,
+                "bbox": [
+                    177,
+                    391,
+                    852,
+                    481
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9677,
+                "bbox": [
+                    177,
+                    529,
+                    846,
+                    587
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    177,
+                    636,
+                    843,
+                    755
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9633,
+                "bbox": [
+                    177,
+                    798,
+                    839,
+                    860
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9582,
+                "bbox": [
+                    917,
+                    130,
+                    1197,
+                    166
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773,
+                "bbox": [
+                    912,
+                    202,
+                    1569,
+                    289
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9403,
+                "bbox": [
+                    915,
+                    314,
+                    1066,
+                    346
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9444,
+                "bbox": [
+                    933,
+                    387,
+                    1585,
+                    433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9025,
+                "bbox": [
+                    934,
+                    433,
+                    1247,
+                    456
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.8979,
+                "bbox": [
+                    934,
+                    456,
+                    1265,
+                    479
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.96,
+                "bbox": [
+                    934,
+                    478,
+                    1582,
+                    523
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9196,
+                "bbox": [
+                    934,
+                    523,
+                    1331,
+                    546
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9201,
+                "bbox": [
+                    933,
+                    545,
+                    1482,
+                    569
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9625,
+                "bbox": [
+                    934,
+                    568,
+                    1565,
+                    610
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9264,
+                "bbox": [
+                    933,
+                    611,
+                    1287,
+                    635
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.8707,
+                "bbox": [
+                    932,
+                    634,
+                    1549,
+                    657
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9307,
+                "bbox": [
+                    929,
+                    658,
+                    1559,
+                    700
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9218,
+                "bbox": [
+                    928,
+                    701,
+                    1564,
+                    725
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9532,
+                "bbox": [
+                    928,
+                    724,
+                    1570,
+                    766
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9277,
+                "bbox": [
+                    927,
+                    767,
+                    1553,
+                    792
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9179,
+                "bbox": [
+                    927,
+                    791,
+                    1369,
+                    812
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9237,
+                "bbox": [
+                    926,
+                    813,
+                    1482,
+                    836
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9303,
+                "bbox": [
+                    926,
+                    834,
+                    1303,
+                    857
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9782,
+                "bbox": [
+                    182,
+                    982,
+                    1584,
+                    1130
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9421,
+                "bbox": [
+                    1294,
+                    1199,
+                    1581,
+                    1233
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9249,
+                "bbox": [
+                    175,
+                    1383,
+                    326,
+                    1417
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9823,
+                "bbox": [
+                    172,
+                    1450,
+                    847,
+                    1817
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9675,
+                "bbox": [
+                    908,
+                    1456,
+                    1579,
+                    1515
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9463,
+                "bbox": [
+                    910,
+                    1527,
+                    1393,
+                    1559
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9428,
+                "bbox": [
+                    912,
+                    1588,
+                    1128,
+                    1623
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8624,
+                "bbox": [
+                    180,
+                    1855,
+                    745,
+                    1884
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9641,
+                "bbox": [
+                    905,
+                    1660,
+                    1581,
+                    1974
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9322,
+                "bbox": [
+                    179,
+                    1884,
+                    846,
+                    1939
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9765,
+                "bbox": [
+                    905,
+                    1994,
+                    1574,
+                    2081
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9447,
+                "bbox": [
+                    176,
+                    1939,
+                    845,
+                    1995
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9551,
+                "bbox": [
+                    176,
+                    1996,
+                    846,
+                    2081
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9333,
+                "bbox": [
+                    173,
+                    2110,
+                    546,
+                    2149
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9392,
+                "bbox": [
+                    606,
+                    2091,
+                    1142,
+                    2149
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9244,
+                "bbox": [
+                    1524,
+                    2117,
+                    1578,
+                    2147
+                ],
+                "index": 42
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1484,
+                    58,
+                    1584,
+                    87
+                ],
+                "score": 1.0,
+                "text": "SCIENCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    134,
+                    392,
+                    170
+                ],
+                "score": 0.999,
+                "text": "CONCLUSIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    205,
+                    828,
+                    228
+                ],
+                "score": 0.998,
+                "text": " HS steel has a higher trap density than LS steel. This conclu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    233,
+                    806,
+                    256
+                ],
+                "score": 0.994,
+                "text": "sion follows from the greater quantity of nonmetallic inclusions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    261,
+                    830,
+                    283
+                ],
+                "score": 0.976,
+                "text": "(mostly sulfides) contained in HS steel than in LS steel, and also"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    288,
+                    827,
+                    311
+                ],
+                "score": 0.993,
+                "text": "from the greater amount of hydrogen absorbed by HS steel than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    316,
+                    655,
+                    339
+                ],
+                "score": 1.0,
+                "text": "by LS steel under identical charging conditions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    392,
+                    850,
+                    421
+                ],
+                "score": 0.995,
+                "text": " Both steels suffer losses of ductility after charging. LS steel suf-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    422,
+                    839,
+                    448
+                ],
+                "score": 0.99,
+                "text": "fers an irreversible loss of ductility, while HS steel regains its duc-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    451,
+                    476,
+                    477
+                ],
+                "score": 0.998,
+                "text": "tility after 120 hours of aging."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    532,
+                    841,
+                    558
+                ],
+                "score": 0.995,
+                "text": " Inclusion/matrix interfaces are strong trap sites that are still op-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    562,
+                    352,
+                    583
+                ],
+                "score": 0.97,
+                "text": "erative at 250°C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    642,
+                    831,
+                    665
+                ],
+                "score": 0.992,
+                "text": " The trapping energy of inclusion/matrix interfaces is greater in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    668,
+                    839,
+                    693
+                ],
+                "score": 0.993,
+                "text": "LS steel than in HS steel. This conclusion follows from almost the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    697,
+                    821,
+                    720
+                ],
+                "score": 0.989,
+                "text": "same hydrogen contents found in both steels after 120 hours of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    725,
+                    672,
+                    747
+                ],
+                "score": 0.987,
+                "text": "aging despite the higher trap density in HS steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    803,
+                    833,
+                    829
+                ],
+                "score": 0.987,
+                "text": "During aging, the inclusion/matrix interfaces in both steels trap"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    832,
+                    710,
+                    855
+                ],
+                "score": 0.991,
+                "text": "hydrogen taken from both the lattice and weak traps."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    135,
+                    1194,
+                    169
+                ],
+                "score": 1.0,
+                "text": "ACKNOWLEDGMENT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    969,
+                    205,
+                    1565,
+                    230
+                ],
+                "score": 0.993,
+                "text": "This research was supported by the National Science Foun-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    232,
+                    1534,
+                    257
+                ],
+                "score": 0.992,
+                "text": "dation under grant CPE-8319495. Helpful discussions with Dr."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    259,
+                    1356,
+                    284
+                ],
+                "score": 0.986,
+                "text": "G.R. St. Pierre are gratefully acknowledged."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    321,
+                    1062,
+                    349
+                ],
+                "score": 0.98,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    938,
+                    391,
+                    1580,
+                    411
+                ],
+                "score": 0.99,
+                "text": "1. K.W. Lange and H.J. Koenig, Proc. Second Intern Congr. on Hydrogen in Metals,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    415,
+                    1310,
+                    433
+                ],
+                "score": 0.978,
+                "text": "paper 1A 5 (Elmsford, NY: Pergamon, 1977)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    434,
+                    1239,
+                    455
+                ],
+                "score": 0.977,
+                "text": "2. M. lino, Acta Met. 30(1982): p. 377."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    457,
+                    1264,
+                    478
+                ],
+                "score": 0.978,
+                "text": "3. M. lino, Met. Trans. 16A(1985): p. 401."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    939,
+                    480,
+                    1579,
+                    501
+                ],
+                "score": 0.987,
+                "text": "4. M. Aucouturier, Proc. Conf. on Current Solutions to Hydrogen Problems in Steels,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    502,
+                    1379,
+                    522
+                ],
+                "score": 0.989,
+                "text": "(Materials Park, OH: ASM International, 1982), p. 407."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    524,
+                    1327,
+                    545
+                ],
+                "score": 0.975,
+                "text": "5. J.Y. Lee, J.L. Lee and W.Y. Choo, ibid., p. 423."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    546,
+                    1478,
+                    568
+                ],
+                "score": 0.985,
+                "text": "6. G.M. Pressouyre and I.M. Bernstein, Met. Trans. 12A(1981): p. 835."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    567,
+                    1561,
+                    591
+                ],
+                "score": 0.985,
+                "text": "7. T. Asaoka, C. Dagbert, M. Aucoututier, and P. Lacombe Corrosion 36(1980): p"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    971,
+                    590,
+                    1001,
+                    612
+                ],
+                "score": 1.0,
+                "text": "53."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    935,
+                    612,
+                    1282,
+                    635
+                ],
+                "score": 0.978,
+                "text": "8. J.P. Hirth, Met. Trans. 11A(1980): p. 861."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    935,
+                    635,
+                    1544,
+                    657
+                ],
+                "score": 0.992,
+                "text": "9. K. Kobayashi and Z. Szklarska-Smialowska, Met. Trans. 17A(1986): p. 2255."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    929,
+                    657,
+                    1554,
+                    679
+                ],
+                "score": 0.986,
+                "text": "10. A. Elkholy, J. Garland, P. Azou, and P. Bastien, Compt. rend. Acad. Sci. Paris"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    681,
+                    1197,
+                    700
+                ],
+                "score": 0.967,
+                "text": "284, Ser. C(1977): pp. 2, 363."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    928,
+                    701,
+                    1560,
+                    723
+                ],
+                "score": 0.995,
+                "text": "11. M.A.V. Devanathan and Z. Stachurski, J. Electrochem. Soc. 111(1964): p. 619."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    927,
+                    724,
+                    1568,
+                    745
+                ],
+                "score": 0.99,
+                "text": "12. T. Zakroczymski and Z. Szklarska-Smialowska, J. Eiectrochem. Soc. 132(1985):"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    972,
+                    747,
+                    1035,
+                    767
+                ],
+                "score": 0.992,
+                "text": "p. 2545."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    928,
+                    769,
+                    1550,
+                    789
+                ],
+                "score": 0.972,
+                "text": "13. J. McBreen, L. Nanis, and W. Beck, J. Electrochem. Soc. 113(1966): p. 1218."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    927,
+                    791,
+                    1366,
+                    812
+                ],
+                "score": 0.986,
+                "text": "14. W.W. Scott Jr., Radex Rundschau 1/2(1981): p. 474."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    927,
+                    813,
+                    1478,
+                    834
+                ],
+                "score": 0.984,
+                "text": "15. G.M. Pressouyre and I.M. Bernstein, Met. Trans. 9A(1978): p. 1571."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    928,
+                    835,
+                    1299,
+                    856
+                ],
+                "score": 0.972,
+                "text": "16. R.B. McLellan, Acta Met. 27(1979): p. 1655."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    339,
+                    986,
+                    1582,
+                    1054
+                ],
+                "score": 0.993,
+                "text": "Pitting Susceptibility of Stainless Steels in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    1056,
+                    1534,
+                    1129
+                ],
+                "score": 0.994,
+                "text": "Bromide Solutions at Elevated Temperatures"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1551,
+                    1059,
+                    1579,
+                    1087
+                ],
+                "score": 1.0,
+                "text": "☆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1299,
+                    1201,
+                    1579,
+                    1231
+                ],
+                "score": 0.998,
+                "text": "R. Guo* and M.B. Ives**"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1390,
+                    323,
+                    1419
+                ],
+                "score": 1.0,
+                "text": "ABSTRACT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1455,
+                    819,
+                    1478
+                ],
+                "score": 1.0,
+                "text": "The pitting susceptibility of a range of austenitic stainless steels"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1483,
+                    822,
+                    1505
+                ],
+                "score": 0.99,
+                "text": "with different molybdenum contents was evaluated in both chlo-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1509,
+                    828,
+                    1533
+                ],
+                "score": 0.995,
+                "text": "ride and bromide solutions at elevated temperatures, using elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1536,
+                    837,
+                    1561
+                ],
+                "score": 0.993,
+                "text": "trochemical polarization techniques. It is found that there is a less"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1563,
+                    819,
+                    1588
+                ],
+                "score": 0.997,
+                "text": "beneficial effect of molybdenum in solutions containing bromide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    1593,
+                    793,
+                    1615
+                ],
+                "score": 0.993,
+                "text": "ions than in those with chloride. Particular attention has been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1618,
+                    785,
+                    1643
+                ],
+                "score": 0.989,
+                "text": "paid to the pitting behavior of UNS(¹)S31254 steel, which is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1647,
+                    811,
+                    1671
+                ],
+                "score": 0.999,
+                "text": "found to be significantly more susceptible in bromide solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1675,
+                    802,
+                    1700
+                ],
+                "score": 0.987,
+                "text": "The effects of inclusions has also been observed on this alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1703,
+                    839,
+                    1727
+                ],
+                "score": 0.999,
+                "text": "The effect of molybdenum on pitting corrosion resistance in differ-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1732,
+                    840,
+                    1754
+                ],
+                "score": 0.995,
+                "text": "ent aggressive solutions is discussed, and it is suggested that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    1761,
+                    839,
+                    1783
+                ],
+                "score": 0.986,
+                "text": "interaction of molybdenum with specific aggressive anions should"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1787,
+                    762,
+                    1812
+                ],
+                "score": 0.999,
+                "text": "be taken into account in developing possible mechanisms"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1460,
+                    1575,
+                    1485
+                ],
+                "score": 0.996,
+                "text": "through which this alloying element improves the pitting corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1488,
+                    1226,
+                    1511
+                ],
+                "score": 0.975,
+                "text": "resistance of iron-based alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1531,
+                    1388,
+                    1556
+                ],
+                "score": 0.994,
+                "text": "KEY WORDS: bromide, pitting, stainless steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1595,
+                    1124,
+                    1628
+                ],
+                "score": 1.0,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1861,
+                    740,
+                    1882
+                ],
+                "score": 0.995,
+                "text": "Submitted for publication November 1988; revised February 1989."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1662,
+                    1564,
+                    1688
+                ],
+                "score": 0.989,
+                "text": "The breakdown of passivity, which leads to localized corrosion, is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1693,
+                    1557,
+                    1716
+                ],
+                "score": 0.978,
+                "text": "a common type of failure of stainíess steels. The pitting behavior"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1718,
+                    1552,
+                    1744
+                ],
+                "score": 1.0,
+                "text": "of stainless steels has been studied extensively in environments"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1746,
+                    1573,
+                    1774
+                ],
+                "score": 0.995,
+                "text": "containing aggressive ions similar to those found in their operating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1775,
+                    1571,
+                    1798
+                ],
+                "score": 0.997,
+                "text": "environments, and reviewed by Smialowska,1 Galvele,² and Janik-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1803,
+                    1548,
+                    1829
+                ],
+                "score": 0.981,
+                "text": "Czachor et al.³ However, most work has been done in solutions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1833,
+                    1569,
+                    1857
+                ],
+                "score": 0.991,
+                "text": "containing chloride as the aggressive ions. This is presumably be-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1860,
+                    1568,
+                    1885
+                ],
+                "score": 0.999,
+                "text": "cause chlorides are most commonly encountered in environments"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1890,
+                    1576,
+                    1913
+                ],
+                "score": 0.998,
+                "text": "such as seawater, pulp and paper processing, and chemical plants"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    1915,
+                    1539,
+                    1942
+                ],
+                "score": 0.992,
+                "text": "in general. It is believed that chlorides are the most aggressive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1943,
+                    1471,
+                    1968
+                ],
+                "score": 0.982,
+                "text": "anions for the pitting corrosion attack of stainless steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    1887,
+                    841,
+                    1910
+                ],
+                "score": 0.991,
+                "text": "* Present address: Department of Metals and Materials Engineering, University of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1918,
+                    555,
+                    1935
+                ],
+                "score": 0.989,
+                "text": "British Columbia, Vancouver, B.C., Canada."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    962,
+                    1998,
+                    1569,
+                    2021
+                ],
+                "score": 1.0,
+                "text": "There are only a few reports on the effect of molybdenum on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2026,
+                    1559,
+                    2048
+                ],
+                "score": 0.984,
+                "text": "pitting resistance of stainless steels in bromide solutions, and the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2054,
+                    1541,
+                    2076
+                ],
+                "score": 0.996,
+                "text": "results are not consistent with each other. A beneficial effect of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1943,
+                    839,
+                    1965
+                ],
+                "score": 0.988,
+                "text": "** Institute for Materials Research, McMaster University, 1280 Main St. West,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1973,
+                    501,
+                    1992
+                ],
+                "score": 0.993,
+                "text": "Hamilton, Ontario, Canada L85 4M1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1997,
+                    839,
+                    2023
+                ],
+                "score": 0.992,
+                "text": "(1) UNS numbers are listed in Metals and Alloys in the Unified Numbering System,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    203,
+                    2030,
+                    839,
+                    2049
+                ],
+                "score": 0.991,
+                "text": "published by the Society of Automotive Engineers (SAE) and cosponsored by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    2058,
+                    660,
+                    2077
+                ],
+                "score": 0.996,
+                "text": "the American Society for Testing and Materials (ASTM)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    2112,
+                    543,
+                    2150
+                ],
+                "score": 0.967,
+                "text": "CoRROSION—Vol. 46, No. 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    726,
+                    2094,
+                    1022,
+                    2117
+                ],
+                "score": 1.0,
+                "text": "0010-9312/90/000039/$3.00/0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    612,
+                    2120,
+                    1137,
+                    2147
+                ],
+                "score": 0.99,
+                "text": "© 1990, National Association of Corrosion Engineers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1525,
+                    2118,
+                    1577,
+                    2155
+                ],
+                "score": 1.0,
+                "text": "125"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1764,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.913,
+                "bbox": [
+                    182,
+                    50,
+                    286,
+                    79
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    176,
+                    134,
+                    851,
+                    300
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842,
+                "bbox": [
+                    176,
+                    299,
+                    845,
+                    442
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9379,
+                "bbox": [
+                    178,
+                    475,
+                    390,
+                    509
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9329,
+                "bbox": [
+                    178,
+                    549,
+                    303,
+                    580
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    177,
+                    582,
+                    847,
+                    860
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823,
+                "bbox": [
+                    176,
+                    861,
+                    843,
+                    1001
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9303,
+                "bbox": [
+                    178,
+                    1034,
+                    305,
+                    1065
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    177,
+                    1068,
+                    851,
+                    1265
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9325,
+                "bbox": [
+                    181,
+                    1297,
+                    337,
+                    1328
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    178,
+                    1332,
+                    842,
+                    1471
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    177,
+                    1471,
+                    848,
+                    1640
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9345,
+                "bbox": [
+                    180,
+                    1681,
+                    310,
+                    1717
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    176,
+                    1754,
+                    845,
+                    2011
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8866,
+                "bbox": [
+                    1055,
+                    134,
+                    1447,
+                    186
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9745,
+                "bbox": [
+                    918,
+                    193,
+                    1584,
+                    470
+                ],
+                "index": 16,
+                "html": "<table><tr><td>Element Steel</td><td>C</td><td>Cr</td><td>Ni</td><td>Mo</td><td>Cu</td><td>N</td><td>Ti</td></tr><tr><td>UNS S30100</td><td>0.108</td><td>17.0</td><td>8.3</td><td>0.19</td><td>0.19</td><td>0.047</td><td>一</td></tr><tr><td>UNS S31600</td><td>0.06</td><td>17.2</td><td>10.5</td><td>2.0</td><td>0.25</td><td>0.049</td><td>一</td></tr><tr><td>UNS N08904</td><td>0.025</td><td>20.0</td><td>25.0</td><td>4.5</td><td>1.5</td><td>一</td><td>1</td></tr><tr><td>UNS S31254(A)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Heat 1</td><td>0.02</td><td>20.0</td><td>18.0</td><td>6.1</td><td>0.7</td><td>0.21</td><td>0.033</td></tr><tr><td>Heat 2</td><td>0.02</td><td>20.0</td><td>18.0</td><td>6.1</td><td>0.7</td><td>0.21</td><td>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8866,
+                "bbox": [
+                    920,
+                    479,
+                    1462,
+                    507
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9867,
+                "bbox": [
+                    919,
+                    571,
+                    1569,
+                    1300
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9662,
+                "bbox": [
+                    913,
+                    1324,
+                    1589,
+                    1383
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    910,
+                    1454,
+                    1567,
+                    1541
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    909,
+                    1542,
+                    1587,
+                    1853
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9879,
+                "bbox": [
+                    908,
+                    1855,
+                    1587,
+                    2080
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9334,
+                "bbox": [
+                    179,
+                    2048,
+                    682,
+                    2079
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9114,
+                "bbox": [
+                    173,
+                    2115,
+                    226,
+                    2146
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9405,
+                "bbox": [
+                    1197,
+                    2112,
+                    1578,
+                    2152
+                ],
+                "index": 25
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    55,
+                    283,
+                    81
+                ],
+                "score": 1.0,
+                "text": "SCIENCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    138,
+                    821,
+                    159
+                ],
+                "score": 0.996,
+                "text": "molybdenum on the pitting resistance of ferritic stainless steel in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    164,
+                    802,
+                    188
+                ],
+                "score": 0.982,
+                "text": "sodium bromide solution was reported by Bond.4 Molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    192,
+                    844,
+                    216
+                ],
+                "score": 0.994,
+                "text": "increased the pitting potential by almost the same magnitude as in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    219,
+                    808,
+                    243
+                ],
+                "score": 0.993,
+                "text": "chloride solution. However, Herbsleb et al.⁵ observed no differ-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    247,
+                    847,
+                    271
+                ],
+                "score": 0.991,
+                "text": "ence in the influence of molybdenum in Cr-Ni and sodium chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    274,
+                    280,
+                    299
+                ],
+                "score": 1.0,
+                "text": "solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    302,
+                    839,
+                    326
+                ],
+                "score": 0.993,
+                "text": "In. the present study, tests were designed for a series of aus-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    330,
+                    837,
+                    354
+                ],
+                "score": 0.987,
+                "text": "tenitic stainless steels with various molybdenum contents, to eval-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    359,
+                    805,
+                    382
+                ],
+                "score": 0.996,
+                "text": "uate their pitting characteristics in bromide solution at elevated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    388,
+                    805,
+                    409
+                ],
+                "score": 0.991,
+                "text": "temperatures, and compare these with the behavior in chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    414,
+                    279,
+                    437
+                ],
+                "score": 1.0,
+                "text": "solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    480,
+                    388,
+                    513
+                ],
+                "score": 1.0,
+                "text": "EXPERIMENTAL"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    548,
+                    300,
+                    583
+                ],
+                "score": 1.0,
+                "text": "Materials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    582,
+                    830,
+                    608
+                ],
+                "score": 0.997,
+                "text": "The series of austenitic stainless steels with different molyb-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    611,
+                    822,
+                    636
+                ],
+                "score": 0.989,
+                "text": "denum contents shown in Table 1 were used in anodic polariza-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    640,
+                    843,
+                    664
+                ],
+                "score": 0.998,
+                "text": "tion-controlled experiments. UNS S30100, UNS S31600, and UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    667,
+                    781,
+                    690
+                ],
+                "score": 0.998,
+                "text": "N08904 samples were cut from cold-rolled sheets, and UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    695,
+                    800,
+                    719
+                ],
+                "score": 0.998,
+                "text": "S31254 samples were taken from tube material. Two heats of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    722,
+                    833,
+                    748
+                ],
+                "score": 0.987,
+                "text": "UNS S31254 materials were tested because Heat 1 material was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    749,
+                    820,
+                    776
+                ],
+                "score": 0.998,
+                "text": "found to contain a significant quantity of titanium-rich inclusions,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    779,
+                    824,
+                    803
+                ],
+                "score": 0.998,
+                "text": "and was thus metallographically less clean than Heat 2 material."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    807,
+                    838,
+                    830
+                ],
+                "score": 0.99,
+                "text": "The pitting susceptibility of autogeneously welded zones, both an-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    833,
+                    829,
+                    858
+                ],
+                "score": 0.998,
+                "text": "nealed and unannealed, of UNS S31254 tubes was also studied."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    862,
+                    828,
+                    888
+                ],
+                "score": 0.99,
+                "text": "The samples used for potentiodynamic measurements were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    892,
+                    834,
+                    914
+                ],
+                "score": 0.985,
+                "text": "surface ground to 600 grade silicon carbide paper, with additional"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    920,
+                    836,
+                    942
+                ],
+                "score": 0.999,
+                "text": "fine polishing used for samples to be examined by optical or elec-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    947,
+                    792,
+                    969
+                ],
+                "score": 0.998,
+                "text": "tron optical microscopy. Details of sample preparation can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    973,
+                    367,
+                    996
+                ],
+                "score": 0.977,
+                "text": "found elsewhere.⁶"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1034,
+                    301,
+                    1069
+                ],
+                "score": 1.0,
+                "text": "Solutions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    1069,
+                    849,
+                    1095
+                ],
+                "score": 0.969,
+                "text": "Chloride, bromide, and mixed neutral (pH ~ 7) solutions were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1098,
+                    830,
+                    1122
+                ],
+                "score": 0.999,
+                "text": "prepared from analytical reagents, sodium salts, and distilled wa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1126,
+                    835,
+                    1150
+                ],
+                "score": 0.958,
+                "text": "ter. The ratios of [Br−]([Br] + [Cl-]) were chosen as 0.25, 0.50,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1154,
+                    821,
+                    1178
+                ],
+                "score": 0.99,
+                "text": "and 0.75 for bromide-chloride mixed solutions, with a fixed total"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1181,
+                    841,
+                    1207
+                ],
+                "score": 0.962,
+                "text": "concentration [Br⁻] + [Cl] = 0.6 M. Test solutions were deaera-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1209,
+                    823,
+                    1235
+                ],
+                "score": 0.991,
+                "text": "ted by nitrogen for one hour prior to the beginning of and for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1239,
+                    424,
+                    1260
+                ],
+                "score": 0.999,
+                "text": "duration of experiments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1296,
+                    332,
+                    1330
+                ],
+                "score": 1.0,
+                "text": "Procedures"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    234,
+                    1334,
+                    812,
+                    1359
+                ],
+                "score": 0.995,
+                "text": "Potentiodynamic measurements were carried out to deter-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1361,
+                    833,
+                    1388
+                ],
+                "score": 0.995,
+                "text": "mine pitting potentials and critical temperatures for pitting. Poten-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1390,
+                    838,
+                    1414
+                ],
+                "score": 0.998,
+                "text": "tiodynamic polarization commenced at the free-corrosion potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    1418,
+                    812,
+                    1439
+                ],
+                "score": 0.993,
+                "text": "after the sample had been immersed in the solution for 30 min-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1444,
+                    549,
+                    1469
+                ],
+                "score": 0.969,
+                "text": "utes, using a scan rate of600 mV/h."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    1474,
+                    830,
+                    1498
+                ],
+                "score": 0.996,
+                "text": "Potentiostatic polarization for microscopic examination of pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1503,
+                    837,
+                    1524
+                ],
+                "score": 0.994,
+                "text": "morphology, pit distribution and inclusion behavior was conducted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1529,
+                    834,
+                    1553
+                ],
+                "score": 0.992,
+                "text": "by holding the sample at a potential higher than the pitting poten-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1552,
+                    844,
+                    1583
+                ],
+                "score": 0.988,
+                "text": "tial. An optical and a Philips(²) model 515 scanning electron micro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1585,
+                    809,
+                    1609
+                ],
+                "score": 0.993,
+                "text": "scope were used to examine samples after potentiostatic treat-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1611,
+                    242,
+                    1637
+                ],
+                "score": 1.0,
+                "text": "ment."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1687,
+                    307,
+                    1721
+                ],
+                "score": 1.0,
+                "text": "RESULTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    232,
+                    1755,
+                    822,
+                    1782
+                ],
+                "score": 0.992,
+                "text": "Pitting potential, which is determined through potentiodyna-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1784,
+                    842,
+                    1809
+                ],
+                "score": 0.993,
+                "text": "mic measurements, is believed to be a convenient measure of rel-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1813,
+                    833,
+                    1838
+                ],
+                "score": 0.989,
+                "text": "ative pitting susceptibility. Some results are shown in Figure 1 for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1839,
+                    823,
+                    1866
+                ],
+                "score": 0.983,
+                "text": "UNS S30100 steel and Figure 2 for UNS S31254 steel (Heat 2),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1867,
+                    826,
+                    1894
+                ],
+                "score": 0.989,
+                "text": "which are two extremes of molybdenum contents for commercial"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1895,
+                    819,
+                    1922
+                ],
+                "score": 0.993,
+                "text": "austenitic stainless steels, in 0.6 M sodium chloride and sodium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1923,
+                    778,
+                    1949
+                ],
+                "score": 0.983,
+                "text": "bromide solution at 70°C. Although pitting potentials of UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1951,
+                    827,
+                    1977
+                ],
+                "score": 0.984,
+                "text": "S31254 steel are higher than those of UNS S30100 steel in both"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1979,
+                    821,
+                    2006
+                ],
+                "score": 0.998,
+                "text": "solutions, it should be noted that chloride ions are more aggres-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1204,
+                    138,
+                    1299,
+                    161
+                ],
+                "score": 0.991,
+                "text": "TABLE 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1059,
+                    159,
+                    1442,
+                    183
+                ],
+                "score": 0.988,
+                "text": "Chemical Compositions of Steels (wt%)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    921,
+                    478,
+                    1460,
+                    506
+                ],
+                "score": 0.991,
+                "text": "(A)Nominal values for all except titanium, which was directly analysed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1328,
+                    1585,
+                    1353
+                ],
+                "score": 0.987,
+                "text": "FIGURE 1. Anodic polarization curves for UNS S30100 steel in 0.6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1356,
+                    1342,
+                    1379
+                ],
+                "score": 0.985,
+                "text": "M chloride and bromide solutions at 70°C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1457,
+                    1522,
+                    1482
+                ],
+                "score": 0.994,
+                "text": "sive for UNS S30100 steel, while the reverse is true for UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1485,
+                    1560,
+                    1511
+                ],
+                "score": 0.991,
+                "text": "S31254 steel, suggesting that bromide ions are more aggressive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1513,
+                    1314,
+                    1537
+                ],
+                "score": 0.983,
+                "text": "in the higher molybdenum-content alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    965,
+                    1543,
+                    1484,
+                    1569
+                ],
+                "score": 1.0,
+                "text": "Potentiodynamic polarization experiments were also"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1569,
+                    1576,
+                    1600
+                ],
+                "score": 0.99,
+                "text": "conducted for UNS S31600 and UNS N08904 steels, thereby pro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1599,
+                    1585,
+                    1627
+                ],
+                "score": 0.993,
+                "text": "viding a more complete range of molybdenum contents from 0 to 6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1628,
+                    1584,
+                    1654
+                ],
+                "score": 0.994,
+                "text": "wt%. The measured pitting potentials for these alloys are plotted in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1656,
+                    1563,
+                    1683
+                ],
+                "score": 0.996,
+                "text": "the histogram of Figure 3 where the alloys are placed in order of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1684,
+                    1579,
+                    1712
+                ],
+                "score": 0.999,
+                "text": "increasing molybdenum content. Alloying with molybdenum greatly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1712,
+                    1549,
+                    1738
+                ],
+                "score": 1.0,
+                "text": "increases the pitting potential in chloride solution, while a much"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1741,
+                    1571,
+                    1767
+                ],
+                "score": 0.993,
+                "text": "smaller increase of pitting potential was observed in bromide-con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1769,
+                    1560,
+                    1794
+                ],
+                "score": 0.999,
+                "text": "taining solution, resulting in less resistance of high-molybdenum-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1796,
+                    1559,
+                    1823
+                ],
+                "score": 0.993,
+                "text": "bearing steels to pitting corrosion in the environments containing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1824,
+                    1053,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "bromide ions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    966,
+                    1856,
+                    1544,
+                    1882
+                ],
+                "score": 0.998,
+                "text": "Figure 4 gives the dependence of the transpassive and/or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1885,
+                    1543,
+                    1911
+                ],
+                "score": 0.995,
+                "text": "pitting potentials on temperature for UNS S31254 (Heat 1) and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1912,
+                    1533,
+                    1938
+                ],
+                "score": 0.991,
+                "text": "UNS N08904 steels in chloride and bromide solutions. Critical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1940,
+                    1579,
+                    1967
+                ],
+                "score": 0.994,
+                "text": "temperatures for pitting can be defined from those results, and are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1967,
+                    1582,
+                    1996
+                ],
+                "score": 0.985,
+                "text": "listed in Table 2. Critical temperatures for pitting are much lower in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1996,
+                    1551,
+                    2023
+                ],
+                "score": 0.99,
+                "text": "bromide than in chloride solution for both types of steels. These"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    2024,
+                    1550,
+                    2051
+                ],
+                "score": 0.999,
+                "text": "steels may be pitted in bromide solution even at room tempera-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    2052,
+                    965,
+                    2078
+                ],
+                "score": 1.0,
+                "text": "ture."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    2050,
+                    679,
+                    2080
+                ],
+                "score": 0.983,
+                "text": "(2) Phillips Test & Measuring Instruments, Inc., Mahwah, NJ."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    2116,
+                    225,
+                    2152
+                ],
+                "score": 1.0,
+                "text": "126"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1199,
+                    2113,
+                    1575,
+                    2155
+                ],
+                "score": 0.985,
+                "text": "CoRROSION—February 1990"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1764,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9202,
+                "bbox": [
+                    1486,
+                    53,
+                    1588,
+                    82
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9854,
+                "bbox": [
+                    192,
+                    131,
+                    833,
+                    873
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9686,
+                "bbox": [
+                    181,
+                    891,
+                    855,
+                    952
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9862,
+                "bbox": [
+                    212,
+                    1007,
+                    823,
+                    1680
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9745,
+                "bbox": [
+                    174,
+                    1699,
+                    849,
+                    1819
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835,
+                "bbox": [
+                    172,
+                    1878,
+                    835,
+                    2021
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.969,
+                "bbox": [
+                    172,
+                    2024,
+                    833,
+                    2084
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9859,
+                "bbox": [
+                    913,
+                    132,
+                    1588,
+                    681
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.972,
+                "bbox": [
+                    913,
+                    699,
+                    1587,
+                    790
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6915,
+                "bbox": [
+                    1201,
+                    865,
+                    1301,
+                    890
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8815,
+                "bbox": [
+                    1078,
+                    886,
+                    1425,
+                    917
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9611,
+                "bbox": [
+                    1072,
+                    926,
+                    1428,
+                    1079
+                ],
+                "index": 12,
+                "html": "<table><tr><td>Solution Steel</td><td>Chloride</td><td>Bromide</td></tr><tr><td>UNS N08904</td><td>60</td><td></td></tr><tr><td></td><td></td><td>&lt;23</td></tr><tr><td>UNS S31254</td><td>&gt;80</td><td>30</td></tr><tr><td></td><td></td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9817,
+                "bbox": [
+                    911,
+                    1129,
+                    1572,
+                    1246
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    909,
+                    1263,
+                    1582,
+                    1516
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    910,
+                    1532,
+                    1578,
+                    1757
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4702,
+                "bbox": [
+                    1252,
+                    1614,
+                    1321,
+                    1645
+                ],
+                "index": 16,
+                "latex": "m V _ { s c E }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    907,
+                    1771,
+                    1581,
+                    2082
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9477,
+                "bbox": [
+                    173,
+                    2114,
+                    544,
+                    2153
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9161,
+                "bbox": [
+                    1522,
+                    2117,
+                    1575,
+                    2147
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1487,
+                    54,
+                    1587,
+                    85
+                ],
+                "score": 1.0,
+                "text": "SCIENCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    894,
+                    852,
+                    919
+                ],
+                "score": 0.982,
+                "text": "FIGURE 2. Anodic polarization curves for UNS S31254 steel in 0.6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    924,
+                    610,
+                    947
+                ],
+                "score": 0.998,
+                "text": "M chloride and bromide solutions at 70°C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1700,
+                    848,
+                    1728
+                ],
+                "score": 0.988,
+                "text": "FIGuRE 3. A comparison of pitting potentials for four types of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1731,
+                    847,
+                    1754
+                ],
+                "score": 0.99,
+                "text": "austenitic stainless steels in 0.6 M chloride and bromide solutions at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1758,
+                    845,
+                    1783
+                ],
+                "score": 0.995,
+                "text": "70°C. Indicated on each bar is the range of potentials measured"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1787,
+                    330,
+                    1814
+                ],
+                "score": 1.0,
+                "text": "experimentally."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    229,
+                    1882,
+                    824,
+                    1904
+                ],
+                "score": 0.995,
+                "text": "UNS S31254 steel, as mentioned above, is very resistant to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1911,
+                    812,
+                    1933
+                ],
+                "score": 0.987,
+                "text": "pitting corrosion attack in chloride-containing environments. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1937,
+                    830,
+                    1962
+                ],
+                "score": 0.994,
+                "text": "laboratory tests have indicated that no local breakdown of passiv-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    174,
+                    1966,
+                    820,
+                    1989
+                ],
+                "score": 0.99,
+                "text": "ity was observed in UNS S31254 samples (Heat 1), even in 2 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    1995,
+                    506,
+                    2016
+                ],
+                "score": 0.98,
+                "text": "sodium chloride solution at 80°C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    2028,
+                    827,
+                    2051
+                ],
+                "score": 0.992,
+                "text": "Pitting susceptibility of UNS S31254 (Heat 1) was studied at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    2056,
+                    806,
+                    2079
+                ],
+                "score": 0.986,
+                "text": "70°C in chloride-bromide mixed solutions with proportions of 0,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    704,
+                    1583,
+                    728
+                ],
+                "score": 0.986,
+                "text": "FIGURE 4. Variations of transpassive and/or pitting potentials for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    731,
+                    1582,
+                    753
+                ],
+                "score": 0.995,
+                "text": "stainless steels with temperature in 0.6 M chloride and bromide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    759,
+                    1014,
+                    783
+                ],
+                "score": 1.0,
+                "text": "solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1204,
+                    869,
+                    1299,
+                    893
+                ],
+                "score": 0.998,
+                "text": "TABLE 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1081,
+                    888,
+                    1420,
+                    915
+                ],
+                "score": 0.993,
+                "text": "Critical Temperature for Pitting (°C)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1132,
+                    1567,
+                    1157
+                ],
+                "score": 0.986,
+                "text": "0.25, 0.5, 0.75, and 1.0 bromide, but with a fixed total halide con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1160,
+                    1557,
+                    1185
+                ],
+                "score": 0.997,
+                "text": "centration (0.6 M). The results are shown in Figure 5. Pitting po-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1187,
+                    1561,
+                    1212
+                ],
+                "score": 0.993,
+                "text": "tential decreases with an increase in the bromide ion ratio with a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1218,
+                    1568,
+                    1240
+                ],
+                "score": 0.996,
+                "text": "large change being produced by only a small quantity of bromide."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    966,
+                    1266,
+                    1560,
+                    1290
+                ],
+                "score": 0.99,
+                "text": "Heat 1 of UNS S31254 steel contained a high population of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1294,
+                    1513,
+                    1317
+                ],
+                "score": 0.995,
+                "text": "titanium inclusions. Titanium inclusions were found in earlier"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1321,
+                    1574,
+                    1345
+                ],
+                "score": 0.992,
+                "text": "studies6.7 to be nucleation sites for pitting in UNS 30100 and UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1349,
+                    1566,
+                    1373
+                ],
+                "score": 0.994,
+                "text": "31600 steels, behaving cathodically. Figure 6 gives potentiodyna-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1376,
+                    1563,
+                    1401
+                ],
+                "score": 0.995,
+                "text": "mic polarization results for the two heats of UNS S31254 steel in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1402,
+                    1578,
+                    1430
+                ],
+                "score": 0.986,
+                "text": "0.6 M sodium bromide at 70°C, which shows that the pitting poten-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1432,
+                    1554,
+                    1455
+                ],
+                "score": 0.993,
+                "text": "tial for the higher inclusion content material is slightly lower than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1460,
+                    1554,
+                    1483
+                ],
+                "score": 0.98,
+                "text": "that for the cleaner alloy. So Heat 1 material is a little more sus-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1488,
+                    1155,
+                    1509
+                ],
+                "score": 1.0,
+                "text": "ceptible to pitting attack."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    966,
+                    1535,
+                    1536,
+                    1556
+                ],
+                "score": 0.991,
+                "text": "It is expected that titanium inclusions behave as cathodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1562,
+                    1543,
+                    1586
+                ],
+                "score": 0.994,
+                "text": "sites, causing anodic dissolution of the adjacent matrix. The pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1591,
+                    1532,
+                    1612
+                ],
+                "score": 0.992,
+                "text": "density and its morphology were inspected after potentiostatic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1617,
+                    1248,
+                    1640
+                ],
+                "score": 0.998,
+                "text": "treatment of UNS S31254 at 800"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1322,
+                    1615,
+                    1574,
+                    1640
+                ],
+                "score": 0.999,
+                "text": "in 0.6 M sodium bromide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1645,
+                    1543,
+                    1668
+                ],
+                "score": 0.992,
+                "text": "at 80°C for 5 min. The results are shown in Figure 7 for Heat 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1673,
+                    1549,
+                    1697
+                ],
+                "score": 0.998,
+                "text": "material and Figure 8 for Heat 2. Higher density and bigger pits"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1701,
+                    1553,
+                    1723
+                ],
+                "score": 0.972,
+                "text": "are formed on the sample of “dirty” material after identical treat-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1729,
+                    986,
+                    1754
+                ],
+                "score": 1.0,
+                "text": "ments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    965,
+                    1774,
+                    1548,
+                    1798
+                ],
+                "score": 0.998,
+                "text": "Pitting susceptibility of welded zones, as-welded or welded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1803,
+                    1555,
+                    1826
+                ],
+                "score": 0.991,
+                "text": "and annealed, of UNS S31254 tube material was also evaluated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1832,
+                    1572,
+                    1855
+                ],
+                "score": 0.998,
+                "text": "by pitting potential measurements and microscopical observations."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1859,
+                    1536,
+                    1882
+                ],
+                "score": 1.0,
+                "text": "No difference was found in pitting potential between the matrix"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1887,
+                    1574,
+                    1910
+                ],
+                "score": 0.998,
+                "text": "and the welded zone, with or without annealing treatment in 0.6 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1915,
+                    1564,
+                    1938
+                ],
+                "score": 0.994,
+                "text": "sodium bromide solution at 50°C and 70°C. No preferential attack"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1943,
+                    1539,
+                    1966
+                ],
+                "score": 0.994,
+                "text": "along the welded zones was observed in the samples after the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1971,
+                    1549,
+                    1995
+                ],
+                "score": 0.983,
+                "text": "anodic polarization in bromide solution at 50 to 80°C. Therefore,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    1999,
+                    1516,
+                    2020
+                ],
+                "score": 0.999,
+                "text": "welds are not critical sites for pitting corrosion attack of UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    2026,
+                    1576,
+                    2050
+                ],
+                "score": 0.998,
+                "text": "S31254 steel, at least under controlled laboratory test sample con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    2054,
+                    988,
+                    2079
+                ],
+                "score": 1.0,
+                "text": "ditions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    2115,
+                    541,
+                    2155
+                ],
+                "score": 0.948,
+                "text": "CoRROSION—Vol. 46, No. 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1522,
+                    2118,
+                    1576,
+                    2156
+                ],
+                "score": 1.0,
+                "text": "127"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1764,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9158,
+                "bbox": [
+                    184,
+                    49,
+                    288,
+                    79
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9869,
+                "bbox": [
+                    178,
+                    127,
+                    856,
+                    827
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.969,
+                "bbox": [
+                    175,
+                    850,
+                    853,
+                    939
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9857,
+                "bbox": [
+                    182,
+                    991,
+                    834,
+                    1730
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9615,
+                "bbox": [
+                    173,
+                    1752,
+                    850,
+                    1812
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9408,
+                "bbox": [
+                    175,
+                    1867,
+                    353,
+                    1901
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9832,
+                "bbox": [
+                    171,
+                    1939,
+                    832,
+                    2084
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9869,
+                "bbox": [
+                    928,
+                    132,
+                    1585,
+                    628
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9717,
+                "bbox": [
+                    911,
+                    649,
+                    1589,
+                    739
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6318,
+                "bbox": [
+                    1240,
+                    682,
+                    1309,
+                    712
+                ],
+                "index": 10,
+                "latex": "m V _ { s c E }"
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9835,
+                "bbox": [
+                    929,
+                    784,
+                    1586,
+                    1285
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9678,
+                "bbox": [
+                    912,
+                    1300,
+                    1587,
+                    1361
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9679,
+                "bbox": [
+                    911,
+                    1409,
+                    1558,
+                    1467
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    910,
+                    1466,
+                    1586,
+                    1774
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    910,
+                    1773,
+                    1581,
+                    2027
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9714,
+                "bbox": [
+                    911,
+                    2026,
+                    1584,
+                    2085
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9113,
+                "bbox": [
+                    177,
+                    2117,
+                    231,
+                    2147
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9477,
+                "bbox": [
+                    1205,
+                    2113,
+                    1585,
+                    2154
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    51,
+                    287,
+                    81
+                ],
+                "score": 1.0,
+                "text": "SCIENCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    852,
+                    848,
+                    879
+                ],
+                "score": 0.983,
+                "text": "FIGuRE 5. Dependence of transpassive and/or pitting potential on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    882,
+                    849,
+                    905
+                ],
+                "score": 0.941,
+                "text": "[Br−]/([Br−] + [CI- ]) ratio for UNS S31254 steel at 70°C with a fixed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    909,
+                    531,
+                    932
+                ],
+                "score": 0.999,
+                "text": "total halide concentration of 0.6 M."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1756,
+                    847,
+                    1779
+                ],
+                "score": 0.99,
+                "text": "FIGURE 6. Anodic polarization curves for Heat 1 and 2 materials of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1785,
+                    710,
+                    1805
+                ],
+                "score": 0.997,
+                "text": "UNS S31254 steel in 0.6 M sodium bromide at 70°C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1874,
+                    349,
+                    1906
+                ],
+                "score": 0.997,
+                "text": "DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    226,
+                    1941,
+                    820,
+                    1967
+                ],
+                "score": 0.998,
+                "text": "It is well known that alloying iron-base alloys with molybde-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1972,
+                    803,
+                    1995
+                ],
+                "score": 0.999,
+                "text": "num greatly increases pitting resistance, so high-molybdenum-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1998,
+                    822,
+                    2024
+                ],
+                "score": 0.983,
+                "text": "containing alloys, such as UNS N08904 and UNS S31254, have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2028,
+                    821,
+                    2051
+                ],
+                "score": 0.989,
+                "text": "been developed for industrial applications in aggressive environ-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2055,
+                    829,
+                    2079
+                ],
+                "score": 1.0,
+                "text": "ments. Although the protection mechanism of molybdenum is not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    653,
+                    1584,
+                    679
+                ],
+                "score": 0.996,
+                "text": "FIGURE 7. Pits formed in the UNS S31254 sample, Heat 1, after"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    684,
+                    1239,
+                    707
+                ],
+                "score": 0.996,
+                "text": "potentiostatic polarization at 800"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1310,
+                    684,
+                    1585,
+                    707
+                ],
+                "score": 0.981,
+                "text": "in 0.6 M sodium bromide at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    712,
+                    1068,
+                    732
+                ],
+                "score": 0.992,
+                "text": "80°C for 5 min."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1303,
+                    1583,
+                    1330
+                ],
+                "score": 0.984,
+                "text": "FIGURE 8. Pits formed in the UNS S31254 sample, Heat 2, after the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1334,
+                    1226,
+                    1357
+                ],
+                "score": 0.99,
+                "text": "same treatment as in Figure 7."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    1414,
+                    1553,
+                    1437
+                ],
+                "score": 0.991,
+                "text": "clearly understood, their successful applications in chloride-con-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1442,
+                    1331,
+                    1465
+                ],
+                "score": 0.991,
+                "text": "taining environments are well recognized."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    966,
+                    1467,
+                    1577,
+                    1493
+                ],
+                "score": 0.999,
+                "text": "However, these studies suggest a limitation in the application"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1494,
+                    1549,
+                    1520
+                ],
+                "score": 0.992,
+                "text": "of high molybdenum austenitic stainless steels in bromide solu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1521,
+                    1550,
+                    1548
+                ],
+                "score": 0.999,
+                "text": "tions. Comparison of pitting resistance in chloride/bromide solu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1550,
+                    1575,
+                    1576
+                ],
+                "score": 0.994,
+                "text": "tions, as shown in Figure 3 and 4, shows that alloying with molyb-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1580,
+                    1485,
+                    1603
+                ],
+                "score": 0.985,
+                "text": "denum proves a smaller improvement of pitting corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1606,
+                    1549,
+                    1632
+                ],
+                "score": 0.996,
+                "text": "resistance in bromide than in chloride solutions. In addition, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1634,
+                    1560,
+                    1661
+                ],
+                "score": 0.989,
+                "text": "critical temperatures for pitting (Table 2) clearly show a dramatic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1662,
+                    1545,
+                    1690
+                ],
+                "score": 0.997,
+                "text": "drop in pitting resistance of high-molybdenum-bearing steels in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1691,
+                    1574,
+                    1716
+                ],
+                "score": 0.996,
+                "text": "bromide solution. Pitting attack of UNS S31254 can occur even in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1718,
+                    1581,
+                    1746
+                ],
+                "score": 0.994,
+                "text": "the presence of a small amount of bromide ions in solution (Figure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1743,
+                    951,
+                    1776
+                ],
+                "score": 1.0,
+                "text": "5)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    965,
+                    1772,
+                    1560,
+                    1801
+                ],
+                "score": 0.982,
+                "text": "Pitting corrosion can be caused by a variety of different an-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1802,
+                    1565,
+                    1829
+                ],
+                "score": 0.992,
+                "text": "ions, such as halides, perchlorates and thiocyanates, as summa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1829,
+                    1581,
+                    1858
+                ],
+                "score": 0.981,
+                "text": "rized by Smialowska.8 It is claimed that the most aggressive ion is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1859,
+                    1553,
+                    1885
+                ],
+                "score": 0.991,
+                "text": "chloride, which produces pits in iron, nickel, aluminum, titanium,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1887,
+                    1572,
+                    1913
+                ],
+                "score": 0.992,
+                "text": "zirconium, and their alloys. However, whether chloride or bromide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1913,
+                    1546,
+                    1943
+                ],
+                "score": 0.982,
+                "text": "is the more aggressive is dependent on the alloy. Lower pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1943,
+                    1556,
+                    1968
+                ],
+                "score": 0.999,
+                "text": "potentials have been found in bromide than in chloride solutions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    914,
+                    1968,
+                    1558,
+                    2000
+                ],
+                "score": 0.982,
+                "text": "for titaniumº and tantalum.1º Hence bromide ions are apparently"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    2000,
+                    1471,
+                    2026
+                ],
+                "score": 0.999,
+                "text": "more aggressive than chloride ions in these alloys also."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    2055,
+                    1578,
+                    2082
+                ],
+                "score": 0.997,
+                "text": "based on the mobility, radius, and free energy of adsorption of ha-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    967,
+                    2029,
+                    1561,
+                    2052
+                ],
+                "score": 1.0,
+                "text": "Some efforts have been made to explain these phenomena"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    2118,
+                    230,
+                    2154
+                ],
+                "score": 1.0,
+                "text": "128"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1207,
+                    2112,
+                    1583,
+                    2157
+                ],
+                "score": 0.984,
+                "text": "CoRROSION—February 1990"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1764,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9086,
+                "bbox": [
+                    1484,
+                    50,
+                    1585,
+                    79
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    178,
+                    128,
+                    854,
+                    433
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    177,
+                    433,
+                    852,
+                    687
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9392,
+                "bbox": [
+                    182,
+                    720,
+                    393,
+                    754
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718,
+                "bbox": [
+                    177,
+                    794,
+                    845,
+                    884
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9669,
+                "bbox": [
+                    177,
+                    914,
+                    847,
+                    1030
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9815,
+                "bbox": [
+                    913,
+                    131,
+                    1582,
+                    246
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.949,
+                "bbox": [
+                    917,
+                    279,
+                    1215,
+                    314
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9796,
+                "bbox": [
+                    914,
+                    351,
+                    1576,
+                    464
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9313,
+                "bbox": [
+                    917,
+                    493,
+                    1068,
+                    523
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9266,
+                "bbox": [
+                    937,
+                    566,
+                    1318,
+                    590
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9589,
+                "bbox": [
+                    936,
+                    590,
+                    1574,
+                    634
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9595,
+                "bbox": [
+                    936,
+                    635,
+                    1572,
+                    677
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9213,
+                "bbox": [
+                    936,
+                    679,
+                    1359,
+                    702
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.923,
+                "bbox": [
+                    935,
+                    701,
+                    1540,
+                    725
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9706,
+                "bbox": [
+                    936,
+                    725,
+                    1581,
+                    788
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.923,
+                "bbox": [
+                    935,
+                    790,
+                    1402,
+                    813
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9132,
+                "bbox": [
+                    935,
+                    812,
+                    1579,
+                    836
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9564,
+                "bbox": [
+                    935,
+                    833,
+                    1576,
+                    878
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9604,
+                "bbox": [
+                    930,
+                    879,
+                    1571,
+                    923
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9103,
+                "bbox": [
+                    929,
+                    924,
+                    1437,
+                    947
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9179,
+                "bbox": [
+                    929,
+                    946,
+                    1462,
+                    968
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9546,
+                "bbox": [
+                    930,
+                    968,
+                    1519,
+                    1010
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9392,
+                "bbox": [
+                    929,
+                    1011,
+                    1476,
+                    1036
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9797,
+                "bbox": [
+                    283,
+                    1115,
+                    1585,
+                    1407
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6825,
+                "bbox": [
+                    1050,
+                    1260,
+                    1288,
+                    1336
+                ],
+                "index": 26,
+                "latex": "N a _ { 2 } S O _ { 4 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8173,
+                "bbox": [
+                    1384,
+                    1339,
+                    1531,
+                    1401
+                ],
+                "index": 27,
+                "latex": "9 5 \\%"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9441,
+                "bbox": [
+                    1263,
+                    1480,
+                    1583,
+                    1513
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.931,
+                "bbox": [
+                    179,
+                    1657,
+                    329,
+                    1691
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.977,
+                "bbox": [
+                    175,
+                    1727,
+                    846,
+                    1844
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7844,
+                "bbox": [
+                    1174,
+                    1713,
+                    1324,
+                    1741
+                ],
+                "index": 31,
+                "latex": "H _ { 2 } S O _ { 4 } + 0 . 0 5"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6242,
+                "bbox": [
+                    994,
+                    1741,
+                    1275,
+                    1769
+                ],
+                "index": 32,
+                "latex": "( 0 . 0 5 \\ M \\ N a _ { 2 } S O _ { 4 } , p H = 7 . 2 )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8669,
+                "bbox": [
+                    994,
+                    1769,
+                    1204,
+                    1797
+                ],
+                "index": 33,
+                "latex": "N a _ { 2 } S O _ { 4 } , p H = 1 1 . 8 )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7126,
+                "bbox": [
+                    1355,
+                    1713,
+                    1554,
+                    1742
+                ],
+                "index": 34,
+                "latex": "N a _ { 2 } S O _ { 4 } , p H = 2 . 5 ) ,"
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9448,
+                "bbox": [
+                    185,
+                    1883,
+                    851,
+                    1940
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7679,
+                "bbox": [
+                    909,
+                    1711,
+                    1583,
+                    2080
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.948,
+                "bbox": [
+                    185,
+                    1940,
+                    850,
+                    1996
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9571,
+                "bbox": [
+                    182,
+                    1996,
+                    851,
+                    2081
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9321,
+                "bbox": [
+                    176,
+                    2109,
+                    548,
+                    2149
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9471,
+                "bbox": [
+                    617,
+                    2091,
+                    1149,
+                    2149
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9172,
+                "bbox": [
+                    1523,
+                    2117,
+                    1577,
+                    2147
+                ],
+                "index": 41
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1485,
+                    51,
+                    1584,
+                    83
+                ],
+                "score": 1.0,
+                "text": "SCIENCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    129,
+                    843,
+                    158
+                ],
+                "score": 0.992,
+                "text": "lide ions.11 The acidity of hydrochloric and hydrobromic acids may"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    158,
+                    850,
+                    184
+                ],
+                "score": 0.99,
+                "text": "also be taken into consideration. According to the anion adsorption"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    184,
+                    818,
+                    213
+                ],
+                "score": 0.988,
+                "text": "theory of Uhlig,1² the stronger the ability of anions to adsorb on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    212,
+                    822,
+                    240
+                ],
+                "score": 0.986,
+                "text": "the surface of a metal, the easier it is for passivity to be broken."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    241,
+                    838,
+                    267
+                ],
+                "score": 0.995,
+                "text": "The mobility determines the accumulation rate of aggressive ions,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    266,
+                    847,
+                    296
+                ],
+                "score": 0.996,
+                "text": "which must reach a critical concentration for the initiation of pits.13"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    294,
+                    836,
+                    321
+                ],
+                "score": 0.981,
+                "text": "For the ion penetration model,14 anions of smail radius have eas-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    321,
+                    839,
+                    351
+                ],
+                "score": 0.996,
+                "text": "ier access to the passive film. According to the localized acidifica-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    350,
+                    800,
+                    378
+                ],
+                "score": 0.992,
+                "text": "tion theory,² the drop of pH and accumulation of chloride, ions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    379,
+                    820,
+                    404
+                ],
+                "score": 0.997,
+                "text": "within pits make the pit environment similar to hydrochloric acid,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    407,
+                    690,
+                    432
+                ],
+                "score": 0.998,
+                "text": "which is more destructive than hydrobromous acid."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    234,
+                    433,
+                    848,
+                    459
+                ],
+                "score": 0.989,
+                "text": "No theory has taken into consideration the specific interaction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    461,
+                    815,
+                    489
+                ],
+                "score": 0.99,
+                "text": "between molybdenum and the aggressive anions, but there are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    490,
+                    821,
+                    516
+                ],
+                "score": 0.998,
+                "text": "clear differences in the behavior of alloyed molybdenum in chlo-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    518,
+                    845,
+                    544
+                ],
+                "score": 0.994,
+                "text": "ride and bromide solutions, as shown in this work. It would appear"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    545,
+                    825,
+                    572
+                ],
+                "score": 0.994,
+                "text": "that there is a specificity in the ability of molybdenum to improve"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    574,
+                    815,
+                    600
+                ],
+                "score": 0.993,
+                "text": "pitting resistance in the various aggressive ions. This specificity"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    602,
+                    837,
+                    627
+                ],
+                "score": 0.993,
+                "text": "suggests that there is an important chemical relationship betwéen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    629,
+                    833,
+                    656
+                ],
+                "score": 0.991,
+                "text": "the molybdenum and the aggressive ion, and that this is stronger"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    657,
+                    575,
+                    683
+                ],
+                "score": 0.989,
+                "text": "in the case of chloride than of bromide."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    724,
+                    389,
+                    760
+                ],
+                "score": 0.972,
+                "text": "CONCLUSIÓNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    796,
+                    835,
+                    823
+                ],
+                "score": 0.993,
+                "text": "UNS N08904 and UNS S31254 are more susceptible to pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    826,
+                    840,
+                    851
+                ],
+                "score": 0.993,
+                "text": "corrosion in bromide than in chloride, as evidenced by the relative"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    855,
+                    731,
+                    879
+                ],
+                "score": 0.988,
+                "text": "pitting potentials and the “critical pitting temperatures.\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    917,
+                    845,
+                    943
+                ],
+                "score": 1.0,
+                "text": "Variations in cleanliness of UNS S31254 affect the pitting resis-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    945,
+                    817,
+                    970
+                ],
+                "score": 0.994,
+                "text": "tance in bromide solution, and the nucleation of pits at titanium-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    973,
+                    828,
+                    998
+                ],
+                "score": 0.996,
+                "text": "rich inclusions occurs, but there is little commensurate change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1003,
+                    496,
+                    1025
+                ],
+                "score": 0.997,
+                "text": "the measured pitting potentials."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    920,
+                    132,
+                    1574,
+                    160
+                ],
+                "score": 0.981,
+                "text": " There is a specificity in the action of molybdenum in controlling"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    921,
+                    160,
+                    1578,
+                    188
+                ],
+                "score": 0.977,
+                "text": "pitting corrosion in the presence of chloride and bromide, suggest-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    922,
+                    189,
+                    1533,
+                    212
+                ],
+                "score": 0.992,
+                "text": "ing that the mechanism of this action is related to the detailed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    921,
+                    215,
+                    1380,
+                    240
+                ],
+                "score": 0.995,
+                "text": "chlorine or bromine chemistry of molybdenum."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    921,
+                    285,
+                    1210,
+                    317
+                ],
+                "score": 1.0,
+                "text": "ACKNOWLEDGMENTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    970,
+                    353,
+                    1562,
+                    378
+                ],
+                "score": 0.993,
+                "text": "This research was performed under a contract with Cheme-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    380,
+                    1555,
+                    407
+                ],
+                "score": 0.998,
+                "text": "tics International Company, a division of C.I.L. Inc., and with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    919,
+                    408,
+                    1570,
+                    435
+                ],
+                "score": 0.987,
+                "text": "support of the Natural Sciences and Engineering Research Coun-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    922,
+                    438,
+                    1057,
+                    458
+                ],
+                "score": 1.0,
+                "text": "cil of Canada"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    922,
+                    500,
+                    1063,
+                    524
+                ],
+                "score": 0.984,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    939,
+                    568,
+                    1314,
+                    590
+                ],
+                "score": 0.992,
+                "text": "1. Z.S. Smialowska, Corrosion 27(1971): p. 223."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    938,
+                    591,
+                    1571,
+                    612
+                ],
+                "score": 0.989,
+                "text": "2. J.R. Galvele, Passivity of Metals, ed. R. Frankenthal, J. Kruger (Pennington, NJ:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    976,
+                    614,
+                    1268,
+                    633
+                ],
+                "score": 0.978,
+                "text": "Electrochemical Society, 1978), p. 285."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    939,
+                    632,
+                    1570,
+                    658
+                ],
+                "score": 0.987,
+                "text": "3. M. Janik-Czachor, G.C. Wood, and G.E. Thompson, Brit. Corros. J. 15(1980): p"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    975,
+                    654,
+                    1011,
+                    680
+                ],
+                "score": 1.0,
+                "text": "154."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    937,
+                    680,
+                    1355,
+                    701
+                ],
+                "score": 0.988,
+                "text": "4. A.P. Bond, J. Electrochem. Soc. 120(1973): p. 603."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    937,
+                    702,
+                    1536,
+                    724
+                ],
+                "score": 0.986,
+                "text": "5. G. Herbsleb, H. Hildebrand, W. Schwenk, Werkst. Korros. 27(1976): p. 618."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    939,
+                    726,
+                    957,
+                    743
+                ],
+                "score": 1.0,
+                "text": "6."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    724,
+                    1579,
+                    745
+                ],
+                "score": 0.995,
+                "text": "M.B. Ives, G. Ruijin, S.C. Srivastava, in Proceedings, 10th International Congress"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    745,
+                    1529,
+                    769
+                ],
+                "score": 0.991,
+                "text": "on Metallic Corrosion, Vol. 4 (Calcutta, India: Oxford & IBH Publishing Co.,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    975,
+                    769,
+                    1089,
+                    789
+                ],
+                "score": 0.975,
+                "text": "1987), p. 3225."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    936,
+                    791,
+                    1397,
+                    812
+                ],
+                "score": 0.993,
+                "text": "7. S.C. Srivastava, M.B. Ives, Corrosion 45,6(1989): p. 488."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    937,
+                    813,
+                    1577,
+                    835
+                ],
+                "score": 0.993,
+                "text": "8. Z.S. Smialowska, Pitting Corrosion of Metals (Houston, TX: NACE, 1986), p. 201."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    937,
+                    834,
+                    1573,
+                    857
+                ],
+                "score": 0.993,
+                "text": "9. T.R. Beck, Localized Corrosion, ed. R. Staehle, B. Brown, J. Kruger, A. Agrawal,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    976,
+                    859,
+                    1238,
+                    877
+                ],
+                "score": 0.977,
+                "text": "(Houston, TX: NACE 1974), p. 644."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    931,
+                    880,
+                    1567,
+                    900
+                ],
+                "score": 0.988,
+                "text": "10. M.F. Abd Rabboh, P.J. Boden, Localized Corrosion, ed. R. Staehle, B. Brown, J"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    903,
+                    1391,
+                    922
+                ],
+                "score": 0.993,
+                "text": "Kruger, A. Agrawal, (Houston, TX: NACE, 1974), p. 653."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    929,
+                    925,
+                    1435,
+                    944
+                ],
+                "score": 0.979,
+                "text": "11. H.J. Ratzer-Scheibe, H.G. Teller, Corros. Sci. 13(1973): p. 11."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    929,
+                    946,
+                    1459,
+                    968
+                ],
+                "score": 0.992,
+                "text": "12. H.P. Leckie, H.H. Uhlig, J. Electrochem. Soc. 113(1966): p. 1262."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    931,
+                    969,
+                    1515,
+                    990
+                ],
+                "score": 0.991,
+                "text": "13. G. Ruijin, H. Shizhong, J. of Chinese Society of Corrosion and Protection"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    975,
+                    992,
+                    1093,
+                    1011
+                ],
+                "score": 0.984,
+                "text": "6(1986): p. 113."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    929,
+                    1013,
+                    1471,
+                    1035
+                ],
+                "score": 0.971,
+                "text": "14. T.P. Hoar, D.C. Mears, G.P. Rothwell, Corros. Sci. 5(1965): p. 279."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    721,
+                    1114,
+                    1584,
+                    1186
+                ],
+                "score": 1.0,
+                "text": "Electrochemical Investigation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    495,
+                    1183,
+                    1587,
+                    1264
+                ],
+                "score": 1.0,
+                "text": "of Hydrogen Absorption of Type 304"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    286,
+                    1261,
+                    1038,
+                    1328
+                ],
+                "score": 0.987,
+                "text": "Stainless Steel in 0.05 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1303,
+                    1259,
+                    1584,
+                    1332
+                ],
+                "score": 1.0,
+                "text": "Solutions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    851,
+                    1331,
+                    1371,
+                    1407
+                ],
+                "score": 0.985,
+                "text": "of Different pH at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1546,
+                    1335,
+                    1581,
+                    1370
+                ],
+                "score": 1.0,
+                "text": "☆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1268,
+                    1483,
+                    1579,
+                    1510
+                ],
+                "score": 0.991,
+                "text": "N. Ohnaka and Y. Furutani*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    1661,
+                    326,
+                    1694
+                ],
+                "score": 1.0,
+                "text": "ABSTRACT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1731,
+                    812,
+                    1754
+                ],
+                "score": 0.999,
+                "text": "An investigation of the permeation rate of electrolytic hydrogen"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    180,
+                    1757,
+                    810,
+                    1783
+                ],
+                "score": 0.975,
+                "text": "through a type 304 (UNS(1) S30400) stainless steel membrane"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1787,
+                    840,
+                    1809
+                ],
+                "score": 0.984,
+                "text": "using an electrochemical technique is described. The variation of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1816,
+                    822,
+                    1838
+                ],
+                "score": 0.995,
+                "text": "the permeation rate with cathodic overpotential has been deter-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1890,
+                    846,
+                    1910
+                ],
+                "score": 0.99,
+                "text": "\"Submitted for publication November 1986. paper no. 261 at CORROSION/87 in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1918,
+                    472,
+                    1935
+                ],
+                "score": 0.983,
+                "text": "San Francisco, CA, March 1987."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1715,
+                    1171,
+                    1738
+                ],
+                "score": 0.976,
+                "text": "mined in acidic (0.005 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    1713,
+                    1354,
+                    1739
+                ],
+                "score": 1.0,
+                "text": "M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1742,
+                    992,
+                    1767
+                ],
+                "score": 1.0,
+                "text": "neutral"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1280,
+                    1744,
+                    1578,
+                    1767
+                ],
+                "score": 0.987,
+                "text": "and alkaline (0.01 N NaOH+"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1769,
+                    993,
+                    1794
+                ],
+                "score": 0.992,
+                "text": "0.05 M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1210,
+                    1770,
+                    1576,
+                    1796
+                ],
+                "score": 1.0,
+                "text": "solutions under deaerated condition."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1798,
+                    1550,
+                    1824
+                ],
+                "score": 0.998,
+                "text": "The electrochemical relationships between electrochemical pa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1827,
+                    1580,
+                    1853
+                ],
+                "score": 0.993,
+                "text": "rameters like cathodic overpotential, cathodic current, and perme-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1855,
+                    1571,
+                    1881
+                ],
+                "score": 0.997,
+                "text": "ation current, indicate that hydrogen evolution and absorption re-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1884,
+                    1504,
+                    1909
+                ],
+                "score": 0.999,
+                "text": "actions occur through different mechanisms depending on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    915,
+                    1912,
+                    1555,
+                    1937
+                ],
+                "score": 0.999,
+                "text": "solution pH. A coupled-discharge recombination is confirmed in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    1939,
+                    1554,
+                    1964
+                ],
+                "score": 0.996,
+                "text": "acidic solutions. Some indications were obtained in neutral and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    1969,
+                    1559,
+                    1991
+                ],
+                "score": 0.983,
+                "text": "alkaline solutions that a direct absorption mechanism without an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    918,
+                    1997,
+                    1572,
+                    2020
+                ],
+                "score": 0.984,
+                "text": "adsorption state may operate. The critical potentials above which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    917,
+                    2025,
+                    1566,
+                    2048
+                ],
+                "score": 0.995,
+                "text": "the hydrogen entrance is unlikely to occur were determined from"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    916,
+                    2054,
+                    1556,
+                    2076
+                ],
+                "score": 1.0,
+                "text": "aerated permeation experiments. These potentials coincide with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1944,
+                    844,
+                    1965
+                ],
+                "score": 0.989,
+                "text": "* Hitachi Research Laboratory, Hitachi Ltd., 1-1, Saiwaicho 3 Chome, Hitachi-Shi,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    203,
+                    1972,
+                    397,
+                    1993
+                ],
+                "score": 0.992,
+                "text": "Ibaraki-ken, 317 Japan."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    1997,
+                    845,
+                    2024
+                ],
+                "score": 0.993,
+                "text": "(1) UNS numbers are listed in Metals and Alloys in the Unified Numbering System,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    2029,
+                    845,
+                    2050
+                ],
+                "score": 0.979,
+                "text": "published by the Society of Automotive Engineers (SAE) and cosponsored by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    2057,
+                    666,
+                    2078
+                ],
+                "score": 0.994,
+                "text": "the American Society for Testing and Materials (ASTM)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    2109,
+                    547,
+                    2151
+                ],
+                "score": 0.957,
+                "text": "CORROSION—Vol. 46, No. 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    734,
+                    2093,
+                    1031,
+                    2118
+                ],
+                "score": 1.0,
+                "text": "0010-9312/90/000041/$3.00/0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    620,
+                    2122,
+                    1145,
+                    2147
+                ],
+                "score": 0.99,
+                "text": "©1990, National Association of Corrosion Engineers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1524,
+                    2117,
+                    1576,
+                    2153
+                ],
+                "score": 1.0,
+                "text": "129"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1764,
+            "height": 2200
+        }
+    }
+]

@@ -1,0 +1,2230 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Evolution of microstructure, hardness, and corrosion properties of high-entropy "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { 0 . 5 } \\mathsf C"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oCrFeNi alloy"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                219,
+                922,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Chun-Ming Lin*, Hsien-Lung Tsai"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                273,
+                336,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Mechanical Engineering, National Taiwan University of Science and Technology, 43, Keelung Road, Section 4, Taipei 10673, Taiwan"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                296,
+                774,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a r t i c l e i n f o"
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                337,
+                218,
+                350
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Article history:"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Received 27 July 2010"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Received in revised form"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15 September 2010"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Accepted 11 October 2010"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Available online 4 December 2010"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Keywords:"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. Alloy design"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. Corrosion"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. Precipitates"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. Heat treatment"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. Casting"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                361,
+                233,
+                428
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": []
+            },
+            "bbox": [
+                50,
+                440,
+                149,
+                508
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a b s t r a c t"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                327,
+                336,
+                448,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, we investigate the microstructure, hardness, and corrosion properties of as-cast Al CoCrFeNi alloy as well as Al CoCrFeNi alloys aged at temperatures of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 ^ { \\circ } \\mathrm { C } , 5 0 0 ^ { \\circ } \\mathrm { C } , 6 5 0 ^ { \\circ } \\mathrm { C } , 8 0 0 ^ { \\circ } \\mathrm { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 950 \u0001C for 24 h. The microstructures of the various specimens are investigated using X-ray diffraction (XRD), scanning electron microscopy (SEM), and electron probe X-ray microanalysis (EPMA). The results show that the microstructure of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "comprises an FCC solid solution matrix and droplet-shaped phases (AleNi rich phases). At aging temperatures of between 350 and 950 \u0001C, the alloy microstructure comprises an FCC BCC solid solution with a matrix, droplet-shaped phases (AleNi rich phase), wall-shaped phases, and needle-shaped phases (Ale(Ni, Co, Cr, Fe) phase). The aging process induces a spinodal decomposition reaction which reduces the amount of the AleNi rich phase in the aged microstructure and increases the amount of the Ale(Ni, Co, Cr, Fe) phase. The hardness of the Al CoCrFeNi alloy increases after aging. The optimal hardness is obtained at aging temperatures in the range 350e800 \u0001C, and the hardening effect decreases at higher temperatures. Both the as-cast and aged specimens are considerably corroded when immersed in a 3.5% NaCl solution because of the segregation of the AleNi rich phase precipitate formed in the FCC matrix. Cl\u0003 ions preferentially attack the AleNi rich phase, which is a sensitive zone exhibiting an appreciable potential difference, with consequent galvanic action."
+                    }
+                ]
+            },
+            "bbox": [
+                326,
+                361,
+                932,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\u0001 2010 Elsevier Ltd. All rights reserved."
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                554,
+                931,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                598,
+                161,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Many practical alloy systems have been developed over the years for a wide range of engineering and industrial applications. Most of these alloy systems are based on one or two dominant elements, e.g. ferrous alloys, intermetallic alloys [1,2], bulk metallic glass alloys [3e5], and so on. However, according to conventional metallurgical theory, the presence of multiple elements in an alloy system results in the formation of various compounds, which give rise to a complex microstructure with poor properties. Consequently, Yeh et al. [6,7] developed high-entropy alloy systems (HEASs), in which the multiple elements were added in equi-molar or near equi-molar ratios. Such systems have a far broader range of applications than conventional alloys and may contain five or even more major alloying elements at levels of 5e35 at.% [8e12]. Solid solution structures with multiple principal elements are more stable than conventional FCC, BCC, or FCC BCC structures since they form nano-precipitates in the as-cast state on account of their large entropies of mixing [6,11]. HEASs have excellent hightemperature properties, mechanical properties, and corrosion resistance, and they are therefore ideally suited to industrial applications. In practice, the properties of a HEAS depend on the relative compositions of the various elements within the system [13e20]. The microstructure and properties of the Al CoCrFeNi alloy, a typical HEAS, have been extensively studied and reported in the literature [14,21e23]. Moreover, the effects of the addition or substitution of various constituents of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { x } \\mathsf { C o C r F e N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy on the microstructure and properties of the alloy system at room temperature or elevated temperatures have been examined [13,24,25]. However, the hardness, corrosion properties, and microstructure evolution of Al<sub>x</sub>CoCrFeNi alloy over a range of aging temperatures have not been sufficiently studied. Accordingly, this study examines the microstructure, hardness, and corrosion properties of as-cast "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy as well as Al CoCrFeNi alloys aged at temperatures of 350 \u0001C, 500 \u0001C, 650 \u0001C, 800 \u0001C, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively, for 24 h."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                625,
+                480,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                499,
+                598,
+                932,
+                838
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Experimental procedures"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                502,
+                851,
+                699,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The high-entropy Al<sub>0.5</sub>CoCrFeNi alloy system was melted under an Ar atmosphere in an arc furnace with adequate amounts of highly pure Al, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\left( 0 , \\right. }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Ni, Cr, Fe, and Ni elements (99.99%). Specimens with dimensions of 10 mm 10 mm 7 mm were prepared. Some ofthe specimens were retained in an as-cast condition, whereas the remaining specimens were aged in an Ar atmosphere for 24 h at temperatures of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 ~ ^ { \\circ } \\mathrm { C } , 5 0 0 ~ ^ { \\circ } \\mathrm { C } , 6 5 0 ~ ^ { \\circ } \\mathrm { C } , 8 0 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "or 950 \u0001C and then quenched in water. The crystalline phases of the various alloy specimens were identified via X-ray diffraction (XRD, Rigaku "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { D } / \\mathsf { M a x } { - 2 5 0 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "diffractometer with Cu-Ka radiation) at a scanning speed of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ^ { \\circ } / \\mathrm { m i n } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", voltage of 30 kV, and current of 50 mA. The microstructures and chemical compositions of the alloy were then examined using energy dispersive X-ray spectrometry (EDS) and electron probe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathrm { X - r a y } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "microanalysis (EPMA, JEOL JXA-8009R) techniques. The hardness of the as-cast and aged specimens was measured using a Vickers hardness tester (Matsuzawa, Seiki MV-1) under a load of 300 kgf for 15 s. Finally, the electrochemical corrosion properties of the various specimens when immersed in a 3.5% NaCl solution at room temperature were determined from the anodic polarization curves obtained using a potentiodynamic method. Each specimen was scanned potentiodynamically at a rate of1 mV "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "s ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from an initial potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { o f } 0 . 5 \\mathsf { V } _ { \\mathsf { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with reference to the open circuit potential to a final potential of 1.5 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note that calibration was performed in accordance with the ASTM G59 test standard [26]."
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                876,
+                932,
+                905
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                56,
+                578,
+                69
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                50,
+                88,
+                156,
+                158
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect"
+                    }
+                ]
+            },
+            "bbox": [
+                359,
+                89,
+                628,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                52,
+                161,
+                156,
+                176
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Intermetallics"
+                    }
+                ]
+            },
+            "bbox": [
+                413,
+                119,
+                573,
+                139
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "journal homepage: www elsevier com/locate/intermet"
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                160,
+                712,
+                175
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Intermetallics"
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                80,
+                927,
+                175
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Corresponding author. Tel.: 886 2 2737 3141x7304; fax: 886 2 2737 6460. E-mail addresses: D9503503@mail.ntust.edu.tw (C.-M. Lin), johntsai@mail.ntust. edu.tw (H.-L. Tsai)."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                870,
+                478,
+                904
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0966-9795/$ e see front matter \u0001 2010 Elsevier Ltd. All rights reserved. doi:10.1016/j.intermet.2010.10.008"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                915,
+                428,
+                938
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                63,
+                80,
+                497,
+                385
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Results and discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                397,
+                245,
+                411
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Hardness of Al CoCrFeNi alloy"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                422,
+                295,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 shows the hardness values of the Al CoCrFeNi HEAS specimens aged at different temperatures. The hardness increases from H<sub>V</sub> 247 in the as-cast condition to between H<sub>V</sub> 256 and H<sub>V</sub> 285 following aging at temperatures in the range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 { \\mathrm { - } } 9 5 0 \\ ^ { \\circ }  C ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "In addition, maximum age hardening occurs at temperatures between "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "i.e. the hardness reduces as the temperature is further increased to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ~ ^ { \\circ } \\mathsf C ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The age hardening phenomena are discussed later in relation to the microstructural observations."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                450,
+                497,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. X-ray diffraction of Al CoCrFeNi alloy"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                568,
+                342,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2 shows the XRD patterns of the as-cast and aged specimens. The results show that the as-cast specimen is an FCC solid solution, whereas the aged specimens are FCC BCC solid solutions. The lattice constants of the BCC and FCC solid solutions are calculated from the principal peaks to be 2.834 <sup>-</sup>A and 3.562 <sup>-</sup>A, respectively. As the aging temperature is increased from 350 to 950 \u0001C, the FCC peak intensity approaches that of the BCC peak at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\theta = 4 2 - 4 8 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". As the aging temperature is increased further, the FCC peak intensity decreases, whereas the BCC peak intensity increases. Thus, it is inferred that aging at high temperatures causes the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy to gradually transform from a stable FCC structure to a BCC structure. From an overall perspective, Figs. 1 and 2 suggest that the transition of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy system to a BCC solid solution increases the hardness of the alloy on account of the corresponding lattice distortion."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                593,
+                495,
+                663
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/281e415bcba11fe77469998842cb69c0948085d8841d57876d6d5ab8d7db5c75.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Hardness of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { 0 . 5 } { \\mathsf { C o C I } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "FeNi alloy processed at various aging temperatures."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                75,
+                684,
+                485,
+                916
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2e1b89cc48edb41fb5f3d8b3fa2de2c3891940826499b2d3e6b96cd67fec609e.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. XRD patterns of Al<sub>0.5</sub>CoCrFeNi alloy processed at various aging temperatures."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                522,
+                83,
+                942,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                515,
+                368,
+                949,
+                501
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3. Microstructural characteristics of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l _ { 0 . 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrFeNi alloy"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                518,
+                878,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 shows backscattered electron images (BEI) of the as-cast and aged specimens. In general, the BEI images show that in addition to the matrix, the solidified microstructures contain a droplet-shaped phase (DSP; in every specimen) and wall-shaped and needle-shaped phases (WSP and NSP, respectively; in the aged specimens only). As discussed above, the as-cast specimen has an FCC solid solution structure, whereas the aged specimens have an "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { F C C } + \\mathsf { B C C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solid solution structure. Table 1 lists the chemical compositions of the various as-cast and aged specimens as obtained from the EDX analysis results. The results show that the matrix and WSPs are Al-depleted phases, whereas the DSPs are AleNi rich phases. Furthermore, the size of the DSPs reduces as the aging temperature is increased, and NSP precipitates rich in Al as well as Ni, Co, Cr, and Fe are formed in the matrices of all the aged specimens, as shown in Fig. 3(b)e(f). In general, the BEI images suggest that the Al content of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy system prompts the formation of a BCC solid solution structure under thermal effects. Note that this inference is consistent with the findings of previous studies [6,21,27]. The formation of a considerable amount of intragranular phase segregates occurs at high aging temperatures. The segregation ratio (SR) represents the degree of element segregation and is defined as"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                544,
+                949,
+                837
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathsf { S R } = \\frac { \\mathsf { M P } \\mathrm { i n } \\mathsf { z o n e A } } { \\mathsf { D S P } , \\mathsf { W S P } , \\mathsf { o r N S P } \\mathrm { i n } \\mathsf { z o n e B } } ,",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5e5960cf28d4d377cd37bc5d235500391f80dddfb6338cf7e3b5d5668d458ff9.jpg"
+                }
+            },
+            "bbox": [
+                517,
+                846,
+                763,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where zone A is the zone ofthe matrix phase (MP); zone B, the zone of segregation of the DSP, WSP, or NSP."
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                885,
+                947,
+                911
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 lists the phase SRs. The matrix phases are the major phases of the as-cast specimens and of those aged at up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                911,
+                947,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                56,
+                642,
+                69
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "289"
+                    }
+                ]
+            },
+            "bbox": [
+                924,
+                58,
+                947,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/733b569e2b5172abb8d362fca999b6b77b3f058d30b23560db8f19fc1ffc5693.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. BEI images of Al CoCrFeNi alloy specimens processed at various aging temperatures: (a) as-cast, (b) 350 \u0001C, (c) 500 \u0001C, (d) 650 \u0001C, (e) 800 \u0001C, and (f) 950 \u0001C."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                151,
+                80,
+                831,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The matrix phase becomes an NSP when the specimen is treated from 350 to 950 \u0001C. The BEI images in Fig. 3 show that the FCC solid solution structure (i.e. the DSPs) and the BCC solid solution phases (i.e. the NSPs) segregate from the FCC matrix at elevated aging temperatures. This phase segregation effect occurs because the AleNi rich phase and the Ale(Ni, Co, Cr, Fe) phases have a higher negative mixing enthalpy than the other atom pairs of the five principal elements in the alloy system (Table 2). In practice, the negative mixing enthalpy of these particular atoms means that it is virtually impossible to prevent the segregation of the AleNi rich phase and the Ale(Ni, Co, Cr, Fe) phases during heat treatment [28e30]. In addition, the specimens aged at temperatures between"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                641,
+                480,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                499,
+                641,
+                932,
+                722
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1bcf1eed1751aee616d9a1c492897c5ec1889e62359045fa54d260a81d9a7587.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "EDX analysis results for chemical composition (at.%) of Al0.5CoCrFeNi alloy samples processed at different aging temperatures."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td colspan=\"5\">Unit: at.%</td><td></td><td></td><td colspan=\"5\">Unit: at.%</td></tr><tr><td></td><td></td><td>Al</td><td>Co</td><td>Cr</td><td>Fe</td><td>Ni</td><td></td><td></td><td>Al</td><td>Co</td><td>Cr</td><td>Fe</td><td>Ni</td></tr><tr><td>As-cast</td><td>NSP</td><td>1</td><td>一</td><td>一</td><td>一</td><td>一</td><td>650℃</td><td>NSP WSP</td><td>15</td><td>21</td><td>21</td><td></td><td>22</td></tr><tr><td></td><td>WSP</td><td>一</td><td>1</td><td>一</td><td>一</td><td>一</td><td></td><td>DSP</td><td>17</td><td>20</td><td>21</td><td>19</td><td>23</td></tr><tr><td></td><td>DSP</td><td>25</td><td>19</td><td>12</td><td>12</td><td>32</td><td></td><td></td><td>26</td><td>18</td><td>10</td><td>12</td><td>34</td></tr><tr><td></td><td>MP</td><td>10</td><td>23</td><td>22</td><td>23</td><td>22</td><td></td><td>MP</td><td>8</td><td>23</td><td>21</td><td>24</td><td>24</td></tr><tr><td>350℃</td><td>NSP</td><td>15</td><td>22</td><td>19</td><td>19</td><td>25</td><td>800℃</td><td>NSP</td><td>14</td><td>23</td><td>19</td><td>23</td><td>21</td></tr><tr><td></td><td>WSP</td><td>17</td><td>21</td><td>19</td><td>20</td><td>24</td><td></td><td>WSP</td><td>16</td><td>21</td><td>18</td><td>20</td><td>25</td></tr><tr><td></td><td>DSP</td><td>24</td><td>17</td><td>12</td><td>14</td><td>33</td><td></td><td>DSP</td><td>25</td><td>16</td><td>12</td><td>12</td><td>35</td></tr><tr><td></td><td>MP</td><td>8</td><td>24</td><td>22</td><td>25</td><td>22</td><td></td><td>MP</td><td>10</td><td>23</td><td>21</td><td>22</td><td>24</td></tr><tr><td>500℃</td><td>NSP</td><td>17</td><td>21</td><td>19</td><td>21</td><td>22</td><td>950℃</td><td>NSP</td><td>19</td><td>20</td><td>19</td><td>21</td><td>21</td></tr><tr><td></td><td>WSP</td><td>18</td><td>20</td><td>19</td><td>19</td><td>23</td><td></td><td>WSP</td><td>15</td><td>21</td><td>25</td><td>24</td><td>18</td></tr><tr><td></td><td>DSP</td><td>21</td><td>20</td><td>14</td><td>16</td><td>29</td><td></td><td>DSP</td><td>26</td><td>17</td><td>7</td><td>12</td><td>38</td></tr><tr><td></td><td>MP</td><td>9</td><td>24</td><td>21</td><td>23</td><td>23</td><td></td><td>MP</td><td>9</td><td>24</td><td>21</td><td>23</td><td>23</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                52,
+                764,
+                927,
+                931
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "290"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                58,
+                75,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                56,
+                625,
+                69
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1d648bd3256ecc6ccdef715f9adf6af23e42af4f412012b944761c08ac3bcca8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Chemical mixing enthalpy of atom pairs in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l } _ { 0 . 5 } ("
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrFeNi alloy system."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Element</td><td colspan=\"5\">Unit: KJ/mol</td></tr><tr><td></td><td> $\\mathtt { F e }$ </td><td>Co</td><td>Ni</td><td>Cr</td><td>Al</td></tr><tr><td>Fe</td><td></td><td>-1</td><td>-2</td><td>-1</td><td>-11</td></tr><tr><td>Co</td><td></td><td>一</td><td>0</td><td>-4</td><td>-19</td></tr><tr><td>Ni</td><td></td><td></td><td>一</td><td>-7</td><td>-22</td></tr><tr><td>Cr</td><td></td><td></td><td></td><td>一</td><td>10</td></tr><tr><td>Al</td><td></td><td></td><td></td><td></td><td>一</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                104,
+                492,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "350 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "contained WSPs within the DSPs, as shown in Fig. 3 (b)e(f). The beliefis that the formation of these WSPs was the result of the metastable phase. The presence of the WSPs could be ascribed to the rapid cooling of each component to room temperature, wherein the component began solidifying into its preferred crystalline structure, and to the setting of the metastable structure established by aging at temperatures between 350 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ~ ^ { \\circ } \\mathsf C ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Accordingly, the composition of various elements and atoms differed during the diffusion process. In the DSP structure, the cooling rate of the WSPs was very high due to of the small volume (i.e. the WSPs). As a result, the diffuse field of solutes in the liquid was in a state of non-equilibrium, and the concentration and flux of solutes could not be predicted using classical local equilibrium theory. These effects caused the shortening of the mean free path of diffusing atoms, which in turn led to the formation of a metastable structure."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                225,
+                497,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As discussed above, NSPs are precipitated out of the matrix during thermal aging at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 0 { - } 9 5 0 ~ ^ { \\circ } \\mathrm { C } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "this is because the mixing enthalpy of the AleNi rich phase and the Ale(Ni, Co, Cr, Fe) phases is lower (i.e. more negative) than that of the other atom pairs of the five principal alloying elements [14]. Because the growth of the NSPs follows a parabolic kinetic equation, it can be considered that their growth is diffusion-controlled [31]. Therefore, the aging temperature has a significant effect on the growth rate of the NSPs. Thus, the size of the NSPs increases with temperature, as shown in Fig. 3(b)e(f). Further study showed that the DSP appears because of a relatively high degree of negative mixing enthalpy between Al"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                437,
+                497,
+                585
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b1a9e7518757751d6f66296be6e21ef7081e8b30e132a00d326e9b80b163b8e2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Segregation ratios (SRs) for droplet-shaped phase (DSP), wall-shaped phase (WSP) and needle-shaped phase (NSP)."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td>Al</td><td>Co</td><td>Cr</td><td>Fe</td><td>Ni</td></tr><tr><td rowspan=\"2\">As-cast</td><td>SR1</td><td>0.4</td><td>1.2</td><td>1.8</td><td>1.9</td><td>0.7</td></tr><tr><td>SR2</td><td>一</td><td>一</td><td>一</td><td>一</td><td>一</td></tr><tr><td rowspan=\"3\">350℃</td><td>SR3</td><td>一</td><td>一</td><td>一</td><td>一</td><td>一</td></tr><tr><td>SR1</td><td>0.5</td><td>1.1</td><td>1.2</td><td>1.3</td><td>0.9</td></tr><tr><td>SR2</td><td>0.5</td><td>1.1</td><td>1.2</td><td>1.3</td><td>0.9</td></tr><tr><td rowspan=\"3\">500℃</td><td>SR3</td><td>0.3 0.5</td><td>1.4</td><td>1.8</td><td>1.8</td><td>0.7</td></tr><tr><td>SR1</td><td></td><td>1.1</td><td>1.1</td><td>1.1</td><td>1.0</td></tr><tr><td>SR2</td><td>0.5 0.4</td><td>1.2 1.2</td><td>1.1</td><td>1.2</td><td>1.0</td></tr><tr><td rowspan=\"3\">650℃</td><td>SR3</td><td>0.5</td><td>1.1</td><td>1.5</td><td>1.4</td><td>0.8</td></tr><tr><td>SR1</td><td>0.5</td><td>1.2</td><td>1.0</td><td>1.0</td><td>1.1</td></tr><tr><td>SR2 SR3</td><td>0.3</td><td>1.3</td><td>1.0</td><td>1.3</td><td>1.0</td></tr><tr><td rowspan=\"3\">800 ℃</td><td></td><td>0.7</td><td>1.0</td><td>2.1 1.1</td><td>2.0</td><td>0.7</td></tr><tr><td>SR1</td><td>0.6</td><td>1.1</td><td>1.2</td><td>1.0</td><td>1.1</td></tr><tr><td>SR2</td><td></td><td></td><td></td><td>1.1</td><td>1.0</td></tr><tr><td rowspan=\"3\">950℃</td><td>SR3</td><td>0.4</td><td>1.4</td><td>1.8</td><td>1.8</td><td>0.7</td></tr><tr><td>SR1</td><td>0.5</td><td>1.2</td><td>1.1</td><td>1.1</td><td>1.1</td></tr><tr><td>SR2 SR3</td><td>0.6 0.3</td><td>1.1 1.4</td><td>0.8 3.0</td><td>1.0 1.9</td><td>1.3 0.6</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                644,
+                492,
+                860
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm { S R } _ { 1 } = \\frac { \\mathrm { M a t r i x p h a s e \\ : ( M P ) } } { \\mathrm { D r o p l e t - \\ : s h a p e d \\ p h a s e \\ : ( D S P ) } } .",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/31920f4901bf85ab4cfe0823479d64b84ccc0f1426184f52cf9c483134510ae6.jpg"
+                }
+            },
+            "bbox": [
+                67,
+                863,
+                265,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and Ni, which tend to form atom pairs and segregate within the matrix. In other words, at first, the phase has a precipitate structure in the earliest stages of as-cast. With an increase in temperature, these DSPs grow in size and decrease in number, with a nonuniform distribution. Following thermal aging between 350 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the NSP could be attributed to segregation of heterogeneous atoms resulting in the microstructure of DSPs adjacent to the substrate. This could be described as large quantities of needle-like precipitate sprinkled throughout the matrix. When the temperature increased, the NSPs were distributed densely throughout the matrix and began transforming then the volume fraction of NSPs (i.e. after aging treatment) gradually increased. These NSPs are often called secondary precipitation structures. The NSPs are considered to be directly related to the age hardening effect shown in Fig. 1. At lower aging temperatures, the DSPs (AleNi rich phase) do not decompose, and tiny NSPs (Ale(Ni, Co, Cr, Fe) phase) are precipitated in the matrix. These highly dense precipitates strongly influence the hardening process. At temperatures greater than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the NSPs have a larger size and are therefore more sparsely distributed in the matrix. As a result, the hardness of the aged microstructure reduces (Fig. 1)."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                79,
+                949,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4 shows BEI images and the corresponding EPMA elemental mapping (without etching) results for the as-cast specimen and for two specimens aged at temperatures of 650 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The results show that the DSPs are composed primarily of Al and Ni, whereas the matrix is composed mainly of Co, Fe, Cr, and Ni. The difference in the composition of the two structures is the result of the nonequilibrium solidification conditions. In the DSPs of the as-cast specimen (Fig. 4(a)), the outward diffusion of the Co, Fe, and Cr elements occurs more rapidly than the inward diffusion of Al and Ni. However, as the aging temperature is increased, the rate of inward diffusion of Al and Ni increases. Thus, as shown in Fig. 4(b) and (c) for aging temperatures of 650 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ~ ^ { \\circ } \\mathrm { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively, diffusion into the DSPs is dominated by the Al and Ni elements."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                358,
+                949,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These experimental results and reasonable inferences regarding the factors based on the temperature of aging and the rate of element diffusion. When the as-cast specimen is prepared, the molten components are transferred individually to the liquid alloy and are mixed thoroughly by thermal agitation. As a result, no matrix or major component can be dominant in the solidification process because the atoms of each component are solutes in the alloy system. As the temperature of the specimen reduces, each component begins to solidify into its preferred crystalline structure. Finally, as the alloy solidifies, the atoms of the various elements interfere with one other during the diffusion process [7]. In the molten state, the elements are not in equilibrium and the concentration and flux of the solutes cannot be predicted. The effects of radius, crystalline structure, and melting point shorten the mean free path of the diffusing atoms and lead to the formation of the precipitated phase. Previous studies have indicated that multicomponent alloys form complex precipitate phases through affinity reactions, whereby atoms diffuse during metal solidification [18,31]. The AleNi rich phase in the as-cast specimen shown in Fig. 4(a) is formed since Al has a higher affinity to Ni than to any of the other elements in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { A l } _ { 0 . 5 } \\ell"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CoCrFeNi alloy system [32,33]. The amount of AleNi rich phase in the aged specimens reflects the competing effects of the affinity between the Al and Ni atoms and the diffusion force of the Ni atoms, and it depends on the aging temperature. The affinity between Al and Ni favours the formation of AleNi rich phases, whereas the diffusion force of the Ni atoms undoubtedly acts to weaken it. At an aging temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the formation of the AleNi phase is dominated by the affinity between the Al and Ni atoms since the droplet-shaped structures are thin; thus, the Ni diffusion force is relatively low. However, at a higher temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the interaction effect between Al and Ni is outweighed by the Ni diffusion force. In other words, the formation of the AleNi phase is dominated by the effects of Ni diffusion. In general, the Al and Ni atoms diffuse more rapidly at a higher aging temperature. As a result, the size of the AleNi rich droplet structures decreases with an increase in the aging temperature. The images shown in Fig. 4(b) and (c) suggest that the droplet structures attain their maximum size and the Al and Ni contents reach their respective saturation levels at aging temperatures higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 0 ^ { \\circ } \\mathrm { C }"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                528,
+                949,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                56,
+                642,
+                69
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "291"
+                    }
+                ]
+            },
+            "bbox": [
+                924,
+                58,
+                946,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4b9f956bbe9f8d1f447cf08ef98eb9ad3d7de5e21c629bd2976268caeaa27b51.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. BEI images and EPMA elemental mapping results for Al<sub>0.5</sub>CoCrFeNi alloy processed at various aging temperatures: (a) as-cast, (b) 650 \u0001C, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathbf { c } ) 9 5 0 ^ { \\circ } \\mathbf { C } ."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                79,
+                890,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                48,
+                564,
+                480,
+                686
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.4. Corrosion properties of Al<sub>0.5</sub>CoCrFeNi alloy"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                701,
+                347,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrochemical corrosion properties of the as-cast and aged specimens when immersed in a 3.5% NaCl solution were evaluated using a potentiodynamic polarization method. The polarization curves for the various alloy specimens are shown in Fig. 5, together with that of AISI 304L stainless steel for comparison purposes. The measured values ofthe electrochemical parameters ofthe AISI 304L stainless steel and alloy specimens are listed in Table 4. The AISI 304L stainless steel specimen exhibits a corrosion potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 2 \\ \\mathrm { V } _ { \\mathrm { S C E } } . \\ \\mathrm { A l l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the as-cast and aged specimens have corrosion potentials in the range from 0.04 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { t } 0 - 0 . 6 4 \\mathrm { V } _ { \\mathrm { S C E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and pitting potentials in the range from 0.13 to 0.71 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tt V } _ { \\mathrm { S C E } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Meanwhile, the as-cast and aged specimens have corrosion current densities in the range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 5 8 \\times 1 0 ^ { - 6 } { - 5 . 2 9 \\times 1 0 ^ { - 7 } \\mathrm { A / c m } ^ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", whereas the AISL 304L stainless steel specimen has a corrosion current density of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 0 0 \\times 1 0 ^ { - 8 } \\mathrm { { A } } /"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { c m } ^ { 2 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The corrosion rates of the alloy specimens aged at higher temperatures are significantly greater than those of the specimens aged at lower temperatures. However, the corrosion properties of the alloy aged at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are notably different from those of the other aged specimens. This difference is most probably the result of the microstructural transformation induced by the aging temperature. To be specific, the amount of the AleNi rich phase decreases as the aging temperature increases, leading to a corresponding increase in the amount of the Ale(Ni, Co, Cr, Fe) phase. These phase changes with the increase in the aging temperature lead to a loss in the corrosion resistance of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy system."
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                726,
+                480,
+                940
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                500,
+                564,
+                932,
+                620
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a2608bd184e33121fd3a161993a7e3dece65a6b51ec3453ab6869f5382d751ea.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Potentiodynamic curves of as-cast and aged Al<sub>0.5</sub>CoCrFeNi alloy specimens in 3.5% NaCl solution at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ~ ^ { \\circ } \\mathbb { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                507,
+                639,
+                922,
+                905
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "292"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                58,
+                75,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                357,
+                56,
+                625,
+                69
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b18608dda06f5e15390eaf05427fc71eb7378f13aa383a0ce95cd6b628bd73ae.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical parameters ofas-cast and aged Al CoCrFeNi alloy specimens when immersed in 3.5% NaCl solution at 25 °C"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "E<sub>corr</sub>: corrosion potential."
+                    },
+                    {
+                        "type": "text",
+                        "content": "i<sub>corr</sub>: corrosion current density."
+                    },
+                    {
+                        "type": "text",
+                        "content": "E : pitting potential."
+                    }
+                ],
+                "html": "<table><tr><td> $E _ { \\mathrm { c o r r } } ( \\mathrm { V } )$ </td><td> $i _ { \\mathrm { c o r r } } ( \\mathsf { A } \\mathsf { c m } ^ { - 2 } )$ </td><td> $E _ { \\mathrm { p i t } } \\left( \\mathsf { V } \\right)$ </td></tr><tr><td>304 L</td><td> $\\overline { { 6 . 0 0 \\times 1 0 ^ { - 8 } } }$ </td><td>0.48</td></tr><tr><td>as-cast</td><td> $1 . 7 0 \\times 1 0 ^ { - 7 }$ </td><td>0.13</td></tr><tr><td>350 ℃</td><td> $6 . 4 0 \\times 1 0 ^ { - 6 }$ </td><td>0.18</td></tr><tr><td>500 ℃</td><td> $1 . 5 8 \\times 1 0 ^ { - 6 }$ </td><td>0.28</td></tr><tr><td>650°C</td><td> $5 . 2 9 \\times 1 0 ^ { - 7 }$ </td><td>0.71</td></tr><tr><td>800 °C</td><td> $3 . 0 5 \\times 1 0 ^ { - 7 }$ </td><td>0.14</td></tr><tr><td>950°C</td><td> $2 . 2 2 \\times 1 0 ^ { - 6 }$ </td><td>0.18</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                116,
+                494,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                63,
+                263,
+                495,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6 shows the surface corrosion of fracture that formed following crevice corrosion of the as-cast and aged specimens. The as-cast specimen shows intercrystalline (AleNi rich phase) corrosion, as shown in Fig. 6(a). However, all the heat-treated specimens show a few small pits and intercrystalline (AleNi rich phase) corrosion on the material surface as well as enhanced crevice corrosion, as shown in Fig. 6(b)e(f), respectively. The surface corrosion on all the specimens indicates that Cl\u0003 ions attack the AleNi rich phase sites, both in the as-cast specimen and in all the aged specimens. The images clearly show that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l - } ( \\mathsf { N i } , \\mathsf { C o } , \\mathsf { C r } , \\mathsf { F e } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "phases are predominant in the corrosion-resistant "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathsf { A l } _ { 0 . 5 } \\mathsf { C o C r F e N i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy system, suggesting that the precipitates of these phases undergo Cl\u0003 ion attack. The small extent of pitting corrosion is evident on all the specimen surfaces because larger regions of passivation are present on both the as-cast specimen and the specimen aged at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which makes it easy for a passive film to be formed over the specimen surface. In addition, intercrystalline (AleNi rich phase) corrosion ofdiffering sizes is observed below the surfaces of the specimens aged at a higher temperature as a result of the breakdown of the passive film. Overall, the results shown in Fig. 6 indicate that the properties of the precipitated AleNi rich and Ale(Ni, Co, Cr, Fe) phases become significantly unstable as the aging temperature increases and cause the localized corrosion mechanism to change from pitting corrosion to selective corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                343,
+                495,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                515,
+                80,
+                949,
+                373
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56580836dd5aba8b7927a87254524bc5d3519f89ab7d0e07a0566da71dcfb248.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Surface morphologies of as-cast and aged Al CoCrFeNi alloy specimens following immersion in 3.5% NaCl solution at 25 \u0001C: (a) as-cast, (b) 350 \u0001C, (c) 500 \u0001C, (d) 650 \u0001C, (e) 800 \u0001C, and (f) 950 \u0001C."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                168,
+                387,
+                847,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                56,
+                642,
+                69
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "293"
+                    }
+                ]
+            },
+            "bbox": [
+                924,
+                58,
+                947,
+                68
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Conclusions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                80,
+                156,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The as-cast high-entropy Al<sub>0.5</sub>CoCrFeNi alloy has an FCC solid solution structure, whereas the alloys aged at 350e950 \u0001C have an FCC BCC solid solution structure."
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                107,
+                478,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The FCC solid solution structure comprises droplet-shaped AleNi rich phases and an FCC matrix phase. The duplex FCC BCC solid solution structure comprises droplet-shaped phases (AleNi rich, FCC crystal structure), wall-shaped phases (BCC solid solution structure), needle-shaped phases "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathsf { A l - } ( \\mathsf { N i } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Co, Cr, Fe), BCC solid solution structure), and the matrix phase."
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                146,
+                478,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Age hardening of the alloy occurs at all temperatures in the range 350e950 \u0001C. However, the optimal age hardening effect is obtained at temperatures lower than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 0 ^ { \\circ } \\mathsf C ."
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                225,
+                478,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. The corrosionpotential and pitting potential ofthe Al CoCrFeNi alloy when immersed in a 3.5 wt% NaCl solution are significantly lower than those of AISI 304L stainless steel. The corrosion properties of the investigated alloy are governed by the aging temperature. The aging ofthe alloy at temperatures between 350 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 0 ^ { \\circ } \\mathsf C"
+                    },
+                    {
+                        "type": "text",
+                        "content": "impairs the pitting resistance of the alloy in chloride environments. In particular, the corrosion properties ofthe alloy aged at 650 \u0001C differ significantly from those of the other aged specimens. This difference is most probably the result of the microstructure transformation induced by the aging temperature, because the amount of the AleNi rich phase decreases as the aging temperature increases, which leads to a corresponding increase in the amount of the Ale(Ni, Co, Cr, Fe) phase."
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                266,
+                480,
+                437
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                455,
+                181,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors would like to thank the National Science Council of the Republic of China, Taiwan, for financially supporting this research under Contract No. NSC 97-2221-E011-010."
+                    }
+                ]
+            },
+            "bbox": [
+                50,
+                480,
+                480,
+                522
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                538,
+                129,
+                552
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] Liu CT, Oliver WC. Environmental embrittlement and grain-boundary fracture in Ni Si. Scr Metall Mater 1991;25:1933e7."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] Chen GL, Liu CT. Moisture induced environmental embrittlement of intermetallics. Int Mater Rev 2001;46:253e60."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] Peker A, Johnson WL. A highly processable metallic glass: Zr<sub>41.2</sub>Ti<sub>13.8</sub>Cu<sub>12.5-</sub> Ni<sub>10.0</sub>Be<sub>22.5</sub>. Appl Phys Lett 1993;63:2342e4."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] Inoue A, Takeuchi A. Recent progress in bulk glassy, nanoquasicrystalline and nanocrystallic alloys. Mater Sci Eng A 2004;375e377:16e30."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] Chen N, Pan D, Louzguine-Luzgin DV, Xie GQ, Chen MW, Inoue A. Improved thermal stability and ductility of flux-treated Pd Ni Si P BMG. Scr Mater 2010;62:17e20."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] Tong CJ, Chen YL, Chen SK, Yeh JW, Shun TT, Tsau CH, et al. Microstructure characterization of Al CoCrCuFeNi high-entropy alloy system with multiprincipal elements. Metall Mater Trans A 2005;36:881e93."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] Yeh JW, Chen SK, Lin SJ, Can JY, Chin TS, Shun TT, et al. Nanostructured highentropy alloys with multiple principal elements: novel alloy design concepts and outcomes. Adv Eng Mater 2004;6:299e303."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] Cantor B, Chang ITH, Knight P, Vincent AJB. Microstructure development in equiatomic multicomponent alloys. Mater Sci Eng A 2004;375e377:213e8."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] Yeh JW, Chen SK, Gan JY, Lin SJ, Chin TS, Shun TT, et al. Formation of simple crystal structures in CueCoeNieCreAleFeeTieV alloys with multiprincipal metallic elements. Metall Mater Trans A 2005;35:2533e6."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[10] Huang YS, Chen L, Lui HW, Cai MH, Yeh JW. Microstructure, hardness, resistivity and thermal stability of sputtered oxide films of AlCoCrCu NiFe high e entropy alloy. Mater Sci Eng A 2007;457:77e83."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[11] Tung CC, Yeh JW, Shun TT, Chen SK, Huang YS, Chen HC. On the elemental effect of AlCoCrFeNi high-entropy alloy system. Mater Lett 2007;61:1e5."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[12] Huang PK, Yeh JW, Shun TT, Chen SK. Multi-principal-element alloys with improved oxidation and wear resistance for thermal spray coating. Adv Eng Mater 2004;6:74e8."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[13] Wen LH, Kou HC, Li JS, Chang H, Xue XY, Zhou L. Effect of aging temperature on microstructure and properties of AlCoCrCuFeNi high-entropy alloy. Intermetallics 2009;4:266e9."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[14] Shun TT, Du YC. Age hardening of the Al<sub>0.3</sub>CoCrFeNiC<sub>0.1</sub> high entropy alloy. J Alloys Compd 2009;478:269e72."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[15] Hsieh KC, Yu CF, Hsieh WT, Chiang WR, Ku JS, Lai JH, et al. The microstructure and phase equilibrium of new high performance high-entropy alloys. J Alloys Compd 2009;483:209e12."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[16] Wang XF, Zhang Y, Qiao Y, Chen GL. Novel microstructure and properties of multicomponent CoCrCuFeNiTi<sub>x</sub> alloys. Intermetallics 2007;15:357e62."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[17] Zhang KB, Fu ZY, Zhang JY, Shi J, Wang WM, Wang H, et al. Nanocrystalline CoCrFeNiCuAl high-entropy solid solution synthesized by mechanical alloying. J Alloys Compd 2009;485:L31e4."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[18] Lin YC, Cho YH. Elucidating the microstructural and tribological characteristics of NiCrAlCoCu and NiCrAlCoMo multicomponent alloy clad layers synthesized in situ. Surf Coat Technol 2009;203:1694e701."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[19] Wang FJ, Zhang Y, Chen GL, Davies HA. Cooling rate and size effect on the microstructure and mechanical properties of AlCoCrFeNi high entropy alloy. J Eng Mater Technol 2009;131:0345011e3."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[20] Lin CM, Tsai HL. Equilibrium phase of high-entropy FeCoNiCrCu<sub>0.5</sub> alloy at elevated temperature. J Alloys Compd 2010;489:30e5."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[21] Zhou YJ, Zhang Y, Wang YL, Chen GL. Solid solution alloy of AlCoCrFeNiTi<sub>x</sub> with excellent room-temperature mechanical properties. Appl Phys Lett 2007;90:181904e6."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[22] Chou HP, Chang YS, Chen SK, Yeh JW. Microstructure, thermophysical and electrical properties in Al<sub>x</sub>CoCrFeNi (0 x 2) high-entropy alloys. Mater Sci Eng B 2009;163:184e9."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[23] Wang YP, Li BS, Ren MX, Yang C, Fu HZ. Microstructure and compressive properties of AlCrFeCoNi high entropy alloy. Mater Sci Eng A 2008;491: 154e8."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[24] Shun TT, Hung CH, Lee CF. The effects of secondary elemental Mo or Ti addition in Al CoCrFeNi high-entropy alloy on age hardening at 700 \u0001C. J Alloys Compd 2010;495:55e8."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[25] Zhang KB, Fu ZY, Zhang JY, Wang WM, Wang H, Wang YC, et al. Microstructure and mechanical properties of CoCrFeNiTiAl high-entropy alloys. Mater Sci Eng A 2009;508:214e9."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[26] ASTM standard G59-97. PA: ASTM; 2009."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[27] Kao YF, Chen TJ, Chen SK, Yeh JW. Microstructure and mechanical property of as-cast, -homogenized, and -deformed Al CoCrFeNi (0 x 2) high-entropy alloys. J Alloys Compd 2009;488:57e64."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[28] Takeuchi A, Inoue A. Calculations of mixing entropy and mismatch entropy for ternary amorphous alloys. Mater Tran 2000;41:1372e8."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[29] Takeuchi A, Inoue A. Calculations of amorphous-forming composition range for ternary alloy systems and analyses of stabilization of amorphous phase and amorphous-forming ability. Mater Trans 2001;42:1435e44."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[30] Tsai CW, Chen YL, Tsai MH, Yeh JW, Shun TT, Chen SK. Deformation and annealing behaviors of high-entropy alloy Al<sub>0.5</sub>CoCrCuFeNi. J Alloys Compd 2009;486:427e35."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[31] Tomellini M. Mean field rate equation for diffusion-controlled growth in binary alloys. J Alloys Compd 2003;348:189e94."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[32] Lin YC, Cho YH. Elucidating the microstructure and wear behavior for multicomponent alloy clad layers by in situ synthesis. Surf Coat Technol 2008;202: 4666e72."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[33] Nazari KA, Shabestari SG. Effect of micro alloying elements on the interfacial reactions between molten aluminum alloy and tool steel. J Alloys Compd 2009;478:523e30."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                563,
+                477,
+                585
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "294"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                58,
+                75,
+                68
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "C.-M. Lin, H.-L. Tsai / Intermetallics 19 (2011) 288e294"
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                58,
+                625,
+                68
+            ]
+        }
+    ]
+]

@@ -1,0 +1,1676 @@
+[
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l r } & { } & { \\frac { J _ { 1 } ( a ^ { * } \\hat { k } _ { n } ) } { J _ { 0 } ( \\hat { k } _ { n } ) } = \\frac { 1 } { \\sqrt { a ^ { * } } } \\frac { \\cos \\Big [ a ^ { * } \\hat { k } _ { n } - \\frac { 3 } { 4 } \\pi \\Big ] \\perp { 0 } ( n a ^ { * } ) ^ { - 3 / 2 } } { \\cos \\Big [ \\Big ( n \\perp \\frac { 1 } { 4 } \\Big ) \\pi - \\frac { 1 } { 4 } \\pi \\Big ] \\perp { 0 } \\Big ( \\frac { 1 } { n } \\Big ) } } \\\\ & { } & { = \\frac { 1 } { \\sqrt { a ^ { * } } } \\frac { \\cos \\Big [ a ^ { * } \\hat { k } _ { n } - \\frac { 3 } { 4 } \\pi \\Big ] \\perp { 0 } [ ( n a ^ { * } ) ^ { - 3 / 2 } ] } { ( - 1 ) ^ { n } \\perp { 0 } \\Big ( \\frac { 1 } { n } \\Big ) } } \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d3be2197c472fa9057a927c92188d2b52649a32769e99fde8df76e0cd01dcb4f.jpg"
+                }
+            },
+            "bbox": [
+                85,
+                68,
+                481,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "or"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                207,
+                107,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Therefore"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                268,
+                161,
+                281
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\biggl [ \\frac { J _ { 1 } ( a ^ { * } \\bigl \\vert _ { n } ) } { J _ { 0 } ( \\bigl \\vert \\hat { k } _ { n } ) } \\biggr ] ^ { 2 } { \\leq } \\frac { 1 } { a ^ { * } } \\frac { 1 \\mathbin { \\perp } \\mathsf { O } [ ( \\mathsf { n a } ^ { * } ) ^ { - 3 / 2 } ] } { 1 \\mathbin { \\perp } \\mathsf { O } \\left( \\frac { 1 } { n } \\right) } \\ [ \\mathbf { A } \\mathbf { - B } \\mathbf { - } 7 ]",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9bb8d6abac41515100e081ff126410bb0da89e90acc3feb60c3d373cea133e17.jpg"
+                }
+            },
+            "bbox": [
+                92,
+                221,
+                484,
+                269
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N \\equiv \\frac { 4 } { \\pi ^ { 2 } R a ^ { * } }\\tag{[A-B-11]}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/81d88d311fe246bb53d46cf002ea82470b528744bf8b1f0997b881acd230d22f.jpg"
+                }
+            },
+            "bbox": [
+                656,
+                68,
+                757,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Since "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I ^ { * } \\mathrm { { _ { t o t a l } } } < 1 , R"
+                    },
+                    {
+                        "type": "text",
+                        "content": "will always be "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R < 0 . 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and therefore condition [A-B-11] is sufficient."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                103,
+                905,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript submitted April 3, 1972; revised manuscript received Dec. 14, 1972."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                130,
+                905,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Any discussion of this paper will appear in a Discussion Section to be published in the December 1973 JOURNAL."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                158,
+                907,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                654,
+                187,
+                765,
+                200
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. N. D. Tomashov, \"Theory of Corrosion and Protection of Metals,\" p. 154, McMillan Co., New York (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. H. 'H. Úhlig, Proceedings 2nd Inter. Congress on Metallic Corrosion, NACE, 1966, p. 1."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. I. L. Rosenfeld and I. S. Danilov, Corrosion Sci., 7, 129 (1967)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                200,
+                907,
+                231
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r l } & { \\cdot \\frac { 1 } { \\left\\{ \\coth \\ ( \\hat { \\textbf { k } } _ { n } \\pi c ^ { * } ) \\ \\_ \\perp \\ k ^ { * } \\left[ \\left( \\textbf {  { n } } _ { \\perp } \\frac { 1 } { 4 } \\right) \\pi \\ _ { \\perp } \\ \\bigcirc \\left( \\displaystyle \\frac { 1 } { n } \\right) \\right] \\right\\} \\left[ \\left( \\textbf {  { n } } _ { \\perp } \\frac { 1 } { 4 } \\right) \\pi \\ _ { \\perp } \\ O \\left( \\frac { 1 } { n } \\right) \\right] } } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/647c745e7fff04cff57cb313f3ee066c55872daf046f0dcdbe6983ba19defd1e.jpg"
+                }
+            },
+            "bbox": [
+                195,
+                339,
+                909,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Therefore"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                443,
+                163,
+                456
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r } { | R _ { N } | = R _ { N } \\le \\frac { 4 ( 1 \\perp { 0 } [ ( N a ^ { \\ast } ) ^ { - 3 / 2 } ] ) } { a ^ { \\ast } \\pi ^ { 2 } } \\displaystyle \\int _ { N } ^ { \\infty } \\frac { d x } { x ^ { 2 } } } \\\\ { = \\frac { 4 ( 1 \\perp { 0 } [ ( N a ^ { \\ast } ) ^ { - 3 / 2 } ] ) } { N a ^ { \\ast } \\pi ^ { 2 } } } \\end{array}\\tag{[A-B-9]}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f7a4d527af9acc7901be4e3877c36b72c495957820aac62c1ee48aa453f9c108.jpg"
+                }
+            },
+            "bbox": [
+                87,
+                452,
+                409,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To obtain a chosen accuracy of R the number of terms N has to fulfill"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                524,
+                486,
+                547
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "N > > \\frac { 1 } { a ^ { * } }\\tag{[A-B-10]}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a7e6f1002fae967991e3ceabc5a174aa95a937c4ab47d80d45b7c83fb6c4cfdf.jpg"
+                }
+            },
+            "bbox": [
+                245,
+                544,
+                329,
+                573
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. T. P. Hoar, ibid., 5, 279 (1965)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. M. A. Streicher, This Journal, 103, 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. J. T. Waber, ibid., 101, 271 (1954)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. J. A. Simmons, S. R. Coriell, and F. Ogburn, ibid., 114,782(1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. E. Kennard and J. T. Waber, ibid., 117, 880 (1970)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. J. O. Hirschfelder, C. F. Curtiss, and R. B. Bird, \"Molecular Theory of Gases and Liquids,\" John Wiley & Sons, Inc., New York (1954)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. J. Happel and H. Brenner, \"Low Reynolds Number Hydrodynamics,\" Prentice Hall, Inc., Englewood Cliffs, N. J. (1965)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                449,
+                752,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effects of Molybdenum on the Pitting Potentials of Ferritic Stainless Steels at Various Temperatures"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                121,
+                614,
+                875,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. P. Bond*"
+                    }
+                ]
+            },
+            "bbox": [
+                454,
+                685,
+                542,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Research Laboratory, Climax Molybdenum Company of Michigan, Ann Arbor, Michigan 48106"
+                    }
+                ]
+            },
+            "bbox": [
+                163,
+                705,
+                833,
+                721
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                452,
+                739,
+                545,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting potential measurements were performed by potentiodynamic scanning at 200 mV/hr in 1M NaCl and in 1M NaBr, each saturated with nitrogen. Over the entire temperature range studied, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ^ { \\circ } - 7 0 ^ { \\circ } C ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "molybdenum additions up to the limit of solid solubility caused a continuous increase in the pitting potentials of 18% Cr ferritic stainless steels. Exposure tests were also performed in various chloride-containing environments, and it was found that pitting rate decreased as the molybdenum content increased."
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                757,
+                784,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It has been suggested that at low temperatures molybdenum additions may not be beneficial to the pitting resistance of austenitic stainless steels exposed to chloride solutions (1). Data have also been presented indicating that above room temperature, the beneficial effects of molybdenum on resistance to pitting may decrease (2). Furthermore, it has been reported that molybdenum additions are ineffective in sodium bromide solutions "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 , 3 )"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                850,
+                489,
+                929
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                847,
+                909,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In view of the present interest in molybdenum-containing ferritic stainless steels, it was thought important to investigate these questions and establish more clearly the range of conditions under which molybdenum content has a favorable effect on pitting resistance of ferritic stainless steels. To do this, pitting potential measurements were undertaken on a series of"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                870,
+                912,
+                950
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 120, No. 5"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                44,
+                210,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CORROSION CURRENTS IN ELECTROLYTIC CELLS"
+                    }
+                ]
+            },
+            "bbox": [
+                323,
+                44,
+                757,
+                57
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "603"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                44,
+                907,
+                55
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "• Electrochemical Society Active Member. Key words: corrosion, polarization."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                934,
+                345,
+                952
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18% chromium steels containing 0-5% Mo. These measurements were made in 1M NaCl and 1M NaBr over a temperature range from 1° to 70°C. Concurrently, some exposure tests were performed in various media containing chlorides or bromides."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                67,
+                484,
+                126
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                234,
+                131,
+                335,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The experimental alloys were produced by induction-melting in an argon atmosphere using the splitheat technique. By this technique, the base composition was melted and part of the melt was poured off to produce an ingot. To the balance of the melt, the required molybdenum addition was made and the next ingot was cast. This process was repeated until the desired compositions were cast. By this procedure, the impurity levels were held nearly constant within each series. The compositions of the steels produced are given in Table I."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                146,
+                484,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The resulting ingots were hot-forged and hot-rolled to 0.76 cm thick strips and then cold-rolled to 0.38 cm thickness. All strips were given a 1-hr anneal at 815°C and water-quenched before the test specimens were prepared."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                268,
+                484,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrodes for the potentiodynamic studies were mounted in epoxy plastic with a single exposed surface parallel to the rolling plane. Electrical contact was made by soft-soldering a nickel wire to the back of the electrode. Contact between the solder or lead wire and the electrolyte was excluded by the plastic and glass tube. The 0.5 by 0.6 cm exposed surface was polished by using standard metallographic techniques, finishing with a distilled water slurry of 0.3μ alumina. The edges of the electrode were masked with clear Glyptal varnish to prevent crevice corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                324,
+                484,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coupons for the exposure tests, 2.5 by 2.5 by 0.3 cm, were surface ground and then polished through No. 600 wet silicon carbide paper. They were solvent degreased and rinsed in methanol before exposure."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                446,
+                484,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiodynamic scanning experiments were performed using standard equipment and techniques The platinum auxiliary electrode was isolated from the test solution by means of a glass frit. The solution used was nitrogen-saturated 1.0M NaCl or 1.0M NaBr. All potential measurements were made using a saturated calomel reference electrode. The scans were started at —0.7V and continued in the noble direction at 200 mV/hr. The temperature was controlled within ±0.5°C of the reported temperature. Below room temperature an ice bath was used, while the elevated temperatures were maintained by a heating mantle and temperature controller."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                491,
+                484,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results and Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                202,
+                643,
+                367,
+                658
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A typical pitting potential determination is shown in Fig. 1. It can be seen that the current rise corresponding to pitting is extremely sharp. This was true at all temperatures investigated. It can also be seen that very short pulses of current were sometimes observed as the pitting potential was approached. As discussed previously (4), these pulses correspond to formation of very tiny pits that do not propagate if the potential scan is stopped below the pitting potential for time periods up to 24 hr."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                658,
+                484,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effect of variation in the rate of potential scan was checked for the 18% Cr-2% Mo alloy (Table II)."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                769,
+                484,
+                793
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/973fda8f7a009ec3b126fe6ea975f4b77d3619ffeff0c3c3035ce1d2b98ea4a9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table I. Compositions of steels tested"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "(a) NA = not analyzed, but assumed to be in the range of the series."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Desig- nation</td><td colspan=\"7\">Composition (%)</td></tr><tr><td>Cr</td><td>Mo</td><td>Ni</td><td>Si</td><td>Mn</td><td>C</td><td>N</td></tr><tr><td>4354A</td><td>17.61</td><td>0.035</td><td>0.091</td><td>0.22</td><td>0.55</td><td>0.028</td><td>0.032</td></tr><tr><td>4354B</td><td>NA(a)</td><td>0.96</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>4354C</td><td>NA</td><td>2.06</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>4354D</td><td>NA</td><td>3.51 4.67</td><td>NA NA</td><td>NA NA</td><td>NA NA</td><td>NA 0.031</td><td>NA 0.033</td></tr><tr><td>4354E</td><td>17.31 18.45</td><td></td><td>0.11</td><td>0.13</td><td>1</td><td>0.034</td><td>0.045</td></tr><tr><td>4073A</td><td></td><td>1.97</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                85,
+                823,
+                481,
+                925
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8d59613e68dc0dfc1836849330c39116197ff6d7867c6d5ec293758b4a6588e4.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Polarization curve obtained on scanning a masked electrode of alloy 4354D (3.5% Mo at 200 mV/hr in nitrogen-saturated 1.0M NaCl at 70°C)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                513,
+                65,
+                897,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No significant difference in pitting potential was obtained when the scan rate was increased from 200 to 2000 mV/hr. This is in contrast to results obtained in a previous study of an 18% Cr-14% Ni-3% Mo austenitic steel (4). This austenitic steel showed a significant decrease in pitting potential as scan rate increased. In general, it has been observed that pitting potentials of ferritic steels are less affected by variations in experimental conditions than are pitting potentials of austenitic steels of similar chromium and molybdenum content."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                330,
+                909,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After each run, the electrode was examined under the microscope. Only if well-developed pits, away from the masked edges, were present was a run accepted as valid. In many cases, there was simultaneous attack at the edges where crevices may have existed, but this was disregarded if distinct pits were visible. The crevice attack was more likely to occur as the test temperature decreased. At 70°C, most electrodes were free of any crevice attack, while at 1°C, most electrodes suffered crevice attack as well as pitting. This effect may be partially a result of the physical properties of the Glyptal mask, which tended to be brittle at low temperatures."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                454,
+                909,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When pitting occurred, a large number of pits were usually found. If the scan was stopped at this point, but without the potentiostat switched off, the pits would continue to grow until the electrode was destroyed."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                599,
+                909,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results of the tests in 1M NaCl are shown in Fig. 2. While temperature had a very large effect on pitting potentials of these alloys, it is striking that the effect of molybdenum was nearly the same at each of the test temperatures. Thus, over the temperature range studied, molybdenum exerts a definite beneficial effect on pitting potentials. Note that an increase in the pitting potential in the noble direction corresponds to an increase in resistance to pitting corrosion. However, the pitting potentials of the 4.7% Mo alloy did tend to be lower than those observed for the 3.5% Mo steel. Since this difference was observed at each temperature, it appears to be a true effect and not the result of experimental variation."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                653,
+                909,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A similar tendency for a maximum in pitting potential to occur at intermediate molybdenum content was also observed for an austenitic stainless steel series (4). This behavior in the austenitic series was attributed to the occurrence of a second phase at high molybdenum contents. In the present series of ferritic steels, a second phase also occurs in the high molybdenum steels. According to the work of McMullin et al. (5), at 815°C, this phase is chi, a compound containing about 25% Mo, 18% Cr, and the balance iron. According to the phase diagram, at 815°C the maximum solubility of molybdenum is about 3.5% in 18% Cr-Fe (5). Thus, the 4.7% Mo alloy does not have any more molybdenum dissolved in the matrix than does the 3.5% Mo alloy. Examination of the microstructures of the steels annealed at 815°C indicated that a very small amount of chi was present in the 3.5% Mo steel and a large amount in the 4.7% Mo steel (Fig. 3). Therefore, it is concluded that the failure of the 4.7% Mo alloy to exhibit a higher pitting potential than the 3.5% Mo steel is a consequence of the phase constitution of the alloys. The slight decrease in pitting potential that was apparently observed could either indicate that chi itseif is not as resistant as the matrix to pitting or that the chi-ferrite interface forms preferential pitting sites. In any event, the decrease in pitting potential of the 4.7% Mo steel as compared to the 3.5% Mo steel was too small to be of practical significance."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                809,
+                909,
+                856
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/96bac42160e80b1b0e6678e29ff526e3b6cae200e16fdcaac218e11f2d8a2844.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Table II. Effect of scanning rate on pitting potential of the 18% Cr-2% Mo alloy (4354C) in N2 saturated 1M NaCl at 45°C</td></tr><tr><td>200 mV/hr 2000 mV/hr</td></tr><tr><td></td></tr><tr><td>0.08V (SCE) 0.02V (SCE) 0.06V (SCE) 0.085V (SCE)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                510,
+                870,
+                904,
+                955
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "604"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                43,
+                116,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE AND TECHNOLOGY"
+                    }
+                ]
+            },
+            "bbox": [
+                175,
+                43,
+                769,
+                57
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May 1973"
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                43,
+                909,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/24fa8b14a290c50d0ede87959306c0547f9865f2c88baf288546f52dfc16cbb6.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NaCl."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                85,
+                67,
+                479,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                84,
+                528,
+                484,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In an effort to avoid the chi phase, the three alloys with the highest molybdenum content were annealed at 980°C and water-quenched. Microscopic examination confirmed that all of these steels did not contain appreciable chi after treatment. However, the pitting potentials found in 1.0M NaCl at 25°C were considerably reduced by the 980°C treatment (Table III)."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                795,
+                488,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is known that this heat-treatment also sensitizes these steels to intergranular corrosion (6). It is thought that the intergranular corrosion is the result of precipitation of carbides and nitrides rich in chromium and molybdenum, causing depletion of the adjacent matrix (7). Thus, it is to be expected that steels heat-treated so as to be sensitive to intergranular corrosion would be more susceptible to pitting corrosion than would properly annealed steels, as was recently reported for 26% Cr ferritic alloys (8). A similar effect has been observed for austenitic stainless steels exposed in ferric chloride (9)."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                874,
+                486,
+                954
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/955f565d72a8265c693fc823f82a8b5c228b04e841045e26ab2fd328be44b610.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Structure (islands of chi in a ferrite matrix) of the 18% Cr-5% Mo alloy (4354E) annealed 1 hr at 815°C and waterquenched; 500×."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                73,
+                898,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                505,
+                387,
+                907,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The foregoing results lead to the conclusion that the maximum useful molybdenum content of 18% Cr steels containing the usual amounts of interstitial elements and not fully stabilized is about 3.5%. Steels fully stabilized by titanium or columbium additions that tie up all carbon and nitrogen, or steels of such low interstitial content that carbides or nitrides do not precipitate, could be annealed at high enough temperatures to dissolve chi without suffering chromium depletion because of carbide or nitride precipitation. In this case, larger molybdenum additions can contribute to corrosion resistance, as was demonstrated in work on high-purity 25% Cr steels containing up to 5% Mo (10)."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                443,
+                909,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to demonstrate that titanium stabilization can prevent loss of pitting resistance as well as sensitization to intergranular corrosion as a result of exposure to high temperatures, the pitting potential of an 18% Cr-2% Mo-0.5% Ti alloy was determined as a function of heat-treatment. It was found (Table IV)"
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                599,
+                909,
+                669
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/30fdb9073d85b36024c11e5c674e32277247001aaf4e9e57dba46af913ebd955.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table Ill. Effect of heat-treatment on pitting potentials in N2-saturated 1M NaCl at 25°C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Heat</td><td rowspan=\"2\">% Mo</td><td colspan=\"2\">Pitting potential, V (SCE)</td></tr><tr><td>815°C, WQ</td><td>980°C, WQ</td></tr><tr><td>4354C</td><td>2</td><td>0.25</td><td>-0.01</td></tr><tr><td>4354D</td><td>3.5</td><td>0.26 0.31</td><td>0.04</td></tr><tr><td></td><td></td><td>0.26</td><td></td></tr><tr><td>4354E</td><td>4.7</td><td>0.29 0.24</td><td>-0.01</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                506,
+                708,
+                907,
+                804
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/223cfec5f6a9fbf52d36d9af7bd410edcc2a05735f0924451bab167c46101ed0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table IV. Effect of heat-treatment on the pitting potential of Ti-stabilized 18% Cr-2% Mo ferritic stainless steels in nitrogen-saturated 1M NaCl at a scanning rate of 2000 mV/hr at 45°℃"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">(weight)</td><td rowspan=\"2\">Ti content</td><td colspan=\"2\">Pitting potential, V (SCE), after water quenching from the indicated temperatures</td></tr><tr><td>815°C</td><td>925°C 1035°C</td></tr><tr><td>4073A</td><td></td><td></td><td></td><td>0.53</td></tr><tr><td rowspan=\"3\"></td><td>0.47</td><td>0.27 0.35</td><td>0.30</td><td>0.59</td></tr><tr><td></td><td>0.29</td><td></td><td>0.50</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                508,
+                865,
+                907,
+                954
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 120, No. 5"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                42,
+                212,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "MOLYBDENUM AND PITTING POTENTIALS"
+                    }
+                ]
+            },
+            "bbox": [
+                355,
+                42,
+                727,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "605"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                43,
+                905,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/db78da07a46206ac67926920635da368037c2e07de4ae1f1879b0e67c15fc842.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NoBr."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                89,
+                62,
+                481,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "that, as expected, heat-treatment at temperatures up to 1035°C had no deleterious effect on pitting potential. In fact, after treatment at 1035°C, the pitting potential was more noble than it was after the normal annèal at 815°C. It was also noted that the titaniumcontaining alloy had a more noble pitting potential than the titanium-free alloy under the same conditions. Earlier work with this alloy at 25°C also indicated that titanium was beneficial to pitting resistance (11)."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                398,
+                488,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting potentials measured in 1M NaBr varied with composition in the same way as in 1M NaCl (Fig. 4). Pitting potentials were more noble in NaBr, especially at higher temperatures. The beneficial effect of molybdenum additions on pitting potentials of this series of steels in NaBr is just as clearly defined as it is in NaCl. The pitting potentials measured in 1M NaCl and in 1M NaBr at 25°C indicate that all the steels studied should be subject to pitting in 0.33M FeCl3, 0.5M CuCl2, and 0.33M FeBr3 solutions. Exposure tests did indeed show pitting of all the test steels in these solutions at 25°C (Table V). In all cases, the rate of attack decreased with increasing molybdenum content up to 3.5%. The behavior of the 4.7% Mo steel was erratic in these solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                497,
+                488,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Exposure tests were also performed in less aggressive media at 90°C (Table VI). In both solutions, the molybdenum-free steel was severely pitted, while the steels containing molybdenum were attacked only very slightly or not at all. These exposure test results were in good qualitative agreement with the pitting potential results."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                665,
+                489,
+                745
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fbdc91852fbeaccd12be27cd5cd72008db16a87545d0e11e5785c4bbb1724ac6.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table V. Results of exposure tests in acidified halide salts at 25°C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Medium</td><td colspan=\"5\">Corrosion rate (mdd) of indicated alloys</td></tr><tr><td>4354A 0% Mo</td><td>4354B 1% Mo</td><td>4354C 2% Mo</td><td>4354D 3.5% Mo</td><td>4354E 5% Mo</td></tr><tr><td>0.33M FeCls+ 0.1N HCl</td><td>7200</td><td>7700</td><td>5300</td><td>670</td><td>220</td></tr><tr><td>0.33M FeBr3+ 0.1N HBr</td><td>920</td><td>230</td><td>120</td><td>75</td><td>140</td></tr><tr><td>0.5M CuCl₂+ 0.1N HCl</td><td>740</td><td>610</td><td>650</td><td>330</td><td>560</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                780,
+                488,
+                880
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eed2ac6cc0a77f1cc315ac54485927a8fc69d8f8877f7eb6e7f5279170c12a46.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table VI. Results of 30 day complete immersion tests in oxygen-saturated aqueous solutions at 90°C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Solution</td><td colspan=\"5\">Corrosion rate (mdd) of the indicated alloys</td></tr><tr><td>4354A 0% Mo</td><td>4354B 1% Mo</td><td>4354C 2% Mo</td><td>4354D 3.5% Mo</td><td>4354E 5% Mo</td></tr><tr><td>3% NaCl 125 ppm Cl-, 60 ppm Cu++</td><td>63 95</td><td>nil 0.4</td><td>0.4 0.4</td><td>nil nil</td><td>0.3 0.3</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                510,
+                97,
+                909,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As a result of the polarization measurements, it is clear that molybdenum has a beneficial effect on pitting potentials in 1M NaCl over a range at least from 1° to 70°C. This result is in partial conflict with the results of others on some austenitic steels. The conflict is more definite at 1°C, since Horvath and Uhlig (1) found that molybdenum had a detrimental effect on pitting potentials of an austenitic stainless steel series in 0.1M NaCl at 0°C. The small differences in experimental conditions and technique do not appear sufficient to explain a reversal in direction of pitting potential change with molybdenum content. Thus, the effect of molybdenum may be different in austenite than it is in ferrite even though there is no obvious rationalization for the difference. These same considerations also apply to the difference in molybdenum effect on austenite and ferrite tested in NaBr."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                190,
+                910,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There is less obvious conflict in the behavior of molybdenum-containing steels at higher temperatures in NaCl. The previously reported results (2) were obtained by counting pits formed at constant current density. This involved driving the potential beyond that required to produce pitting without determining any pitting or breakthrough potential. It is quite possible that the number of pits found in this manner does not correlate at all with pitting potentials as measured in the present work."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                379,
+                912,
+                493
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                666,
+                498,
+                759,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In fully annealed (815°C) 18% Cr ferritic stainless steels, molybdenum additions up to the limit of solid solubility increase pitting potentials. This is true over the entire temperature range studied i.e., 1°-70°C in 1M NaCl and 1°-45°C in 1M NaBr. Heat-treatments that sensitize the steels to intergranular corrosion also drastically lower the pitting potential."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                512,
+                914,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript submitted Nov. 9, 1972; revised manuscript received Jan. 5, 1973. This was Paper 53 presented at the Cleveland, Ohio, Meeting of the Society, Oct. 3-7, 1971."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                597,
+                912,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Any discussion of this paper will appear in a Discussion Section to be published in the December 1973 JOURNAL."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                644,
+                912,
+                679
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                659,
+                676,
+                771,
+                687
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. J. Horvath and H. H. Uhlig, This Journal, 115, 791 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. M. A. Streicher, ibid., 103, 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. H. H. Uhlig and J. Wulff, Trans. AIME, 135, 494 (1939)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. A. P. Bond and E. A. Lizlovs, This Journal, 115, 1130(1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. J. G. McMullin, S. F. Reiter, and D. G. Ebeling, Trans. ASM, 46, 799 (1954)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. A. P. Bond and 'E. A. Liziovs, This Journal, 116, 1305(1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. A. P. Bond, Trans. AIME, 245, 2127 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. C. R. Rarey and A. H. Áronson, Corrosion, 28, 255 (1972)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. N. `D. Tomashov, G. P. Chernova, and O. N. Marcova, ibid., 20, 166t (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. E. A. Lizlovs and A. P. Bond, This Journal, 118, 22 (1971)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. E. A. Lizlovs and A. P. Bond, ibid., 116, 574 (1969)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                523,
+                688,
+                910,
+                710
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "606"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                43,
+                117,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE AND TECHNOLOGY"
+                    }
+                ]
+            },
+            "bbox": [
+                175,
+                42,
+                769,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "May 1973"
+                    }
+                ]
+            },
+            "bbox": [
+                829,
+                43,
+                909,
+                56
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2018-03-21 to IP 164.107.99.229 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ]
+]

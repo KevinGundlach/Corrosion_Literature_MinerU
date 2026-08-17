@@ -1,0 +1,953 @@
+[
+    {
+        "type": "text",
+        "text": "Improvements in corrosion resistance, mechanical properties, and weldability of duplex austenitic/ferritic steels\\*",
+        "text_level": 1,
+        "bbox": [
+            62,
+            109,
+            897,
+            199
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Verbesserung der Korrosionsbeständigkeit, der mechanischen Eigenschaften und der Schweißbarkeit von austenitisch-ferritischen Stählen",
+        "bbox": [
+            62,
+            221,
+            914,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. A. Clark and P. Guha\\*\\*",
+        "bbox": [
+            508,
+            280,
+            725,
+            295
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The corrosion behaviour, toughness and weldability of duplex stainless steel can be improved by controlling the composition and austenite: ferrite ratio in the base metal and in the weld deposits. Addition of nitrogen is beneficial to ductility and restistance to pitting corrosion; the latter is also improved by increased chromium contents which stabilize the passive film. This effect is further enhanced by the addition of molybdenum which, however, should not exceed sigma phase at high temperatures. Copper in amounts up to 1.5% improves the resistance to marine environments; however, a certain upper limit should not be exceeded because of adverse effects on hot ductility. In view of the function of nickel concerning the austenite : ferrite ratio (which should be about 50: 50) the nickel content should be appropriately selected and should be higher in the filter metal.",
+        "bbox": [
+            62,
+            352,
+            493,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction",
+        "text_level": 2,
+        "bbox": [
+            64,
+            599,
+            164,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When considering materials for the construction of chemical plant and for applications in marine environments, the austenitic stainless steels have limitations associated with their low strength, and, under appropriate conditions, susceptibility to stress corrosion, pitting corrosion, and crevice corrosion. The higher alloyed fully austenitic steels, with nickel contents in excess of 25%, which may be specified for the more corrosive acid environments such as sulphuric and phosphoric acids and sour oil well conditions, also present welding problems due to lack of hot strength leading to fissuring in the weld metal [1]. Changes in the design of chemical plant to give higher yields often involve higher service temperatures and more concentrated and corrosive media, with a corresponding need for improved materials. The duplex austenitic-ferritic steels of high chromium content were therefore developed in an attempt to combine the advantages of both the austenite",
+        "bbox": [
+            60,
+            624,
+            493,
+            834
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Korrosionsverhalten, Festigkeit und Schweißbarkeit von nichtrostenden Stählen mit Duplex-Gefüge können durch entsprechende Zusammensetzung und Einstellung des Austenit : Ferrit-Verhältnisses im Grundwerkstoff und im Schweißgut verbessert werden. Zusatz von Stickstoff verbessert die Duktilität und die Lochkorrosionsbeständigkeit; diese wird ebenfalls verbessert durch erhöhte Chromgehalte, welche die Passivierungsschicht stabilisieren. Diese Wirkung wird noch verstärkt durch Zusatz von Molybdän, das jedoch bestimmte Grenzen nicht überschreiten darf, da sonst die Gefahr der Sigma-Phasen-Sprödigkeit bei höheren Temperaturen besteht. Auch Kupfer in Mengen bis 1,5% verbessert die Korrosionsbeständigkeit besonders in Meerwasser, doch sollte wegen der abträglichen Wirkung auf die Warmzähigkeit ein bestimmter Gehalt nicht überschritten werden. Wegen der wichtigen Rolle von Nickel für das Austenit : Ferrit-Verhältnis (vorzugsweise 50: 50) muß der Nickelgehalt entsprechend gewählt werden und sollte im Schweißgut etwas erhöht werden.",
+        "bbox": [
+            505,
+            353,
+            939,
+            542
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ferrite phases, the austenite imparting toughness and general corrosion resistance, and the ferrite imparting strength and resistance to stress corrosion cracking. These were first introduced for castings in the mid-1930's but did not initially gain much favour, as the microstructure was not adequately controlled, resulting in embrittlement and failure to achieve the potential corrosion resisting capabilities. Wrought duplex steels, containing about 1.5% molybdenum, were introduced in Germany in the late 1920's [2], but were only regarded as having corrosion resistance equivalent to the 316-type steels, their main attribute being much increased strength. The major advance was achieved by the addition of copper to give the cast alloy CD 4MCu [3] developed by the Alloy Casting Institute of America.",
+        "bbox": [
+            503,
+            600,
+            937,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, this alloy can suffer from lack of toughness which can lead to problems during welding and difficulties in avoiding fettling cracks and quench cracks when cutting and heat treating castings of heavy section.",
+        "bbox": [
+            505,
+            780,
+            935,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper indicates how variations in composition affect the properties of duplex steels and gives the characteristics of two such steels, developed subsequent to CD 4 MCu, whose compositions have been balanced to optimise microstructure and provide attractive combinations of corrosion characteristics, mechanical properties, and ease of production.",
+        "bbox": [
+            505,
+            832,
+            937,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "0043-2822/83/0101-0027\\$02.50/0",
+        "bbox": [
+            736,
+            929,
+            939,
+            943
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Werkstoffe und Korrosion 34, 27–31 (1983)",
+        "bbox": [
+            64,
+            38,
+            331,
+            54
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Improvements in corrosion resistance",
+        "bbox": [
+            651,
+            41,
+            883,
+            55
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "27",
+        "bbox": [
+            920,
+            41,
+            939,
+            54
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\* Lecture presented at the ACHEMA 82 – 20. Chemical",
+        "bbox": [
+            71,
+            850,
+            418,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*\\* Dr. C.A. Clark and P. Guha are respectively Technical Director and Manager, Research and Technical Process Control, of Bonar Langley Alloys Ltd., Slough U.K.",
+        "bbox": [
+            65,
+            873,
+            486,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© Verlag Chemie GmbH, D-6940 Weinheim, 1983",
+        "bbox": [
+            65,
+            931,
+            375,
+            945
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Variations in composition and microstructure",
+        "text_level": 2,
+        "bbox": [
+            64,
+            73,
+            416,
+            89
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a) Nitrogen",
+        "text_level": 2,
+        "bbox": [
+            64,
+            99,
+            152,
+            113
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most significant improvement in both corrosion characteristcs and mechanical properties, compared with nitrogenfree duplex steels is obtained by the addition of nitrogen in excess of 0.1%. Studies on castings of large section, indicated that addition of nitrogen increases the pitting potential in 3% NaCl solution at $3 0 ^ { \\circ } \\mathrm { C }$ from 0.45 V (S.H.E.) to 1.15 V (S.H.E.) for steels containing approximately 25% Cr, 5% Ni, 2.4% Mo, and 3% Cu. When steels of this composition in the form of thick sections (76 mm) were solution treated and then aged it was found that the nitrogen-free steel was brittle, giving zero elongation during tensile testing, whilst the nitrogencontaining steel gave an elongation above 20% [4].",
+        "bbox": [
+            62,
+            124,
+            494,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In CD 4 MCu, where nitrogen is not added, it is necessary to limit the carbon content to a maximum of 0.04% in order to avoid intercrystalline corrosion and weld decay in nitric acid tests [5], whereas a maximum of 0.08% carbon can be permitted in steels of similar composition to which nitrogen has been added, thus reducing composition control problems during selection of raw materials, melting operations, and recycling of remelt. Further beneficial effects of nitrogen, on the pitting resistance of steels of carbon content greater than 0.04% are illustrated in Figure 1.",
+        "bbox": [
+            62,
+            279,
+            494,
+            411
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/1f848c54c4bb9412d1ba6758704f63b42ef2356240ba5889d12a0769feb8955a.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 1. The effect of nitrogen additions on the pitting potentials in 3% NaCl at $3 0 \\textdegree C$ of duplex steels containing approximately 0.04 and 0.07% carbon",
+            "Abb. 1. Einfluß von Stickstoff-Zusätzen auf die Lochkorrosionspotentiale in 3%iger NaCl-Lösung von $3 0 \\%$ für austenitisch-ferritische Stähle mit etwa 0,04 und 0,07% Kohlenstoff"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            64,
+            437,
+            482,
+            700
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The nitrogen addition reinforces nickel in acting as an austenite stabiliser, but also appears to modify the austenite-ferrite ratio at which maximum pitting resistance is achieved. For example the CD4MCu composition appears to have been optimised to give an austenite-ferrite ratio of 25-27 [3], whereas similar steels containing about 0.15% nitrogen give maximum resistance to pitting with an austenite-ferrite ratio of about 50–50.",
+        "bbox": [
+            64,
+            806,
+            494,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b) Nickel",
+        "text_level": 2,
+        "bbox": [
+            506,
+            73,
+            579,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With other elements constant, it is found that the optimum pitting resistance is achieved by selecting a nickel content to give an austenite-ferrite ratio of about 50%. In a steel containing ${ 2 5 \\% } \\mathbf { C r } ,$ 3% Cu, 2.5% Mo, and 0.15% N for example, the maximum pitting potential in 3% NaCl at $3 0 \\%$ is achieved when the nickel content is about 5.2%. The pitting potentials in 3% NaCl at 30°C for steels of varying nickel contents are illustrated in Fig. 2. For a steel of composition 28% Cr, 1.5% Cu, 2.5% Mo and 0.15% N, the optimum nickel content for maximum resistance to pitting combined with good toughness is about 8%.",
+        "bbox": [
+            505,
+            99,
+            937,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e277390aa72969a02426bd5d5ef988a980eefe4d4caffa18f12e58f3b4001379.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 2. Effect of increasing nickel, above the optimum, on the pitting potentials of duplex steels in 3% NaCl at $3 0 ^ { \\circ } \\dot { \\mathrm { C } }$",
+            "Abb 2. Einfluß der Erhöhung des Nickelgehalts über den optimalen Wert auf die Lochkorrosionspotentiale von austenitisch-ferritischen Stählen in 3%iger NaCl-Lösung bei $3 0 \\%$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            510,
+            263,
+            925,
+            481
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is therefore considered that the main role of nickel is to control the microstructure, rather than to modify the corrosion resistance per se. If nickel contents are significantly in excess of the optimum, so that the austenite content increases above 50% the residual ferrite becomes increasingly enriched in chromium, a ferrite stabiliser. This high-chromium ferrite more readily transforms to brittle sigma phase at temperatures in the range $7 0 0 { - } 9 5 0 ^ { \\circ } \\mathrm { C } ,$ with adverse effects on hot working characteristics for wrought steels, impact toughness of cast steels, and weldability.",
+        "bbox": [
+            505,
+            573,
+            937,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conversely, if the nickel content is reduced below the optimum, leading to high ferrite contents, low toughness will again result because the delta ferrite formed immediately on solidification also tends to have low ductility. As indicated later, this effect is also significant when considering the weldability of duplex steels.",
+        "bbox": [
+            505,
+            703,
+            937,
+            783
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c) Chromium and molybdenum",
+        "text_level": 2,
+        "bbox": [
+            506,
+            806,
+            732,
+            821
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both chromium and molybdenum are beneficial in increasing the pitting resistance of stainless steels generally. Thus, for a duplex steel containing 5% Ni, 3% Cu, 2.5% Mo, and 0.15% N, increase in chromium from 22.5% to 28% decreased the pitting current density monotonically in 3% NaCl solution at an applied potential of 850 mV from $3 1 0 \\mu \\mathrm { A } / \\epsilon \\mathrm { m } ^ { 2 }$ to $2 0 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$",
+        "bbox": [
+            505,
+            831,
+            937,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "28",
+        "bbox": [
+            64,
+            41,
+            83,
+            51
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Clark and Guha",
+        "bbox": [
+            119,
+            39,
+            222,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Werkstoffe und Korrosion 34, 27–31 (1983)",
+        "bbox": [
+            670,
+            38,
+            935,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            965,
+            21,
+            982,
+            979
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As reported by Oldfield and Sutton [6] and by Brigham [7] both chromium and molybdenum also improve resistance to crevice corrosion. Molybdenum is regarded as more effective than chromium, but in practice it is desirable to limit the molybdenum content because it strongly promotes the formation of sigma phase [8]. This may lead to adverse effects on properties following welding or processing of steels in the temperature range $7 0 0  – 9 5 0 ^ { \\circ } C _ { }$ In practice therefore it has been found convenient to hold the molybdenum content within the range 2–3%, improve passivation characteristics by increasing chromium, and control the austenite-ferrite ratio by corresponding adjustments to the nickel content.",
+        "bbox": [
+            62,
+            73,
+            494,
+            233
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d) Copper",
+        "text_level": 2,
+        "bbox": [
+            64,
+            256,
+            142,
+            270
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It has been shown that additions of copper to a duplex steel in amounts up to about 1.0% are beneficial in increasing the pitting resistance in 3% NaCl solution, but that higher copper contents give little further improvement [9]. However higher copper contents are beneficial in lower pH environments that are experienced in sour oil wells, polluted sea water, and chemical process plant, particularly under conditions of high flow velocity leading to erosion and cavitation, although under very severe conditions of this kind, the more expensive super austenite steels or high nickel alloys might be required. High copper contents, however, tend to reduce hot ductility and weldability so that for wrought duplex steels copper is usually limited to a maximum of about 2% and for the cast steels to about 3%. Copper is a weak austenite stabiliser and therefore slightly reinforces the effects of nickel and nitrogen on microstructure.",
+        "bbox": [
+            60,
+            281,
+            493,
+            489
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The general effects of the variations in composition, described above, on corrosion resistance and mechanical properties are illustrated in Fig. 2 and 3 and Table 1 respectively. It is seen that the impact toughness for material in the aged condition is particularly sensitive to deviation from the optimum composition.",
+        "bbox": [
+            60,
+            489,
+            491,
+            568
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4d240be72b75c087cd7ade06e451adb6357c2eb5b95a5e89e9364f14bb7e6a9.jpg",
+        "table_caption": [
+            "Table 1. Effect of variations in nitrogen, chromium, and nickel contents on the mechanical properties of duplex steels containing approximately 2.5% Mo and 3% Cu (solution treated and age hardened condition)",
+            "Tabelle 1. Einfluß verschiedener Stickstoff-, Chrom- und Nickelgehalte auf die mechanischen Eigenschaften von austenitisch-ferritischen Stählen mit etwa 2,5% Mo und 3% Cu (lösungsgeglüht und ausscheidungsgehärtet"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>% Cr</td><td>% Ni</td><td>%N2</td><td> $\\mathbf { N } / \\mathbf { m } ^ { 2 }$ </td><td>0.5% P.S. U.T.S.  $\\mathbf { N } / \\mathbf { m } ^ { 2 }$ </td><td>% El</td><td>impact strength joules</td></tr><tr><td>24.9</td><td>5.5</td><td>0.05</td><td>664</td><td>873</td><td>15</td><td>13.5</td></tr><tr><td>25.2</td><td>5.3</td><td>0.17</td><td>649</td><td>840</td><td>25</td><td>57</td></tr><tr><td>25.2</td><td>8.5</td><td>0.15</td><td>564</td><td>840</td><td>29</td><td>50</td></tr><tr><td>28.3</td><td>4.9</td><td>0.13</td><td>788</td><td>1004 1016</td><td>18</td><td>9.5</td></tr><tr><td>28.2</td><td>7.8</td><td>0.16</td><td>757</td><td></td><td>24</td><td>34</td></tr></table>",
+        "bbox": [
+            62,
+            690,
+            489,
+            807
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Properties of duplex steels with optimum compositions",
+        "text_level": 2,
+        "bbox": [
+            62,
+            833,
+            480,
+            849
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using the principles outlined in the previous section, two duplex steels have been developed showing significant improvements in toughness, weldability and corrosion characteristics, compared with CD 4 MCu. The compositions, typical microstructures, and typical mechanical properties of these commercial steels, designated FERRALIUM\\* alloy 255 and FERRALIUM alloy 288 respectively, are shown for comparison with ASTM A 743 CD 4MCu, CF8M and a cast 20-type alloy developed for sour oil well applications in Tables 2 and 3 respectively.",
+        "bbox": [
+            62,
+            859,
+            493,
+            915
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b705d7f784abb10971cdf710b9f7e1307d13f6d02a67cfae2fc537c8f1e9996d.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 3. Effect of copper content on pitting resistance in 3% NaCl at 30°C and on corrosion rate in 70% $\\bar { \\bf H } _ { 2 } { \\bf S O } _ { 4 } ^ { \\top }$ at 60℃",
+            "Abb. 3. Einfluß des Kupfergehalts auf die Lochkorrosionsbeständigkeit in 3%iger NaCl-Lösung bei $3 0 \\%$ und auf die Korrosionsgeschwindigkeit in 70%iger Schwefelsäure bei $6 0 ^ { \\circ } \\mathrm { C }$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            503,
+            74,
+            939,
+            451
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            539,
+            935,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pitting potentials in 3% NaCl solution are plotted as a function of temperature for some of these steels in Fig. 4, whilst comparative corrosion data in sulphuric acid are shown in Fig. 5.",
+        "bbox": [
+            503,
+            617,
+            935,
+            670
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Resulting from these properties, FERRALIUM alloy 255 is regarded as a good general purpose stainless steel, combining high strength and notch ductility, with good resistance to pitting, crevice corrosion, and stress corrosion in marine environments and good resistance to corrosion in most oxidising acid environments. Because of its higher alloy content FER-RALIUM alloy 288 has superior resistance to the 255 alloy in sulphuric acid under critical conditions of concentration and temperature, and indeed is almost as good in this environment as the much more expensive 20-type alloy. The 288 alloy has also shown excellent corrosion and erosion resistance under certain critical conditions in the wet process for the production of fertiliser grade phosphoric acid.",
+        "bbox": [
+            503,
+            669,
+            935,
+            838
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The improved ductility resulting from the addition of nitrogen enables FERRALIUM alloy 255 to be produced in both",
+        "bbox": [
+            503,
+            836,
+            934,
+            864
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            968,
+            19,
+            984,
+            981
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Werkstoffe und Korrosion 34, 27–31 (1983)",
+        "bbox": [
+            64,
+            39,
+            329,
+            54
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Improvements in corrosion resistance",
+        "bbox": [
+            651,
+            42,
+            883,
+            56
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "29",
+        "bbox": [
+            918,
+            44,
+            937,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\* FERRALIUM is a registered trade mark of Bonar Langley Alloys Ltd., U.K.",
+        "bbox": [
+            506,
+            886,
+            934,
+            913
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d9ee224c250ca22c857a6ab67db6a607169223b7b90159b4fc1e7a35c3d93ee.jpg",
+        "table_caption": [
+            "Table 2. Designation, composition and typical microstructures of stainless steels Tabelle 2. Bezeichnung, Zusammensetzung und typisches Mikrogefüge von nichtrostenden Stählen"
+        ],
+        "table_footnote": [
+            "maximum."
+        ],
+        "table_body": "<table><tr><td colspan=\"5\">Designation Composition (balance Fe), wt. %</td><td colspan=\"3\"></td></tr><tr><td></td><td>C*</td><td>N</td><td>Cr</td><td>Ni</td><td>Cu</td><td>Mo</td><td>Typical microstructure</td></tr><tr><td>FERRALIUM alloy 255</td><td>0.08</td><td>0.1 min</td><td>24-27</td><td>4.5-6.5</td><td>1.3-4</td><td>2-4</td><td>50/50 austenite-ferrite</td></tr><tr><td>FERRALIUM alloy 288</td><td>0.08</td><td>0.1 min</td><td>26-29</td><td>6-9</td><td>0.75-1.75</td><td>2-3</td><td>50/50 austenite-ferrite</td></tr><tr><td rowspan=\"3\">ASTM A 743 CD 4 MCu CF8M</td><td>0.04</td><td>一</td><td>24.5–26.5</td><td>4.75-6</td><td>2.75-3.25</td><td>1.75-2.25</td><td>25/75 austenite-ferrite</td></tr><tr><td>0.08</td><td></td><td>18-21</td><td>9-12</td><td>一</td><td>2-3</td><td>5–15% ferrite,</td></tr><tr><td>0.07</td><td>Nb  $8 \\times \\% \\mathrm { ~ C ~ }$ </td><td>20-22</td><td>26-31</td><td>1.5-2.5</td><td>3.5-4.5</td><td>balance austenite fully austenitic</td></tr></table>",
+        "bbox": [
+            65,
+            106,
+            939,
+            236
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b96f999c399bd7ddc34dc9dcdbe1e99be9b112c48a25d9777af3ef551cb8280.jpg",
+        "table_caption": [
+            "Table 3. Typical mechanical properties of stainless steels",
+            "Tabelle 3. Typische mechanische Eigenschaften von nichtrostenden Stählen"
+        ],
+        "table_footnote": [
+            "\\* S.T. = solution treatment; \\* W.Q. = water quench.",
+            "cast and wrought forms, whereas CD 4 MCu, in which nitrogen is not deliberately added, is available only as castings."
+        ],
+        "table_body": "<table><tr><td>Designation</td><td>Heat treatment</td><td> $0 . 2 \\% { \\bf P } . { \\bf S } .$   $\\mathbf { N } / \\mathbf { m } \\mathbf { m } ^ { 2 }$ </td><td> $\\mathrm { { \\bf U } } . \\mathrm { { \\bf T } } . \\mathsf { { \\bf S } } .$   $\\mathbf { N } / \\mathbf { m m } ^ { 2 }$ </td><td> $^ { \\mathrm { E l . } } _ { \\% }$ </td><td>Impact, joules</td></tr><tr><td>FERRALIUM alloy 255</td><td>solution treat  $1 1 2 0 ^ { \\circ } \\mathrm { C } , \\mathrm { W } . \\mathrm { Q } . ^ { \\ast }$ </td><td>530</td><td>780</td><td>30</td><td>120</td></tr><tr><td>FERRALIUM alloy 255</td><td>solution treat + age at 510°C</td><td>650</td><td>880</td><td>28</td><td>70</td></tr><tr><td>FERRALIUM alloy 288</td><td>solution treat 1120°C, W.Q.</td><td>500</td><td>800</td><td>25</td><td>65</td></tr><tr><td>ASTM A 743 CD 4 MCu</td><td> ${ \\bf S . T . ^ { * } } 1 1 2 0 ^ { \\circ } { \\bf C } ,$  furnace cool</td><td>550</td><td>770</td><td>15</td><td>40</td></tr><tr><td>CF8M</td><td>to 1040°C, W.Q. solution treat 1050°C, W.Q.</td><td>225</td><td>510</td><td>45</td><td>100</td></tr><tr><td>Cast 20-type</td><td>solution treat  $1 1 2 0 ^ { \\circ } \\mathbf { C } , \\mathbf { W } . \\mathbf { O } .$ </td><td>245</td><td>550</td><td>35</td><td>90</td></tr></table>",
+        "bbox": [
+            65,
+            305,
+            937,
+            448
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/f1c948f926b043321cbb73d6b72efe9bb3134c99fa86246f233da84d33db062f.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 4. Pitting potentials as a function of temperature Abb. 4. Temperaturabhängigkeit der Lochkorrosionspotentiale"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            65,
+            535,
+            454,
+            880
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/062ce60dce1c168b9d246c60e18bc99e95eebdd8a11aa08c4ed43ab0fd3456cd.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 5. Sulphuric acid corrosion chart based on maximum corrosion rate of 0.5 mm/year",
+            "Abb. 5. Isokorrosionsdiagramm für Schwefelsäure mit maximal 0,5 mm/a Abtragung"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            508,
+            487,
+            956,
+            751
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Welding duplex steels",
+        "text_level": 2,
+        "bbox": [
+            510,
+            832,
+            682,
+            849
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The duplex steels consist wholly of delta ferrite on solidification from the melt. During cooling, partial transformation to austenite occurs, so that at room temperature the microstructure consists of pools of austenite in a ferrite matrix. If the",
+        "bbox": [
+            506,
+            859,
+            939,
+            914
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            973,
+            19,
+            987,
+            978
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "30",
+        "bbox": [
+            64,
+            44,
+            83,
+            56
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Clark and Guha",
+        "bbox": [
+            119,
+            43,
+            222,
+            56
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Werkstoffe und Korrosion 34, 27–31 (1983)",
+        "bbox": [
+            671,
+            41,
+            937,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "W 2255",
+        "bbox": [
+            880,
+            852,
+            935,
+            865
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "steel is worked, the austenite phase, being ductile, becomes elongated along the direction of deformation. It has been shown that because of their very high cooling rate, weld metal deposits produced from matching filler rods by the manual metal arc technique, contain a somewhat higher ferrite content and also have a more acicular microstructure than the parent metal [11]. Because delta ferrite tends to have low ductility the net effect of these microstructural differences is to impart lower toughness to weld metal compared with parent material of the same composition. This low toughness can lead to cracking in the weld metal when producing thick section welds under severe restraint. The problem was overcome by developing electrodes of higher nickel content (6.9%) so as to produce weld deposits of higher austenite content than the parent metal, FERRALIUM 255. Although the microstructure was still very acicular the ductility was satisfactorily restored as shown in Table 4. Measurements of pitting potentials in 3% NaCl solution indicated that weld deposits from the higher nickel electrodes had similar characteristics to those of the parent metal.",
+        "bbox": [
+            59,
+            74,
+            493,
+            335
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4036e2976b585b76dd72a88d8b9e1940d88679fde2754705728dbb49ba63e40f.jpg",
+        "table_caption": [
+            "Table 4. Mechanical properties of weld deposits from electrodes of matching composition and from high nickel electrodes in comparison with the parent duplex steel",
+            "Tabelle 4. Mechanische Eigenschaften des Schweißgutes von Elektroden mit artgleicher Zusammensetzung und von Elektroden mit erhöhtem Nickelgehalt, bezogen auf den Grundwerkstoff mit Austenit: Ferrit-Gefüge"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>Parent metal</td><td>Deposits from Deposits from matching- electrodes</td><td>electrodes of high nickel content (6.9%)</td></tr><tr><td>Austenite content, %</td><td>50</td><td>45</td><td>80</td></tr><tr><td>Impact strength, joules</td><td></td><td></td><td></td></tr><tr><td>as deposited solution treated at</td><td>120</td><td>19 110</td><td>54 120</td></tr><tr><td>1120℃</td><td>70</td><td>10</td><td>85</td></tr><tr><td>solution treated and aged at 510°℃</td><td></td><td></td><td></td></tr><tr><td>Elongation, %</td><td></td><td></td><td></td></tr><tr><td>as deposited</td><td>30</td><td>6 28</td><td>10 29</td></tr><tr><td>solution treated solution treated and</td><td>28</td><td>7</td><td>26</td></tr><tr><td>aged</td><td></td><td></td><td></td></tr><tr><td>Tensile strength, N/mm²</td><td></td><td></td><td></td></tr><tr><td>as deposited</td><td></td><td>865</td><td>900 775</td></tr><tr><td>solution treated solution treated and</td><td>780 880</td><td>780 935</td><td>930</td></tr><tr><td>aged</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            64,
+            468,
+            487,
+            752
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In a more recent development electrodes of higher nickel content (10%) have also been made available for use with the higher alloyed duplex steel, FERRALIUM alloy 288. The weld deposits again possess equivalent mechanical properties and pitting potential to the parent metal.",
+        "bbox": [
+            64,
+            801,
+            494,
+            870
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            506,
+            74,
+            602,
+            89
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. The addition of nitrogen to duplex steels is beneficial to both ductility and resistance to pitting corrosion. The maximum permitted carbon content can also be raised from 0.04 to 0.08%, when nitrogen is added, without adversely affecting resistance to pitting and intercrystalline corrosion.",
+        "bbox": [
+            505,
+            102,
+            934,
+            169
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. The most important function of nickel in duplex steels is to balance the austenite-ferrite microstructure and it is considered that a 50–50 ratio gives optimum properties.",
+        "bbox": [
+            505,
+            167,
+            934,
+            207
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Pitting current density measurements in 3% NaCl at 30°C with varying chromium contents indicate that increasing chromium content improves the stability of the passive film.",
+        "bbox": [
+            505,
+            206,
+            934,
+            246
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Molybdenum reinforces the beneficial effects of chromium but has to be limited because of cost and its tendency to promote the formation of brittle sigma phase at high temperatures.",
+        "bbox": [
+            505,
+            245,
+            934,
+            297
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Copper in amounts up to 1.5% improves pitting resistance in marine environments, and higher levels are beneficial in low pH solutions. The practical upper limits for copper in duplex steel castings and wrought products are restricted by adverse effects on hot ductility.",
+        "bbox": [
+            505,
+            295,
+            934,
+            361
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Because of the high quench rates during welding operations, weld deposits from electrodes of matching composition tend to have higher ferrite contents, more acicular microstructures, and lower ductilities than the parent metal. Welding consumables for duplex steels should therefore preferably contain higher nickel contents than the parent metal.",
+        "bbox": [
+            505,
+            361,
+            934,
+            451
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Two commercial duplex steels, FERRALIUM alloy 255 (25 Cr, 5Ni, Mo, Cu, N) and FERRALIUM alloy 288, (28 Cr, 8 Ni, Mo, Cu, N) together with compatible welding electrodes, have been developed using the principles outlined above. The former steel, in both cast and wrought forms, has found wide application in marine environments and chemical process plant. The latter steel, in the form of castings, is finding increasing application in more critical applications, including the production of “wet\" process phosphoric acid.",
+        "bbox": [
+            505,
+            450,
+            935,
+            583
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            508,
+            600,
+            593,
+            614
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. W. T. Delong: Welding Journal 7 (1974) 273-286.",
+            "2. R. Oppenheim: Dechema-Monographien 36 (1959) 108–120, s. a. Ind. Anz. 81 (1959) 13–20.",
+            "3. J. W. Flowers, F. H. Beck, M. G. Fontana: Corrosion 19 (1963) 186 t-198 t.",
+            "4. W. H. Richardson, P. Guha: British Corrosion Journal 14 (1979) 167-170.",
+            "5. E. A. Schoefer: Chemical Engineering (March 1960) pp. 164–168.",
+            "6. J. W. Oldfield, W. H. Sutton: British Corrosion Journal 15 (1980) 31-34.",
+            "7. R. J. Brigham: Corrosion 37 (1981) 608.",
+            "8. H. Goldschmidt: Iron and Steel Institute Symposium on “High Temperature Steels and Alloys for Gas Turbines\", Special Report No. 43 (1951) p. 249.",
+            "9. R. Machin, P. Guha: Werkstoffe u. Korrosion 1 (1974) 40–45.",
+            "10. G. Pini, J. Weber: Sulzer Technical Review (February 1979) pp. 69–80.",
+            "11. D. Blumfield, C. A. Clark, P. Guha: Metal Construction (May 1981) pp. 269–273.",
+            "(Received: 14.6. 1982)"
+        ],
+        "bbox": [
+            515,
+            626,
+            845,
+            638
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Werkstoffe und Korrosion 34, 27–31 (1983)",
+        "bbox": [
+            62,
+            39,
+            328,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Improvements in corrosion resistance",
+        "bbox": [
+            649,
+            42,
+            880,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "31",
+        "bbox": [
+            916,
+            43,
+            934,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "aside_text",
+        "text": "",
+        "bbox": [
+            973,
+            16,
+            987,
+            980
+        ],
+        "page_idx": 4
+    }
+]

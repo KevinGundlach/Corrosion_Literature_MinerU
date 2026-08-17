@@ -1,0 +1,3334 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9284,
+                "bbox": [
+                    296,
+                    56,
+                    1215,
+                    116
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9022,
+                "bbox": [
+                    655,
+                    294,
+                    867,
+                    327
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9059,
+                "bbox": [
+                    697,
+                    414,
+                    820,
+                    450
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9886,
+                "bbox": [
+                    246,
+                    476,
+                    1271,
+                    677
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.927,
+                "bbox": [
+                    592,
+                    701,
+                    921,
+                    730
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9258,
+                "bbox": [
+                    249,
+                    758,
+                    413,
+                    787
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    46,
+                    824,
+                    730,
+                    1432
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9419,
+                "bbox": [
+                    155,
+                    1462,
+                    617,
+                    1496
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    46,
+                    1498,
+                    731,
+                    1938
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    782,
+                    824,
+                    1472,
+                    1164
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9211,
+                "bbox": [
+                    1074,
+                    1193,
+                    1183,
+                    1226
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    782,
+                    1228,
+                    1472,
+                    1761
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    782,
+                    1761,
+                    1469,
+                    1930
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9424,
+                "bbox": [
+                    935,
+                    1960,
+                    1314,
+                    1995
+                ],
+                "index": 14,
+                "latex": "\\mathbf { C C T } \\left( \\mathbf { C } \\right) = . ( 4 5 \\pm 5 ) + \\mathbb { 1 1 } \\times \\mathcal { 7 } \\mathbf { 0 M o }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9429,
+                "bbox": [
+                    784,
+                    2028,
+                    1467,
+                    2063
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9001,
+                "bbox": [
+                    51,
+                    1968,
+                    447,
+                    2000
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9374,
+                "bbox": [
+                    51,
+                    1999,
+                    729,
+                    2057
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9019,
+                "bbox": [
+                    51,
+                    2095,
+                    102,
+                    2123
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9291,
+                "bbox": [
+                    1212,
+                    2092,
+                    1465,
+                    2124
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    68,
+                    1199,
+                    109
+                ],
+                "score": 0.994,
+                "text": "Temperature as a Crevice Corrosion Criterion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    660,
+                    300,
+                    864,
+                    324
+                ],
+                "score": 0.972,
+                "text": "R. J. BRIGHAM*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    700,
+                    415,
+                    816,
+                    451
+                ],
+                "score": 1.0,
+                "text": "Abstract"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    253,
+                    480,
+                    1264,
+                    502
+                ],
+                "score": 0.996,
+                "text": "Using temperature as a crevice corrosion criterion, a number of commercial and experimental"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    256,
+                    509,
+                    1264,
+                    529
+                ],
+                "score": 0.993,
+                "text": "Mo-bearing 18% Cr austenitic stainiess steels have been evaluated for crevice corrosion resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    256,
+                    538,
+                    1265,
+                    558
+                ],
+                "score": 0.993,
+                "text": "These data have been correlated with the effect of Mo content on the rate of active corrosion in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    252,
+                    565,
+                    1266,
+                    587
+                ],
+                "score": 0.988,
+                "text": "very aggressive acid solution expected in the crevice itself. Alloyed Mo has been found to play the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    594,
+                    1264,
+                    614
+                ],
+                "score": 0.99,
+                "text": "dominant role in reducing the relative rate of crevice corrosion and in defining the go/no-go crevice"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    620,
+                    1265,
+                    644
+                ],
+                "score": 0.99,
+                "text": "corrosion behavior in terms of the crevice corrosion temperature (CCT) in oxidizing acid chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    651,
+                    971,
+                    671
+                ],
+                "score": 0.989,
+                "text": "solutions. For 18% Cr austenitic stainless steels the empirical relationship"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    598,
+                    704,
+                    916,
+                    728
+                ],
+                "score": 0.933,
+                "text": "CCT (C) = -(45 ± 5) + 11 x %Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    762,
+                    409,
+                    784
+                ],
+                "score": 1.0,
+                "text": "has been found."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    822,
+                    726,
+                    856
+                ],
+                "score": 0.988,
+                "text": "In earlier presentations,1 ,2 temperature has been shown to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    862,
+                    725,
+                    888
+                ],
+                "score": 0.997,
+                "text": "be a reliable pitting criterion for 18% Cr austenitic stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    895,
+                    725,
+                    921
+                ],
+                "score": 0.988,
+                "text": "steels. For each steel, a temperature, called the critical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    929,
+                    725,
+                    956
+                ],
+                "score": 0.99,
+                "text": "pitting temperature (CPT), has been found below which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    964,
+                    724,
+                    988
+                ],
+                "score": 0.993,
+                "text": "pits will not initiate on a flat surface parallel to the rolling"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    996,
+                    724,
+                    1022
+                ],
+                "score": 0.99,
+                "text": "plane when the steel is exposed to oxidizing acid chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1030,
+                    722,
+                    1055
+                ],
+                "score": 0.993,
+                "text": "solutions. Molybdenum plays the dominant beneficial role"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1064,
+                    724,
+                    1090
+                ],
+                "score": 0.994,
+                "text": "in improving pit initiation resistance as measured by the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1096,
+                    724,
+                    1124
+                ],
+                "score": 0.988,
+                "text": "CPT while other alloying additions contribute to a lesser"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1130,
+                    723,
+                    1158
+                ],
+                "score": 0.998,
+                "text": "extent. Several families of alloys, depending on chemistry,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    49,
+                    1158,
+                    726,
+                    1194
+                ],
+                "score": 0.99,
+                "text": "have been identified.2,3 For all of the alloys, edge,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1199,
+                    724,
+                    1224
+                ],
+                "score": 0.999,
+                "text": "end-grain, and crevice attack have been observed to occur at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1232,
+                    724,
+                    1259
+                ],
+                "score": 0.997,
+                "text": "temperatures below the CPT. However, further experimen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1268,
+                    723,
+                    1292
+                ],
+                "score": 1.0,
+                "text": "tation has shown that there exists a temperature, which we"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1300,
+                    721,
+                    1324
+                ],
+                "score": 0.984,
+                "text": "call the crevice corrosion temperature (CCT), below which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1335,
+                    723,
+                    1359
+                ],
+                "score": 0.985,
+                "text": "no corrosion of any type will occur even when the alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1367,
+                    723,
+                    1393
+                ],
+                "score": 0.991,
+                "text": "are tested in a geometric configuration containing a built-in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1401,
+                    141,
+                    1429
+                ],
+                "score": 1.0,
+                "text": "crevice."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1466,
+                    609,
+                    1495
+                ],
+                "score": 0.986,
+                "text": "Test Method for Determining CCT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    1503,
+                    721,
+                    1526
+                ],
+                "score": 0.997,
+                "text": "In order to simulate the worst possible crevice configu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1535,
+                    723,
+                    1560
+                ],
+                "score": 0.998,
+                "text": "ration, three types of crevices have been used: metal to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1568,
+                    720,
+                    1592
+                ],
+                "score": 0.986,
+                "text": "metal, Teflon to metal, and rubber (elastic band) to metal."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1601,
+                    723,
+                    1627
+                ],
+                "score": 0.998,
+                "text": "The testing method adopted is an extension of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1635,
+                    722,
+                    1660
+                ],
+                "score": 0.993,
+                "text": "technique which proved successful for the quantitative"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1668,
+                    722,
+                    1692
+                ],
+                "score": 0.988,
+                "text": "evaluation of pit initiation resistance. Samples of stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1700,
+                    723,
+                    1726
+                ],
+                "score": 0.987,
+                "text": "steel have been exposed to 10% FeCl3 for 24 hours at fixed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1735,
+                    722,
+                    1759
+                ],
+                "score": 0.995,
+                "text": "temperature in at least two of the three crevice configura-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1768,
+                    721,
+                    1791
+                ],
+                "score": 0.995,
+                "text": "tions mentioned above. At the end of one such exposure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1800,
+                    722,
+                    1824
+                ],
+                "score": 1.0,
+                "text": "period, the stainless steel was examined visually. If no"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1838,
+                    724,
+                    1866
+                ],
+                "score": 0.995,
+                "text": "corrosion attack of any type could be observed, the sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1871,
+                    725,
+                    1899
+                ],
+                "score": 1.0,
+                "text": "was considered to be immune at that temperature and was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1905,
+                    724,
+                    1931
+                ],
+                "score": 0.996,
+                "text": "then exposed for a further 24 hours at a 2.5 C higher"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    828,
+                    1467,
+                    855
+                ],
+                "score": 0.995,
+                "text": "temperature. This procedure was continued until attack of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    862,
+                    1464,
+                    889
+                ],
+                "score": 0.987,
+                "text": "any kind (edge, end-grain, elastic to metal crevice, metal to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    896,
+                    1465,
+                    921
+                ],
+                "score": 0.999,
+                "text": "metal crevice, etc) was observed. The CCT was bracketed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    930,
+                    1463,
+                    957
+                ],
+                "score": 0.994,
+                "text": "by that 2.5 C temperature interval in which the go/no-go"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    963,
+                    1464,
+                    990
+                ],
+                "score": 0.994,
+                "text": "characteristics were observed. Go/no-go results obtained in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    997,
+                    1464,
+                    1023
+                ],
+                "score": 0.995,
+                "text": "24 hour tests were routinely confirmed in 66 hour tests and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1032,
+                    1464,
+                    1056
+                ],
+                "score": 0.989,
+                "text": "in the case of one alloy, the CCT was found to be valid for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1064,
+                    1464,
+                    1090
+                ],
+                "score": 0.987,
+                "text": "a 30 day exposure in 10% FeCl3. All of the alloys were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    1100,
+                    1464,
+                    1124
+                ],
+                "score": 0.998,
+                "text": "tested in the single-phase quench-annealed condition with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    1133,
+                    1266,
+                    1157
+                ],
+                "score": 0.994,
+                "text": "abraded surfaces (120 grit silicon carbide)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1079,
+                    1194,
+                    1178,
+                    1229
+                ],
+                "score": 1.0,
+                "text": "Results"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    839,
+                    1232,
+                    1464,
+                    1259
+                ],
+                "score": 0.993,
+                "text": "Because Mo has been found to play the dominant role"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1267,
+                    1465,
+                    1293
+                ],
+                "score": 0.998,
+                "text": "in increasing resistance to crevice corrosion, the results for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1301,
+                    1464,
+                    1327
+                ],
+                "score": 0.992,
+                "text": "several steels are plotted as CCT vs %Mo as shown in Figure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1333,
+                    1463,
+                    1360
+                ],
+                "score": 0.979,
+                "text": "1. The values obtained are compared in Figure 1 with CPT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1366,
+                    1464,
+                    1395
+                ],
+                "score": 0.996,
+                "text": "vs %Mo for four families of 18% Cr austenitic alloys which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    1399,
+                    1465,
+                    1428
+                ],
+                "score": 0.994,
+                "text": "have been defined previously.2,3 Chemical analyses, CCT,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1434,
+                    1464,
+                    1461
+                ],
+                "score": 0.99,
+                "text": "and pitting family for each of the alloys are given in Table"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1468,
+                    1464,
+                    1494
+                ],
+                "score": 0.986,
+                "text": "1. Family 1 represents the average family of alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1500,
+                    1461,
+                    1527
+                ],
+                "score": 0.994,
+                "text": "corresponding to present day commercial practice. Family"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1534,
+                    1465,
+                    1561
+                ],
+                "score": 0.999,
+                "text": "2 represents a series of alloys similar to Family 1, but"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1568,
+                    1466,
+                    1594
+                ],
+                "score": 0.991,
+                "text": "having a higher nitrogen content. Family 3 represents a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    1601,
+                    1463,
+                    1625
+                ],
+                "score": 0.987,
+                "text": "series of alloys similar to Family 1, but containing low Mn"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    1634,
+                    1462,
+                    1658
+                ],
+                "score": 0.978,
+                "text": "(<0.5% Mn). Family 4 represents a series of high Si (3.5%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1666,
+                    1462,
+                    1692
+                ],
+                "score": 0.998,
+                "text": "Si) stainless steels. The CPT vs %Mo characteristics of these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1696,
+                    1465,
+                    1727
+                ],
+                "score": 0.996,
+                "text": "four families along with the appropriate equation of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1732,
+                    1156,
+                    1759
+                ],
+                "score": 0.998,
+                "text": "behavior are plotted in Figure 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    836,
+                    1762,
+                    1462,
+                    1792
+                ],
+                "score": 0.995,
+                "text": "Whereas several distinct families of alloys can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1796,
+                    1462,
+                    1826
+                ],
+                "score": 0.997,
+                "text": "observed in the case of pit initiation resistance, all of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1831,
+                    1461,
+                    1859
+                ],
+                "score": 0.994,
+                "text": "alloys apparently fall in the same family with respect to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    1865,
+                    1462,
+                    1891
+                ],
+                "score": 1.0,
+                "text": "crevice corrosion resistance. Their behavior can be de-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1900,
+                    1037,
+                    1924
+                ],
+                "score": 0.993,
+                "text": "scribed empirically by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    2031,
+                    1461,
+                    2060
+                ],
+                "score": 1.0,
+                "text": "The data are plotted as error bars with the low temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    62,
+                    1973,
+                    439,
+                    1998
+                ],
+                "score": 0.999,
+                "text": "Submitted for publication May, 1974."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    57,
+                    2003,
+                    724,
+                    2026
+                ],
+                "score": 0.971,
+                "text": "*Endako Mines Molybdenum Research, 568 Booth Street, Ottawa,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    70,
+                    2033,
+                    343,
+                    2053
+                ],
+                "score": 0.98,
+                "text": "Ontario, Canada. K1A OG1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    2095,
+                    100,
+                    2127
+                ],
+                "score": 1.0,
+                "text": "396"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1217,
+                    2099,
+                    1460,
+                    2123
+                ],
+                "score": 0.993,
+                "text": "CORROSION-NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1520,
+            "height": 2175
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9811,
+                "bbox": [
+                    54,
+                    49,
+                    716,
+                    602
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.973,
+                "bbox": [
+                    80,
+                    632,
+                    696,
+                    807
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6815,
+                "bbox": [
+                    783,
+                    722,
+                    821,
+                    754
+                ],
+                "index": 3,
+                "latex": "a l ^ { 5 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862,
+                "bbox": [
+                    45,
+                    850,
+                    726,
+                    1085
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    44,
+                    1084,
+                    728,
+                    1431
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    778,
+                    48,
+                    1466,
+                    292
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9397,
+                "bbox": [
+                    946,
+                    319,
+                    1298,
+                    354
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    775,
+                    353,
+                    1466,
+                    1161
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4833,
+                "bbox": [
+                    1101,
+                    790,
+                    1189,
+                    822
+                ],
+                "index": 9,
+                "latex": "\\mathsf { p H } = 0"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4973,
+                "bbox": [
+                    1361,
+                    857,
+                    1449,
+                    889
+                ],
+                "index": 10,
+                "latex": "\\mathrm { p H } = . 1"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.943,
+                "bbox": [
+                    532,
+                    1454,
+                    927,
+                    1487
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9347,
+                "bbox": [
+                    961,
+                    1186,
+                    1278,
+                    1221
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829,
+                "bbox": [
+                    774,
+                    1222,
+                    1462,
+                    1428
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9834,
+                "bbox": [
+                    49,
+                    1500,
+                    1455,
+                    1968
+                ],
+                "index": 22,
+                "html": "<table><tr><td>Alloy</td><td>Heat Number</td><td>Cr</td><td>Ni</td><td>Mn</td><td>C</td><td>N</td><td>Si</td><td>P</td><td>S</td><td>Cu</td><td>Mo</td><td>CCT (C)</td><td>Pitting Family</td></tr><tr><td>1</td><td>8682-4</td><td><eq>1 8 . 3 ^ { ( 1 ) }</eq></td><td><eq>2 0 . 3 ^ { ( 1 ) }</eq></td><td><eq>0 . 3 6 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 4 ^ { ( 1 ) }</eq></td><td><eq>0 . 1 9 ^ { ( 1 ) }</eq></td><td><eq>_ { 3 . 5 } ( 1 )</eq></td><td><eq>_ { 0 , 0 0 9 } ( 1 )</eq></td><td><eq>_ { 0 . 0 0 5 } ( 1 )</eq></td><td>(2)</td><td>3.79</td><td>2.5-5</td><td>(4)</td></tr><tr><td>2</td><td>8427-4</td><td><eq>1 7 . 6 2</eq></td><td><eq>^ { 1 2 . 5 1 }</eq></td><td>1.66</td><td>0.02</td><td><eq>^ { 0 . 0 7 } _ { ( 2 ) }</eq></td><td><eq>^ { 0 . 7 1 } _ { ( 2 ) }</eq></td><td><eq>^ { 0 . 0 1 2 } _ { ( 2 ) }</eq></td><td>0.013</td><td>(2)</td><td>3.85</td><td>&lt;.2.5</td><td>(1)</td></tr><tr><td>3</td><td>7903-1</td><td><eq>1 8 . 8 9 </eq></td><td><eq>1 5 . 1 3 \\AA</eq></td><td>(2)</td><td>0.02</td><td></td><td></td><td></td><td>(2)</td><td>(2)</td><td>4.05</td><td>&lt;.2.5</td><td>(1)</td></tr><tr><td>4</td><td>7466-2</td><td><eq>1 9 . 0 ^ { ( 1 ) }</eq></td><td><eq>2 0 . 0 ^ { ( 1 ) }</eq></td><td><eq>_ { 0 . 0 9 } ( 1 )</eq></td><td><eq>0 . 0 3 _ { \\cdot \\cdot \\cdot } ^ { ( 1 ) }</eq></td><td><eq>0 . 2 0 _ { . } ^ { ( 1 ) }</eq></td><td><eq>0 . 3 3 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 6 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 1 \\cdots</eq></td><td><eq>0 . 0 1 _ { \\cdots } ^ { ( 1 ) }</eq></td><td>4.45</td><td>7.5-10</td><td>(2)</td></tr><tr><td>5</td><td>7580-2</td><td><eq>1 9 . 0 ^ { ( 1 ) }</eq></td><td><eq>2 0 . 0 ^ { ( 1 ) }</eq></td><td><eq>0 . 9 6 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 3 ^ { ( 1 ) }</eq></td><td><eq>0 . 2 0 ^ { ( 1 ) }</eq></td><td><eq>0 . 4 \\bar { 4 } ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 2 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 2 ^ { ( 1 ) }</eq></td><td></td><td>4.48</td><td>10-12.5</td><td>(2)</td></tr><tr><td>6</td><td>Alloy A</td><td>17.3</td><td>23.8</td><td>1.72</td><td>0.018</td><td>0.034</td><td>0.44</td><td>0.010</td><td>0.004</td><td><eq>^ { 0 . 0 1 } _ { ( 2 ) } ^ { ( 1 ) }</eq></td><td>4.60</td><td>2.5-5.0</td><td>(1)</td></tr><tr><td>7</td><td>7580-3</td><td><eq>\\mathfrak { 1 8 . 0 } ^ { ( 1 ) }</eq></td><td><eq>{ \\bar { 1 9 . 0 } } ^ { ( 1 ) }</eq></td><td></td><td><eq>_ { 0 , 0 3 } ( 1 )</eq></td><td><eq>0 . 2 0 ^ { ( 1 ) }</eq></td><td><eq>\\overline { { 0 . 4 4 } } ^ { ( 1 ) }</eq></td><td></td><td></td><td></td><td>5.60</td><td>15-17.5</td><td>(2)</td></tr><tr><td>8</td><td>Alloy B</td><td><eq>1 5 . 1 7</eq></td><td><eq>^ { 2 4 - 2 7 }</eq></td><td><eq>\\sum _ { 2 . 0 } ^ { \\cdot \\cdot \\cdot - } ( 1 )</eq></td><td><eq>&lt; 0 . 0 8</eq></td><td>0.10-0.20</td><td>&lt;1.0</td><td><eq>0 . 0 1 2 _ { ( 2 ) } ^ { ( 1 ) }</eq></td><td><eq>0 . { \\stackrel { 0 1 } { ( 2 ) } } ^ { ( 1 ) }</eq></td><td></td><td>6.0</td><td>17.5-20</td><td>(2)</td></tr><tr><td>9</td><td>8426</td><td><eq>1 9 . 3 8 </eq></td><td><eq>^ { 2 2 . 6 8 }</eq></td><td>0.38</td><td>0.04</td><td>0.20</td><td>0.47</td><td>0.014</td><td>0.014</td><td><eq>\\begin{array} { c } { { 0 . 0 2 ^ { \\left( 1 \\right) } } } \\\\ { { \\left( 2 \\right) } } \\\\ { { \\left( 2 \\right) } } \\end{array}</eq></td><td>6.04</td><td>25-27.5</td><td>(3)</td></tr><tr><td>10</td><td>7579-3</td><td><eq>1 8 . 0 ^ { ( 1 ) }</eq></td><td><eq>1 9 . 0 ^ { ( 1 ) }</eq></td><td><eq>0 . 9 5 ^ { ( 1 ) }</eq></td><td><eq>0 . 0 \\dot { 2 } ^ { ( 1 ) }</eq></td><td><eq>\\bar { 0 . 0 6 } ^ { ( 1 ) }</eq></td><td><eq>0 . 4 \\dot { 8 } ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 \\dot { 1 } ^ { ( 1 ) }</eq></td><td><eq>0 . 0 1 \\dot { 5 } ^ { ( 1 ) }</eq></td><td></td><td>6.18</td><td>17.5-20</td><td>(1)</td></tr><tr><td>11</td><td>7995</td><td><eq>1 8 . 6 7 \\cdot</eq></td><td><eq>^ { 2 3 . 8 }</eq></td><td>0.46</td><td>0.043</td><td></td><td>0.33</td><td>0.013</td><td>0.008</td><td><eq>\\begin{array} { c } { 0 . 0 2 ^ { \\left( 1 \\right) } } \\\\ { ( 2 ) } \\\\ { ( 2 ) } \\end{array}</eq></td><td>6.3</td><td>32.5-35</td><td>(3)</td></tr><tr><td>12</td><td>Alloy D</td><td>18.95</td><td>23.61</td><td>1.73</td><td>0.038</td><td><eq>^ { 0 . 2 2 4 } _ { ( 2 ) }</eq></td><td>0.81</td><td>0.013</td><td>0.004</td><td></td><td>6.50</td><td>27.5-30</td><td>(3)</td></tr><tr><td>13</td><td>7580-4</td><td>17.88</td><td>18.96</td><td>0.89</td><td>0.03</td><td>0.20</td><td>0.43</td><td>0.012</td><td>0.013</td><td>0.02</td><td>7.30</td><td>40-42.5</td><td>(2)</td></tr><tr><td>14</td><td>7466-4</td><td>18.00</td><td>18.93</td><td>0.08</td><td>0.07</td><td>0.19</td><td>0.32</td><td>0.019</td><td>0.015</td><td>0.02</td><td>7.40</td><td>42.5-45</td><td>(2)</td></tr><tr><td>15</td><td>7579-4</td><td>17.64</td><td>18.32</td><td>0.90</td><td>0.02</td><td>0.06</td><td>0.48</td><td>0.011</td><td>0.015</td><td>0.02</td><td>7.56</td><td>37.5-40</td><td>(1)</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.932,
+                "bbox": [
+                    49,
+                    1978,
+                    471,
+                    2007
+                ],
+                "index": 74
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6448,
+                "bbox": [
+                    53,
+                    2041,
+                    204,
+                    2071
+                ],
+                "index": 75
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8853,
+                "bbox": [
+                    48,
+                    2011,
+                    844,
+                    2042
+                ],
+                "index": 76
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.94,
+                "bbox": [
+                    52,
+                    2105,
+                    429,
+                    2140
+                ],
+                "index": 77
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.906,
+                "bbox": [
+                    1407,
+                    2098,
+                    1458,
+                    2129
+                ],
+                "index": 78
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    634,
+                    689,
+                    661
+                ],
+                "score": 0.989,
+                "text": "FIGURE 1 - Crevice corrosion temperature (CCT) and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    87,
+                    665,
+                    689,
+                    689
+                ],
+                "score": 0.998,
+                "text": "critical pitting temperature (CPT) as a function of molyb-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    87,
+                    693,
+                    689,
+                    718
+                ],
+                "score": 1.0,
+                "text": "denum content for several austenitic stainless steels. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    87,
+                    720,
+                    688,
+                    745
+                ],
+                "score": 0.992,
+                "text": "numbers associated with the CCT data refer to alloys listed in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    749,
+                    689,
+                    773
+                ],
+                "score": 0.999,
+                "text": "Table 1, while the numbers on the CPT data denote the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    779,
+                    470,
+                    801
+                ],
+                "score": 0.991,
+                "text": "pitting families listed in the same table."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    853,
+                    720,
+                    883
+                ],
+                "score": 0.994,
+                "text": "end denoting no attack and the high temperature end"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    888,
+                    718,
+                    913
+                ],
+                "score": 0.988,
+                "text": "denoting attack. Within the 10 C scatter-band, no distin-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    924,
+                    719,
+                    949
+                ],
+                "score": 0.973,
+                "text": "guishing features can be observed for alloys on the upper or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    954,
+                    719,
+                    983
+                ],
+                "score": 0.999,
+                "text": "lower limits of the band. Alloyed Mo, however, produces"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    988,
+                    719,
+                    1016
+                ],
+                "score": 0.999,
+                "text": "the well established trend toward higher resistance to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1024,
+                    717,
+                    1049
+                ],
+                "score": 0.995,
+                "text": "crevice corrosion with increasing additions shown in Figure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1055,
+                    80,
+                    1084
+                ],
+                "score": 1.0,
+                "text": "1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    1089,
+                    719,
+                    1116
+                ],
+                "score": 0.993,
+                "text": "While the CPT parameter describes conditions for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1125,
+                    719,
+                    1149
+                ],
+                "score": 0.988,
+                "text": "nucleation of pits on a flat surface, the CCT parameter is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1156,
+                    721,
+                    1184
+                ],
+                "score": 0.998,
+                "text": "related to the conditions for zero growth rate of a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    1200,
+                    719,
+                    1224
+                ],
+                "score": 0.999,
+                "text": "pre-existing pit or other occluded cell. These quantities"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1233,
+                    718,
+                    1257
+                ],
+                "score": 0.992,
+                "text": "therefore are characteristic of the most severe (CCT) and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1263,
+                    720,
+                    1291
+                ],
+                "score": 0.996,
+                "text": "least severe (CPT) degrees of occlusion possible. Conse-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1298,
+                    719,
+                    1325
+                ],
+                "score": 0.999,
+                "text": "quently, most alloys in service conditions in chloride"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1330,
+                    719,
+                    1358
+                ],
+                "score": 0.993,
+                "text": "solutions such as sea water would be expected to have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1363,
+                    719,
+                    1391
+                ],
+                "score": 0.992,
+                "text": "resistance between these extremes, depending on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    51,
+                    1396,
+                    719,
+                    1424
+                ],
+                "score": 0.988,
+                "text": "severity the crevice condition encountered. For samples"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    53,
+                    1458,
+                    81
+                ],
+                "score": 0.989,
+                "text": "with severe artificial crevices exposed 3 years in sea water in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    88,
+                    1459,
+                    117
+                ],
+                "score": 0.99,
+                "text": "Halifax Harbor (maximum temperature 15 C), go/no-go"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    122,
+                    1461,
+                    150
+                ],
+                "score": 0.995,
+                "text": "crevice corrosion behavior was observed which is consistent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    156,
+                    1458,
+                    185
+                ],
+                "score": 0.98,
+                "text": "with the data in Figure 1. For example, Alloys 7, 10, 13, 15"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    191,
+                    1460,
+                    218
+                ],
+                "score": 0.996,
+                "text": "which contain more than 5.6% Mo, showed no crevice"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    225,
+                    1459,
+                    252
+                ],
+                "score": 0.99,
+                "text": "attack, while Alloy 5 and similar alloys containing less than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    257,
+                    1292,
+                    286
+                ],
+                "score": 0.987,
+                "text": "4.5% Mo were attacked during this exposure."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    953,
+                    322,
+                    1292,
+                    353
+                ],
+                "score": 0.992,
+                "text": "Rate of Crevice Corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    834,
+                    358,
+                    1458,
+                    386
+                ],
+                "score": 0.971,
+                "text": "The data presented above for CCT vs %Mo, although"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    789,
+                    394,
+                    1459,
+                    419
+                ],
+                "score": 0.999,
+                "text": "empirical in nature, have established a limit for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    428,
+                    1458,
+                    452
+                ],
+                "score": 0.989,
+                "text": "resistance for 18% Cr austenitic alloys in oxidizing acid"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    458,
+                    1459,
+                    486
+                ],
+                "score": 0.988,
+                "text": "chloride media. They also serve as a basis for a better"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    492,
+                    1459,
+                    521
+                ],
+                "score": 0.992,
+                "text": "understanding of the crevice corrosion phenomenon when"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    529,
+                    1456,
+                    552
+                ],
+                "score": 0.994,
+                "text": "considered in combination with other observations. Picker-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    557,
+                    1459,
+                    590
+                ],
+                "score": 0.988,
+                "text": "ing and Frankenthal⁴ observed that hydrogen gas is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    596,
+                    1457,
+                    620
+                ],
+                "score": 0.984,
+                "text": "produced in occluded cells in stainless steels. This observa-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    629,
+                    1456,
+                    654
+                ],
+                "score": 0.997,
+                "text": "tion unequivocally fixed the potential-pH conditions in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    663,
+                    1457,
+                    687
+                ],
+                "score": 0.991,
+                "text": "occluded geometry below the hydrogen line and in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    696,
+                    1456,
+                    721
+                ],
+                "score": 0.997,
+                "text": "active corrosion region of the Pourbaix diagram. Suzuki et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    727,
+                    1457,
+                    755
+                ],
+                "score": 0.983,
+                "text": "measured the chloride concentration and pH of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    762,
+                    1456,
+                    786
+                ],
+                "score": 0.978,
+                "text": "solution in artificial occluded cells and found values of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    787,
+                    794,
+                    1097,
+                    819
+                ],
+                "score": 0.992,
+                "text": "order of 6.5N chloride and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1193,
+                    796,
+                    1457,
+                    820
+                ],
+                "score": 0.986,
+                "text": "for Mo-bearing stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    829,
+                    1456,
+                    853
+                ],
+                "score": 0.974,
+                "text": "steels corroding galvanostatically in 0.5N NaCl bulk solu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    859,
+                    1355,
+                    888
+                ],
+                "score": 0.994,
+                "text": "tion. If the maximum acidity were approximately"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    892,
+                    1456,
+                    920
+                ],
+                "score": 0.994,
+                "text": "and the maximum chloride content approximately 10M for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    925,
+                    1455,
+                    954
+                ],
+                "score": 0.981,
+                "text": "the most severe conditions, the chemistry of the occluded"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    961,
+                    1455,
+                    985
+                ],
+                "score": 0.983,
+                "text": "area could be considered to approach that of concentrated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    994,
+                    1455,
+                    1018
+                ],
+                "score": 0.975,
+                "text": "HCl (37.5% HCl). It is therefore possible to estimate the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    1026,
+                    1455,
+                    1054
+                ],
+                "score": 0.993,
+                "text": "relative rates of crevice corrosion by studying the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    1061,
+                    1454,
+                    1085
+                ],
+                "score": 0.991,
+                "text": "corrosion rate of stainless steels in concentrated HCl."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1094,
+                    1454,
+                    1119
+                ],
+                "score": 0.995,
+                "text": "Molybdenum content and temperature, the dominant fac-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    1128,
+                    1386,
+                    1152
+                ],
+                "score": 0.99,
+                "text": "tors in determining CCT, were chosen as the variables."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    539,
+                    1459,
+                    921,
+                    1483
+                ],
+                "score": 0.96,
+                "text": "TABLE 1 — Chemical Analyses (Wt %)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    970,
+                    1193,
+                    1270,
+                    1218
+                ],
+                "score": 0.983,
+                "text": "Corrosion Rates in HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1226,
+                    1455,
+                    1255
+                ],
+                "score": 1.0,
+                "text": "Coupons of several of the alloys listed in Table 1, along"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    1261,
+                    1453,
+                    1287
+                ],
+                "score": 0.999,
+                "text": "with several commercial AISI steels of various Mo contents,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    1292,
+                    1454,
+                    1322
+                ],
+                "score": 1.0,
+                "text": "were exposed for 4 hours in nitrogenated concentrated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1329,
+                    1453,
+                    1355
+                ],
+                "score": 0.99,
+                "text": "(37.5%) HCl at 0, 25, and 50 C (32, 77, and 122 F). From"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    1362,
+                    1453,
+                    1388
+                ],
+                "score": 0.997,
+                "text": "the measured weight losses, the corrosion rate in inches per"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    1396,
+                    1453,
+                    1422
+                ],
+                "score": 0.984,
+                "text": "month (ipm) was calculated. As in the CCT determination,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    1985,
+                    465,
+                    2003
+                ],
+                "score": 0.982,
+                "text": "Note: Alloys 6, 8, and 12 are commercial alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    49,
+                    2039,
+                    201,
+                    2073
+                ],
+                "score": 0.986,
+                "text": "(2) Not analyzed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    2011,
+                    838,
+                    2044
+                ],
+                "score": 0.988,
+                "text": "(1) Not analyzed, but extrapolated from other splits of the same heat which were analyzed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    56,
+                    2110,
+                    424,
+                    2136
+                ],
+                "score": 0.964,
+                "text": "Vol. 30, No. 11, November, 1974"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1408,
+                    2100,
+                    1457,
+                    2132
+                ],
+                "score": 1.0,
+                "text": "397"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1513,
+            "height": 2227
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9861,
+                "bbox": [
+                    61,
+                    53,
+                    725,
+                    537
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9712,
+                "bbox": [
+                    91,
+                    570,
+                    706,
+                    658
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    56,
+                    688,
+                    737,
+                    798
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9247,
+                "bbox": [
+                    342,
+                    827,
+                    452,
+                    859
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8019,
+                "bbox": [
+                    434,
+                    1027,
+                    492,
+                    1060
+                ],
+                "index": 5,
+                "latex": "1 0 ^ { - 3 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8171,
+                "bbox": [
+                    576,
+                    1027,
+                    732,
+                    1061
+                ],
+                "index": 6,
+                "latex": "( 2 . 5 ~ \\cdot _ { \\textbf { X } } ~ 1 0 ^ { - 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    56,
+                    862,
+                    741,
+                    1436
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7732,
+                "bbox": [
+                    538,
+                    1162,
+                    714,
+                    1196
+                ],
+                "index": 8,
+                "latex": "( \\mathrm { i } . \\mathrm { e } . , 3 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9284,
+                "bbox": [
+                    322,
+                    1481,
+                    472,
+                    1513
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9755,
+                "bbox": [
+                    55,
+                    1516,
+                    743,
+                    1619
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    787,
+                    49,
+                    1478,
+                    485
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8362,
+                "bbox": [
+                    1237,
+                    419,
+                    1307,
+                    452
+                ],
+                "index": 12,
+                "latex": "\\mathbb { F } { \\mathsf { e C l } } _ { 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    789,
+                    486,
+                    1480,
+                    858
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9389,
+                "bbox": [
+                    1010,
+                    863,
+                    1263,
+                    896
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836,
+                "bbox": [
+                    790,
+                    898,
+                    1480,
+                    1104
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8972,
+                "bbox": [
+                    1061,
+                    1133,
+                    1214,
+                    1165
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.967,
+                "bbox": [
+                    798,
+                    1167,
+                    1477,
+                    1223
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9741,
+                "bbox": [
+                    798,
+                    1225,
+                    1477,
+                    1306
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9677,
+                "bbox": [
+                    799,
+                    1307,
+                    1477,
+                    1362
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9776,
+                "bbox": [
+                    799,
+                    1364,
+                    1479,
+                    1473
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.976,
+                "bbox": [
+                    799,
+                    1475,
+                    1480,
+                    1558
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9675,
+                "bbox": [
+                    798,
+                    1560,
+                    1479,
+                    1615
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9064,
+                "bbox": [
+                    57,
+                    2122,
+                    110,
+                    2152
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9333,
+                "bbox": [
+                    1226,
+                    2122,
+                    1480,
+                    2156
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    100,
+                    576,
+                    700,
+                    595
+                ],
+                "score": 0.963,
+                "text": "FIGURE 2 — Corrosion rate as a function of molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    98,
+                    603,
+                    702,
+                    626
+                ],
+                "score": 1.0,
+                "text": "content for austenitic stainless steels exposed to nitrogenated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    99,
+                    633,
+                    474,
+                    652
+                ],
+                "score": 0.99,
+                "text": "concentrated (37.5%) HCl for 4 hours."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    693,
+                    732,
+                    719
+                ],
+                "score": 0.986,
+                "text": "the alloys were tested in the single phase quench annealed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    64,
+                    728,
+                    732,
+                    751
+                ],
+                "score": 0.993,
+                "text": "condition with surfaces abraded on 120 grit silicon carbide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    60,
+                    768,
+                    137,
+                    797
+                ],
+                "score": 1.0,
+                "text": "paper."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    348,
+                    826,
+                    447,
+                    863
+                ],
+                "score": 1.0,
+                "text": "Results"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    866,
+                    735,
+                    893
+                ],
+                "score": 0.979,
+                "text": "The results are plotted as corrosion rate (ipm) vs Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    900,
+                    733,
+                    924
+                ],
+                "score": 0.984,
+                "text": "content in Figure 2. Equivalent current densities are also"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    935,
+                    734,
+                    959
+                ],
+                "score": 0.99,
+                "text": "shown, assuming for simplicity that all of the ions go into"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    65,
+                    968,
+                    734,
+                    993
+                ],
+                "score": 0.989,
+                "text": "solution in the 2+ valence state. At low Mo levels, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    1002,
+                    734,
+                    1026
+                ],
+                "score": 0.994,
+                "text": "corrosion rate decreases logarithmically with increasing Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    1036,
+                    413,
+                    1060
+                ],
+                "score": 0.998,
+                "text": "content. At rates less than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    507,
+                    1033,
+                    561,
+                    1064
+                ],
+                "score": 1.0,
+                "text": "ipm"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    1068,
+                    732,
+                    1092
+                ],
+                "score": 0.998,
+                "text": "cm/month), weight loss results become inaccurate and seem"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    64,
+                    1101,
+                    735,
+                    1128
+                ],
+                "score": 0.999,
+                "text": "to represent the minimum readily measurable in this type"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    65,
+                    1134,
+                    735,
+                    1161
+                ],
+                "score": 0.997,
+                "text": "of experiment. However, if the curves are extrapolated as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1168,
+                    532,
+                    1194
+                ],
+                "score": 0.998,
+                "text": "shown to a typical passive current density"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    716,
+                    1162,
+                    733,
+                    1181
+                ],
+                "score": 1.0,
+                "text": "6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    65,
+                    1202,
+                    735,
+                    1226
+                ],
+                "score": 0.987,
+                "text": "the Mo level expected to be required to attain this current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1234,
+                    736,
+                    1261
+                ],
+                "score": 0.994,
+                "text": "density at each temperature can be determined. For"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    64,
+                    1268,
+                    736,
+                    1295
+                ],
+                "score": 0.988,
+                "text": "example, at 0, 25, and 50 C approximately 4.5, 6, and 8%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1302,
+                    736,
+                    1329
+                ],
+                "score": 0.99,
+                "text": "Mo respectively are expected to be needed for a corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    65,
+                    1338,
+                    734,
+                    1362
+                ],
+                "score": 0.996,
+                "text": "rate characteristic of passivity in these steels. When these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    65,
+                    1369,
+                    733,
+                    1396
+                ],
+                "score": 0.997,
+                "text": "values are compared with the CCT (%Mo vs temperature)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    1405,
+                    660,
+                    1429
+                ],
+                "score": 0.988,
+                "text": "data of Figure 1, a reasonable correlation is obtained."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    327,
+                    1483,
+                    467,
+                    1515
+                ],
+                "score": 1.0,
+                "text": "Discussion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1521,
+                    735,
+                    1546
+                ],
+                "score": 1.0,
+                "text": "Using two independent testing techniques, temperature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    1555,
+                    736,
+                    1580
+                ],
+                "score": 0.994,
+                "text": "has been shown to be a reliable criterion for defining"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    64,
+                    1589,
+                    736,
+                    1614
+                ],
+                "score": 0.995,
+                "text": "go/no-go conditions for crevice corrosion in wholly austen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    793,
+                    52,
+                    1467,
+                    79
+                ],
+                "score": 0.991,
+                "text": "itic stainless steels containing nominally 18% Cr. In these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    83,
+                    1470,
+                    115
+                ],
+                "score": 0.986,
+                "text": "steels, alloyed Mo plays the dominant role in increasing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    119,
+                    1472,
+                    149
+                ],
+                "score": 0.999,
+                "text": "crevice corrosion resistance while, in contrast to the pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    155,
+                    1472,
+                    181
+                ],
+                "score": 0.999,
+                "text": "initiation parameters, the effects of other alloying additions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    185,
+                    1473,
+                    218
+                ],
+                "score": 0.976,
+                "text": "have been found to be minimal. Alloys with CPT varying"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    223,
+                    1470,
+                    249
+                ],
+                "score": 0.993,
+                "text": "from Family 1 to Family 4 in Figure 1 have been shown to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    798,
+                    257,
+                    1473,
+                    281
+                ],
+                "score": 0.984,
+                "text": "have the same CCT characteristics within the ±5 C scatter"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    290,
+                    1474,
+                    316
+                ],
+                "score": 0.994,
+                "text": "band. Although the theoretical significance of these data is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    324,
+                    1470,
+                    348
+                ],
+                "score": 0.995,
+                "text": "not clear at present, the CCT values can be used to define"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    357,
+                    1472,
+                    384
+                ],
+                "score": 0.987,
+                "text": "empirically the limits of immunity of stainless steels to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    798,
+                    392,
+                    1471,
+                    416
+                ],
+                "score": 0.998,
+                "text": "crevice corrosion in an environment such as sea water which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    423,
+                    1231,
+                    450
+                ],
+                "score": 0.998,
+                "text": "has a chloride activity similar to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1318,
+                    424,
+                    1474,
+                    450
+                ],
+                "score": 0.999,
+                "text": "solution used"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    793,
+                    455,
+                    859,
+                    484
+                ],
+                "score": 1.0,
+                "text": "here."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    845,
+                    488,
+                    1474,
+                    519
+                ],
+                "score": 0.994,
+                "text": "Apart from the effect of alloyed Mo in defining"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    524,
+                    1472,
+                    551
+                ],
+                "score": 0.998,
+                "text": "go/no-go crevice corrosion behavior, the results of Figure 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    556,
+                    1472,
+                    586
+                ],
+                "score": 0.982,
+                "text": "show the effect of Mo on the relative rates of crevice"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    589,
+                    1473,
+                    620
+                ],
+                "score": 0.982,
+                "text": "corrosion attack for 18% Cr austenitic steels at tempera-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    623,
+                    1473,
+                    652
+                ],
+                "score": 0.985,
+                "text": "tures above the CCT. Even when attack is expected, these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    656,
+                    1473,
+                    687
+                ],
+                "score": 0.999,
+                "text": "data show that a 10-fold decrease in corrosion rate can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    692,
+                    1473,
+                    720
+                ],
+                "score": 0.99,
+                "text": "expected with a 1.5% increase in alloyed Mo. Although the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    724,
+                    1475,
+                    755
+                ],
+                "score": 0.985,
+                "text": "absolute values of CCT may be such that choosing a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    798,
+                    761,
+                    1474,
+                    788
+                ],
+                "score": 0.997,
+                "text": "completely resistance steel is impractical, important de-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    794,
+                    1473,
+                    821
+                ],
+                "score": 0.983,
+                "text": "creases in corrosion rate can be expected with higher Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    829,
+                    964,
+                    853
+                ],
+                "score": 0.994,
+                "text": "stainless steels."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    866,
+                    1257,
+                    897
+                ],
+                "score": 1.0,
+                "text": "Acknowledgments"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    847,
+                    903,
+                    1472,
+                    929
+                ],
+                "score": 0.986,
+                "text": "The cooperation of the Physical Metallurgy Division,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    938,
+                    1475,
+                    964
+                ],
+                "score": 0.984,
+                "text": "Department of Energy, Mines, and Resources in making"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    969,
+                    1474,
+                    997
+                ],
+                "score": 0.99,
+                "text": "their facilities available and helpful discussions with Dr. G."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    1005,
+                    1473,
+                    1031
+                ],
+                "score": 0.988,
+                "text": "J. Biefer (Head) and Dr. J. B. Gilmour (Research Scientist)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    1038,
+                    1473,
+                    1064
+                ],
+                "score": 0.985,
+                "text": "of the Corrosion Section, Physical Metallurgy Division, are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    1073,
+                    1083,
+                    1099
+                ],
+                "score": 0.985,
+                "text": "gratefully acknowledged."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1064,
+                    1135,
+                    1210,
+                    1168
+                ],
+                "score": 1.0,
+                "text": "References"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    1171,
+                    1475,
+                    1193
+                ],
+                "score": 0.985,
+                "text": "1. R. J. Brigham and E. W. Tozer. Temperature as a Pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    830,
+                    1199,
+                    1260,
+                    1221
+                ],
+                "score": 0.994,
+                "text": "Criterion, Corrosion, Vol. 29, p. 33 (1973)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    1227,
+                    1476,
+                    1249
+                ],
+                "score": 0.986,
+                "text": "2. R. J. Brigham and E. W. Tozer. Effect of Alloying Additions on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1255,
+                    1475,
+                    1277
+                ],
+                "score": 0.983,
+                "text": "the Pitting Resistance of 18% Cr Austenitic Stainless Steel,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1283,
+                    1173,
+                    1305
+                ],
+                "score": 0.987,
+                "text": "Corrosion, Vol. 30, p. 161 (1974)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    1310,
+                    1473,
+                    1334
+                ],
+                "score": 0.989,
+                "text": "3. R. J. Brigham and E. W. Tozer. Pitting Resistance of Specialty"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1338,
+                    1415,
+                    1361
+                ],
+                "score": 0.999,
+                "text": "High Silicon Austenitic Stainless Steels, Unpublished work."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    1366,
+                    1477,
+                    1388
+                ],
+                "score": 0.986,
+                "text": "4. H. W. Pickering and R. P. Frankenthal. On the Mechanism of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    830,
+                    1394,
+                    1477,
+                    1416
+                ],
+                "score": 0.991,
+                "text": "Localized Corrosion of Iron and Stainless Steel, 1. Electro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1422,
+                    1475,
+                    1445
+                ],
+                "score": 0.999,
+                "text": "chemical Studies, J. Electrochem. Soc., Vol. 119, p. 1297"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1449,
+                    910,
+                    1473
+                ],
+                "score": 1.0,
+                "text": "(1972)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    1477,
+                    1477,
+                    1500
+                ],
+                "score": 0.999,
+                "text": "5. T. Suzuki, M. Yamabe, and Y. Kitamura. Composition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1506,
+                    1476,
+                    1528
+                ],
+                "score": 0.993,
+                "text": "Anolyte Within Pit Anode of Austenitic Stainless Steels in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1535,
+                    1348,
+                    1557
+                ],
+                "score": 0.99,
+                "text": "Chloride Solution, Corrosion, Vol. 29, p. 18 (1973)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    802,
+                    1563,
+                    1476,
+                    1586
+                ],
+                "score": 0.998,
+                "text": "6. R. J. Brigham. Pitting of Molybdenum Bearing Austenitic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1589,
+                    1324,
+                    1612
+                ],
+                "score": 0.999,
+                "text": "Stainless Steel, Corrosion, Vol. 28, p. 177 (1972)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    58,
+                    2124,
+                    107,
+                    2155
+                ],
+                "score": 1.0,
+                "text": "398"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1229,
+                    2127,
+                    1477,
+                    2160
+                ],
+                "score": 0.998,
+                "text": "CORROSION-NACE"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1534,
+            "height": 2211
+        }
+    }
+]

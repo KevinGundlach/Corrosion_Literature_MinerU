@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "The Effect of Boron on the Corrosion Resistance of the High Entropy Alloys Al[sub 0.5]CoCrCuFeNiB[sub x]",
+        "text_level": 1,
+        "bbox": [
+            57,
+            107,
+            887,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article  in  Journal of The Electrochemical Society · August 2007   \nDOI: 10.1149/1.2744133",
+        "bbox": [
+            56,
+            169,
+            330,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CITATIONS 204",
+        "bbox": [
+            56,
+            204,
+            100,
+            228
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 authors, including:",
+        "bbox": [
+            57,
+            238,
+            152,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f887b7b34571247d00fee074c931046405adebb9acb429eefccfc11a3930ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            259,
+            91,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yen-Yu Chen",
+        "bbox": [
+            98,
+            261,
+            155,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Taiwan Semiconductor Manufacturing",
+        "bbox": [
+            98,
+            274,
+            266,
+            284
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "23 PUBLICATIONS   2,083 CITATION",
+        "bbox": [
+            98,
+            286,
+            234,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEE PROFILE",
+        "bbox": [
+            109,
+            306,
+            158,
+            316
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "READS 1,452",
+        "bbox": [
+            496,
+            206,
+            528,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f223e9ab1f7fd0dc46bedb29d416cd678bebe058b4a332695d21ec02e5298b2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            497,
+            259,
+            532,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jien-Wei Yeh National Tsing Hua University 364 PUBLICATIONS   48,699 CITATIONS",
+        "bbox": [
+            537,
+            261,
+            681,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEE PROFILE",
+        "bbox": [
+            547,
+            306,
+            598,
+            316
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            838,
+            37,
+            955,
+            52
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/234942330",
+        "bbox": [
+            56,
+            84,
+            517,
+            94
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "All content following this page was uploaded by Jien-Wei Yeh on 18 April 2016",
+        "bbox": [
+            62,
+            960,
+            296,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "The user has requested enhancement of the downloaded file.",
+        "bbox": [
+            62,
+            975,
+            275,
+            984
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed65e21504c4d96d184fc54e8e400b0afb91ac7f1e517680dc710925e4f371af.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            107,
+            225,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Boron on the Corrosion Resistance of the High Entropy Alloys $\\mathbf { A l _ { 0 . 5 } } \\mathbf { \\Phi }$ CoCrCuFeNiB",
+        "text_level": 1,
+        "bbox": [
+            240,
+            111,
+            809,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. P. Lee,\\* Y. Y. Chen, C. Y. Hsu, J. W. Yeh, and H. C. Shih<sup>z</sup>",
+        "bbox": [
+            240,
+            152,
+            654,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Department of Materials Science and Engineering, National Tsing Hua University, Hsinchu 300, Taiwan",
+        "bbox": [
+            240,
+            173,
+            768,
+            185
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High entropy alloys are a newly developed family of multicomponent alloys that consist of various major alloying elements, including copper, nickel, aluminum, cobalt, chromium, iron, and others. Each element in the alloy system is present at between 5 and 35 atom %. A high entropy alloy has numerous beneficial mechanical, magnetic, and electrochemical characteristics. This investigation discusses the corrosion resistance of the ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i B } } _ { . }$ alloys with various amounts of added boron. Surface morphological and chemical analyses verified that the addition of boron produced Cr, Fe, and Co borides. Therefore, the fraction of Cr outside borides precipitates was scant. The anodic polarization curves and electrochemical impedance spectra of the Al CoCrCuFeNiB alloys, obtained in 1 $\\mathrm { ~ N ~ H } _ { 2 } \\mathrm { S O } _ { 4 }$ aqueous solution, clearly reveal that the general corrosion resistance decreases as the concentration of boron increases.",
+        "bbox": [
+            175,
+            196,
+            821,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "© 2007 The Electrochemical Society. \u0001DOI: 10.1149/1.2744133- All rights reserved.",
+        "bbox": [
+            175,
+            280,
+            608,
+            293
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Manuscript submitted November 24, 2006; revised manuscript received April 6, 2007. Available electronically June 11, 2007.",
+        "bbox": [
+            175,
+            307,
+            808,
+            320
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For years, the development of traditional alloy systems has been based primarily on one principal element, such as iron-based, aluminum-based, and magnesium-based alloys and nickel-based superalloys.<sup>1</sup> Since the 1970s, intermetallic compounds of Ti–Al, Ni–Al, and Fe–Al binary systems have attracted considerable attention because they have extremely high specific strength and thermal resistance.<sup>2</sup> In the 1990s, Inoue et al.<sup>3</sup> obtained the highly glassforming alloy by using at least three different elements with significantly different atomic radii. In 1993, Greer<sup>4</sup> came up with the “confusion principle” in which he stated that the possibility of crystallization could be lowered if the number of alloying elements was large. However, the designs of the aforementioned alloys are still limited in that their matrices always contain one or two major elements. A novel high entropy alloy was developed herein. High entropy alloys are composed of five or more principal elements, each at 5 to 35 atom %. This study focuses on a new alloy design with multiple principal elements in equimolar or near-equimolar ratios.<sup>5,6</sup>",
+        "bbox": [
+            100,
+            341,
+            487,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Solid solutions with more principal elements tend to be more stable because they have larger mixing entropies. The configurational entropy change per mole, $\\Delta S _ { \\mathrm { c o n f } } .$ during the formation of a solid solution from seven elements with equimolar fractions may be calculated from the following equation",
+        "bbox": [
+            101,
+            553,
+            487,
+            612
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/fd5101428d9664c87fc059fd98025a193a412cf65aeec273b6f326658d47c375.jpg",
+        "text": "$$\n\\Delta S _ { \\mathrm { c o n f } } = k \\ln \\omega = - R \\sum _ { \\mathrm { i = 1 } } ^ { 7 } x _ { \\mathrm { i } } \\ln x _ { \\mathrm { i } } = R \\ln 7 \\approx 1 . 9 5 R , \\quad x _ { \\mathrm { i } } = { \\frac { 1 } { 7 } }\\tag{\u00031\u0004}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            123,
+            618,
+            464,
+            654
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where k is the Boltzmann’s constant, - is the number of ways of mixing, and R is the gas constant, 8.314 J/K mol. For instance, $\\Delta S _ { \\mathrm { c o n f } }$ of equimolar alloys with 3,5,7, and 9 elements are 1.10 R, 1.61 R, 1.95 R, and 2.20 R, respectively. In fact, when other positive vibrational, electronic, and magnetic contributions are considered, the entropy change associated with mixing in equimolar high entropy alloy is greater than the calculated one.",
+        "bbox": [
+            101,
+            679,
+            487,
+            762
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Extensive trials have yielded various alloy systems with simple crystal structures and extreme properties. In our previous studies,<sup>8,9</sup> the Al CoCrCuFeNi alloys with various aluminum contents \u0003x values in the molar ratio, x = 0–1.0\u0004 were obtained by the casting method. These alloys possessed simple face-centered cubic/bodycentered cubic \u0003fcc/bcc\u0004 structures. Alloys with aluminum contents of less than 0.5 mol are composed of a simple fcc solid-solution structure. When the aluminum content is 0.8 mol, a bcc structure appears and constructs with mixed fcc and bcc eutectic-phases. Spinodal decomposition occurs when the aluminum content exceeds",
+        "bbox": [
+            101,
+            761,
+            487,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.0 mol. The ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i } }$ alloy is ductile, can be effectively work-hardened, and is strong at temperatures up to 800°C, indicating that this alloy has potential applications in high-temperature structures and working tools. Adding boron to the $\\mathrm { \\ A l _ { 0 . 5 } C o C r C u F e N i }$ alloy increases the hardness and wear resistance by forming the borides. For example, the ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i B } } _ { \\lambda }$ alloy has an excellent hardness of Hv 736, and a wear resistance of 1.76 m/mm<sup>3</sup> is even higher than that of SUJ bearing $( 1 . 5 2 ~ \\mathrm { m / m m ^ { 3 } } ) . ^ { 9 }$ However, the corrosion characteristics of the ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i B } } _ { . }$ alloys in most aqueous solutions are unknown. The purpose of this study was to investigate the electrochemical behavior of the Al<sub>0.5</sub>CoCrCuFeNiB<sub>x</sub> alloys in 1 N sulfuric acid.",
+        "bbox": [
+            508,
+            342,
+            894,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental",
+        "text_level": 2,
+        "bbox": [
+            659,
+            505,
+            745,
+            519
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Test materials.— Elements Al, Co, Cr, Cu, Fe, and Ni with purities of over 99 wt % were present as granules as raw materials. Fe–18.2 wt % B master alloy was used with the added boron. This high entropy alloy is a seven-component alloy in the form of $\\mathrm { A i } _ { 0 . 5 } \\mathrm { C o C r C u F e N i B } _ { x } ,$ with 0.5 mol of aluminum, and 1 mol of the other five alloying elements and between zero and 1 mol of the added boron. Table I presents the compositions of the alloys. The multiprincipal-element ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i B } } _ { x }$ alloy system with various boron contents with x from 0 to 1.0 was prepared in this work. An induction furnace was used to melt the high entropy alloys at $1 6 0 0 ^ { \\circ } \\mathrm { C }$ after purging with argon. First, raw materials of Fe and Ni were placed in the crucible. When Fe and Ni had melted in liquid state, then Cr, Co, FeB, Cu, and Al were added to the crucible in order according to their melting points. Finally, the melt was poured into a shell mold preheated at 1100°C. The size of the ingots was 8 \u0003 7 \u0003 14 \u0005cm\u0006. The high entropy alloy cylinder for electrochemical measurements was obtained by cutting the bulk material by electric arc line into pieces that were 3 mm thick and 8 mm in diameter. A 304 stainless steel rod was machined down to 5 mm thick and 12.7 mm in diameter. Each test specimen was then coldmounted, using an epoxy resin to give an exposed surface area of 0.5 cm<sup>2</sup> for the high entropy alloys and 1.26 cm<sup>2</sup> for the 304 stain-",
+        "bbox": [
+            508,
+            523,
+            894,
+            789
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccae296358cfe9f26ba5d8a933da86417d7c01c11b7d5bb08f95b32e05506e7a.jpg",
+        "table_caption": [
+            "Table I. High entropy alloys used in this experiment."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Designation</td><td>Composition (atomic mole ratio)</td><td>Boron (atom %)</td></tr><tr><td></td><td> ${ \\mathrm { A l } } _ { 0 . 5 } { \\mathrm { C o C r C u F e N i } }$ </td><td>0</td></tr><tr><td>B0 B 0.2</td><td> $\\mathrm { A l _ { 0 . 5 } C o C r C u F e N i B _ { 0 . 2 } }$ </td><td>3.5</td></tr><tr><td>B 0.6</td><td> $\\mathrm { A l _ { 0 . 5 } C o C r C u F e N i B _ { 0 . 6 } }$ </td><td>9.8</td></tr><tr><td>B 1.0</td><td> $\\mathrm { A l _ { 0 . 5 } C o C r C u F e N i B _ { 1 . 0 } }$ </td><td>15.4</td></tr></table>",
+        "bbox": [
+            519,
+            853,
+            891,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Downloaded 15 Apr 2011 to 60.251.210.232. Redistribution subject to ECS license or copyright; see http://www.ecsdl.org/terms\\_use.jsp<sup>View</sup> <sup>publication</sup> <sup>stats</sup>",
+        "bbox": [
+            70,
+            987,
+            891,
+            998
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "C424",
+        "bbox": [
+            105,
+            83,
+            140,
+            94
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Journal of The Electrochemical Society, 154 \u00038\u0004 C424-C430 \u00032007\u0004 0013-4651/2007/154\u00038\u0004/C424/7/\\$20.00 © The Electrochemical Society",
+        "bbox": [
+            305,
+            81,
+            689,
+            104
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\* \\* Electrochemical Society Active Member.",
+        "bbox": [
+            117,
+            907,
+            308,
+            918
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>z</sup> E-mail: hcshih@mx.nthu.edu.tw",
+        "bbox": [
+            117,
+            916,
+            272,
+            928
+        ],
+        "page_idx": 1
+    }
+]

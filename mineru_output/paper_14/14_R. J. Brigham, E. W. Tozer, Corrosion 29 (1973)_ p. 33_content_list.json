@@ -1,0 +1,592 @@
+[
+    {
+        "type": "text",
+        "text": "Temperature as a Pitting Criterion\\*",
+        "text_level": 1,
+        "bbox": [
+            230,
+            23,
+            765,
+            52
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "R. J. BRIGHAM and E. W. TOZER\\*",
+        "bbox": [
+            358,
+            132,
+            634,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            457,
+            189,
+            535,
+            203
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the basis of three independent test methods, two potentiostatically controlled and one freely corroding, temperature has been shown quantitatively to be an important criterion for describing the onset of pitting corrosion in molybdenum containing austenitic stainless steels. The temperature at which pitting is initiated in acid chloride solution has been related to the|molybdenum content of the alloys.",
+        "bbox": [
+            160,
+            203,
+            831,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In an earlier presentation,1 the pitting characteristics of a series of molybdenum containing austenitic stainless steels were presented as a function of potential and temperature. These data, reproduced in Figure 1, are characterized by an intermediate, strongly temperature dependent, potential range which is bracketed at lower and higher potentials by plateaus which are insensitive to temperature changes. The upper plateau has been shown to result from the onset of transpassivity.",
+        "bbox": [
+            29,
+            282,
+            477,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is only in the intermediate potential range that the relative pitting resistance of the series of alloys can be distinguished, and in Figure 1 it is the relative position of each of the curves with respect to the temperature axis that makes possible a ranking of the alloys. Because the curves for each of the different alloys collectively make up a family, the determination of a single point in the intermediate potential range for each alloy would be indicative of the whole curve for that alloy and consequently define the relative resistance of each of the alloys.",
+        "bbox": [
+            29,
+            421,
+            477,
+            575
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A simplified screening test, therefore appears to be available in which, at a fixed potential in the intermediate range, the temperature of the solution is increased until pitting is observed. This technique would appear to take advantage of the fact that an intermediate potential, such as +500 mV (SCE), is common to all of the alloys regardless of their relative resistances with respect to temperature and the steep slope of the temperature-potential curves would suggest a well defined transition.",
+        "bbox": [
+            29,
+            575,
+            477,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Increasing Temperature Screening Test",
+        "text_level": 2,
+        "bbox": [
+            82,
+            732,
+            422,
+            747
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this series of experiments, the experimental apparatus was the same as that used in the previous investigation.1 In this case, freshly abraded samples of the experimental alloys listed in Table 1 were exposed in nitrogenated 3.5% (0.6M) NaCl pH3 solution and were allowed to corrode freely forfive minutes,usually assuming a potential of -365 to -370 mV (SCE). The potential was then rapidly increased to a value of +500 mV (SCE) and held potentiostatically. After a five minutes waiting period, during which the current density decreased to the range 1 to $3 \\ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ , the temperature of the solution was increased at the rate of 0.6 C per minute. The temperature at which the current density increased sharply to a value of $1 0 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ (the criterion for pit initiation in Figure 1) was considered to be the temperature at which pitting began and was designated $\\Upsilon _ { 5 0 0 } .$ For each alloy, multiple runs were carried out.",
+        "bbox": [
+            27,
+            748,
+            478,
+            902
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0e0c39cae0de7fd7dc2889859ba24568ac0ffa435f354525b72136b265634e6a.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 1 — Effect of Mo content and temperature on the potential required to initiate pitting based on the criterion of a rise in current density to 10 $\\mu _ { \\Delta } / c m ^ { 2 }$ in a series of 18% Cr, 20% Ni, 0.2%N stainless steels."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            517,
+            285,
+            965,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            683,
+            965,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results are summarized in Table 2 in terms of minimum, maximum, and average $\\mathtt { T } _ { 5 0 0 }$ values and are graphically displayed in Figure 2 with the curves from Figure 1. Figure 2 clearly demonstrates the power of this technique in quickly and easily screening a series of alloys for relative resistance to pitting. The excellent correlation confirms the earlier data and takes advantage of the steep slope of the potential-temperature curves in describing relative pitting resistance in terms of a temperature, a parameter with possible design significance if the effects of testing rate can be taken into account.",
+        "bbox": [
+            511,
+            775,
+            965,
+            946
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "33",
+        "bbox": [
+            934,
+            958,
+            959,
+            973
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Submitted for publication July, 1972.",
+        "bbox": [
+            34,
+            916,
+            292,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*Endako Mines Ltd., Otawa, Ontario, Canada.",
+        "bbox": [
+            34,
+            930,
+            334,
+            944
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 29, No. 1, January, 1973",
+        "bbox": [
+            34,
+            958,
+            259,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8edb1770174344a086f3323ee89cc7f4f99e4df019270619c53a880f4890f1a.jpg",
+        "table_caption": [
+            "TABLE 1 — Chemical Analyses (Wt %)"
+        ],
+        "table_footnote": [
+            "Note: – = Not analysed.",
+            "(1)Alloys 7580-1 to 7580-4 are splits from one heat.",
+            "(2)Denotes maximum values."
+        ],
+        "table_body": "<table><tr><td>Alloy</td><td> $\\pmb { \\alpha }$ </td><td>Ni</td><td>Mn</td><td>C</td><td>N</td><td>Si</td><td>D</td><td>S</td><td>Mo</td></tr><tr><td> $7 5 8 0 - 1 ^ { ( 1 ) }$ </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> $7 5 8 0 - 2 ^ { ( 1 ) }$ </td><td>19.17</td><td>20.24</td><td>0.99</td><td>0.030</td><td>0.19</td><td>0.44</td><td>0.012</td><td>0.012</td><td>3.04 4.48</td></tr><tr><td> $7 5 8 0 - 3 ( 1 )$ </td><td>一</td><td>一</td><td>一 一</td><td></td><td>一</td><td>一 一</td><td></td><td>一</td><td>5.60</td></tr><tr><td> $7 5 8 0 - 4 ( 1 )$ </td><td></td><td>18.96</td><td>0.89</td><td>0.030</td><td>0.20</td><td>0.43</td><td> $\\pmb { 0 . 0 1 2 }$ </td><td> $\\pmb { 0 . 0 1 3 } .$ </td><td>7.30</td></tr><tr><td>317L</td><td>17.88 18-20</td><td>14.03</td><td> $2 . 0 0 ^ { ( 2 ) }$ </td><td> $\\pmb { 0 . 0 3 0 } ^ { ( 2 ) }$ </td><td></td><td> $\\phantom { + } 1 . 0 0 ^ { ( 2 ) }$ </td><td> $\\mathbf { 0 . 0 4 5 } ^ { ( 2 ) }$ </td><td> $\\pmb { 0 . 0 3 0 } ^ { ( 2 ) }$ </td><td>3.11</td></tr><tr><td>Alloy A</td><td>17.30</td><td>23.80</td><td>C  $\\mathbf { 1 . 7 2 }$ </td><td>0.018</td><td>0.03</td><td>0.44</td><td>0.010</td><td>0.004</td><td>4.60</td></tr><tr><td>Alloy B</td><td>15-17</td><td>24-27</td><td> $\\hat { 2 . 0 0 } ^ { ( 2 ) }$ </td><td> $\\pmb { 0 . 0 8 0 } ^ { ( 2 ) }$ </td><td>0.10-0.20</td><td> $\\stackrel { - \\cdot } { 1 . 0 0 } ^ { ( 2 ) }$ </td><td></td><td></td><td>6.00</td></tr></table>",
+        "bbox": [
+            62,
+            48,
+            946,
+            178
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc0a9be3b3f0cd8a01147b19c286611d778d6f1859e0631a4defe77da1528044.jpg",
+        "table_caption": [
+            "TABLE 2- $\\pmb { \\tilde { \\mathbf { \\delta 5 0 0 } } }$ Values (C) in 3.5% NaCI Solution at pH3"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"5\">Number</td></tr><tr><td>Alloy</td><td>of Runs</td><td>Minimum T500</td><td>Maximum  $\\pmb { \\tilde { \\tilde { \\mathbf { s 0 0 } } } }$ </td><td>Average  $\\pmb { \\tau _ { 5 0 0 } }$ </td></tr><tr><td>7580-1</td><td>2</td><td>30</td><td>32</td><td>31</td></tr><tr><td>7580-2</td><td>3</td><td>39.5</td><td>43</td><td>41.5</td></tr><tr><td>7580-3</td><td>5</td><td>46</td><td>56</td><td>53</td></tr><tr><td>7580-4</td><td>2</td><td>60</td><td>62.5</td><td>61</td></tr></table>",
+        "bbox": [
+            36,
+            273,
+            480,
+            387
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of Testing Rate",
+        "text_level": 2,
+        "bbox": [
+            157,
+            426,
+            356,
+            441
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The two testing techniques compared above (increasing potential at fixed temperature and increasing temperature at fixed potential) and found to correlate very well are based on relatively short term tests. Although it appears that they can be used effectively as a screening test to rank the pitting susceptibility of a series of alloys, the significance of these data with respect to long term exposure is not immediately clear. Leckie and $\\mathrm { U h l i g } ^ { \\bar { 2 } }$ have shown, for increasing potential runs at fixed temperature, that the values of critical pitting potential are rate dependent, being more noble at high scan rates for potentials in the general area corresponding to the lower plateau of Figure 1. However, Bond and $\\mathbf { L i z l o v s } ^ { 3 }$ found the potential for pitting to be more active at high scan rates, but these results were obtained at generally more noble potentials which would correspond to the potential region near the upper plateau in Figure 1. On the basis of these observations, extrapolation of the curves of Figure 1 to infinitely slow scan rates would result in an overall increase in slope toward the vertical in the intermediate potential range, brought about by further increases in high potential values and decreases in low values. No lateral shift with respect to temperature would be expected in the intermediate potential range, nor are the upper plateau pótential values expected to change appreciably in describing infinitely slow scan rates (long exposure times). The lower plateau potential values will, of course, decrease with decreasing scan rate as shown by Leckie and Uhlig.2",
+        "bbox": [
+            32,
+            443,
+            482,
+            868
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shape changes in Figure 1 of the type proposed above would indicate that long term pitting tests should be insensitive to potential over the whole intermediate potential range, but very dependent upon test temperature. Data produced at +500 mV (SCE) is apparently near the postulated point of rotation of the transition section of the curves and should therefore be applicable in predicting long term pitting behavior. To some extent this hypothesis is substantiated by the data of Figure 2 which correlate as well for the less resistant alloys (short exposure times) as for the more resistant alloys (exposure times approaching one hour). Further corroboration was obtained by means of a series of longer exposures carried out as a function of temperature in a solution with oxidizing power in the intermediate potential range.",
+        "bbox": [
+            31,
+            868,
+            480,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            218,
+            967,
+            374
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { F e C l } _ { 3 }$ Exposure Tests at Various Temperatures",
+        "text_level": 2,
+        "bbox": [
+            535,
+            388,
+            950,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Coupons of the experimental alloys were exposed in 10% (0.6M) FeCl3 solution for 24 hours at a temperature of 27.5 C. The potential of this solution, measured on bright platinum, was +695 mV (SCE) and the pH was approximately 1. As pointed out by Bond and $\\mathbb { L i z l o v s } , { \\mathbf 3 }$ polarization effects result in a somewhat lower potential being measured on the corroding sample, but still within the intermediate potential range defined by Figure 1. After this 24 hour exposure, coupons were examined visually to see whether pitting had occurred. Edge, end grain or crevice attack, which occurred in some cases, was not considered. The bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours. This process was continued until pitting was observed.",
+        "bbox": [
+            511,
+            406,
+            967,
+            543
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/5fb01ffd1c041cd16c1b185dea73239e3ee44f7002ff805db7d60edb32d20fcb.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 2 — Comparison of increasing potential runs (open symbols) and increasing temperæture $( \\eta _ { 5 0 0 } )$ values for a series of 18% $\\mathbf { \\hat { e } } _ { \\pmb { \\imath } } ,$ 20% Ni, 0.2% N stainless steels."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            515,
+            568,
+            963,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "34",
+        "bbox": [
+            36,
+            958,
+            60,
+            972
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            795,
+            960,
+            961,
+            975
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c155ba51cb29949540697d3c8c09e009ab367cdd26cb46fe29db6cc9b861509.jpg",
+        "table_caption": [
+            "TABLE 3 — Results of Exposure Tests in 10% $F e C l _ { 3 }$ Solution",
+            "Note: + – Indicates that pitting was observed visually after a 24 hour exposure."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Test Temperature C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Alloy</td><td>27.5</td><td>30</td><td>32.5</td><td>35</td><td>37.5</td><td>40</td><td>425</td><td>45</td><td>47.5</td><td>50</td><td>52.5</td><td>55</td><td>57.5</td><td>60</td><td>62.5</td><td>65</td></tr><tr><td>7580-1</td><td>No</td><td>No</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>7580-2</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>十</td><td>+</td><td>+</td><td>+</td></tr><tr><td>7580-3</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>+</td><td>十</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>7590-4</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>+</td><td>+</td></tr><tr><td>317L</td><td>No</td><td>十</td><td>+</td><td>+</td><td>+</td><td>+</td><td>十</td><td>+</td><td>+</td><td>十</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Alloy A</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>+</td><td>+</td><td>+</td><td>十</td><td>十</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Alloy B</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr></table>",
+        "bbox": [
+            38,
+            44,
+            960,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            32,
+            234,
+            480,
+            311
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The chemical analyses of the experimental alloys, as well as three commercial alloys, 317L, Alloy A, and Alloy B, which were subjected to this test, are given in Table 1 and the results of the exposure tests at various temperatures are summarized in Table 3.",
+        "bbox": [
+            36,
+            311,
+            482,
+            389
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion",
+        "text_level": 2,
+        "bbox": [
+            210,
+            398,
+            306,
+            412
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results of the FeCl3 exposure tests (Table 3) agree with the $\\mathrm { T } _ { 5 0 0 }$ values (Table 2) obtained for the same alloys in a solution of similar chloride activity and pH, and the $\\mathrm { T } _ { 5 0 0 }$ values were shown to correlate with the earlier data (Figure 2). It could be argued that this agreement between shorter and longer term tests, one potentiostatically controlled and the other freely corroding, is fortuitous. However, such an agreement is to be expected if the pitting curves in the intermediate potential range of Figure 1 approach the vertical for infinitely slow scan rates as postulated above.",
+        "bbox": [
+            38,
+            413,
+            484,
+            582
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental confirmation of the proposed vertical temperature-potential curves in the intermediate potential region to describe infinitely slow scan rates was obtained by a series of 66 hour exposure experiments. Samples of 317L stainless steel were exposed to the following solutions of similar chloride activities but very different oxidizing power: 16% sodium hypochlorite (domestic bleach) containing 3.5% NaCl, 10% FeCl3, and 5% potassium ferricyanide containing 3.5% NaCl. In all cases, pitting was observed at a temperature of 30 C or higher, but not at à temperature of 27.5 C or lower. The strong dependence on temperature and not on potential suggests that there exists for each wholly austenitic steel a critical pitting temperature below which the steel will not pit regardless of potential and exposure time. The data presented here are considered to approximate such a parameter.",
+        "bbox": [
+            38,
+            582,
+            484,
+            825
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Figure 3, this critical pitting temperature, within the limits of accuracy of the techniques described here, is plotted as a function of the Mo content of the various steels, both experimental and commercial. In the case of FeCl3 exposure tests, the low temperature end of the error bars plotted in Figure 3 represents the temperature at and below which pitting was not observed, while the high temperature end indicates the temperature at and above which pitting was observed after a 24 hour exposure. The minimum and maximum Tsoo values are also plotted in Figure 3 as error bars. In each case, these bars represent the degree of uncertainty in determining the critical pitting temperature by these techniques. The average pitting behavior of all the steels in the composition range 3 to 7.5% Mo can be described by the empirical equation",
+        "bbox": [
+            36,
+            825,
+            484,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/35e722bc218108b6d627590fb7f24e731fd6e023ec1d7e9bc13bae7212437e17.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 3 — Critical pitting temperature (CPT) as a function of molybdenum content for experimental and commercial stainless steeis."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            511,
+            235,
+            952,
+            535
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            621,
+            967,
+            730
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ecd11262eeba8711da3eb6d22bf532b7383ce1099756d2c205a0e378604f320f.jpg",
+        "text": "$$\n{ \\mathrm { C r i t i c a l ~ P i t t i n g ~ T e m p e r a t u r e } } \\left( { \\mathrm { C } } \\right) = 1 0 + 7 \\times { \\% } \\ { \\mathrm { M o } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            557,
+            743,
+            925,
+            759
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the critical pitting temperature of a steel has been obtained in three different but apparently equivalent ways, the preferred method appears to be by the use of FeCl3 exposures. This technique minimizes testing rate effects, differentiates between pitting and crevice and end grain attack, uses samples of any geometry, and requires a minimum of electronic gadgetry. Regardless of the technique used, however, the correlation shown in Figure 3 appears to be a valid and workable way of describing the pitting susceptibility of wholly austenitic alloys in terms of a parameter with design significance.",
+        "bbox": [
+            517,
+            778,
+            967,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Vol. 29, No. 1, January, 1973",
+        "bbox": [
+            43,
+            960,
+            266,
+            977
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "35",
+        "bbox": [
+            938,
+            960,
+            961,
+            974
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusions",
+        "text_level": 2,
+        "bbox": [
+            200,
+            22,
+            313,
+            36
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The pitting characteristics of molybdenum containing austenitic stainless steel, produced in both experimental 50 pound heats and on a commercial scale, have been described by a single parameter, the critical pitting temperature, which depends in a regular way on the Mo content of the steel. However, these data are valid only for pit nucleation on a flat surface. Preliminary results indicate that these temperature values should be reduced considerably to describe the onset of edge or crevice attack, which consequently appear to constitute a more likely mode of service failure than pitting. This area is presently under investigation.",
+        "bbox": [
+            34,
+            39,
+            481,
+            222
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments",
+        "text_level": 2,
+        "bbox": [
+            175,
+            229,
+            341,
+            243
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cooperation of the Physical Metallurgy Division,",
+        "bbox": [
+            65,
+            244,
+            478,
+            261
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Department of Energy, Mines and Resources in making their facilities available and helpful discussions with Dr. G. J. Biefer (Head) and Dr. J. B. Gilmour (Research Scientist) of the Corrosion Section, Physical Metallurgy Division, are gratefully acknowledged.",
+        "bbox": [
+            514,
+            22,
+            965,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            693,
+            142,
+            791,
+            155
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. R. J. Brigham. Pitting of Molybdenum Bearing Austenitic Stainless Steel, Corrosion, 28, 177 (1972).",
+            "2. H. P. Leckie and H. H. Uhlig. Environmental Factors Affecting the Critical Potential for Pitting in 18-8 Stainless Steel, J. Electrochem. Soc., 113, 1262 (1966).",
+            "3. A. P. Bond and E. A. Lizlovs. Anodic Polarization of Austenitic Stainless Steels in Chloride Media, J. Electrochem. Soc., 115, 1130 (1968)."
+        ],
+        "bbox": [
+            521,
+            156,
+            963,
+            181
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "36",
+        "bbox": [
+            36,
+            960,
+            58,
+            973
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION-NACE",
+        "bbox": [
+            795,
+            960,
+            961,
+            976
+        ],
+        "page_idx": 3
+    }
+]

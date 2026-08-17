@@ -1,0 +1,1927 @@
+[
+    {
+        "type": "text",
+        "text": "Corrosion resistance of super duplex stainless steels in chloride ion containing environments: investigations by means of a new microelectrochemical method I. Precipitation-free states",
+        "text_level": 1,
+        "bbox": [
+            128,
+            225,
+            865,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "R.A. Perren a, T.A. Suter b, P.J. Uggowitzer a,\\*, L. Weber , R. Magdowski a, H. Böhni b, M.O. Speidel a",
+        "bbox": [
+            134,
+            386,
+            861,
+            433
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Institute of Metallurgy, Swiss Federal Institute of Technology, ETH, CH-8092 Zurich, Switzerland b Institute of Materials Chemistry and Corrosion, Swiss Federal Institute of Technology, ETH, CH-8092 Zurich, Switzerland",
+        "bbox": [
+            115,
+            442,
+            880,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratory of Mechanical Metallurgy, Swiss Federal Institute of Technology, EPFL, CH-1015 Lausanne, Switzerland",
+        "bbox": [
+            108,
+            486,
+            884,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 4 January 2000; accepted 22 May 2000",
+        "bbox": [
+            314,
+            520,
+            681,
+            538
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract",
+        "text_level": 2,
+        "bbox": [
+            111,
+            576,
+            188,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A new mircoelectrochemical method was applied to perform potentiodynamic polarisation experiments on areas in the range of 10 μm. For the first time, the individual corrosion behaviour of both single phases in super duplex stainless steels was determined. The results show a good correlation with the empirical pitting resistance equivalent number (PREN) of the corresponding single phase. The microelectrochemical experiments have revealed two different kinds of interactions between the ferrite and the austenite phase at the phase boundary, namely a superposition or a separation of the two polarisation curves of the single phases.",
+        "bbox": [
+            108,
+            608,
+            886,
+            723
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Potentiodynamic polarisation of large areas with representative amounts of both phases are performed in hydrochloric acid electrolyte in order to compare the corrosion behaviour of the single phases with the corrosion behaviour of the entire alloy. Both, the pitting potentials, evaluated by means of macroelectrochemical experiments in pH-neutral lithium chloride electrolyte, and the critical crevice corrosion temperatures show a good correlation with",
+        "bbox": [
+            108,
+            722,
+            886,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "O",
+        "bbox": [
+            136,
+            79,
+            226,
+            135
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "PERGAMON",
+        "bbox": [
+            111,
+            142,
+            245,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            358,
+            144,
+            638,
+            161
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "CORROSION SCIENCE",
+        "bbox": [
+            722,
+            89,
+            884,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "www.elsevier.com/locate/corsci",
+        "bbox": [
+            653,
+            158,
+            884,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Corresponding author. Fax: +41-1-632-1101. E-mail address: uggowitzer@met.mat.ethz.ch (P.J. Uggowitzer).",
+        "bbox": [
+            130,
+            872,
+            611,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "0010-938X/01/\\$ - see front matter © 2001 Elsevier Science Ltd. All rights reserved. PII:S0010-938X(00)00087-1",
+        "bbox": [
+            108,
+            919,
+            732,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the PREN of the weaker phase. Part I of this paper deals primarily with solution annealed materials. Solution annealing of the samples was performed at temperatures where minimal amounts of precipitates were formed and where the element partitioning determines the corrosion resistance of the single phases. Part II deals with the influence of precipitations on the corrosion behaviour. © 2001 Elsevier Science Ltd. All rights reserved.",
+        "bbox": [
+            108,
+            111,
+            886,
+            194
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: High nitrogen stainless steels; Duplex structures; Partitioning; Corrosion resistance; Microelectrochemical method; Pitting potential",
+        "bbox": [
+            108,
+            208,
+            884,
+            241
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction",
+        "text_level": 2,
+        "bbox": [
+            111,
+            292,
+            252,
+            308
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The microstructure of duplex stainless steels (DSS) consists of two phases, austenite and ferrite. Both phases are present in relatively large separate domains and in approximately equal volume fractions. Super duplex stainless steels (SDSS) are defined as steels for which the pitting resistance equivalent number (PREN = wt.% $\\mathrm { C r } + 3 . 3 ~ \\mathrm { w t . } \\% ~ \\mathrm { M o } + 2 0 ~ \\mathrm { w t . } \\% ~ \\mathrm { N } )$ exceeds 40 [1–4].",
+        "bbox": [
+            108,
+            327,
+            886,
+            414
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In SDSS the corrosion properties of both ferrite and austenite depend strongly on the actual chemical composition. The main alloying elements chromium, molybdenum, nickel, and nitrogen are not equally distributed in ferrite and austenite: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. The partitioning of these elements affects the corrosion resistance of both, the single phases and the entire alloy.",
+        "bbox": [
+            108,
+            416,
+            886,
+            520
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DSS, and in particular SDSS, offer a very favourable combination of mechanical properties, especially high strength, and high corrosion resistance. Newly developed SDSS exhibit an extraordinary resistance to chloride induced corrosion. These properties open a large field of applications in marine and petrochemical industries.",
+        "bbox": [
+            108,
+            520,
+            886,
+            594
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1. Element partitioning",
+        "text_level": 2,
+        "bbox": [
+            111,
+            608,
+            344,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been suggested that the corrosion resistance of SDSS is determined by the corrosion resistance of the weaker phase [5,6]. Hence, an optimised alloy should have equal PREN for both phases, ferrite and austenite. The partitioning behaviour of chromium and molybdenum as well as the volume fraction of ferrite and austenite have a strong influence on the composition of the individual phases: For example, the chromium or molybdenum content in the ferrite is given by",
+        "bbox": [
+            108,
+            644,
+            886,
+            751
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8d36e0811c2922905faf11fdd06e0fdbab3ad4cb043f3366dfdaeb505834f883.jpg",
+        "text": "$$\nc _ { \\mathrm { C r , M o } } ^ { \\alpha } = \\frac { c _ { \\mathrm { C r , M o } } ^ { \\mathrm { b u l k } } } { \\left( 1 - V _ { \\mathrm { V } } ^ { \\gamma } \\right) + P _ { \\mathrm { C r , M o } } ^ { \\alpha } V _ { \\mathrm { V } } ^ { \\gamma } }\\tag{1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            160,
+            755,
+            429,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with",
+        "bbox": [
+            111,
+            802,
+            158,
+            819
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f660082207faeb0926f8e76ca98cc9cb1b727113c631175e5f48cb4f31ad40a3.jpg",
+        "text": "$$\nP _ { i } ^ { \\alpha } = \\frac { c _ { i } ^ { \\gamma } } { c _ { i } ^ { \\alpha } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            160,
+            822,
+            239,
+            860
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and $V _ { \\mathrm { V } } ^ { \\gamma }$ is volume fraction of austenite; $P _ { i } ^ { \\alpha }$ is partitioning ratio of element i with respect to α-phase; $c _ { i } ^ { \\mathrm { p } }$ is concentration of element i in phase p in mass percent.",
+        "bbox": [
+            108,
+            867,
+            884,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "708",
+        "bbox": [
+            113,
+            79,
+            143,
+            92
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since $P _ { \\mathrm { C r , M o } } ^ { \\mathrm { q } } < 1$ , an increase of chromium and molybdenum leads to a higher PREN of the ferrite, but also to a higher phase volume fraction of the ferrite, i.e. $V _ { \\mathrm { V } } ^ { \\gamma }$ decreases. The supplementary addition of chromium and molybdenum is restricted, not only due to the austenite-ferrite volume fraction change, but also due to the fact, that a high chromium and molybdenum content in the ferrite implies a high proneness to intermetallic phase formation.",
+        "bbox": [
+            108,
+            111,
+            886,
+            217
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nitrogen is strongly enriched in the austenite [6] and thus improves the corrosion resistance by increasing the PREN of the austenite [7]. Moreover, it has been reported that nitrogen also reduces the tendency for sigma phase precipitations by reducing the chromium enrichment in the ferrite [8,9]. Therefore, a high nitrogen content would allow a further increase of chromium and molybdenum. Apart from the partitioning of chromium and molybdenum, nitrogen leads to a higher volume fraction of austenite. In order to obtain a balanced phase distribution, i.e. equal volume fractions of ferrite and austenite, the content of the other austenite forming element, nickel, has to be considered parallel to the nitrogen content [6]. The nitrogen solubility in high nitrogen steels is enhanched by adding manganese [10], but the low solubility of nitrogen in the ferrite causes precipitation of chromium nitrides.",
+        "bbox": [
+            108,
+            217,
+            886,
+            411
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The quenching temperature has the strongest effect on the element partitioning. The partitioning is more significant at lower temperatures. This tendency may be explained on the basis of the thermodynamical concept of entropy and due to the changing equilibrium of the phase volume fractions of the ferrite and the austenite. The phase volume fraction of the ferrite decreases with decreasing temperature. A smaller ferrite volume fraction leads to a higher concentration of chromium and molybdenum in the ferrite phase, i.e. $\\mathrm { P R E N } _ { \\mathrm { f e r r i t e } }$ increases. On the other hand, a larger austenite volume fraction leads to a lower concentation of nitrogen and nickel, ${ \\mathrm { i . e . ~ P R E N } } _ { \\mathrm { a u s t e n i t e } }$ decreases.",
+        "bbox": [
+            108,
+            411,
+            886,
+            570
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the present Part I, five different alloys with varying PREN of the single phases have been investigated with respect to the general corrosion resistance and the corrosion resistance of the single phases in chloride containing environments. Special attention is paid to the comparison between the empirical pitting resistance equivalent number of austenite and ferrite and the experimental measurements. The formation of precipitates such as sigma phase, chromium nitrides and secondary austenite of the Widmannstätten type and their influence on the corrosion resistance will be considered in a second paper (Part II) which is directly connected to this present Part I.",
+        "bbox": [
+            108,
+            569,
+            888,
+            729
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental procedure",
+        "text_level": 2,
+        "bbox": [
+            108,
+            763,
+            356,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Materials",
+        "text_level": 2,
+        "bbox": [
+            108,
+            797,
+            245,
+            816
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The present investigation deals with five highly alloyed DSS with slight variations in chromium, molybdenum, nickel, and manganese. The chemical compositions of the alloys are given in Table 1. The nitrogen content of these alloys is in the range of 0.23–0.55 wt.%.",
+        "bbox": [
+            108,
+            833,
+            888,
+            902
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "709",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c86feb6400be718c3d078c828c187896420829e324df6d7ca7ba90f0d5bbe008.jpg",
+        "table_caption": [
+            "Chemical composition of the investigated alloys. In the subsequent diagrams the numbers refer to these alloys"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Element/alloy</td><td>Cr (wt.%)</td><td>Ni (wt.%)</td><td>Mo (wt.%)</td><td>Mn (wt.%)</td><td>N (wt.%)</td><td>Fe</td></tr><tr><td>1</td><td>25.1</td><td>7.1</td><td>3.7</td><td>3.8</td><td>0.38</td><td>bal.</td></tr><tr><td>2</td><td>23.5</td><td>7.1</td><td>4.4</td><td>4.0</td><td>0.41</td><td>bal.</td></tr><tr><td>3</td><td>25.1</td><td>7.1</td><td>3.8</td><td>4.9</td><td>0.40</td><td>bal.</td></tr><tr><td>4</td><td>24.8</td><td>10.6</td><td>3.7</td><td>4.9</td><td>0.23</td><td>bal.</td></tr><tr><td>5</td><td>25.2</td><td>4.5</td><td>3.7</td><td>4.9</td><td>0.55</td><td>bal.</td></tr></table>",
+        "bbox": [
+            111,
+            157,
+            882,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The alloys have been produced in a vacuum induction furnace (10 kg melt). After ahomogenisation treatment at $1 2 3 0 ^ { \\circ } \\mathrm { C }$ for 10 h (in air), the alloys were forged between $1 2 0 0 ^ { \\circ } \\mathrm { C }$ and $1 1 5 0 ^ { \\circ } \\mathrm { C }$ into bars of the dimension $1 5 \\times 6 5 ~ \\mathrm { m m } ^ { 2 } .$",
+        "bbox": [
+            108,
+            273,
+            886,
+            326
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thealloys 3-5 were especially chosen for the microelectrochemical investigation because of the difference in the PREN of the single phases (Fig. 1). The aim of the different alloy compositions was to study the corrosion behaviour as a function of the PREN of the whole alloy as well as the PREN of the single phases. Alloy 1 posesses, like alloy 3, equal PREN for both phases in the “precipitation-free\" [11] temperature range (Fig. 2) and serves to determine the influence of the temperature dependent partitioning on the corrosion resistance of the austenite and the ferrite. Alloys 1 and 2 in Table 1 were used for the investigation of the interaction of the two phases in the microelectrochemical polarisation experiments and for the investigation of the influence of precipitates on the corrosion resistance (Part II).",
+        "bbox": [
+            108,
+            326,
+            888,
+            504
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/05e63565df6c5daf71ec9ec024dd8a9cd049e3ad783dc13e8b2337e33b7221e6.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 1. Influence of the nitrogen content on the PREN of the single phases."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            239,
+            516,
+            760,
+            876
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "710",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/5c73b3f482f8207997a959944990f40cad41a41fd8c39448164e97c6c338286a.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 2. PREN of the single phases as a function of the annealing temperature."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            241,
+            114,
+            760,
+            463
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2. Heat treatment",
+        "text_level": 2,
+        "bbox": [
+            108,
+            532,
+            297,
+            550
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The solution annealing was performed in laboratory furnaces (air) in two different ways. First, in a one step treatment at temperatures ranging from $1 3 0 0 ^ { \\circ } \\mathrm { C }$ to 1050℃ for 40 min, followed by quenching in water. Second, in a two step treatment, starting at 1200°C for 40 min, directly followed by a heat treatment at temperatures between $1 0 5 0 ^ { \\circ } \\mathrm { C }$ and 900°C. After 30 min holding time, the specimens were quenched in water.This two step treatment is marked with ‘S’ in front of the final solution annealing temperature. The aim of the two step procedure was to avoid the formation of Widmannstätten-type secondary austenite. The temperature was controlled by means of a calibrated thermoelement, and the sample thickness did not exceed 15 mm. Solution annealing is performed at a temperature range of minimal precipitation formation, i.e. in the almost precipitation-free state, where only very small amounts of chromium nitrides are present in the ferrite. These nitrides do not influence the corrosion behaviour significantly. In SDSS of similar composition no really precipitation-free state can be reached after solution annealing [11].",
+        "bbox": [
+            108,
+            566,
+            888,
+            816
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3. Phase volume fraction",
+        "text_level": 2,
+        "bbox": [
+            108,
+            833,
+            358,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The volume fraction of austenite and ferrite was evaluated by very carefully performed quantitative metallography based on light optical microscopy (LOM).",
+        "bbox": [
+            108,
+            867,
+            886,
+            905
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "711",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The average of at least 10 measurements of the phase fractions, each at different sites of the sample, was taken as the phase volume fraction.",
+        "bbox": [
+            108,
+            111,
+            886,
+            148
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4. Alloying element content in austenite and ferrite",
+        "text_level": 2,
+        "bbox": [
+            108,
+            166,
+            591,
+            185
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The content of substitutional alloying elements was measured with SEM/EDX. Each value of the element distribution is an average of more than 10 EDX measurements. Measurements over larger sample areas $( 3 0 0 \\times 3 0 0 ~ \\mu \\mathrm { m } )$ served as a standard and were normalised with respect to the chemical composition obtained by wet chemical analysis. The partitioning ratio $P _ { \\mathrm { ~ N ~ } } ^ { \\gamma }$ of nitrogen was calculated by means of the ThermoCalc computer program [12].  With the volume fraction of austenite $V _ { \\mathrm { V } } ^ { \\gamma }$ and the nitrogen content $c _ { \\mathrm { N } } ^ { \\mathrm { t o t } }$ of the bulk alloy, determined by gaschromatographical analysis, the nitrogen content in austenite $c _ { \\mathrm { N } } ^ { \\gamma }$ and ferrite $c _ { \\mathrm { N } } ^ { \\mathrm { a } }$ was calculated using the following equations:",
+        "bbox": [
+            108,
+            201,
+            886,
+            361
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e0d6a9409e81d717487c163e46c5005adeb2ed0f6a62869d991a875725be0a9f.jpg",
+        "text": "$$\nc _ { \\mathrm { N } } ^ { \\gamma } = { \\frac { c _ { \\mathrm { N } } ^ { \\mathrm { t o t } } } { V _ { \\mathrm { V } } ^ { \\gamma } ( 1 - P _ { \\mathrm { N } } ^ { \\gamma } ) + P _ { \\mathrm { N } } ^ { \\gamma } } }\\tag{2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            158,
+            367,
+            371,
+            407
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3027c4928e3a495c401b80a1c1ccb6120b1ee559d90090b00717666f82b1a8d1.jpg",
+        "text": "$$\nc _ { \\mathrm { N } } ^ { \\alpha } = { \\frac { c _ { \\mathrm { N } } ^ { \\mathrm { t o t } } P _ { \\mathrm { N } } ^ { \\gamma } } { V _ { \\mathrm { V } } ^ { \\gamma } ( 1 - P _ { \\mathrm { N } } ^ { \\gamma } ) + P _ { \\mathrm { N } } ^ { \\gamma } } }\\tag{3}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            160,
+            420,
+            371,
+            463
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The good agreement between the calculated nitrogen content in the single phases and the measurements with different techniques (WDX and lattice parameter determination using X-ray diffraction) have already been shown [10]. The values for the PREN were calculated by using the results of the EDX-analysis for chromium and molybdenum, while the values for nitrogen were taken from ThermoCalc calculations [12]. Small amounts of chromium nitrides were neglected.",
+        "bbox": [
+            108,
+            470,
+            886,
+            577
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5. Critical crevice corrosion temperature",
+        "text_level": 2,
+        "bbox": [
+            108,
+            594,
+            500,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To determine the critical crevice corrosion temperature, $T _ { \\mathrm { c c c } }$ , the specimens were exposed to $6 \\% \\ \\mathrm { F e C l } _ { 3 }$ solution (according to ASTM G48) for 24 h, inspected, and if no crevice corrosion attack was detected, the temperature was raised by 5 K and tested for another 24 h. Crevice corrosion attack was detected by the visual evidence of corrosion pits and crevices. The starting temperature was 270 K.",
+        "bbox": [
+            108,
+            629,
+            888,
+            719
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6. Electrochemical investigations",
+        "text_level": 2,
+        "bbox": [
+            108,
+            736,
+            429,
+            754
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The samples for the potentiodynamic polarisation experiments in 3 M HCl and LiCl (aqueous solution of varying concentration) at room temperature were mechanically ground (1200 grit) and not etched.",
+        "bbox": [
+            108,
+            772,
+            886,
+            826
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "712",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_footnote",
+        "text": "1 Scientific Group Thermodata Europe, SGTE Solution Database at the Royal Institute of Technology, Stockholm, Sweden, 1992, extended by Hallstedt B. (Swiss Federal Institute of Technology) to ETHS with data from Refs. [13–17].",
+        "bbox": [
+            108,
+            857,
+            886,
+            902
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The samples for the microelectrochemical experiments in 3 M HCl (and 1 M HCl + 4 M NaCl) were mechanically ground with diamond paste (6 μm), slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml $_ { \\mathrm { H } _ { 2 } \\mathrm { O } }$ and 1 g $\\mathrm { K } _ { 2 } \\mathrm { S O } _ { 4 } )$ and rinsed with distilled water and ethanol.",
+        "bbox": [
+            108,
+            111,
+            884,
+            182
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The solutions were prepared from reagent grade chemicals and distilled water. All potentiodynamic polarisation curves were measured with a scanning rate of 1 mV/s and cathodic prepolarisation was performed for 2 min at -500 mV SCE. The measurement was started directly after the prepolarisation (at —500 mV SCE) and the potential was scanned up to 1400 mV SCE. The electrolytes were not aerated. The potentiodynamic polarisation curves shown in the following sections are a representative example out of 3–5 measurements.",
+        "bbox": [
+            108,
+            182,
+            886,
+            307
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.7. Macroelectrochemical investigations",
+        "text_level": 2,
+        "bbox": [
+            108,
+            323,
+            485,
+            341
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A potentiostat (Schlumberger SI 1286) was used to measure potentiodynamic polarisation curves. The counter electrode consisted of a platinum wire. A calomelelectrode was installed as reference electrode. The same silicone rubber as in the microelectrochemical experiments served as seal because the hydrophobic nature of the silicon prevents crevice corrosion.",
+        "bbox": [
+            108,
+            358,
+            886,
+            445
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Two different types of measurements were performed: Experiments in 3 M HCl at room temperature over an area of 4 mm in diameter served to investigate the corrosion behaviour of the bulk alloy and to compare the large scale with the microelectrochemical measurements. Potentiodynamic polarisation experiments in pH-neutral lithium chloride solutions of varying concentrations at room temperature show the lithium chloride concentrations, for which pitting occurred in the passive region (200–1000 mV SCE).",
+        "bbox": [
+            108,
+            447,
+            886,
+            570
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.8. Microelectrochemical method – electrochemical microcell",
+        "text_level": 2,
+        "bbox": [
+            108,
+            586,
+            675,
+            604
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to perform electrochemical experiments within the micrometer range, it is necessary to reduce the surface area of the exposed sample. In the applied technique, not the sample itself but the size of the electrochemical cell was reduced. Fig. 3 shows the electrochemical setup and the microcell used to measure local potentiodynamic polarisation curves. The microcell consists of a glass capillary, ground at the tip and filled with the electrolyte (3 M HCl or 1 M HCl + 4 M NaCl). The tip diameter of the capillary can be varied between 2 and 1000 μm. A layer of silicone rubber (specific resistivity $= 1 0 ^ { 1 5 }$ Ω/cm) is applied at the tip to provide a seal. The counter electrode consists of a 0.5 mm thick platinum wire and a calomel-electrode serving as reference electrode. It is connected to the glass capillary by an electrolyte bridge [18].",
+        "bbox": [
+            108,
+            622,
+            886,
+            798
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electronic instrumentation: The experimental setup is shown schematically in Fig. 3. The specimen is mounted on the stage of a metallurgical microscope and the microcell (glass capillary) is fixed at the revolving nosepiece replacing an objective. This setup enables the search of a site with different magnifications (50–500×) before switching to the microcell. After each experiment the sample is lowered and moved in x-y direction. It is adjusted to a new location after the glass capillary has been rinsed with new electrolyte. The first positioning of the glass capillary is done with the assistance of a microscope inclined by $4 5 ^ { \\circ }$ . This setup allows to carry out a series of experiments and their statistical evaluation.",
+        "bbox": [
+            108,
+            798,
+            886,
+            904
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "713",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb37f1c18b618e9959e5841f13bd11e5311d245d9356ff187c5ac0e7319ece1c.jpg",
+        "image_caption": [
+            "Fig. 3. Microelectrochemical method – electrochemical microcell."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            192,
+            113,
+            801,
+            438
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            498,
+            886,
+            551
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The currents in electrochemical experiments at this micrometer scale are no longer in the range of μA (10−6) and nA $( 1 0 ^ { - 9 } )$ , typical for macroelectrochemical' polarisation experiments, but rather in the range of pA $( 1 0 ^ { - 1 2 } )$ and fA $( 1 0 ^ { - 1 5 } )$ . To detect such extremely weak currents, several precautions are necessary:",
+        "bbox": [
+            108,
+            551,
+            886,
+            622
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Good shielding: To suppress electromagnetic interferences, the equipment is set up within a Faraday cage made of 3 mm thick copper plate. Due to the consistent use of specially shielded wires and by keeping them as short as possible, electromagnetic interference could be reduced to a minimum. During the testing all electrical wires were stored about 3 m away from the experiment.",
+        "bbox": [
+            108,
+            622,
+            886,
+            710
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "High resolution potentiostat: A modified, battery operated Jaissle potentiostat (type 1002T-NC-3) was used. The modification of the original apparatus (1002T-NC) improved the current detection limit from 50 pA down to 50 fA. It consists of a special parallel operation amplifier which is also used for measuring electrochemical noise. Thus the detection limit is improved by a factor of 1000. In combination with a double impedance converter (Jaissle Typ 1003) an input resistance of $1 0 ^ { 1 5 } ~ \\Omega$ and an input current of 20 fA was achieved. A low noise signal generator (Prodis Typ 1/16-1) was used as input signal for the potentiostat.",
+        "bbox": [
+            108,
+            710,
+            886,
+            851
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reduction of signal noise: The remaining noise (mostly 50 Hz) of the measured signal (direct voltage signal which is proportional to the flowing current) has to be further reduced: In the smallest range the output signal of the potentiostat is 1 V for",
+        "bbox": [
+            108,
+            851,
+            886,
+            904
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "714",
+        "bbox": [
+            111,
+            79,
+            143,
+            92
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10 nA. Thus fA currents result in μV signals. For good treatment of the direct voltage a lock-in technique is applied. This technique allows the filtering and the amplifying of alternating voltages of certain frequencies out of a noisy signal. The noisy signal has to be modified to a AC-signal by a selfmade chopper. The chopper frequency (2033 Hz) is fed to the lock-in amplifier (EG&G 5210) as a reference signal. The output signal of the lock-in amplifier is a direct voltage, averaged over a certain time. With a time constant of 30 ms this setup corresponds to a 10-Hz filter.",
+        "bbox": [
+            108,
+            113,
+            886,
+            236
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.9. Choice of the electrolyte",
+        "text_level": 2,
+        "bbox": [
+            108,
+            261,
+            380,
+            279
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In potentiodynamic polarisation experiments the size of the exposed area affects the results of the measured corrosion behaviour. Electrochemical measurements of small sample areas exhibit a better corrosion resistance than big scale measurements. Suter et al. [19,20] showed that for areas below 500 μm in diameter the pitting potential of an alloy increases with decreasing diameter of the microcapillary. The probability of including weak spots in the material is diminished by smaller exposed areas. The single phases of SDSS are in the range of 10–40 μm and the need for a very aggressive electrolyte becomes evident.",
+        "bbox": [
+            108,
+            295,
+            886,
+            438
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The most significant measure for the corrosion resistance is the pitting potential. However, the very high resistance against pitting of SDSS in combination with the small size of the exposed single phases makes the microelectrochemical measurements of pitting potentials in SDSS at room temperature impossible. On the other hand, chloride ion concentrations close to the solubility limit would plug the microcapillary tip. Therefore, an acid electrolyte was chosen, and the criteria for the corrosion resistance were the critical current density, the passivation potential and the passive current density. Because of the ease of the handling of chloric acid compared to sulfuric acid, the two electrolytes 3 M HCl and 1 M HCl + 4 M NaCl were chosen for these small scale experiments. Measurements with 1 M HCl reveal very often three zero intersections and complicate the interpretation of the experiments. A stronger acid (3 M HCl) enlarges the active area of the anodic part reaction and provides only one intersection point with the cathodic curve (part reaction).",
+        "bbox": [
+            106,
+            438,
+            886,
+            669
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.10. Ohmic drop",
+        "text_level": 2,
+        "bbox": [
+            108,
+            692,
+            275,
+            710
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In a previous investigation [18] a electrolyte resistance of $1 0 ^ { 6 } ~ \\Omega$ was found for a microcapillary filled with 1 M NaCl solution and a tip diameter of $1 0 { - } 2 0 ~ { \\mu \\mathrm { m } }$ The conductivity of 3 M HCl is with 600–700 mS almost five times higher than the conductivity of 1 M NaCl (125 mS), i.e. the resistance of the electrolyte is five times smaller. In the present investigation of the precipitation-free states maximal currents of $1 0 ^ { 2 } ~ \\mathrm { n A }$ in the active range have been detected and the ohmic drop is about 20 mV.",
+        "bbox": [
+            108,
+            727,
+            886,
+            833
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The samples with precipitates (Part II), especially in the region of sigma phase and eutectoide secondary austenite, show higher currents up to $1 0 ^ { 3 }$ nA in the microelectrochemical polarisation experiments. But in this context the current densities are only compared qualitatively.",
+        "bbox": [
+            108,
+            833,
+            886,
+            904
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "715",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. Experimental results",
+        "text_level": 2,
+        "bbox": [
+            108,
+            111,
+            329,
+            130
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1. Critical crevice corrosion temperature and macroelectrochemical investigations",
+        "text_level": 2,
+        "bbox": [
+            108,
+            147,
+            865,
+            166
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The critical crevice corrosion temperatures $( T _ { \\mathrm { c c c } } ) _ { : }$ , the PREN of the bulk alloys and the PREN of the single phases are summarised in Table 2. Also the LiCl concentrations for which pitting occurred in the passive region (200–1000 mV) in the potentiodynamic polarisation experiments at room temperature, are listed. Both, $T _ { \\mathrm { c c c } }$ and the LiCl concentration for pitting reveal a good correlation with respect of the ranking of the single bulk alloys. A higher nitrogen content in alloys 3 and 5 seems to improve the corrosion resistance $( T _ { \\mathrm { c c c } } = 4 4 )$ with similar contents of chromium and molybdenum (Table 1). On the other hand, the lower nitrogen content of alloy 4 seems to be responsible for the reduced corrosion resistance $( T _ { \\mathrm { c c c } } = 1 7 )$",
+        "bbox": [
+            108,
+            182,
+            886,
+            358
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The corrosion resistance of alloy 3, here expressed as $T _ { \\mathrm { c c c } }$ and LiCl concentration for pitting is like the corrosion resistance of alloy 5, although the PREN of alloy 5 is significantly higher $( \\mathrm { P R E N } _ { \\mathrm { a l l o y 3 } } = 4 5 . 5 ;$ PR $\\mathrm { E N } _ { \\mathrm { a l l o y } 5 } = 4 8 . 4 )$ . Comparing the PREN of the weaker single phase of each alloy with the corrosion resistance, a better correspondence is found (alloy 3: $\\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 2 ;$ alloy 5: $\\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 6 )$ Alloys 3 and 5 with almost the same PREN of the weaker phase (ferrite) exhibit the same $T _ { \\mathrm { c c c } }$ of 44 and similar LiCl concentration for pitting (11 M LiCl). For alloy 4, the PREN of the bulk alloy $( \\mathrm { P R E N } _ { \\mathrm { a l l o y 4 } } = 4 1 . 6 )$ and the PREN of the weaker phase (alloy 4: $\\mathrm { P R E N } _ { \\mathrm { a u s t e n i t e } } = 3 8 )$ are both lower than the corresponding values of alloys 3 and 5 and thus responsible for the lower corrosion resistance $( T _ { \\mathrm { c c c } } = 1 7 _ { \\mathrm { \\scriptsize { i } } }$ ; LiCl concentration for pitting = 10 M LiCl).",
+        "bbox": [
+            108,
+            357,
+            886,
+            551
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 shows the polarisation curves of the potentiodynamic polarisation experiment in 3 M HCl at room temperature. It is important to note that no effect of the two phase microstructure, like two separate active peaks, can be detected in the curve of those “macroelectrochemical\"experiments.",
+        "bbox": [
+            108,
+            551,
+            886,
+            622
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A lower passivation potential and a lower passive current density is chosen as ranking criteria, since no pitting occurs under these conditions. Again, alloy 4 exhibits the worst corrosion resistance indicated by a higher passivation potential $( E _ { \\mathrm { p a s s } } = - 2 1 5$ mV) and a higher passive current density $( i _ { \\mathrm { p a s s } } = 7 0 ~ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ , than alloy $3 \\ : ( E _ { \\mathrm { p a s s } } = - 2 4 0 \\ : \\mathrm { m V } ; \\ : i _ { \\mathrm { p a s s } } = 1 4 \\ : \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ or alloy $5 ( E _ { \\mathrm { p a s s } } ^ { \\mathrm { ~ ~ \\normalfont ~ . ~ } } = - 2 7 0 \\mathrm { m V } ; i _ { \\mathrm { p a s s } } = 2 2$ $\\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ , respectively. Alloys 3 and 5 differ now clearly in the passivation potential and passive current density. In this case the ranking of the alloys seems to correlate better to the PREN of the bulk alloy. Similar qualitative results are obtained for the same type of measurements in 2 M HCl and 1 M HCl.",
+        "bbox": [
+            108,
+            622,
+            886,
+            730
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/10e47c4e2897e48c9eeba903b0b69aa0a7c784b0c1779c2af605ca719f52394a.jpg",
+        "table_caption": [
+            "Table 2",
+            "PREN and corrosion resistance of the alloys 3–5"
+        ],
+        "table_footnote": [
+            "O: no pitting; ●: pitting; ●: pitting and no pitting."
+        ],
+        "table_body": "<table><tr><td>Alloy/heat treatment temperature</td><td> $\\mathrm { P R E N _ { a l l o y } }$ </td><td> $\\mathrm { P R E N _ { a u s t e n i t e } }$ </td><td> $\\mathrm { P R E N } _ { \\mathrm { f e r r i t e } }$ </td><td> $T _ { \\mathrm { c c c } }$ </td><td>9 M LiCl</td><td>10 M LiCl</td><td>11 M LiCl</td></tr><tr><td> $3 / 1 1 0 0 ^ { \\circ } \\mathrm { C }$ </td><td>45.5</td><td>45.1</td><td>44.2</td><td>44</td><td>O</td><td>O●</td><td>●</td></tr><tr><td> $4 / 1 1 5 0 ^ { \\circ } \\mathrm { C }$ </td><td>41.6</td><td>38.0</td><td>44.6</td><td>17</td><td>O</td><td>●</td><td>●</td></tr><tr><td> $5 / 1 0 5 0 ^ { \\circ } \\mathrm { C }$ </td><td>48.4</td><td>49.9</td><td>44.6</td><td>44</td><td>O</td><td>O</td><td></td></tr></table>",
+        "bbox": [
+            111,
+            797,
+            882,
+            882
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "716",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/63b224cbdad4365f50c8e93fdc55b518c5956101d640a21ffc8e502eb72fceac.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 4. Macroelectrochemical polarisation curves (in 3 M HCl at 23°C) of different SDSS."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            241,
+            116,
+            758,
+            463
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            516,
+            886,
+            570
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2. Microelectrochemical method",
+        "text_level": 2,
+        "bbox": [
+            108,
+            586,
+            427,
+            604
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "All microelectrochemical measurements reveal to some extent a second peak at a potential of about 500 mV SCE, independent of the tested specimen. This second peak is caused by the oxidation of ions in the solution from the +II to the +III oxidation state [18]. Because of the vertically mounted capillary of the miroelectrochemical method, in the active area, dissolved ions are not able to escape and cause the second peak in the current density curves.",
+        "bbox": [
+            108,
+            622,
+            886,
+            729
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3. The effect of chemical composition",
+        "text_level": 2,
+        "bbox": [
+            108,
+            745,
+            470,
+            763
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Due to the variation of the chemical composition, in particular of the nitrogen content, alloys with different PREN of the single phases are obtained. In Fig. 1 (and Table 2) the difference of the PREN of the single phases is shown as a function of the nitrogen content of the bulk alloy.",
+        "bbox": [
+            108,
+            780,
+            886,
+            851
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 illustrates the polarisation curves of the austenite and the ferrite of alloy 3 in 1 M HCl + 4 M NaCl at room temperature. It is evident that both phases, austenite and ferrite, have almost the same critical current density $( i _ { \\mathrm { k r i t } } = 1 0 ^ { 4 } ~ \\mu \\mathrm { A } /$ $\\mathrm { c m } ^ { 2 } )$ , the same passivation potential $( E _ { \\mathrm { p a s s } } = 7 0 \\mathrm { m V } )$ and similar passive current densities. The identical polarisation curves of ferrite and austenite correspond perfectly to the similar PREN of the empirical formula $( \\mathrm { P R E N } _ { \\mathrm { a u s t e n i t e } } = 4 5 . 1 ; \\ \\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } =$ 44.2). Other measurements in 3 M HCl confirm these results.",
+        "bbox": [
+            108,
+            850,
+            886,
+            904
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "717",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "chart",
+        "img_path": "images/89e69913a053ac9e4df21c5961f97661cab3a936bfdaa78c7070497516bcb29a.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 5. Microelectrochemical polarisation curves of austenite and ferrite (in 1 M HCl + 4 M NaCl at 23°C) of alloy 3 (solution annealed at $1 1 0 0 ^ { \\circ } \\mathrm { C } ,$ one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            243,
+            116,
+            760,
+            461
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            529,
+            884,
+            600
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In alloy 4 the overall nitrogen content is lower and due to the strong partitioning of the elements chromium and molybdenum to the ferrite, the PREN of the austenitic phase is low $( \\mathrm { P R E N } _ { \\mathrm { a u s t e n i t e } } = 3 8 )$ , while the PREN of the ferrite is in the same order of magnitude as in alloy $3 ~ ( \\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 6 )$ . Fig. 6 shows the potentiodynamic polarisation curves of both phases of alloy 4 in 3 M HCl at room temperature: The austenite shows in many different measurements almost no passivation and stays active, while the ferrite passivates at a potential near 220 mV.",
+        "bbox": [
+            108,
+            600,
+            886,
+            723
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In alloy 5 the high nitrogen content causes a highly corrosion resistant austenite $( \\mathrm { P R E N _ { a u s t e n i t e } } = 4 9 . 9 )$ , while the PREN of the ferrite is lower $( \\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 6 )$ The small active range $( i _ { \\mathrm { k r i t } } = 1 . 5 \\times 1 0 ^ { 3 } ~ \\mathrm { \\textmu A } / \\mathrm { c m } ^ { 2 } , ~ E _ { \\mathrm { p a s s } } = - 2 5 0 ~ \\mathrm { m V } )$ and the low passive current $( i _ { \\mathrm { p a s s } } = 8 ~ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ of the polarisation curve of the austenite is evident in Fig. 7.",
+        "bbox": [
+            108,
+            723,
+            884,
+            811
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4. The effect of partitioning",
+        "text_level": 2,
+        "bbox": [
+            108,
+            833,
+            384,
+            851
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2 it is illustrated that the partitioning of the main alloying elements as a function of the solution annealing temperature leads to different PREN of the single phases ferrite and austenite at higher or lower temperatures than the intersection point of both PREN-curves [11]. The solid lines of Fig. 2 are obtained by ThermoCalc calculations [12], while the open symbols reflect the experimentally determined values, which are used for the interpretation of the microelectrochemical investigation. In the temperature range from $1 0 2 0 ^ { \\circ } \\mathrm { C }$ to $1 1 2 0 ^ { \\circ } \\mathrm { C }$ no disturbing influence of chromium nitride precipitates can be observed. Fig. 8 reveals the polarisation curves of alloy 1 after solution annealing at $1 0 8 0 ^ { \\circ } \\mathrm { C }$ . Because of the fact that the PREN of both phases are practically identical $( \\mathrm { P R E N _ { a u s t e n i t e } } = 4 4 . 2 ;$ $\\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 8 )$ , the current densities and the passivation behaviour of ferrite and austenite are similar. In Fig. 9 the potential–current density curve is shown for alloy 1 after solution annealing at $1 1 2 0 ^ { \\circ } \\mathrm { C }$ . Here, the weaker partitioning at higher solution annealing temperatures results in a lower PREN of the ferrite $( \\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 4 . 6 )$ and a higher PREN of the austenite $( \\mathrm { P R E N _ { a u s t e n i t e } } = 4 5 . 6 )$ . This is reflected in the microelectrochemical measurements by the differences in the passivation potential (austenite: $E _ { \\mathrm { p a s s } } = - 2 1 0$ mV; ferrite: $E _ { \\mathrm { p a s s } } = 1 7 0 ~ \\mathrm { m V } )$ , the critical current densities (austenite: $i _ { \\mathrm { k r i t } } ^ { \\cdot } = 2 . 4 \\times 1 0 ^ { 3 } ~ \\mathrm { \\mu A / c m ^ { 2 } } ;$ ferrite: $i _ { \\mathrm { k r i t } } = 4 \\times 1 0 ^ { 3 } ~ { \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } } )$ as well as the passive current densities (austenite: $i _ { \\mathrm { p a s s } } = 1 0 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } ;$ ferrite: $i _ { \\mathrm { p a s s } } = 3 3 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ . The situation becomes reversed in Fig. 10 for alloy 1 solution annealed at $1 0 4 0 ^ { \\circ } \\mathrm { C }$ Since the ferrite has a higher PREN $( \\mathrm { P R E N } _ { \\mathrm { f e r r i t e } } = 4 6 . 4 )$ , due to the stronger partitioning at lower annealing temperatures, it exhibits in this case a better corrosion resistance, while the austenite is slightly weaker with respect to corrosion $( \\mathrm { P R E N _ { a u s t e n i t e } } = 4 4 . 7 )$",
+        "bbox": [
+            108,
+            867,
+            886,
+            904
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "718",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "chart",
+        "img_path": "images/cb1b8a6be03eb983b3a7fee9960214857f353f77e4a05d241de7336e1dbb7e75.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 6. Microelectrochemical polarisation curves of austenite and ferrite (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 4 (solution annealed at $1 1 5 0 ^ { \\circ } \\mathrm { C } ,$ one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            241,
+            114,
+            760,
+            461
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "chart",
+        "img_path": "images/44937e0498579baaf69c299113b2dc3feda971fc81f821acfa04c7db43ed1fed.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 7. Microelectrochemical polarisation curves of austenite and ferrite (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 5 (solution annealed at 1050°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            241,
+            516,
+            760,
+            861
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "719",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            106,
+            111,
+            886,
+            483
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/b367e2d6abcc95e25eed4ede073c80f9cce4a9ed151b2931613050a2d408f058.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 8. Microelectrochemical polarisation curves of austenite and ferrite (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 1 (solution annealed at 1080°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            243,
+            530,
+            758,
+            877
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "720",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "chart",
+        "img_path": "images/32d58616771f6a39b94949981d5833cd4ac1fa45390a69113be819ace7858f1e.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 9. Microelectrochemical polarisation curves of austenite and ferrite (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 1 (solution annealed at 1120°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            241,
+            113,
+            760,
+            461
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/8c5b7d5d72598a686485670fd55caf876b2b8debea285d40345710a373b44808.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 10. Microelectrochemical polarisation curves of austenite and ferrite (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 1 (solution annealed at $1 0 4 0 ^ { \\circ } ,$ one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            243,
+            517,
+            760,
+            864
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "721",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5. The behaviour of phase boundaries",
+        "text_level": 2,
+        "bbox": [
+            108,
+            113,
+            472,
+            129
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The potentiodynamic polarisation experiments with the microelectrochemical method at phase boundaries, i.e. in the region where austenite and ferrite meet, reveal two different phenomena:",
+        "bbox": [
+            108,
+            147,
+            884,
+            200
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The first phenomenon is the superposition of the two polarisation curves of the single phases (in the active range) to a new polarisation curve of the phase boundary region, which contains in the active range a significant fraction of each phase. Higher fractions of one single phase in the measured area reduce the relative contribution of the other phase to the active range. In Fig. 11 only the interesting section of the current density curve (active range) of alloy 1, solution annealed at $1 0 4 0 ^ { \\circ } \\mathrm { C } ,$ is displayed. The polarisation curves of the single phases austenite and ferrite are already mentioned in the previous section (Fig. 10). The broken line in Fig. 11 represents the polarisation curve of the ferrite, the dotted line the polarisation curve of the austenite, while the solid lines reflect mircoelectrochemical polarisation curves measured in the phase boundary region austenite-ferrite. The thin solid line shows the polarisation curve representing an area which consists of a larger austenitic part and of a smaller ferritic part compared to the bold solid line, i.e. the polarisation experiments, which are performed in the region of both phases, show higher passivation potentials with increasing austenite content.",
+        "bbox": [
+            108,
+            200,
+            886,
+            464
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The second phenomenon is the separation of the active ranges of the single phases in the polarisation curve of the phase boundary. This separation results in a shift of the passivation potential of the weaker phase (with respect to the PREN) towards higher potentials, while the passivation potential of the stronger phase is shifted to lower potentials. In Fig. 12 the polarisation curves of both individual phases of alloy $2 \\ : ( 1 1 0 0 ^ { \\circ } \\mathrm { C } )$ and also of the microelectrochemical measurement at the phase boundary are displayed. The active peak of the austenite is shifted from —180 mV in the single phase measurement (broken line) to 190 mV in the boundary measurement (fat solid line), and the active peak of the ferrite (dotted line) from $- 2 0 0 \\ \\mathrm { t o } \\ - 2 4 0 \\ \\mathrm { m V }$ . Here, a local corrosion element protects the stronger phase (ferrite), while the weaker phase (austenite) is now even more susceptible to corrosion. The overall corrosion resistance of such a local element is much worse compared to the simple superposition in the first case. A separation of the contribution of both phases can take place, when the difference of the PREN of the single phases is only small. An example is shown in Fig. 13. The curves of the single phases of alloy 1 $( 1 0 8 0 ^ { \\circ } \\mathrm { C } )$ are taken from Fig. 8. Probably it is the active peak of the ferrite (shape), that is shifted from —40 mV in the single phase measurement to 300 mV in the boundary measurement, and the active peak of the austenite from -120 to -230 mV. In this case it seems, that the active peak of the slightly better phase (with respect to the PREN) is shifted to higher potentials. But not only a shift in the potential of the active peak is observed, also the critical current densities are different. The critical current density of the ferrite is changed from $3 . 8 \\times 1 0 ^ { 3 } ~ \\mathrm { \\textmu A } / \\mathrm { c m } ^ { 2 }$ in the single phase measurement to $7 \\times 1 0 ^ { 3 } ~ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$",
+        "bbox": [
+            108,
+            463,
+            886,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "chart",
+        "img_path": "images/65bb3031bd2a9433365b2abb76c52eeef417628764ecc73f90da44bcf9e4d938.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 11. Microelectrochemical polarisation curves of austenite, ferrite and the phase boundary (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 1 (solution annealed at 1040°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            243,
+            530,
+            760,
+            889
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "722",
+        "bbox": [
+            113,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            106,
+            111,
+            888,
+            467
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "chart",
+        "img_path": "images/59e99aeb7b428f240e2b82166be99dda30d3d2c288f3d96e184a40d7b1fa8f80.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 12. Microelectrochemical polarisation curves of austenite, ferrite and the phase boundary (in 3 M HCl at 23°C) of alloy 2 (solution annealed at 1100°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            239,
+            508,
+            760,
+            861
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "723",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "chart",
+        "img_path": "images/12e28213cf8ef7ad52b54d5a5870aac4f8e8b38168b572982f7c1fd485baa811.jpg",
+        "content": "",
+        "chart_caption": [
+            "Fig. 13. Microelectrochemical polarisation curves of austenite, ferrite and the phase boundary (in 3 M HCl at $2 3 ^ { \\circ } \\mathrm { C } )$ of alloy 1 (solution annealed at 1080°, one step)."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            243,
+            114,
+            758,
+            460
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "in the boundary measurement, and the critical current density of the austenite from $3 \\times 1 0 ^ { 3 }$ to $1 . 4 \\times 1 0 ^ { 3 } ~ \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ . Both, the shift of the critical current density and the shift of the potential generally improve the corrosion behaviour of the better phase at the expense of the weaker phase.",
+        "bbox": [
+            108,
+            544,
+            886,
+            616
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion",
+        "text_level": 2,
+        "bbox": [
+            108,
+            657,
+            237,
+            675
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The macroelectrochemical measurements do not provide a clear ranking of the duplex alloys with respect to the corrosion resistance, although alloy 4 with the lowest PREN for a single phase and for the bulk alloy exhibits always the worst corrosion behaviour. If only the weakest phase, i.e. the lowest PREN of a single phase, is responsible for the corrosion resistance, alloys 3 and 5 should reveal the same corrosion behaviour. This is found for the corrosion experiments in neutral, chloride ion containing environments $( T _ { \\mathrm { c c c } }$ and LiCl concentration for pitting). In potentiodynamic experiments in chloric acid, however, alloy 5 with the higher nitrogen content than alloy 3 has a better corrosion resistance (passivation potential and passive current density). In this case, the austenitic phase seems to be somewhat more susceptible to corrosion, if the ferrite posesses a similar corrosion resistance in PREN-units as the austenite. A slightly higher PREN of the austenite than of the ferrite is beneficial with respect to corrosion and can be achieved by increasing the nitrogen content.",
+        "bbox": [
+            108,
+            692,
+            888,
+            904
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "724",
+        "bbox": [
+            111,
+            79,
+            143,
+            92
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            113,
+            886,
+            147
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the macroelectrochemical polarisation experiments, the polarisation curves look as if the specimens consisted only of one phase and do not reveal the distinct contributions from the austenite and the ferrite phase in the active range. In this context the small average phase size of the examined SDSS of 20 μm must be mentioned.",
+        "bbox": [
+            108,
+            148,
+            886,
+            235
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The microelectrochemical investigations in the region of the phase boundary, where both the ferrite and the austenite are in the measured area, exhibit clearly different contributions from the individual phases. The interaction of the single neighbour phases in these boundary measurement leads either to a kind of a superposition of the polarisation curves of the single phases or results in a separation of the two active ranges connected with a shift of the potentials.",
+        "bbox": [
+            108,
+            235,
+            886,
+            341
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The pitting resistance equivalent number, which is only a very rough empirical approach, does not take inhomogenities and precipitates into account. The microelectrochemical measurements, however, show, that the PREN are quite reliable to assess the corrosion resistance of the individual phases of a SDSS. Moreover, the differences in the corrosion behaviour of both, the single phases of one alloy (due to the partitioning), as well as for different alloys due to their different chemical composition can be detected.",
+        "bbox": [
+            108,
+            341,
+            888,
+            466
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions",
+        "text_level": 2,
+        "bbox": [
+            108,
+            505,
+            250,
+            523
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. The corrosion resistance is determined by the weaker phase in neutral, chloride containing environments where pitting is the prevalent type of corrosion attack. In strong acids where general corrosion is predominant, the austenitic phase seems to be more susceptible to corrosion (with similar PREN).",
+        "bbox": [
+            108,
+            541,
+            886,
+            611
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. While the microelectrochemical investigations reveal two different types of interactions of the two phases in measurements of the boundary region, there is no evidence of the two phase microstructure in the macroelectrochemical polarisation experiments.",
+        "bbox": [
+            108,
+            611,
+            886,
+            682
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. The microelectrochemical measurements show a good correlation between the PREN of the single phases and the experimentally measured corrosion behaviour.",
+        "bbox": [
+            108,
+            682,
+            886,
+            717
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4. The microelectrochemical method is an appropriate tool to determine the corrosion resistance of single phases in the range of 10 μm diameter.",
+        "bbox": [
+            108,
+            717,
+            886,
+            754
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements",
+        "text_level": 2,
+        "bbox": [
+            111,
+            798,
+            288,
+            816
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to thank Jung Ock Park, Fabiano Assi and Stephan Match from the Institute of Materials Chemistry and Corrosion, Swiss Federal Institute of Technology, Zürich, Switzerland for their support in performing the microelectrochemical measurements.",
+        "bbox": [
+            108,
+            833,
+            888,
+            904
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "725",
+        "bbox": [
+            852,
+            79,
+            884,
+            92
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            111,
+            113,
+            215,
+            129
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] J.-O. Nilsson, Mater. Sci. Technol. 8 (1992) 685–700.",
+            "[2] R. Dohnke, C. Gillessen, T. Ladwein, U. Reichel, Stainless Steel Europe, vol. 12, 1991, pp. 22–27.",
+            "[3] J. Charles, Proc. Duplex Stainless Steels Beaune Conf., Beaune, vol. 1, 1991, pp. 3–48.",
+            "[4] J. Charles, Proc. Conf. Appl. Stainless Steels, vol. 2, 1992, pp. 587–602.",
+            "[5] H. Vannevik, J.-O. Nilsson, J. Frodigh, P. Kangas, ISIJ Int. 36 (7) (1996) 807–812.",
+            "[6] L. Weber, P.J. Uggowitzer, Mater. Sci. Engng. A 242 (1998) 222–229.",
+            "[7] H. Tsuge, Y. Tarutani, T. Kodo, Corrosion 44 (5) (1988) 305–314.",
+            "[8] G.G. Kolchin, B.S. Ermakov, R.I. Grechin, Y.V. Gladnev, Steel USSR 17 (1987) 235–236.",
+            "[9] L.-A. Norström, S. Pettersson, S. Nordin, Z. Werkstofftech. 12 (1981) 229–234.",
+            "[10] L. Weber, P.J. Uggowitzer, Proc. Int. Symp. High Perfor. Steels Struct. Appl., ASM, Cleveland, 1995, pp. 291–298.",
+            "[11] R.A. Perren, P.J. Uggowitzer, M.O. Speidel, Proc. Duplex Stainless Steels World Conf., Maastricht, 1997, pp. 879–902.",
+            "[12] B. Sundman, B. Jansson, J.-O. Andersson, Calph. Comp. Coupl. Phase Diag. Thermochem. 9 (2) (1985) 153–190.",
+            "[13] C. Qiu, Metall. Trans. A 24A (1993) 2393–2409.",
+            "[14] K. Frisk, Calph. Comp. Coupl. Phase Diag. Thermochem. 17 (3) (1993) 335–349.",
+            "[15] B.-J. Lee, Metallurg. Trans. A 24A (1993) 1017–1025.",
+            "[16] B.-J. Lee, Calph. Comp. Coupl. Phase Diag. Thermochem. 17 (3) (1993) 251–268.",
+            "[17] C. Qiu, Metallurg. Trans. A 24A (1993) 629–645.",
+            "[18] T.A. Suter, Ph.D. Thesis, ETH no. 11962, 1997.",
+            "[20] T.A. Suter, H. Böhni (Eds.), Conference: Critical Factors Localized Corrosion II, Chicago, 9–11 October 1995, Electrochem. Soc., 1996.",
+            "[19] H. Böhni, T.A. Suter, A. Schreyer, Electrochim. Acta 40 (10) (1995) 1361–1368."
+        ],
+        "bbox": [
+            117,
+            145,
+            542,
+            160
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "726",
+        "bbox": [
+            111,
+            79,
+            145,
+            92
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "R.A. Perren et al. / Corrosion Science 43 (2001) 707–726",
+        "bbox": [
+            284,
+            79,
+            711,
+            94
+        ],
+        "page_idx": 19
+    }
+]

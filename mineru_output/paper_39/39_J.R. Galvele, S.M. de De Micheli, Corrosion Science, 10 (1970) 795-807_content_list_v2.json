@@ -1,0 +1,3084 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MECHANISM OF INTERGRANULAR CORROSION OF Al-Cu ALLOYS*"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                115,
+                160,
+                886,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI Comisión Nacional de Energía Atómica, Departamento de Metalurgia, Avda. del Libertador 8250, Buenos Aires, Argentina"
+                    }
+                ]
+            },
+            "bbox": [
+                222,
+                220,
+                777,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract-The anodic behaviour of pure Al and some specially prepared Al-Cu alloys has been studied to check the mechanism of intergranular corrosion of aged Al-4%Cu. A clear relationship between pitting and intergranular corrosion has been found. Intergranular corrosion only occurs in the presence of certain anions, and over a narrow range of potentials. Difference in pitting potentials, rather than difference in electrode potentials, is the main factor in producing intergranular corrosion of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The conditions of heat treatment, solution composition, and potential, at which intergranular corrosion appears, have been established."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                293,
+                888,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Résumé—On a étudié le comportement de Al et de quelques alliages Al-Cu spécialement préparés afin de vérifier le mécanisme de la corrosion intergranulaire de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l \\bar { - } } 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cu vieilli. On a trouvé une relation nette entre piqûration et corrosion intergranulaire. Celle-ci n'a lieu qu'en présence de certains anions et dans un intervalle étroit de potentiel. La différence des potentiels de piqûration, plus que celle des potentiels d’électrode, est le facteur essentiel de la corrosion intercristalline de "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\mathrm { A l } } \\mathbf { \\mathrm { - } } \\pmb { 4 } \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cu. On a établi les circonstances de traitement thermique, de composition de solution et de potentiel de l’apparition de la corrosion intercristalline."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                402,
+                886,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Zusammenfassung—Das anodische Verhalten von reinem Aluminium und einigen, besonders aufbereiteten Al-Cu Legierungen ist untersucht worden, um den Mechanismus von Korngrenzenkorrosion von gealtertem Al-4%Cu zu prüfen. Es wurde ein deutliches Verhältnis zwischen Lochfrass und Korngrenzenkorrosion gefunden. Korngrenzenkorrosion erfolgt nur bei Vorhandensein von bestimmten Anionen und über einen engen Potentialbereich. Unterschied in Lochfrass Potentialen zu einem grösseren Grade als Unterschied in Elektroden Potentialen ist die Hauptursache, Korngrenzenkorrosion von Al-4%Cu hervorzurufen. Die Bedingungen für Wärmebehandlung, Lösungszusammensetzung und Potential, bei welchem Korngrenzenkorrosion erscheint, wurden festgelegt."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                513,
+                888,
+                621
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                427,
+                652,
+                606,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "THE INTERGRANULAR corrosion of aged Al-4%Cu alloys has been the subject of numerous investigations.1-7 It is generally agreed that the microstructure of the aged Al-Cu alloy is the one represented in Fig. 1. At this stage of heat treatment the changes in the structure of the grain bodies are not yet detectable by common metallographic techniques, and for the present purposes are usually considered as a single phase. At the grain boundaries, on the other hand, the precipitation rate is higher, and two phases can be observed, the θ phase, or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", surrounded by the other phase, a Cu-depleted zone, which, according to the equilibrium diagram (8), should approximate to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 { - } 0 { \\cdot } 2 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Consequently in the generally accepted mechanism of intergranular corrosion¹-7 the aged Al-4%Cu alloy is described as a three-phase system having anodic and cathodic zones. The copper-depleted zone along the grain boundaries is the anode (phase I), whilst the grain bodies (phase II) and the intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(phase III) are cathodes. The intergranular corrosion of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "would then be a process in which a very small anode is in contact with a large cathode. In support of this mechanism measurements made by various authors³- showed that during corrosion there was a difference in potentials of the order of 100 mV between the grain boundaries and the grain bodies. Nevertheless, a mechanism of anodic and cathodic zones does not explain why the presence of Cl- is necessary to get intergranular corrosion, and intergranular corrosion should occur in almost any corrosive medium. Therefore any mechanism of intergranular corrosion of aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "must explain the action of the Cl- ions."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                671,
+                886,
+                864
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion Science, 1970, Vol. 10, pp. 795 to 807. Pergamon Press. Printed in Great Britain"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                57,
+                694,
+                70
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Paper presented at the 4th International Congress on Metallic Corrosion, Amsterdam, 7-14 September 1969. Manuscript received 8 December 1969."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                869,
+                884,
+                899
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "795"
+                    }
+                ]
+            },
+            "bbox": [
+                472,
+                902,
+                504,
+                915
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/890605c022d79913c3ead58e5144118e2ac66043f51cee06db901791afddd083.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 1. Schematic representation of the microstructure of an aged Al-4%Cu alloy."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                250,
+                97,
+                741,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                106,
+                390,
+                886,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The purpose of the present work was to find out the function of the Cl-in the intergranular corrosion of Al-Cu alloys. Specimens of each of the three phases present in the aged Al-4%Cu alloy were studied in Cl- solutions. It has been found that the intergranular corrosion of the aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy appears only over a certain potential range, and that it is related to the process of pitting of Al."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                565,
+                886,
+                654
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                408,
+                669,
+                587,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens of solubilized Al-4%Cu were used to simulate the behaviour of the grain bodies of aged Al–4%Cu. For the study of the other two phases the intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C \\hat { u } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Al-0·2%Cu alloy were used."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                687,
+                884,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Measurements were performed on alloys prepared with Al 99.99% and Cu 99.999%. The analytical composition of the nominal alloy was, for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l \\mathcal { \\mathrm { - } } 4 \\% C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "4-07%Cu; for Al–0·2%Cu, 0-27%Cu; and for the intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",56·1%Cu. Several potentiostatic measurements on Al 99.99% and Al 99.9999% were also performed."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                741,
+                884,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The specimens were prepared by cutting coupons of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\times 3 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "mm from a 1 mm thick cold-rolled sheet of the alloys. The solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% C \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was prepared by heating the specimens for 2 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 5 5 0 ^ { \\circ } } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and water quenching. The aged specimens were prepared by heating the solubilized specimens for 3 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 6 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; and the over-aged specimens were obtained by heating the solubilized material for 1 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 3 0 ^ { \\circ } \\mathbf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - } 0 { \\cdot } 2 \\% \\mathbf { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the pure Al specimens were annealed for 2 h at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and water quenched. The edges and the surface of the specimens were covered with a curedepoxy resin, leaving an uncovered area of about 1 cm². The specimens were electropolished in a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H C l O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "acetic anhydride bath, and stored in a desiccator for a few days before the experiments."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                827,
+                886,
+                899
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "796"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                57,
+                145,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                333,
+                57,
+                660,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                93,
+                886,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The specimens of the intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were cast rods of about 6 mm dia. The surface of the rods was covered with the cured-epoxy resin, and one end was mechanically taper polished with diamond powder, leaving an exposed area of about 1 cm²."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                198,
+                886,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The solutions were prepared with analytical grade reagents and were deaeratedª with purified "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N _ { 2 } } ."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                267,
+                884,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potential was controlled with a Tacussel PRT 20-2-M potentiostat. All the measurements were made at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { 2 5 } } ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in a Pyrex glass cell, with a platinum counter electrode. The potentials were measured, through a Luggin capillary, with a saturated calomel electrode, and referred to the normal hydrogen electrode scale (nhe)."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                302,
+                886,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                446,
+                388,
+                551,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic polarization curves in NaCl"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                108,
+                407,
+                431,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Polarization curves were obtained for each of the three phases, in solutions containing various concentrations of NaCl. The measurements were made in steps of 10 mV, waiting at each point until a stationary current was observed. Figure 2 shows a typical example of the polarization curves obtained. The results with pure Al were similar to the ones reported by Kaesche¹º and Bond et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { a l . , } ^ { 1 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the same type of anodic polarization curve was obtained with solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathbf { C } \\mathbf { u }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 0 \\cdot } 2 \\% \\mathbf { C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In all cases the specimens showed a passive range, where no attack was observed. But, as the potential was increased to the critical potential, there was a marked increase in the current, and pitting was then detected on the surface. Although the existence of critical potentials for pitting is supported by various authors,10-15 recent work has thrown doubts on the existence of such potentials,16-18 since pitting does not occur until after an induction period."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                425,
+                886,
+                567
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/deaf51b66c21f583ea0ea5d717864843addc1c7e4630c00114fdb3b8e7f7064d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 2. Anodic polarization curve of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 9 9 \\% \\mathrm { A l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in deaerated 0-1M NaCl solution. Ep: potential at which pitting starts."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                230,
+                581,
+                762,
+                859
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                57,
+                711,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "797"
+                    }
+                ]
+            },
+            "bbox": [
+                850,
+                57,
+                882,
+                71
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/5e479ce0dedbbe88893607ec28b05abda54e183d34b4e573b6dd602ad0a597d9.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIG. 3. Behaviour of 99.99%Al in deaerated 1M NaCl solution when the potential is switched from the passive range to the pitting range. The pitting potential was — 0·53 V(nhe)."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                217,
+                93,
+                760,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                478,
+                886,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In view of this discrepancy of opinions, two types of experiments were made to study the pitting of Al in Cl- solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                548,
+                884,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In a first series of experiments 99.99%Al was immersed in deaerated 1M NaCl and the potential of the specimen was switched every 10 to 20 min from the passive range to the pitting range (Fig. 3). When the specimen is held at a low potential the current decreases to very small values, but if the potential is then switched to a higher value, which is in the pitting range, the current increases by two or more orders of magnitude, and pits form on the surface of the metal. If the potential is switched back to the low initial value, the pitting stops and the metal repassivates. This experiment can be repeated several times on the same specimen with the same results. If pitting of Al in Cl- solutions is a time-dependent process, independent of the potential, once pitting has started it would not be expected to stop when the potential is decreased."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                583,
+                886,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A second series of experiments consisted in recording the changes in the anodic current for 5 h when specimens of 99.99%Al were held at various constant potentials in 1M deaerated NaCl (Fig. 4). When the potential was maintained in the range — 0·76 V(nhe) and — 0.53 V(nhe) the c.d. after 5 h remained below 1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\mu \\mathbf { A } / \\cos m ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and no pitting was observed. But with a potential only 10 mV higher than — 0.53 V the c.d. increased by more than three orders of magnitude and pitting commenced. These experiments showed that if there is an induction time for pitting of Al, a change in potential of 10 mV should decrease the induction time by at least four orders of magnitude. It can be concluded therefore that pitting of Al is related to a critical potential which does not depend on an induction period."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                758,
+                886,
+                899
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "798"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                57,
+                145,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE De MiCHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                333,
+                57,
+                660,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d2a3bcdda632d4f700ebbd96dad653b4e0e8beafdcd0d18ef00ceb78e948d638.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 4. Current-time curves for 99.99%Al in deaerated 1M NaCl solution at various potentials."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                192,
+                92,
+                799,
+                418
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                478,
+                884,
+                514
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pitting potentials"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                111,
+                530,
+                271,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The critical pitting potentials of the three phases and of pure Al in various concentrations of deaerated NaCl are shown in Fig. 5. The pitting potential for all the three phases is linearly related to logarithm of the activity of NaCl, and in the range 0·01 to 5M NaCl the following relations were obtained:"
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                548,
+                884,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phase I, and high purity Al:"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                618,
+                408,
+                635
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E p _ { \\mathrm { I } } = - \\ 0 { \\cdot } 5 3 6 \\ - 0 { \\cdot } 0 7 3 \\log \\left( \\alpha _ { \\mathrm { N a C l } } \\right)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/64621d8a46be88a65a4bb986475e9253c44a0fd5155d8ba8473bfa4d33956a1f.jpg"
+                }
+            },
+            "bbox": [
+                326,
+                635,
+                660,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p _ { \\mathrm { I } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the breakdown potential in V(nhe)."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                653,
+                557,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phase II:"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                671,
+                235,
+                687
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "E p _ { \\mathrm { { I I } } } = - \\ 0 { \\cdot } 4 0 4 \\ - 0 { \\cdot } 0 4 6 \\ \\log \\ ( \\mathrm { { a } _ { N a C l } ) , \\mathrm { { a n d } } }",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/27f7dd0c06e0ea5deb92af439a4a31d057744f40418a33a1f82ab0bdcf96bd77.jpg"
+                }
+            },
+            "bbox": [
+                301,
+                688,
+                688,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phase III:"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                706,
+                243,
+                722
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array} { r } { E p _ { \\mathrm { I I I } } = - \\ 0 { \\cdot } 4 2 0 \\ - 0 { \\cdot } 0 5 5 \\log \\mathrm { ( a _ { N a C l } ) } . } \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a944c0185955436ec793e6c2c97ad76a007f9c578b9606b8f55a98fd5564a1a6.jpg"
+                }
+            },
+            "bbox": [
+                318,
+                723,
+                668,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In all the cases studied the breakdown potentials for the Cu-rich phases were about 100 mV higher than the values for specimens with lower Cu content. The pitting potentials of the solubilized Al-4%Cu were similar to those of the intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { A l } _ { 2 } \\mathsf { C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and no difference was observed in the pitting potentials of the Al–0-2%Cu and high purity Al."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                741,
+                886,
+                828
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Influence of heat treatment on intergranular corrosion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                111,
+                845,
+                594,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "With the results shown in Fig. 5 it should be possible to predict the behaviour of heat-treated Al-4%Cu alloys in Cl- solutions at different potentials. As shown in this figure, there is a range of potentials where an alloy with a Cu-depleted zone will show attack in such zone while the two others remain passive. This sort of behaviour should be expected in a wide range of Cl- concentrations. For example, an aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy (Fig. 1) will corrode along the grain boundaries over a range of 100 mV while the grain bodies remain passive. In this case corrosion will concentrate in the few-micronsthick Cu-depleted zone."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                862,
+                886,
+                899
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                57,
+                711,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "799"
+                    }
+                ]
+            },
+            "bbox": [
+                850,
+                57,
+                882,
+                70
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/9c6d18e9a0a169a03695974103256ad8a454bde3b47373e057c03c9444546c1d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 5. Effect of the chloride concentration on the pitting potential of pure aluminium and various Al-Cu alloys in deaerated NaCl solutions."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                245,
+                96,
+                752,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                106,
+                409,
+                884,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The results for aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "confirm such prediction, and Fig. 6 shows a typical example of an anodic polarization curve in deaerated 1M NaCl; in this particular experiment the potential was changed in steps of 10 mV every minute. The values of the expected breakdown potentials of the grain boundaries and of the grain bodies are also included. It was found that when the first breakdown potential is reached, an increase in c.d. occurs, and intergranular corrosion begins. Increasing further the potential results in a slowdown in the current increase, probably due to the narrow front in which the attack is taking place, but when the second breakdown potential is reached there is a new increase in current and corrosion of the grain bodies begins."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                513,
+                886,
+                586
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2f677e3ad776043772af5c629018600fc24d17716e8e137f56c90665b0bdeccd.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 6. Anodic polarization curve of aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% C \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in deaerated 1M NaCl solutions. Measurements made in steps of 10 mV/min. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p _ { \\downarrow } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "pitting potential measured for Al-0·2%Cu. Epu: pitting potential of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta 1 - 4 \\% C u"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                211,
+                605,
+                782,
+                850
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "800"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                57,
+                145,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                333,
+                57,
+                660,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f28454fdbe408d2d6150d4e830db20ebfd3c25cc724d10123d1b908a5dc1a05.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(a)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                130,
+                61,
+                361,
+                165
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/37b6e5e82b46e4d1007dba0f99b621317a591ed29bca4fec73846ded723f1762.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                171,
+                361,
+                276
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/563d00534b9339fddc80c75b37714c11882b8c4d72d5b971c34658df92325996.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                136,
+                282,
+                363,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/de99745e2b8d5465df3e17382eb9413cf26b614ffdcbec8657a8a54a8f98b057.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG, 7. Anodic polarization curve and type of attack for aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 0 } \\mathrm { \\mathop { / } \\mathbf { C } } \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indeaerated 1 M NaCl solution. Exposure conditions: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\ = 2 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a t } - 0 { \\cdot } 3 5 \\ \\mathbf { V } ( \\mathbf { n h e } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", intergranular corrosion plus tunnel-like pitting, section (120 ×); b = 20 min at - 0-43 V(nhe), intergranular corrosion, section "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 2 0 \\times ) ; c = 9 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a t } - 0 { \\cdot } 6 6 \\mathbf { \\ V } ( \\mathrm { n h e } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", specimen not corroded, normal view "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 0 \\times )"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                363,
+                118,
+                865,
+                358
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5d13c3e892705e8b3d4806d5bd1b06a453af17ac333b1a655ec1f163d97041c4.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "FiG. 9. Polarization curve and type of attack of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 \\% C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in deaerated 1M NaCl solution. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min at — 0·26 V(nhe), pitting corrosion "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 0 \\times ) ; b = 9 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a t } \\ - \\ 0 { \\cdot } 4 6 \\ \\mathbf { V } ( \\mathbf { n h e } ) ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "no corrosion except for the pits produced during electropolishing (30 ×)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                136,
+                539,
+                846,
+                814
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f72f43f99366d9b0faa14dd0872a26126ccb22be848b2d6862000f2fd3820397.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "(b)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "FiG. 11. Polarization curve and type of attack of over-aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - } 4 \\% \\mathbf { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in deaerated 1M NaCl solution. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a \\ = \\ 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "min "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\bf { a t } } \\mathrm { \\bf { \\sigma } } - { \\bf 0 } { \\cdot } { \\bf 4 } { \\bf 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "V(nhe), generalized pitting "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 0 \\times )"
+                    },
+                    {
+                        "type": "text",
+                        "content": " b = 90 min at — 0·66 V(nhe), no corrosion except for pits produced during electropolishing (30 ×)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                54,
+                858,
+                324
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/698beb12bccb5cf1feb24845de7bbaf22c18cfc40149d327c013011f088be9b3.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 13. Type of attack of aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf A l } { \\ - } 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cu in 1M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { N a N O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution, exposed 1 h at + 1·85 V(nhe). Pitting nucleates at the grain boundaries but no intergranular corrosion was observed (100 ×)."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                158,
+                510,
+                829,
+                845
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                106,
+                93,
+                884,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Similar results were obtained in other experiments where the potential was maintained constant, and Fig. 7 shows the type of corrosion observed for aged Al-4%Cu in 1M deaerated NaCl, under constant potential. Specimen c was exposed for 90 min at a potential of — 0·66 V(nhe), and did not show any type of attack. Another specimen b exposed for 20 min at — 0.43 V(nhe) showed intergranular corrosion. And a third specimen a exposed for 20 min at — 0·35 V(nhe), showed corrosion at the grain boundaries and in the grain bodies. The attack in the grain bodies took the form of tunnels, similar to the ones described by various authors for pure Al.19-si These experiments were repeated with several other specimens of aged Al-4%Cu and the same relation between the potential applied and the type of corrosion was always obtained."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                181,
+                884,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The data in Fig. 5 can also be applied to predict the kind of corrosion for other heat treatments. A solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 \\% C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", for example, has only one phase (Fig. 8), and in this case localized corrosion should appear at potentials higher than Epn, but the metal should remain passive at lower potentials. This is confirme in Fig. 9, where 90 min exposure at — 0·46 V(nhe) did not produce any attack, except for the small pits produced during electropolishing of the specimens. But after 5 min exposure at — 0·26 V(nhe) severe pitting was observed."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                372,
+                886,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the over-aged condition, on the other hand, the grain bodies show a two-phase structure, as schematically represented in Fig. 10. According to Fig. 5 an alloy with this microstructure should suffer general corrosion at potentials higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p _ { \\mathrm { I } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This was experimentally confirmed (Fig. 11), and a specimen exposed at a potential of — 0.44 V(nhe) showed severe pitting, while another specimen exposed for 90 min at — 0·66 V(nhe) was unattacked. This type of behaviour explains why Farmery and Evans² found that the “light zone\" along the grain boundaries was not always related to intergranular corrosion. This precipitate-free zone is also present in the over-aged alloy. But the over-aged alloy will suffer corrosion not only in the grain boundaries but also in the grain bodies (Fig. 11). Besides, the increase in the anodic area, and the consequent reduction in the cathodic area, will favoi generalized corrosion rather than intergranular attack."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                495,
+                888,
+                584
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4364decd9ea67c2a8e27e6e00959af618faf23fc5b71d67e443528bce2ab2a90.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 8. Schematic representation of the microstructure of solubilized Al-4%Cu alloy. Only one phase is present."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                256,
+                605,
+                747,
+                858
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                282,
+                57,
+                707,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "801"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                57,
+                878,
+                71
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cef1c2c1e6cb28e36a3da4a6af87bda34e09c00ca15763daa48c9094740c51cf.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 10. Schematic representation of the microstructure of over-aged Al-4%Cu alloy. Only Al-0-2%Cu and AlgCu are present."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                254,
+                92,
+                743,
+                345
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                403,
+                886,
+                527
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dc2a75ba09d3d1fe425501642d4be4f00012ae230e72c66b9d59d88e23d03b6c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. TYPE OF ATTACK OF AGED Al-4%Cu IN 1M DEAERATED NaCl SOLUTION"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "*The attack is a mixture of pitting plus intergranular corrosion."
+                    }
+                ],
+                "html": "<table><tr><td></td><td colspan=\"3\">Potential</td></tr><tr><td>Heat treatment</td><td>Below − 0·52 V(nhe)</td><td>Between - 0·52 and − 0·40 V(nhe)</td><td>Over - 0·40 V(nhe)</td></tr><tr><td>Solubilized</td><td>Passive</td><td>Passive</td><td>Pitting</td></tr><tr><td>Aged</td><td>Passive</td><td>Intergranular</td><td>Generalized*</td></tr><tr><td>Over-aged</td><td>Passive</td><td>Pitting</td><td>Pitting</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                215,
+                574,
+                777,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 summarizes the behaviour of Al-4%Cu alloys with different heat treatments at various potentials in deaerated 1M NaCl solutions. No attack is observed for any heat treatment at potentials below — 0.52 V(nhe). Such a behaviour could not be predicted from the mechanism of anodic and cathodic zones. Between - 0.52 V(nhe) and — 0·40 V(nhe) the behaviour of all heat treatments is the same as that expected from the original anodic-zone mechanism, and above — 0·40 V(nhe) a behaviour not predicted by that mechanism is again found."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                773,
+                886,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "802"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                57,
+                147,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                337,
+                57,
+                660,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From a practical point of view, the low potentials are obtained when working in pure Cl- solutions in the absence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O _ { 2 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The second range of potentials is obtained in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O _ { 2 } } \\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-saturated solutions, and in order to reach the highest range of potentials either a stronger oxidizer or an external current will be required."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                93,
+                886,
+                165
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cathodic polarization curves"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                111,
+                181,
+                371,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is known in practice that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O _ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "plays an important role in the intergranular corrosion of Al-Cu alloys. For this reason the cathodic polarization curves in air-saturated 1M NaCl were determined for pure "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solubilized Al-4%Cu and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { \\ell } C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 12). It was found that, as already mentioned by Ketcham and Haynie,' the cathodic reaction is kinetically easier in the Cu-rich phases than in pure "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which is decisive in the behaviour of Al alloys in Cl- solutions, as discussed later."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                198,
+                886,
+                304
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Intergranular corrosion in absence of Cl-"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                108,
+                320,
+                482,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To determine the possibility of pitting in media other than Cl- solutions, polarization curves were obtained for 99.99%Al and for solubilized Al-4%Cu in various solutions. From what had been observed in Cl- solutions, pure Al was expected to behave in the same way as the depleted zone of grain boundaries, and the solubilized alloy was used to simulate the behaviour of the grain bodies (Table 2). In 1M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N a I O _ { 3 } } ,"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N a _ { 2 } S O _ { 4 } , H _ { 2 } S O _ { 4 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and ammonium tartrate no pitting was observed up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ \\ 3 \\ \\mathbf { V } ( \\mathbf { n h e } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the highest potential used in the present work. Furthermore, no intergranular corrosion was detected in aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "when polarized in those solutions at + 3 V(nhe). A similar behaviour is to be expected in all other solutions that produce compact anodic oxide films on Al. On the other hand pitting was observed in Br-, I-, ClO, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { N O } } _ { 3 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions. In the first three solutions, as in the case of Cl- solutions, a difference of 130 to 200 mV was observed between the pitting potentials of pure Al and of the solubilized Al–4%Cu. When the aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy was exposed to a potential between both pitting potentials intergranular corrosion was detected."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                337,
+                886,
+                549
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fcd157a8f33e21850d24d23a851f15c3c1bfe52d4b93707a5ab13315e3dd43da.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 12. Cathodic polarization curves in air-saturated 1M NaCl solution of pure aluminium, solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 \\% C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and intermetallic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { \\ell } C u } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                215,
+                573,
+                784,
+                861
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                57,
+                711,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "803"
+                    }
+                ]
+            },
+            "bbox": [
+                852,
+                58,
+                884,
+                71
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/26c27f91e6e82393cac2c1893e13c937a283e8a5913a458190a8702870d90adf.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2. RELATION BETWEEN PITTING POTENTIALS AND INTERGRANULAR CORROSION IN SOLUTIONS OTHER THAN NaCl"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "*In parentheseş, potentials at which the intergranular corrosion susceptibility was tested."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Electrolyte</td><td colspan=\"2\">Pitting potentials V(nhe)</td><td>Intergranular  $\\mathsf { c o r r o s i o n ^ { * } }$ </td></tr><tr><td>99.99%A1</td><td> $\\mathbf { A l - 4 \\% C u }$  (solub.)</td><td> $A l { \\ - } 4 \\% C \\equiv$  (aged)</td></tr><tr><td>1M KBr</td><td>-0·42</td><td> $- \\ 0 . 2 8$ </td><td> $\\yen 6 s \\left. 0 { \\cdot }40 \\right)$ </td></tr><tr><td>1M KI</td><td>- 0·26</td><td> $\\mathbf { - \\mathbf { 0 . 1 3 } }$ </td><td> $\\yen 123$ </td></tr><tr><td> $1 \\mathbf { M } \\ \\mathbf { N a C l O _ { 4 } }$ </td><td>- 0·17</td><td> ${ \\bf + 0 . 0 3 }$ </td><td> $\\Upsilon \\mathrm { e s } \\left( - 0 { \\cdot } 1 4 \\right)$ </td></tr><tr><td> $1 \\ M \\ N a \\ N O _ { 3 }$ </td><td>+1·80</td><td> $+ \\ 1 { \\cdot } 8 5$ </td><td> $\\bf { N o } \\left( + \\epsilon \\mathrm { } 1 { \\cdot } 8 5 \\right)$ </td></tr><tr><td> $\\mathbf { i M N a _ { 2 } S O _ { 4 } }$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $\\bf { N o } \\left( + \\epsilon \\mathbf { 3 } { \\cdot } \\mathbf { 0 } \\right)$ </td></tr><tr><td> $1 \\mathbf { M } \\ \\mathbf { H } _ { \\mathbf { \\ell } } \\mathbf { S } \\mathbf { O } _ { \\mathbf { \\ell } }$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $\\mathbf { N o } \\left( + \\mathbf { \\sigma } 3 { \\cdot } 0 \\right)$ </td></tr><tr><td> $0 { \\cdot } 1 \\mathbf { M } \\ \\mathbf { N a } \\mathbf { I } { 0 } _ { \\mathbf { \\mathfrak { s } } }$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $\\bf { N o } \\left( + \\epsilon \\epsilon ^ { 3 . 0 } \\right)$ </td></tr><tr><td>1M Ammonium tartrate</td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $> + \\ 3 { \\cdot } 0$ </td><td> $\\mathbf { N o } \\left( + \\mathbf { \\sigma } 3 { \\cdot } 0 \\right)$ </td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                185,
+                124,
+                809,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                415,
+                886,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As mentioned above pitting of pure Al and of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was observed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf N O } _ { 3 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions. No intergranular corrosion of the aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathrm { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was detected. Aged Al-Cu showed pitting along the grain boundaries (Fig. 13), and the reason for this difference in behaviour could lie in the differences in pitting morphology.s The pits in Al in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf N O } _ { 3 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solutions are hemispherical, while in the other media they were found to be tunnel-like. It seems that in nitrate solutions corrosion starts in the grain boundaries, but cannot spread along the narrow depleted zone as it occurs in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C l O } _ { 4 } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and in halide solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                450,
+                888,
+                592
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/c5f3947bc1b81e14c1fdfa72803dce8320e4e8778df74b14f05f1ef47fc95680.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 14. Simplified potential-concentration diagram showing the type of attack suffered by aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l - \\overline { { 4 } } \\% C u"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                260,
+                634,
+                730,
+                856
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "804"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                57,
+                147,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                335,
+                57,
+                660,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION AND CONCLUSIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                331,
+                90,
+                690,
+                106
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The present results show that intergranular corrosion of aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { \\ - } 4 \\% \\mathbf { C } \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "occurs only in a narrow range of potentials. Figure 14 summarizes the results obtained with aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 \\% C u } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",showing the type of attack expected at different potentials and Clconcentrations. If the metal is maintained in the passive metal region, no intergranular corrosion will occur and the metal will be cathodically protected, although its potential will be more positive than the potential of immunity in the potential-pH diagram for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { A l - H _ { 2 } O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". From the old mechanism of intergranular corrosion by anodic and cathodic zones no protection would be expected at potentials higher than about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- \\ 2 { \\cdot } 0 \\ \\mathbf { V } ( \\mathbf { n h e } ) ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "24 Nevertheless, it was found in the present work that intergranular corrosion does not occur if the metal is kept in the range — 0·4 V(nhe) to — 0·6 V(nhe), depending on the Cl- concentration of the media. These results apply only to pure NaCl or KCl solutions. If other anions are present in the solution the zones in Fig. 14 should be displaced to higher potentials, this displacement should be equal to that caused to pitting potentials by the same anions.2ª"
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                109,
+                884,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The behaviour of Al-Cu alloys in natural environments can be explained by the use of the anodic and cathodic polarization curves previously described. Figure 15 shows schematically the anodic and cathodic polarization curves for the Al-Cu system in chloride solutions. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { A _ { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the anodic polaiization curve for pure Al and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 0 \\cdot 2 \\% C u } ."
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { A _ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the anodic polarization curve for solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathbf { C } \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 2 } C u } , C _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the cathodic polarization curve for the Al-Cu alloy in the absence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\complement _ { 8 } , C _ { 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the cathodic polarization curve for pure Al and for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - } 0 { \\cdot } 2 \\% \\mathbf { C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the presence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf O _ { 8 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c _ { \\mathfrak { s } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the cathodic polarization curve for the Cu-rich phases in the presence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O _ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In the absence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O _ { 2 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the corrosion potential of the aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l { - } 4 \\% \\mathbf { C } \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloy will be "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { { } } E _ { \\mathfrak { v } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the alloy will remain passive. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\operatorname { I f } \\mathbf { O _ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is allowed into the system, the corrosion potential will develop to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E _ { 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a little higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E p _ { \\mathtt { I } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Under these conditions the Cu-rich phase will remain passive and the Cu-depleted zone will corrode. The rate of corrosion of the Cu-depleted zone will be equal to the limiting current of the cathodic reaction of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reduction. Hence the higher the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content, or the higher the cathodic area, the higher the corrosion rate of the grain boundaries. This explains the influence of the cathodic area on intergranular corrosion found by Colner and Francis.⁵ As for pure Al, the corrosion potential will be given by the intersection of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C _ { 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but due to the \"slowness\" of the cathodic reaction on pure Al the metal will not show much corrosion."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                355,
+                886,
+                514
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6333503df0a88aa7665bb0c13c60126504964283b3aae53c65e608a4e9782973.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 15. Current-potential relations for Al and Al-Cu in chloride solutions. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { A _ { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": anodic polarization of Al and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 0 . 2 \\% C u } ; A _ { 2 } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "anodic polarization of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A l  A \\% C u"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l _ { 8 } C u } ; C _ { 1 } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cathodic polarization of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - 4 \\% C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in absence of oxygen; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { C _ { \\Im } } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cathodic polarization of pure aluminium in air saturated solutions; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { C } _ { \\pmb { \\mathfrak { s } } } \\colon"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cathodic polarization of solubilized "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\mathbf { A l } } \\mathbf { - } \\pmb { 4 } \\% \\mathbf { C } \\mathbf { u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in air saturated solution; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { { \\cal E } } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": corrosion potential of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A l - C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in deaerated solution; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { { \\cal E } } _ { 8 } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": corrosion potential of aged "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { \\delta } \\mathbf { A l - C u }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in air saturated solution; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": limiting current for the cathodic reaction, and dissolution current of thé grain boundaries of the aged Al-Cu alloy."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                237,
+                524,
+                764,
+                789
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                57,
+                711,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "805"
+                    }
+                ]
+            },
+            "bbox": [
+                852,
+                58,
+                884,
+                70
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                108,
+                92,
+                886,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Summing up, the results of the present work show that intergranular corrosion of Al-Cu alloys is not due to a difference in potentials between grain boundaries and grain bodies, but to a difference in the breakdown potentials of those phases. The mechanism of intergranular corrosion of Al-Cu is found to be of the same nature as the process of pitting of Al. It is concluded that intergranular corrosion of Al-Cu will occur only under the following conditions:"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                251,
+                886,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The alloy must have a solute-depleted zone along the grain boundaries."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                355,
+                811,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The corrosive medium should contain anions capable of breaking down the passivity of the Al."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                372,
+                884,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. The breakdown potential of the depleted zone must be lower than that of the grain bodies."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                407,
+                884,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. The corrosion potential of the alloy must be over the breakdown potential of the depleted zone, and under the breakdown potential of the grain bodies."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                442,
+                884,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When the pitting potential is too high, as in the case of nitrate solutions, other factors, like the morphology of pitting, could be important and are being studied at present."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                478,
+                884,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements—We thank the Programa Multinacional de Metalurgia (Programa Regional de Desarrollo Científico y Técnico—O.A.S.) and the Consejo Nacional de Investigaciones Científicas y Teécnicas of Argentina for partial financial support."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                546,
+                884,
+                589
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                420,
+                615,
+                568,
+                630
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. U. R. EvANs, The Corrosion and Oxidation of Metals, p. 670. Arnold, London (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. H. K. FARMERY and U. R. EvANs, J. Inst. Metals 84, 413 (1955–56)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. G. V. Akımov, Théories et Méthodes d'Essai de la Corrosion des Métaux, p. 291. Dunod, Paris (1957)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. R. B. MeARs, R. H. BrowN and E. H. Dıx, Symposium on Stress-Corrosion Cracking of Metals, Philadelphia 1944, p. 323. ASTM-AIME (1945)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. W. H. CoLNER and H. R. FRANCis, J. electrochem. Soc. 105, 377 (1958)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. S. J. KETCHAM and W. BeCK, 1st International Congress on Metallic Corrosion, London 1961, p. 647. Butterworths, London (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. S. J. KETCHAM and F. H. HAYNIE, Corrosion 19, 242t (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. M. HanseN, Constitution of Binary Alloys, p. 87. McGraw Hill, New York (1958)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. D. GILROY and J. E. O. MAYNE, J. appl. Chem. 12, 382 (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. H. KAESCHE, Z. phys. Chem. 34, 87 (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. A. P. BoND, G. F. BoLLING, H. A. DoMIAN and H. BILONI, J. electrochem. Soc. 113, 773 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. JA. M. KoLOTYRKIN, Corrosion 19, 261t (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. V. HoSPADARUK and J. V. PETROCELLI, J. electrochem. Soc. 113, 878 (1966)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. J. HoRvATH and H. H. UHLIG, J. electrochem Soc. 115, 791 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. H. BöNI and H. H. UHLIG, J. electrochem. Soc. 116, 906 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. H. J. ENGELL and N. D. STOLICA, Arch. Eisenhütt Wes. 30, 239 (1959)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. A. I. AmmAR and S. DARwisH, Electrochim. Acta 13, 781 (1968)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                634,
+                801,
+                647
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "806"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                57,
+                147,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. R. GALVELE and S. M. DE DE MICHELI"
+                    }
+                ]
+            },
+            "bbox": [
+                337,
+                57,
+                660,
+                71
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. T. P. HoAR and W. R. JAcoB, Nature, Lond. 216, 1299 (1967)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. F. J. BuRGER, V. F. TuLL and P. H. HARRIs, Bull. Inst. Metals 3, 6 (1955–57)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. C. EDELEANU, J. Inst. Metals 89, 90 (1960–61)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. C. G. DuNN and R. B. BoLoN, J. electrochem. Soc. 116, 1050 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. J. D. GROGAN, J. Inst. Metals 77, 133 (1946)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. S. M. DE DE MICHELI and J. R. GALVELE, in preparation."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. M. PouRBAix, Atlas of Electrochemical Equilibria, p. 171. Pergamon Press, Oxford (1966)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                92,
+                623,
+                106
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Mechanism of intergranular corrosion of Al-Cu alloys"
+                    }
+                ]
+            },
+            "bbox": [
+                286,
+                58,
+                713,
+                71
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "807"
+                    }
+                ]
+            },
+            "bbox": [
+                852,
+                57,
+                884,
+                70
+            ]
+        }
+    ]
+]

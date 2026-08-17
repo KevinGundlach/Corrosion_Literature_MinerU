@@ -1,0 +1,144 @@
+# THE DISSOLUTION AND PASSIVATION KINETICS OFSTAINLESS ALLOYS CONTAINING MOLYBDENUM—II.DISSOLUTION KINETICS IN ARTIFICIAL PITS
+
+R. C. NEWMAN\*
+
+Department of Applied Science, Brookhaven National Laboratory, Upton, NY 11973, U.S.A.
+
+Abstract—Artificial pit electrodes of Fe-Cr-Ni and Fe-Cr-Ni-Mo alloys have been polarized in a neutral 1M KCl solution at 22°C. The active dissolution kinetics in the nearly saturated pit environments have been determined; 1.6 at.% Mo depresses the anodic dissolution rate in the active region by a factor of 5–10, depending on the potential. The consequent displacement of the corrosion potential in the pit is approximately the same as the change in pitting potential caused by the molybdenum addition. Experiments with 0.0065M sodium thiosulphate added to the bulk solution indicate that the alloy containing molybdenum is considerably less sensitive to the activating effect of adsorbed sulphur.
+
+## INTRODUCTION
+
+In PART I we examined the mechanism of the molybdenum effect on active dissolution of Fe-Cr alloys. Part II deals with the effect of molybdenum on active dissolution in simulated pits. In these experiments an alloy containing nickel has been used, for continuity with earlier artificial pit studies.1,2 The effects of molybdenum additions are quite similar in Fe-Cr and Fe-Cr-Ni alloys.
+
+It is well known that molybdenum at 0.5–4 at.% raises the pitting potential and crevice corrosion resistance of stainless steels in chloride solutions. Very resistant nickel-based alloys are also produced commercially with molybdenum concentrations as high as 17 wt% (11 at.%). Many attempts have been made to explain the beneficial effect of molybdenum, and these have been reviewed by Wanklyn.³ Some of the relevant experimental evidence is listed below:
+
+(1) Molybdenum is effective in conjunction with chromium. It inhibits active dissolution in acidic solutions and is enriched with chromium on the active surface.⁴
+
+(2) The inhibiting effect of molybdenum on active dissolution is more pronounced in mildly acidic solutions (pH ≥ 0.5) than in more concentrated ones (pH ≤ 0.5).
+
+(3) Molybdenum usually has a small effect on the potential of the IR-corrected anodic current maximum, whereas this is the main effect of chromium.
+
+(4) Molybdenum is usually depleted in well-established passive films, though it is almost always detected.
+
+(5) Additions of molybdate ions to the solution have an inhibiting effect similar to that of molybdenum in the alloy.
+
+![](images/3c951da4ef8a7af149d8b7f4165374e72c0cb459790cc949b7f2a10168b2241e.jpg)  
+FiG. 1. Segment of the potential-pH diagram for the ${ \bf M o } { \bf - H } _ { 2 } { \bf O }$ system at $2 5 ^ { \circ } \mathbf { C } ,$ drawn with $[ \mathbf { M o } ^ { 3 + } ]$ or $\left[ \mathrm { H M o O _ { 4 } ^ { - } } \right] = \mathbf { 0 } . 1 \mathbf { M } .$ From M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions, Pergamón Press, London (1966).
+
+Observation (5) has led to suggestions tha the inhibiting species in molybdenumcontaining alloys is a form of precipitated iron molybdate (e.g. reference 5). However, this seems inconsistent with the kinetics of the pit initiation process, since the $\mathbf { M o }  \mathbf { M o } ( \mathbf { V } \mathbf { I } )$ reaction (if it can occur at all) must be several orders of magnitude slower than the other anodic processes which can occur at a pit nucleus where active dissolution has initiated. The situation may be different in a more advanced stage of pit growth or after pit repassivation; evidence for molybdenumrich material in pits has been obtained by Kodama and Ambrose6 and recently by Moriya and $\mathbf { I v e s } ^ { 7 }$ using a Ni-Mo alloy and an elegant microscopic technique. The likelihood of forming solid molybdenum compounds depends on the molybdenum content of the alloy, the presence of chromium (because of the low pH of $\mathbf { C r ^ { 3 + } }$ solutions), the potential of pit growth and the presence of anions other than chloride. The Moriya and Ives experiment is subject to all these reservations, since they used high-Mo, Cr-free alloys, a rather high potential of 0.5 V(SCE) and had a sulphate to chloride ratio of 15:1.
+
+One can express the inhibiting effect of molybdenum in terms of the change in pitting resistance per wt.% of molybdenum (e.g. critical pitting temperature). In this way the pitting behaviour of a number of different alloys can be rationalized.8 The improvement which molybdenum imparts to a relatively susceptible Fe-Cr alloy is comparable with the improvement in a more highly alloyed material with about the same chromium content. However, there does seem to be a relationship between chromium content and the effectiveness of small molybdenum additions.º At around 25% chromium, strong inhibition of pitting results from the addition of only about 1 wt.% Mo. All these observations are significant in assessing models of the molybdenum effect which involve high oxidation states—for example, if molybdates were involved one would expect them to be produced at the high potentials on the resistant alloys, but not at the much lower potentials on the more susceptible alloys. Nevertheless, molybdenum is effective in alloys with quite low pitting potentials, including those examined in this paper. If one regards the molybdenum effect on the pitting potential as an effect of enriched elemental molybdenum on the active dissolution kinetics,4,1º then it is not surprising that molybdenum has a comparable effect on a variety of different alloys. The stronger effect of molybdenum at high chromium concentrations9 might be due to a reduced number of surface heterogeneities which must become enriched in molybdenum by preferential dissolution of iron. In general, the role of chromium is to passivate the alloy, and that of molybdenum is to inhibit active dissolution. Wanklyn³ showed that it was unlikely that molybdates were responsible for the resistance to crevice corrosion introduced by molybdenum, but did not commit himself firmly on the role of molybdenum in pitting at high' potentials. His argument was essentially thermodynamic; we include Fig. 1 to indicate the relative stability of various species in non-complexing solutions. One should bear in mind that the pH of the saturated pit solution is less than 0.5.²
+
+TABLE 1. COMPOSITIONS OF ALLOYS IN WT%
+<table><tr><td></td><td>Cr</td><td>Ni</td><td>Mo</td><td>S</td><td>Fe</td></tr><tr><td>A</td><td>18.7</td><td>10.3</td><td></td><td>&lt;0.005</td><td>Bal.</td></tr><tr><td>B</td><td>16.6</td><td>11.0</td><td>2.7</td><td>&lt;0.005</td><td>Bal.</td></tr></table>
+
+![](images/bf66e30f32a5361b9b294857c535171fc1fff1299d8f5b1083cab4e595d8095b.jpg)  
+FiG. 2. Cell used for artificial pit experiments (schematic).
+
+The present work aims to understand the pitting dissolution of an Fe-Cr-Ni-Mo alloy in a neutral chloride solution. For this purpose a uniform pitting dissolution is established at the bottom of an artificial pit. The kinetics are compared with those of an Fe-Cr-Ni alloy.
+
+## EXPERIMENTAL METHOD
+
+High purity Fe-Cr-Ni and Fe-Cr-Ni-Mo alloys (Table 1) were melted as small ingots and drawn into 1 mm wire with several intermediate anneals. Small coupons were also prepared by hot rolling. The wires were abraded, annealed at 1200°C for 24 h and water quenched. They were then mounted in rods of epoxy resin to make lead-in-pencil' electrodes'² as shown in Fig. 2. An initial depth of 1 mm was established by dissolution in 3M HCl at 400 mV(SCE). Then the pits were washed and the HCl replaced with 1M NaCl. The temperature was $2 2 \pm 1 ^ { \circ } \mathbf { C }$ throughout. Uniform pitting dissolution was established by applying a potential of 400 mV(SCE) as shown schematically in Fig. 3. After about 1500 s the current had reached a very slowly decreasing value and was potential-independent, as indicated by its response to a small potential excursion. The solution in the pits was dark green. In this condition the dissolving surface is covered with a thin salt film. The two alloys gave similar diffusion-controlled current densities of about 90 mA/cm² for a 1 mm deep pit. Incidentally, this shows that the effect of molybdenum on the solubility of $\mathrm { C r C l } _ { 3 } { } ^ { 1 2 }$ is negligible at this molybdenum level. Then the potential was momentarily switched to a low value (to dissolve the salt film) and back to a value where the active (ohmically limited) current was equal to the diffusion-controlled current. This potential was typically between 0 and 100 mV(SCE). Now the current was potential-dependent indicating the absence of the salt film (Fig. 3). The salt film did not precipitate again because that would require a supersaturation of the solution."Active dissolution was allowed to proceed at this rate for 1000 s to make sure that the system was in a steady state. The solution resistance was measured using an imposed 1 MHz ac current; the true (IR-corrected) potentials during active dissolution at 90 mA/cm² were -170 and –110 mV for Fe-Cr-Ni and Fe-Cr-Ni-Mo respectively.
+
+![](images/ed5ec3f4ba3ff1131bbda9bfe67144322acb84c7741f9bc43772dba9ddb0f654.jpg)  
+FiG. 3. Schematic variation of potential and current during an artificial pit experiment to measure the pitting dissolution kinetics. A: establish uniform diffusion-controlled pit dissolution; B: drop potential briefly to remove salt film; C: return to a potential where active dissolution rate is equal to former diffusion-controlled rate; D: begin measuring potential dependence of pitting dissolution.
+
+To measure the active dissolution kinetics in the pit solution, the potential was progressively stepped to more negative values with intermediate periods at the original value between 0 and 100 mV (Fig. 3). The hold time at the original value was 14 s and the time at each of the more negative potentials was 7 s. The current after 5 s at each potential was used to plot E-log icurves. The solution resistance was measured at the beginning and end of this procedure, and an averaged value was used to apply an IR correction to the E-log i curves. The decrease in metal ion concentration at the pit bottom resulting from the 5 s delay at each potential was estimated as 2% .1.2
+
+In one set of experiments the effect of sulphur impurities was studied by adding 1 g/l (0.0065M) of sodium thiosulphate to the 1M KCl solution. Thiosulphate is known to enhance the pitting of stainless alloys³ and acts through an adsorbed sulphur layer on the metal surface.
+
+Pitting and protection potentials were measured in 1M KCl, using mechanically polished 0.4 cm² coupons of the experimental alloys. To measure the pitting potentials, the potential was stepped upwards by 25 mV every 400 s, beginning at -300 mV(SCE). Pitting was verified with a binocular microscope. To measure the protection potential, many pits were produced by polarizing at +500 mV for 120 s; then the potential was swept in the negative direction at 1 mV/s.
+
+![](images/804fda0b0ee859e2f23074c9a590c4c307427ebc3cfdce7be85bb97b0f9e6af9.jpg)  
+FiG. 4. Results of a single artificial pit experiment on Fe-Cr-Ni alloy. showing IR correction.
+
+## EXPERIMENTAL RESULTS AND DISCUSSION
+
+Artificial pit experiments in 1M KCl
+
+The artificial pit experiments typically produced data like those shown in Fig. 4. The IR corrections were large and R varied slowly with time, necessitating several experiments because of the inevitable scatter in the corrected data. Some earlier results on the Fe-Cr-Ni alloy were slightly overcorrected.1.2 The anodic ‘Tafel slope is closer to 80 mV than 60 mV. At low potentials there was also some scatter even though the IR correction was negligible; this seems to be due to irreversible perturbations caused by the multiple potential pulsing method.
+
+Figure 5 gives the results of two artificial pit experiments on each alloy. In the linear portion above about 1 mA/cm², molybdenum reduces the current density at a given potential by a factor of about five. The consequent displacement of the ‘Tafel line' on the potential axis is about 60 mV. The difference between the corrosion potentials in the pit solutions is larger (about 130 mV). Very similar polarization curves, not shown, were obtained for flat coupon electrodes in acidic solutions such as 4M HCl. The inhibiting effects of molybdenum are tabulated in Table 2, showing that its effect in the pit solution is less than in 1M HCl but similar to that found in 4M HCl. The effect of molybdenum is also very similar to its effect in Fe-Cr alloys (reference 9, Fig. 1). The main difference between the Fe-Cr and Fe-Cr-Ni alloys is a shift of the active region by about +150 mV; this is due to surface enrichment of nickel.14 In many ways, the effects of nickel and molybdenum are similar except that molybdenum is more likely to form an oxide such as $\mathbf { M o O } _ { 2 }$
+
+![](images/6aa2aefad80841123a3b97abd698e397815ea8df80621d1e9d4afcec1e13ba06.jpg)  
+FiG. 5. Dissolution kinetics in artificial pits (IR corrected) for both alloys. Two experiments shown for each alloy.
+
+Pitting and protection potential measurements: correlation with pit kinetics
+
+Table 3 gives the results of the pitting tests. A result for Type 304L stainless steel is also included. This was the same material used in reference 2. The presence of molybdenum caused a change in pitting or protection potential of about 125 mV. This is larger than the 60 mV displacement of the polarization curves at high current densities (Fig. 5), but approximately equal to the 130 mV difference between the corrosion potentials in the pit environments.
+
+The pit initiation and repassivation processes can be regarded as requiring different critical current densities in order to maintain a critical solution composition against a diffusion gradient.15 Depending on the amount of ohmic polarization in the pit or pit nucleus, this model predicts that the displacement in critical potential caused by molybdenum should be between 60 mV (the displacement in the Tafel line') and 130 mV (the displacement in the corrosion potential in the pit solution). These extremes represent activation and ohmic control, respectively. The result of $1 2 5 \pm 2 5 ~ \mathrm { m V }$ is therefore a good preliminary indication of the correctness of this extension of the model of Galvele. The main difference between stainless alloys and the simple systems considered by Galvele is that the critical pit solution for stainless alloys is very concentrated, at least 1M in ferrous ions.1,² Table 3 also shows some results for Type 304L stainless steel. The pitting potential is within 50 mV of that of the Fe-Cr-Ni-Mo alloy and the anodic kinetics in the pit12 are very similar. The extra resistance of the 304L steel compared with the pure Fe-Cr-Ni alloy is due to its content of molybdenum, copper, nitrogen, etc., which outweighs any deleterious effect of its higher sulphur content. The only apparent anomaly is the low $E _ { p p }$ value for the stainless steel, which is almost certainly influenced by $\mathrm { H } _ { 2 } \mathbf { S }$ in the pits, derived from sulphide inclusions. The most convincing correlation in Table 3 is between $\Delta E _ { \eta }$ and $\Delta E _ { \mathrm { c o r r } }$ . Somewhat different considerations would apply to alloys with higher molybdenum contents where molybdenum would begin to have a significant effect on the critical metal ion concentration for pitting. Below a certain temperature, all alloys will passivate in their saturated pit solutionis and pitting will be impossible—this temperature is below $0 ^ { \circ } \mathbf { C }$ for the present alloys but would be above room temperature for high-Cr, high-Mo alloys.
+
+TABLE 2. RATIO OF CURRENT DENSITIES WITH AND WITHOUT MOLYBDENUM FOR VARIOUS SOLUTIONS
+<table><tr><td>iFeCrNi/iFeCrNiMo</td></tr><tr><td>1MHCl</td></tr><tr><td></td></tr><tr><td>4 5</td></tr><tr><td>(artificial pit)</td></tr><tr><td>1.5MH2SO₄</td></tr></table>
+
+Measured at $i _ { \mathrm { F e C r N i } } = 1 { - } 2 0 ~ \mathrm { m A / c m } ^ { 2 }$ depending on the solution.
+
+TABLE 3. PITTING POTENTIALS $( E _ { p } )$ AND PROTECTION POTENTIALS $( E _ { p p } )$ IN 1M KClCOMPARED WITH DISPLACEMENTS IN TAFEL LINES $( \Delta E _ { T } )$ AND CORROSION POTENTIALS$( \Delta E _ { \mathrm { c o r r } } )$ IN THE PIT SOLUTIONS
+<table><tr><td></td><td> $E _ { p }$  (mVŚCE)</td><td> $E _ { p p }$   $( \mathsf { m } \mathbf { V } \dot { \mathbf { S } } { \mathbf { C } } \mathbf { E } )$ </td><td> $\Delta E _ { p }$  (mV) (mV)</td><td> $\Delta E _ { p p }$ </td><td> $\Delta E _ { T }$  (mV)</td><td> $\Delta E _ { \mathrm { c o r r } }$  (mV)</td></tr><tr><td>Fe-Cr-Ni</td><td>-75</td><td>-205</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Fe-Cr-Ni-Mo</td><td>50</td><td>-80</td><td>125</td><td>125</td><td>60</td><td>130</td></tr><tr><td>304L SS</td><td>100</td><td>-200</td><td>175</td><td>5</td><td>70</td><td>170</td></tr></table>
+
+If the ‘Tafel lines' in Fig. 5 are extrapolated to the respective pitting potentials of the alloys, we obtain the maximum current density which could be flowing at a pit initiation site if there was no ohmic polarization, if the saturated pit solution is the relevant one and if the extrapolation is valid. The result is $1 . 5 \mathrm { \bf A } / \mathrm { \bar { c } } \mathrm { m } ^ { 2 }$ for Fe-Cr-Ni and $8 \ \mathrm { A } / \mathrm { c m } ^ { 2 }$ for Fe-Cr-Ni-Mo. This calculation illustrates the main difficulty in accounting for pit initiation on smooth surfaces of stainless steels, which is that these current densities are at least two orders of magnitude too low to retain a solution containing about 1M of metal ions in a defect (such as a crack in the passive film) about 10 nm in depth.15 This suggests that the defects which initiate pitting are diffusionally equivalent to at least a 1 μm-deep cavity. Such a cavity could be a crack at the boundary of an inclusion, or could arise from local delamination' of the passive film. The latter is similar to the salt staining' hypothesis of Smialowska.'6 Alternatively, one could argue that the diffusion length is simply related to the surface roughness.17
+
+![](images/08f481c1d3bd7b64cd1c979284de17fdb305539fcaa708139fdc7d10bc4d6650.jpg)  
+FiG. 6. Effect of 0.0065M ${ \bf N a } _ { 2 } { \bf S } _ { 2 } { \bf O } _ { 3 }$ on the IR corrected dissolution kinetics in artificial pits. The data of Fig. 5 are indicated by straight lines.
+
+## The effects of sulphur compounds
+
+Figure 6 reproduces the data of Fig. 5 as schematic straight lines, and adds the data obtained with 0.0065M sodium thiosulphate added to the 1M KCl. The Fe-Cr-Ni alloy showed a spectacular acceleration of anodic dissolution by more than an order of magnitude; the salt film could be maintained at (IR corrected) potentials as low as -250 mV. The acceleration was much less marked on the Fe-Cr-Ni–Mo alloy, where it amounted to a factor of 3–7, depending on the potential. These data can be explained in several ways, and more work is needed. The following hypothesis seems consistent with the available facts:
+
+(1) The anodic dissolution of the Fe-Cr-Ni alloy is controlled by a surface nickel monolayer (or sub-monolayer) which like pure nickel is very sensitive to sulphur adsorption.14,18 The consequent acceleration of nickel dissolution by sulphur makes the alloy behave very much like a nickel-free alloy in a sulphur-free solution (reference 10, Fig. 1).
+
+(2) The dissolution of the Fe-Cr-Ni-Mo alloy is controlled by molybdenum atoms enriched at critical sites10,19which are not as sensitive as nickel atoms to sulphur adsorption.
+
+(3) Alternatively (or simultaneously) the ${ \bf M o } ^ { 3 + }$ ion may react with adsorbed or dissolved sulphur species and reduce their availability for adsorption on surface nickel atoms.
+
+It is well known that austenitic stainless steels, containing nickel, pit almost exclusively at sulphide inclusions, whereas ferritic steels pit more randomly and can be tested for pitting using a scratch test.2º If one assigns a chemical role to the sulphide inclusions (e.g. forming ${ \bf H } _ { 2 } { \bf S }$ which accelerates metal dissolution by adsorption), then the presence of nickel (which is especially sensitive to sulphur) will make the alloy more sensitive to the presence of the inclusions because the dissolution rate of the alloy is controlled by nickel. From the present results we can speculate that alloys containing molybdenum, which are less sensitive to sulphur impurities, will also have less preference (other things being equal) for sulphide inclusions as pitting sites. In earlier work on the effects of sulphur compounds on pitting³ it was observed in passing (last paragraph) that thiosulphate ions did not have much effect on materials more highly alloyed than Type 304 stainless steel. It was speculated that thiosulphate would not be reduced to adsorbed sulphur at the higher potentials required to pit the more resistant alloys. However, since the more resistant alloys contained molybdenum, it is also possible that the sulphur (though present in its active form) was being rendered harmless by the molybdenum.
+
+## Additional comments and conclusions
+
+The understanding of the effects of molybdenum which we have gained in this work will now be summarized. First, there was nothing unusual or grossly timedependent about the behaviour of the Mo-containing alloy in the artificial pit experiments. It maintained a steady active state or could become salt-covered at higher potentials. Although its active dissolution could not be studied at the pitting potential (because of salt precipitation) there is no reason to suppose that important new anodic processes (except slow $\mathbf { M o O } _ { 2 }$ formation) would occur in the 150 mV between the pitting potential and the highest potential examined. It is most unlikely that molybdates are involved in the pitting of alloys at these relatively low potentials, although $\mathbf { M o O } _ { 2 }$ may be important in an advanced stage of pitting. Nevertheless, molybdenum exerted a strong inhibiting effect on pitting which was closely related to its 5-10 times reduction of the anodic kinetics in the pit environment. It can be concluded that both pit initiation and pit propagation are related to the inhibition of active dissolution by submonolayer surface enrichment of molybdenum.10,18 In addition, some evidence was obtained that molybdenum mitigates the activating effect of sulphur compounds on pitting dissolution. Future work should aim to understand the co-operative behaviour of chromium and molybdenum, and will involve measurement of dissolution and passivation in solutions of less than the saturated metal ion concentration, since this is where chromium exerts its effect. Artificial pit studies of the roles of copper, tungsten and nitrogen are also in progress.
+
+Acknowledgement—-This work was performed under the auspices of the U.S. Department of Energy, Division of Materials Sciences, Office of Basic Energy Sciences, under Contract No. DE-AC02-76CH00016.
+
+## REFERENCES
+
+1. R. C. NEwMAN and H. S. IsAACs, J. Electrochem. Soc. 130, 1621 (1983).
+
+2. R. C. NEwMAN and H. S. IsAACs, Passivity of Metals and Semiconductors (ed. M. FRomENτ), p. 269. Elsevier, Amsterdam (1983).
+
+3. J. N. WANKLYN, Corros. Sci. 21, 211 (1981).
+
+4. 1. OLEFJoRD and B. BRox, Passivity of Metals and Semiconductors (ed. M. FRomENT), p. 561. Elsevier. Amsterdam (1983)
+
+5. J. R. AmBrosE, Corrosion 34, 27 (1978).
+
+6. T. KoDAMA and J. R. AmBRosE, Corrosion 33, 155 (1977).
+
+7. M. MorIYA and M. B. Ives, Corrosion 40, 105 (1984).
+
+8. R. BANDY and D. VAN RooYEN, Corrosion 39, 227 (1983).
+
+9. E. A. LizLovs and A. P. BoND, J. Electrochem. Soc. 122, 720 (1975).
+
+10. R. C. NEwMAN, Corros. Sci. 25, 331 (1985).
+
+11. H. S. IsAACS and R. C. NEwMAN, Corrosion and Corrosion Protection (eds. R. P. FRANKENTHAL and F. MAnsFELD), p. 120. The Electrochemical Society, Pennington, NJ (1981).
+
+12. J. R. GALVELE, J. B. LUMSDEN and R. W. STAEHLE, J. Electrochem. Soc. 125, 1204 (1978).
+
+13. R. C. NEwMAN, H. S. IsAACS and B. ALMAN, Corrosion 38, 261 (1982).
+
+14. P. MaRcus and J. OuDAR, Fundamental Aspects of Corrosion Protection by Surface Modification (eds. E. McCAFFERTY, C. R. CLAYToN and J. OuDAR), p. 173. The Electrochemical Society, Pennington, NJ (1984).
+
+15. J. R. GALvELE, J. Electrochem. Soc. 123, 464 (1976).
+
+16. S. SzKLARsKA-SmIALowsKA, Proceedings of the 7th International Congress on Metallic Corrosion, Rio de Janeiro 1978 (1980).
+
+17. D. E. WiLLIAMs, C. WESTCorT and M. FLEIsCHMANN, Passivity of Metals and Semiconductors (ed. M FromENT), p. 217. Elsevier, Amsterdam (1983).
+
+18. P. MARCus and J. OuDAR, Appl. Surf. Sci. 3, 48 (1979).
+
+19. R. C. NEwMAN and E. M. FRANz, J. Electrochem. Soc. 131, 223 (1984).
+
+20. N. PessALL and C. LIU, Electrochim. Acta 16, 1987 (1971).

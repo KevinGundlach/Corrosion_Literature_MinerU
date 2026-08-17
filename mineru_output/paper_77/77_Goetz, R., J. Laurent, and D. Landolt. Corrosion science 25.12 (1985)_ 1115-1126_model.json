@@ -1,0 +1,5436 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9493,
+                "bbox": [
+                    118,
+                    123,
+                    601,
+                    174
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9345,
+                "bbox": [
+                    895,
+                    121,
+                    1128,
+                    171
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9759,
+                "bbox": [
+                    142,
+                    319,
+                    1104,
+                    424
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9222,
+                "bbox": [
+                    374,
+                    459,
+                    876,
+                    491
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9317,
+                "bbox": [
+                    164,
+                    518,
+                    1081,
+                    548
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9815,
+                "bbox": [
+                    117,
+                    593,
+                    1129,
+                    793
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4771,
+                "bbox": [
+                    324,
+                    732,
+                    501,
+                    760
+                ],
+                "index": 7,
+                "latex": "\\mathbf { V } / ( \\mathbf { F e } + \\mathbf { C r } + \\mathbf { V } )"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.938,
+                "bbox": [
+                    511,
+                    822,
+                    736,
+                    850
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863,
+                "bbox": [
+                    116,
+                    856,
+                    1129,
+                    1022
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.989,
+                "bbox": [
+                    115,
+                    1023,
+                    1130,
+                    1556
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    115,
+                    1555,
+                    1129,
+                    1655
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5971,
+                "bbox": [
+                    154,
+                    1688,
+                    490,
+                    1718
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9002,
+                "bbox": [
+                    612,
+                    1721,
+                    663,
+                    1747
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    127,
+                    597,
+                    149
+                ],
+                "score": 0.993,
+                "text": "Corrosion Science, Vol. 25, No. 12, pp. 1115–1126, 1985"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    151,
+                    325,
+                    170
+                ],
+                "score": 0.996,
+                "text": "Printed in Great Britain"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    899,
+                    124,
+                    1123,
+                    144
+                ],
+                "score": 0.971,
+                "text": "0010-938X/85 $3.00 +0.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    945,
+                    149,
+                    1122,
+                    168
+                ],
+                "score": 1.0,
+                "text": "Pergamon Press Ltd."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    326,
+                    1103,
+                    361
+                ],
+                "score": 0.997,
+                "text": "THE INFLUENCE OF MINOR ALLOYING ELEMENTS ON"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    360,
+                    1099,
+                    392
+                ],
+                "score": 0.993,
+                "text": "THE PASSIVATION BEHAVIOUR OF IRON-CHROMIUM"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    490,
+                    394,
+                    759,
+                    426
+                ],
+                "score": 0.981,
+                "text": "ALLOYS IN HCI"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    377,
+                    461,
+                    871,
+                    489
+                ],
+                "score": 0.91,
+                "text": "R. GoETz, J. LAURENT and D. LANDOLT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    521,
+                    1077,
+                    544
+                ],
+                "score": 0.998,
+                "text": "Materials Department, Swiss Federal Institute of Technology, Lausanne, Switzerland CH 1007"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    596,
+                    1125,
+                    619
+                ],
+                "score": 0.992,
+                "text": "Abstract—The influence on the polarization behaviour in 1 M HCl of different alloying elements added in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    624,
+                    1125,
+                    647
+                ],
+                "score": 0.97,
+                "text": "equal atomic concentration to ferritic Fe-13Cr-X and Fe-24Cr–X (X = 6 at.% of Mo, W, V or Si) is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    652,
+                    1123,
+                    675
+                ],
+                "score": 0.995,
+                "text": "investigated using rotating disk electrodes. The presence of these additional elements facilitates passiva-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    680,
+                    1125,
+                    704
+                ],
+                "score": 0.996,
+                "text": "tion and increases the resistance to pitting of the alloys but there is no correlation between their relative"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    707,
+                    1125,
+                    731
+                ],
+                "score": 0.989,
+                "text": "effect on passivation current density and on pitting potential. AES depth profiling of Fe-24Cr-6V alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    735,
+                    321,
+                    759
+                ],
+                "score": 0.973,
+                "text": "shows that the ratio"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    505,
+                    735,
+                    1125,
+                    759
+                ],
+                "score": 0.994,
+                "text": "at the surface is lower on samples polarized in the high passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    763,
+                    682,
+                    787
+                ],
+                "score": 0.995,
+                "text": "potential region than on a cathodically polarized standard."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    514,
+                    827,
+                    730,
+                    857
+                ],
+                "score": 1.0,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    857,
+                    1123,
+                    888
+                ],
+                "score": 0.973,
+                "text": "ThE coRrosion resistance of stainless steels is intimately related to their passivation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    893,
+                    1125,
+                    921
+                ],
+                "score": 0.994,
+                "text": "behaviour. Generally, the higher the chromium content the more passivation is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    922,
+                    1125,
+                    956
+                ],
+                "score": 0.987,
+                "text": "facilitated and chemical stability improved.1,2 Other elements are usually added to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    960,
+                    1125,
+                    988
+                ],
+                "score": 0.992,
+                "text": "modify the structure and mechanical properties of the alloys and/or to increase"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    995,
+                    372,
+                    1020
+                ],
+                "score": 1.0,
+                "text": "corrosion resistance."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1023,
+                    1124,
+                    1053
+                ],
+                "score": 0.99,
+                "text": "The most common alloying element is nickel which is an austenite former.³ In"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1059,
+                    1123,
+                    1087
+                ],
+                "score": 0.992,
+                "text": "certain environments the presence of nickel may have a beneficial effect on corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1093,
+                    1124,
+                    1121
+                ],
+                "score": 0.996,
+                "text": "behaviour. For example, in sulfuric acid solution it decreases the passivation current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1121,
+                    1125,
+                    1157
+                ],
+                "score": 0.996,
+                "text": "density and the current density in the passive state.4 On the other hand, nickel has"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1158,
+                    1124,
+                    1187
+                ],
+                "score": 0.989,
+                "text": "hardly any influence on the value of the pitting potential in chloride media.2,7 The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1189,
+                    1124,
+                    1222
+                ],
+                "score": 0.989,
+                "text": "beneficial effect of molybdenum in increasing the resistance of stainless steels to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1223,
+                    1123,
+                    1255
+                ],
+                "score": 0.994,
+                "text": "pitting corrosion has been known for many years8,9 but is not yet sufficiently"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1255,
+                    1124,
+                    1288
+                ],
+                "score": 0.983,
+                "text": "understood.10,11 Tungsten has been reported to improve resistance to pitting corro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1285,
+                    1125,
+                    1322
+                ],
+                "score": 0.998,
+                "text": "sion of both ferritic and austenitic alloys.8,9,12,13 In austenitic stainless steels silicon as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1322,
+                    1123,
+                    1355
+                ],
+                "score": 0.992,
+                "text": "well as vanadium have been found to increase the value of the pitting potential.12 On"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1357,
+                    1124,
+                    1388
+                ],
+                "score": 0.988,
+                "text": "the other hand, manganese, due to sulfide formation, promotes pitting.14 Other"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1385,
+                    1125,
+                    1422
+                ],
+                "score": 0.995,
+                "text": "metallic elements studied include copper5,15,16 and rhenium.12,17 Carbide forming"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1424,
+                    1123,
+                    1452
+                ],
+                "score": 0.991,
+                "text": "elements such as titanium, niobium and tantalum are frequently added in small"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1458,
+                    1123,
+                    1486
+                ],
+                "score": 0.998,
+                "text": "concentrations to austenitic stainless steels to reduce their susceptibility to inter-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1486,
+                    1127,
+                    1521
+                ],
+                "score": 0.998,
+                "text": "granular corrosion.5,18 According to Tomashov et al.12 titanium increases and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1525,
+                    895,
+                    1552
+                ],
+                "score": 0.998,
+                "text": "niobium and tantalum decrease the value of the pitting potential."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1555,
+                    1122,
+                    1586
+                ],
+                "score": 0.999,
+                "text": "In our laboratory the reaction mechanism by which molybdenum improves the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1590,
+                    1121,
+                    1619
+                ],
+                "score": 0.992,
+                "text": "corrosion resistance of iron-chromium alloys in chloride media is being studied by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1615,
+                    1126,
+                    1653
+                ],
+                "score": 0.99,
+                "text": "electrochemical and surface analytical techniques.10,11,13,19,20 In this context it was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1692,
+                    486,
+                    1715
+                ],
+                "score": 1.0,
+                "text": "Manuscript received 17 May 1985."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    613,
+                    1722,
+                    662,
+                    1749
+                ],
+                "score": 1.0,
+                "text": "1115"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9073,
+                "bbox": [
+                    64,
+                    122,
+                    116,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9388,
+                "bbox": [
+                    370,
+                    120,
+                    762,
+                    152
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9308,
+                "bbox": [
+                    313,
+                    586,
+                    340,
+                    1303
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9774,
+                "bbox": [
+                    348,
+                    234,
+                    713,
+                    1651
+                ],
+                "index": 4,
+                "html": "<table><tr><td>Alloys</td><td>Cr</td><td>Mo</td><td>W</td><td>Si</td><td>V</td><td>Mn</td><td>C</td><td>S</td><td>0</td></tr><tr><td>Fe-13Cr</td><td>12.8(13.6)</td><td>&lt;0.001</td><td>一</td><td>0.033</td><td></td><td>&lt;0.001</td><td>0.0032</td><td>0.0040</td><td>0.0407</td></tr><tr><td>Fe-24Cr</td><td>24.3(25.6)</td><td>0.064</td><td></td><td>0.043</td><td></td><td>0.002</td><td>0.0033</td><td>0.0060</td><td>0.1099</td></tr><tr><td>Fe-12Cr-11Mo</td><td>12.2(13.6)</td><td>11.0(6.6)</td><td>0.02</td><td></td><td></td><td></td><td>0.0060</td><td>0.0090</td><td>0.0540</td></tr><tr><td>Fe-24Cr-11Mo</td><td>24.3(26.8)</td><td>10.9(6.5)</td><td>0.015</td><td></td><td></td><td>0.12</td><td>0.0090</td><td>0.0050</td><td>0.0450</td></tr><tr><td>Fe-14Cr-18W</td><td>13.9(16.9)</td><td></td><td>18.5(6.4)</td><td>0.031</td><td></td><td></td><td>&lt;0.0020</td><td>&lt;0.0020</td><td>&lt;0.0250</td></tr><tr><td>Fe-21Cr-13W</td><td>21.0(24.4)</td><td>0.07</td><td>13.1(4.3)</td><td>0.05</td><td></td><td>0.06</td><td>0.0070</td><td></td><td></td></tr><tr><td>Fe-13Cr-3Si</td><td>13.3(15.3)</td><td></td><td></td><td>3.0(6.3)</td><td></td><td>0.10</td><td>0.0100</td><td>0.0060</td><td>&lt;0.0020</td></tr><tr><td>Fe-27Cr-2.5Si</td><td>26.8(27.6)</td><td></td><td></td><td>2.4(4.6)</td><td></td><td>0.08</td><td>0.0050</td><td>0.0080</td><td>0.0190</td></tr><tr><td>Fe-14Cr-6V</td><td>13.9(14.7)</td><td></td><td></td><td>0.03</td><td>6.4(6.9)</td><td>0.02</td><td>0.0040</td><td>0.0060</td><td>0.0360</td></tr><tr><td>Fe-26Cr-6V</td><td>26.3(27.6)</td><td></td><td></td><td>0.04</td><td>5.8(6.2)</td><td>0.12</td><td>0.0070</td><td>0.0090</td><td>0.0550</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9167,
+                "bbox": [
+                    725,
+                    994,
+                    759,
+                    1617
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    125,
+                    115,
+                    151
+                ],
+                "score": 1.0,
+                "text": "1116"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    373,
+                    125,
+                    757,
+                    148
+                ],
+                "score": 0.976,
+                "text": "R. GOETZ, J. LAURENT and D. LANDOUT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    314,
+                    591,
+                    337,
+                    1299
+                ],
+                "score": 0.605,
+                "text": "TOA  S :      SSES SES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    724,
+                    998,
+                    752,
+                    1612
+                ],
+                "score": 0.614,
+                "text": "Anetn n l    iann."
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9469,
+                "bbox": [
+                    340,
+                    124,
+                    910,
+                    153
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8951,
+                "bbox": [
+                    1081,
+                    122,
+                    1131,
+                    147
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    118,
+                    189,
+                    1135,
+                    462
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9427,
+                "bbox": [
+                    452,
+                    491,
+                    805,
+                    520
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    119,
+                    524,
+                    1134,
+                    694
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5351,
+                "bbox": [
+                    716,
+                    693,
+                    791,
+                    721
+                ],
+                "index": 6,
+                "latex": "0 . 1 \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.983,
+                "bbox": [
+                    116,
+                    694,
+                    1128,
+                    779
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    116,
+                    779,
+                    1128,
+                    889
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9813,
+                "bbox": [
+                    117,
+                    890,
+                    1128,
+                    973
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863,
+                "bbox": [
+                    116,
+                    974,
+                    1129,
+                    1112
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4761,
+                "bbox": [
+                    629,
+                    1056,
+                    736,
+                    1083
+                ],
+                "index": 11,
+                "latex": "1 \\ \\mathsf { K e V } \\ \\mathsf { K } \\mathsf { r } ^ { + }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8766,
+                "bbox": [
+                    831,
+                    1028,
+                    985,
+                    1056
+                ],
+                "index": 12,
+                "latex": "1 7 3 \\times 1 5 4 \\ : \\mu \\mathrm { m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5647,
+                "bbox": [
+                    825,
+                    1057,
+                    858,
+                    1083
+                ],
+                "index": 13,
+                "latex": "4 3 ^ { \\circ }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6066,
+                "bbox": [
+                    994,
+                    1057,
+                    1118,
+                    1084
+                ],
+                "index": 14,
+                "latex": "1 . 5 \\times 2 ~ \\mathrm { { m m ^ { 2 } } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4626,
+                "bbox": [
+                    182,
+                    1140,
+                    363,
+                    1167
+                ],
+                "index": 15,
+                "latex": "\\mathrm { a t } - 3 0 0 \\mathrm { m } \\mathrm { V } ( \\mathrm { S H E } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782,
+                "bbox": [
+                    116,
+                    1113,
+                    1128,
+                    1196
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4782,
+                "bbox": [
+                    550,
+                    1140,
+                    705,
+                    1168
+                ],
+                "index": 17,
+                "latex": "+ 2 0 0 \\mathrm { m V } ( \\mathrm { S H E } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9774,
+                "bbox": [
+                    116,
+                    1196,
+                    1128,
+                    1282
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9362,
+                "bbox": [
+                    446,
+                    1313,
+                    801,
+                    1343
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8349,
+                "bbox": [
+                    119,
+                    1363,
+                    358,
+                    1393
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    115,
+                    1396,
+                    1128,
+                    1594
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7514,
+                "bbox": [
+                    766,
+                    1562,
+                    830,
+                    1592
+                ],
+                "index": 22,
+                "latex": "\\mathbf { W O } _ { 3 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    115,
+                    1594,
+                    1128,
+                    1728
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    343,
+                    127,
+                    907,
+                    149
+                ],
+                "score": 0.966,
+                "text": "The passivation bebaviour of iron-ehromium alloys in HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1081,
+                    123,
+                    1130,
+                    148
+                ],
+                "score": 1.0,
+                "text": "1117"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    191,
+                    1130,
+                    218
+                ],
+                "score": 0.999,
+                "text": "considered of interest to compare the effect of alloyed molybdenum with that of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    225,
+                    1129,
+                    252
+                ],
+                "score": 0.999,
+                "text": "other metals such as tungsten, vanadium and silicon that might exhibit similar"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    259,
+                    1129,
+                    288
+                ],
+                "score": 0.997,
+                "text": "behaviour. For that purpose, these elements were alloyed to binary Fe-Cr alloys in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    295,
+                    1129,
+                    320
+                ],
+                "score": 0.994,
+                "text": "equal and relatively high atomic concentration. A comparison of the effect of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    327,
+                    1129,
+                    356
+                ],
+                "score": 0.988,
+                "text": "different alloying elements must be done based on equal value of atomic rather than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    360,
+                    1129,
+                    390
+                ],
+                "score": 0.999,
+                "text": "weight percent because large density differences between different alloying elements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    395,
+                    1128,
+                    422
+                ],
+                "score": 0.998,
+                "text": "may otherwise lead to wrong conclusions. The use of a relatively high concentration"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    429,
+                    1119,
+                    454
+                ],
+                "score": 0.989,
+                "text": "is indicated to improve the signal to noise ratio of surface analytical measurements."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    458,
+                    497,
+                    797,
+                    521
+                ],
+                "score": 0.995,
+                "text": "EXPERIMENTAL METHOD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    160,
+                    527,
+                    1128,
+                    550
+                ],
+                "score": 0.993,
+                "text": "The chemical composition of the alloys used is given in Table 1. The binary Fe-Cr alloys were furnished"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    555,
+                    1129,
+                    579
+                ],
+                "score": 0.996,
+                "text": "by Climax Molybdenum. They were subsequently hot forged. The other alloys were prepared in our"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    584,
+                    1128,
+                    607
+                ],
+                "score": 0.998,
+                "text": "laboratory by alloying to the original Fe-Cr alloys the elements Mo, W, V or Si using a vacuum induction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    611,
+                    1128,
+                    634
+                ],
+                "score": 0.997,
+                "text": "furnace under an argon atmosphere. The alloy homogeneity was checked by microprobe analysis and was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    639,
+                    1127,
+                    662
+                ],
+                "score": 0.995,
+                "text": "found to be good. The metallographic examination revealed the presence of a few oxide inclusions in an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    668,
+                    593,
+                    689
+                ],
+                "score": 0.992,
+                "text": "otherwise apparently single phase ferritic matrix."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    696,
+                    715,
+                    720
+                ],
+                "score": 0.998,
+                "text": "All studies were carried out with rotating disk electrodes of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    698,
+                    1121,
+                    718
+                ],
+                "score": 0.999,
+                "text": "(diameter 0.357 cm) insulated with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    724,
+                    1124,
+                    748
+                ],
+                "score": 0.983,
+                "text": "a PTFE shrinkable tubing. Experiments were performed at 6000 rpm (in part at 600 rpm) in 1 M HCl at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    755,
+                    1024,
+                    775
+                ],
+                "score": 0.992,
+                "text": "25°C under a nitrogen atmosphere. A Ag/AgCl reference electrode in saturated KCl was used."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    780,
+                    1125,
+                    804
+                ],
+                "score": 0.998,
+                "text": "A potentiostat (Amel 549 or 551) driven by a potential step motor unit (Wenking SMP 72) was used to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    810,
+                    1124,
+                    831
+                ],
+                "score": 0.982,
+                "text": "determine polarization curves. The potential was increased in steps of 20 mV 400 s⁻ '. The current was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    839,
+                    1121,
+                    858
+                ],
+                "score": 0.993,
+                "text": "monitored on a X-t recorder. Measured pseudo steady state values were digitized and evaluated on an HP"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    865,
+                    290,
+                    889
+                ],
+                "score": 1.0,
+                "text": "9845B computer."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    891,
+                    1124,
+                    917
+                ],
+                "score": 0.997,
+                "text": "Pretreatment of the electrodes included grinding with emery paper and polishing with alumina powder"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    921,
+                    1124,
+                    944
+                ],
+                "score": 0.986,
+                "text": "in water to 1/4 μm finish. They were rinsed and cathodically prepolarized in the working electrolyte at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    950,
+                    388,
+                    969
+                ],
+                "score": 0.964,
+                "text": "-700 mV(SHE) for 10 min."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    977,
+                    1123,
+                    998
+                ],
+                "score": 0.986,
+                "text": "Auger depth profile analysis of vanadium-containing alloys was carried out with a PHI 590 A scanning"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1006,
+                    1123,
+                    1027
+                ],
+                "score": 0.995,
+                "text": "Auger apparatus including CMA, differentially pumped ion gun and fast interlock for sample introduc-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1033,
+                    828,
+                    1054
+                ],
+                "score": 0.99,
+                "text": "tion. The electron beam (3 keV, 100 nA) was scanned over an area of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    986,
+                    1031,
+                    1125,
+                    1055
+                ],
+                "score": 1.0,
+                "text": "The angle of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1063,
+                    625,
+                    1080
+                ],
+                "score": 0.994,
+                "text": "incidence was 30°. Sputtering was performed with a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    740,
+                    1060,
+                    824,
+                    1081
+                ],
+                "score": 1.0,
+                "text": "beam at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    859,
+                    1062,
+                    990,
+                    1083
+                ],
+                "score": 0.996,
+                "text": "scanned over"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1089,
+                    381,
+                    1110
+                ],
+                "score": 0.986,
+                "text": "CMA modulation was 3 V."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1114,
+                    1122,
+                    1138
+                ],
+                "score": 0.996,
+                "text": "The electrodes to be analysed after cathodic prepolarization were held at a constant potential in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1143,
+                    181,
+                    1167
+                ],
+                "score": 1.0,
+                "text": "active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    364,
+                    1143,
+                    547,
+                    1167
+                ],
+                "score": 0.997,
+                "text": ", the low passive at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    709,
+                    1144,
+                    1124,
+                    1167
+                ],
+                "score": 0.99,
+                "text": "or the high passive potential region at +950"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1173,
+                    357,
+                    1196
+                ],
+                "score": 0.999,
+                "text": "mV(SHE), respectively."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1198,
+                    1122,
+                    1223
+                ],
+                "score": 0.996,
+                "text": "The charge passed was measured with a digital integrator (Amel 731). At the end of an experiment the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1226,
+                    1124,
+                    1251
+                ],
+                "score": 0.995,
+                "text": "electrodes were removed from the electrolyte without switching off the potentiostat. They were rinsed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1253,
+                    1120,
+                    1279
+                ],
+                "score": 0.996,
+                "text": "with distilled water and stored in a desiccator before being introduced into the UHV apparatus for analysis."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    451,
+                    1319,
+                    795,
+                    1342
+                ],
+                "score": 0.999,
+                "text": "EXPERIMENTAL RESULTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1365,
+                    352,
+                    1393
+                ],
+                "score": 1.0,
+                "text": "Polarization curves"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    1397,
+                    1121,
+                    1426
+                ],
+                "score": 0.991,
+                "text": "Anodic polarization curves of Cr, Mo, W and V in 1 M HCl are shown in Fig. 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1430,
+                    1124,
+                    1459
+                ],
+                "score": 0.989,
+                "text": "Only Cr exhibits a measurable active-passive transition, the other elements are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1465,
+                    1123,
+                    1491
+                ],
+                "score": 1.0,
+                "text": "spontaneously passive or cannot be activated. Uniform transpassive dissolution of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1497,
+                    1124,
+                    1525
+                ],
+                "score": 0.994,
+                "text": "Mo and V sets in at potentials of approx. 550 mV(SHE), and of Cr at approx. 1250"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1530,
+                    1124,
+                    1559
+                ],
+                "score": 0.999,
+                "text": "mV(SHE). Tungsten exhibits a very low anodic current density up to potentials of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1564,
+                    765,
+                    1590
+                ],
+                "score": 0.995,
+                "text": "several volts. This is attributed to the low solubility of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1563,
+                    925,
+                    1590
+                ],
+                "score": 0.981,
+                "text": "in HCl."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1594,
+                    1121,
+                    1624
+                ],
+                "score": 0.985,
+                "text": "The data of Fig. 2 were obtained with Fe–13Cr and its alloys with approx. 6 at.%"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1627,
+                    1122,
+                    1657
+                ],
+                "score": 0.994,
+                "text": "of either Mo, W, V or Si. The binary alloy in 1 M HCl undergoes uniform active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1660,
+                    1124,
+                    1690
+                ],
+                "score": 0.996,
+                "text": "dissolution but the addition of the three elements leads to polarization curves with a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1694,
+                    1124,
+                    1722
+                ],
+                "score": 0.999,
+                "text": "typical active-passive transition. The passivation potential of the Mo- and W-"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8963,
+                "bbox": [
+                    150,
+                    121,
+                    203,
+                    148
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9368,
+                "bbox": [
+                    452,
+                    121,
+                    853,
+                    151
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9846,
+                "bbox": [
+                    245,
+                    184,
+                    1078,
+                    803
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9423,
+                "bbox": [
+                    278,
+                    826,
+                    987,
+                    858
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9841,
+                "bbox": [
+                    250,
+                    986,
+                    1084,
+                    1600
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9638,
+                "bbox": [
+                    226,
+                    1624,
+                    1099,
+                    1683
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    120,
+                    202,
+                    153
+                ],
+                "score": 1.0,
+                "text": "1118"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    454,
+                    124,
+                    848,
+                    149
+                ],
+                "score": 0.9,
+                "text": "R. GOETZ, J. LAURENT and D. LANDOLT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    285,
+                    830,
+                    982,
+                    853
+                ],
+                "score": 0.982,
+                "text": "FiG. 1. Polarization curves of Cr, Mo, W and V in 1 M HCl at 6000 rpm."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    1630,
+                    1094,
+                    1653
+                ],
+                "score": 0.973,
+                "text": "FiG. 2. Polarization curves of Fe–13Cr and Fe–13Cr–X alloys (X = 6 at.% Mo, W, V, Si)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    1656,
+                    776,
+                    1681
+                ],
+                "score": 1.0,
+                "text": "in 1M HCl at 6000 rpm."
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9429,
+                "bbox": [
+                    342,
+                    122,
+                    914,
+                    154
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.897,
+                "bbox": [
+                    1084,
+                    126,
+                    1135,
+                    153
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9853,
+                "bbox": [
+                    225,
+                    182,
+                    1064,
+                    808
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.964,
+                "bbox": [
+                    204,
+                    834,
+                    1081,
+                    896
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986,
+                "bbox": [
+                    110,
+                    951,
+                    1126,
+                    1120
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6174,
+                "bbox": [
+                    596,
+                    1021,
+                    822,
+                    1053
+                ],
+                "index": 6,
+                "latex": "\\mathbf { W } < \\mathbf { S i } < \\mathbf { V } < \\mathbf { M o }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    109,
+                    1119,
+                    1125,
+                    1388
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    107,
+                    1388,
+                    1122,
+                    1496
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9358,
+                "bbox": [
+                    107,
+                    1518,
+                    312,
+                    1552
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9816,
+                "bbox": [
+                    105,
+                    1555,
+                    1121,
+                    1691
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5829,
+                "bbox": [
+                    933,
+                    1560,
+                    1024,
+                    1593
+                ],
+                "index": 11,
+                "latex": "{ \\bf M o } ^ { 1 0 , 1 1 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5147,
+                "bbox": [
+                    1065,
+                    1560,
+                    1116,
+                    1592
+                ],
+                "index": 12,
+                "latex": "\\mathbf { W } ^ { 1 3 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    346,
+                    124,
+                    910,
+                    151
+                ],
+                "score": 0.993,
+                "text": "The passivation behaviour of iron-chromium alloys in HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1084,
+                    128,
+                    1134,
+                    154
+                ],
+                "score": 1.0,
+                "text": "1119"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    525,
+                    867,
+                    759,
+                    896
+                ],
+                "score": 0.999,
+                "text": "in 1M HCl at 6000 rpm."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    840,
+                    1078,
+                    865
+                ],
+                "score": 0.972,
+                "text": "FiG. 3. Polarization curves of Fe–24Cr and Fe–24Cr-X alloys (X = 6 at. % Mo, W, V, Si)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1019,
+                    594,
+                    1051
+                ],
+                "score": 0.998,
+                "text": "pitting potential increasing in the order"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1085,
+                    447,
+                    1118
+                ],
+                "score": 1.0,
+                "text": "passivation current density."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    954,
+                    1123,
+                    987
+                ],
+                "score": 0.991,
+                "text": "containing alloys is approx. 30 mV higher than that of the Si- and V-containing alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    990,
+                    1120,
+                    1019
+                ],
+                "score": 0.994,
+                "text": "while the passivation current density is lower. All alloys exhibit pitting with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    1028,
+                    1120,
+                    1057
+                ],
+                "score": 0.987,
+                "text": ". The order of the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1055,
+                    1120,
+                    1088
+                ],
+                "score": 0.99,
+                "text": "potentials of the different alloys is independent of the relative magnitude of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1351,
+                    379,
+                    1386
+                ],
+                "score": 0.981,
+                "text": "binary Fe–24Cr alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    157,
+                    1122,
+                    1121,
+                    1154
+                ],
+                "score": 0.991,
+                "text": "The binary Fe-24Cr alloy exhibits passivation and pitting (Fig. 3). Adding"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1155,
+                    1119,
+                    1187
+                ],
+                "score": 0.992,
+                "text": "approx. 6 at.% of Mo, W or V lowers the passivation current density, the effect of V"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1189,
+                    1119,
+                    1221
+                ],
+                "score": 0.994,
+                "text": "being less pronounced than that of W and Mo. No pitting occurs with these alloys, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1223,
+                    1117,
+                    1255
+                ],
+                "score": 0.998,
+                "text": "range of stable passivity extending up to the potential of transpassive Cr dissolution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1257,
+                    1119,
+                    1289
+                ],
+                "score": 0.994,
+                "text": "Alloying with Si leads to a similar transpassive behaviour but in the active and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1291,
+                    1119,
+                    1322
+                ],
+                "score": 0.998,
+                "text": "beginning passive potential region measured currents are substantially higher than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1325,
+                    1118,
+                    1356
+                ],
+                "score": 0.994,
+                "text": "with the other alloys and the passivation current density exceeds even that of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1393,
+                    1116,
+                    1423
+                ],
+                "score": 0.985,
+                "text": "The results of Figs 2 and 3 show that the effect of the alloying elements on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1425,
+                    1116,
+                    1455
+                ],
+                "score": 0.999,
+                "text": "passivation current density depends on chromium content. There is no correlation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1459,
+                    1054,
+                    1489
+                ],
+                "score": 0.999,
+                "text": "between their influence on passivation current density and on pitting potential."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    1518,
+                    306,
+                    1554
+                ],
+                "score": 0.974,
+                "text": "Surface analysis"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1028,
+                    1568,
+                    1062,
+                    1593
+                ],
+                "score": 1.0,
+                "text": "or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1556,
+                    929,
+                    1589
+                ],
+                "score": 0.992,
+                "text": "Previous surface analysis studies on Fe-24Cr alloys containing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    1592,
+                    1115,
+                    1622
+                ],
+                "score": 0.994,
+                "text": "showed that these two metals are enriched at the surface in the active and beginning"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1624,
+                    1113,
+                    1655
+                ],
+                "score": 0.996,
+                "text": "passive region. They are depleted at potentials higher than the transpassive dissolu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    1655,
+                    753,
+                    1685
+                ],
+                "score": 1.0,
+                "text": "tion potential of the respective pure alloying element."
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8877,
+                "bbox": [
+                    122,
+                    121,
+                    174,
+                    147
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9359,
+                "bbox": [
+                    423,
+                    120,
+                    822,
+                    149
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6074,
+                "bbox": [
+                    492,
+                    182,
+                    660,
+                    215
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9764,
+                "bbox": [
+                    188,
+                    196,
+                    1074,
+                    991
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9426,
+                "bbox": [
+                    232,
+                    1017,
+                    1006,
+                    1050
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    115,
+                    1126,
+                    1126,
+                    1362
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863,
+                "bbox": [
+                    115,
+                    1360,
+                    1125,
+                    1527
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    115,
+                    1525,
+                    1127,
+                    1728
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    123,
+                    172,
+                    149
+                ],
+                "score": 1.0,
+                "text": "1120"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    427,
+                    123,
+                    817,
+                    146
+                ],
+                "score": 0.764,
+                "text": "R Go11/, J. L AU RFNt and D. LANDOU"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    496,
+                    187,
+                    655,
+                    215
+                ],
+                "score": 0.997,
+                "text": "AES SURVEY"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    1022,
+                    1003,
+                    1046
+                ],
+                "score": 0.97,
+                "text": "FtG. 4a. Auger survey speetra of Fe-27Cr–6V alloy after cathodie polarization."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1130,
+                    1120,
+                    1156
+                ],
+                "score": 0.982,
+                "text": "The AES depth profile analysis of Si in oxide films on Si bearing Fe-Cr alloys is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1164,
+                    1120,
+                    1190
+                ],
+                "score": 0.999,
+                "text": "delicate because the main peak at the higher energy (1619 or 1606 eV for oxide and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1197,
+                    1120,
+                    1224
+                ],
+                "score": 0.993,
+                "text": "metal respectively) has a low sensitivity (0.07 relative to Cr 529 eV at 3 modulation)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1231,
+                    1120,
+                    1258
+                ],
+                "score": 1.0,
+                "text": "while the low energy peak (92 or 76 eV for oxide and metal respectively) interferes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1265,
+                    1120,
+                    1291
+                ],
+                "score": 0.989,
+                "text": "with the Fe 86 eV peak. The important chemical shift between oxide and metal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1299,
+                    1120,
+                    1323
+                ],
+                "score": 0.99,
+                "text": "introduces further uncertainties if multiplexing is used for depth profile analysis. For"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1333,
+                    931,
+                    1358
+                ],
+                "score": 0.998,
+                "text": "these reasons only the V-containing alloys were analysed with AES."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1362,
+                    1119,
+                    1393
+                ],
+                "score": 0.987,
+                "text": "Typical AES spectra of Fe-26Cr-6V samples cathodically and anodically {high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1397,
+                    1119,
+                    1426
+                ],
+                "score": 0.996,
+                "text": "passive region, 950 mV(SHE)] polarized, respectively, are shown in Fig. 4. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1433,
+                    1119,
+                    1457
+                ],
+                "score": 0.998,
+                "text": "spectrum of the cathodically polarized sample exhibits a small V peak at 437 eV (the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1464,
+                    1119,
+                    1491
+                ],
+                "score": 0.99,
+                "text": "other V peaks interfere with peaks of other elements) which is apparently absent on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1497,
+                    586,
+                    1523
+                ],
+                "score": 1.0,
+                "text": "the sample polarized at 950 mV(SHE)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    161,
+                    1527,
+                    1120,
+                    1557
+                ],
+                "score": 0.993,
+                "text": "Under the applied conditions for depth profiling, the signal to noise ratio for V"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1563,
+                    1119,
+                    1586
+                ],
+                "score": 0.996,
+                "text": "was relatively unfavourable. These conditions were chosen as a compromise of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1596,
+                    1119,
+                    1621
+                ],
+                "score": 0.997,
+                "text": "following requirements: small current-density and beam voltage to reduce primary"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1628,
+                    1120,
+                    1654
+                ],
+                "score": 0.999,
+                "text": "beam damage, slow sputter rate, not too many repetitions per energy window, small"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1661,
+                    1120,
+                    1687
+                ],
+                "score": 0.997,
+                "text": "energy windows and a relatively short integration (rest) time per energy point (digital"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1694,
+                    1121,
+                    1718
+                ],
+                "score": 0.987,
+                "text": "control) in order to get a sufficient number of points within the film. The spectrum of"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9359,
+                "bbox": [
+                    341,
+                    120,
+                    911,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8838,
+                "bbox": [
+                    1078,
+                    121,
+                    1128,
+                    148
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9837,
+                "bbox": [
+                    178,
+                    191,
+                    1061,
+                    991
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9665,
+                "bbox": [
+                    178,
+                    1021,
+                    1057,
+                    1088
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    113,
+                    1125,
+                    1130,
+                    1693
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9433,
+                "bbox": [
+                    154,
+                    1692,
+                    1127,
+                    1728
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    345,
+                    125,
+                    906,
+                    146
+                ],
+                "score": 0.921,
+                "text": "fhe passivation behaviour of iron-ehromium allovs in HC1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1080,
+                    123,
+                    1126,
+                    149
+                ],
+                "score": 1.0,
+                "text": "1121"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    182,
+                    1024,
+                    1053,
+                    1051
+                ],
+                "score": 0.981,
+                "text": "FtG. 4b. Auger survey spectra of Fe–27Cr–6V after anodie polarization at 950 mV(SHE)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    445,
+                    1061,
+                    790,
+                    1085
+                ],
+                "score": 0.992,
+                "text": "(high passive potential region—ph)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1125,
+                    1125,
+                    1160
+                ],
+                "score": 0.976,
+                "text": "pure V shows four strong Auger peaks (31, 437, 473 and 509 eV)21 of which the peaks"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1161,
+                    1123,
+                    1192
+                ],
+                "score": 0.983,
+                "text": "at 31 and 509 eV had to be discarded due to interference with peaks of Fe, Cr and O."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1193,
+                    1127,
+                    1227
+                ],
+                "score": 0.994,
+                "text": "The strongest Auger peak at 473 eV interferes with the Cr 559 eV and with the O 468"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1227,
+                    1125,
+                    1262
+                ],
+                "score": 0.999,
+                "text": "eV peak. This leaves the peak at 437 eV to be used for analysis although it might be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1261,
+                    1124,
+                    1295
+                ],
+                "score": 0.984,
+                "text": "slightly influenced by a minor peak of Cr at 447 eV. The V shows itself a peak at 431"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1329,
+                    1124,
+                    1361
+                ],
+                "score": 0.985,
+                "text": "(ESAU' version 4 of PHI). Finally, a chemical shift of a few eV towards higher"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1361,
+                    1125,
+                    1396
+                ],
+                "score": 0.988,
+                "text": "energies was observed between oxidized and metallic V with the 437 eV peak. To"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1394,
+                    1125,
+                    1431
+                ],
+                "score": 0.999,
+                "text": "overcome these problems a lower modulation amplitude than for the Mo bearing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1427,
+                    1125,
+                    1464
+                ],
+                "score": 0.991,
+                "text": "alloys\" was employed (3 V) in order to increase the energy resolution. However, this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1462,
+                    1124,
+                    1496
+                ],
+                "score": 0.988,
+                "text": "does also generally decrease the peak heights. 'The energy interval for the V 437 eV"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1495,
+                    1123,
+                    1530
+                ],
+                "score": 0.994,
+                "text": "peak was swept twice to increase the signal to noise ratio. The most critical step, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1528,
+                    1123,
+                    1563
+                ],
+                "score": 0.98,
+                "text": "determination of the peak height, was finally ‘hand-evaluated': based on optimally"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1563,
+                    1124,
+                    1595
+                ],
+                "score": 0.99,
+                "text": "expanded graphic plots of the individual energy window of V which were stored for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1596,
+                    1125,
+                    1627
+                ],
+                "score": 0.999,
+                "text": "every cycle through the profile, the height of the V 437 eV peak was measured and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1628,
+                    1124,
+                    1661
+                ],
+                "score": 0.995,
+                "text": "numerically fed back to the computer with a special program. Thus it was possible to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1663,
+                    570,
+                    1690
+                ],
+                "score": 0.997,
+                "text": "separate the peaks at 431 and 437 eV."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1298,
+                    1124,
+                    1326
+                ],
+                "score": 0.993,
+                "text": "eV which is too close to be correctly separated with the applied acquisition program"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1694,
+                    1121,
+                    1726
+                ],
+                "score": 0.988,
+                "text": "Depth profiles were determined using Fe 703 eV, Cr 529 eV, V 437 eV, O 503 eV"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8961,
+                "bbox": [
+                    125,
+                    122,
+                    177,
+                    147
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9441,
+                "bbox": [
+                    427,
+                    121,
+                    829,
+                    150
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9861,
+                "bbox": [
+                    222,
+                    181,
+                    1057,
+                    805
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9659,
+                "bbox": [
+                    196,
+                    832,
+                    1071,
+                    893
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4712,
+                "bbox": [
+                    528,
+                    951,
+                    752,
+                    981
+                ],
+                "index": 5,
+                "latex": "\\mathbf { O } / ( \\mathbf { F e } + \\mathbf { C r } + \\mathbf { V } )"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    122,
+                    950,
+                    1132,
+                    1253
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9889,
+                "bbox": [
+                    121,
+                    1253,
+                    1132,
+                    1617
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.795,
+                "bbox": [
+                    696,
+                    1582,
+                    774,
+                    1614
+                ],
+                "index": 8,
+                "latex": "\\mathbf { T } \\mathbf { a } _ { 2 } \\mathbf { O } _ { 5 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9777,
+                "bbox": [
+                    116,
+                    1615,
+                    1125,
+                    1718
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.456,
+                "bbox": [
+                    655,
+                    1616,
+                    860,
+                    1646
+                ],
+                "index": 10,
+                "latex": "\\mathbf { C r / ( F e + C r + V ) }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.49,
+                "bbox": [
+                    913,
+                    1616,
+                    1109,
+                    1646
+                ],
+                "index": 11,
+                "latex": "\\mathbf { V } / ( \\mathbf { F e } + \\mathbf { C r } + \\mathbf { V } )"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    122,
+                    176,
+                    152
+                ],
+                "score": 1.0,
+                "text": "1122"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    430,
+                    121,
+                    824,
+                    149
+                ],
+                "score": 0.946,
+                "text": "R. GOETz, J. LAURENT and D. LANDOLT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    837,
+                    1066,
+                    860
+                ],
+                "score": 0.982,
+                "text": "FiG. 5. AES oxygen depth profiles of Fe-26Cr–6V alloys subjected to polarization in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    330,
+                    864,
+                    936,
+                    889
+                ],
+                "score": 0.996,
+                "text": "cathodic, active, low passive and high passive potential regions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    954,
+                    518,
+                    981
+                ],
+                "score": 0.998,
+                "text": "peaks. Figure 5 shows the ratio"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    759,
+                    953,
+                    1126,
+                    980
+                ],
+                "score": 0.984,
+                "text": "as a function of depth for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    987,
+                    1125,
+                    1014
+                ],
+                "score": 0.996,
+                "text": "cathodically polarized standard and for samples polarized anodically in the active,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    1018,
+                    1127,
+                    1050
+                ],
+                "score": 0.99,
+                "text": "low and high passive potential regions. There is little difference in the oxygen profile"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1055,
+                    1126,
+                    1082
+                ],
+                "score": 0.995,
+                "text": "between these samples indicating that the thickness of the surface film is approxi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1085,
+                    1129,
+                    1118
+                ],
+                "score": 0.998,
+                "text": "mately the same. The reason for this behaviour is surface oxidation taking place"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1122,
+                    1126,
+                    1150
+                ],
+                "score": 0.996,
+                "text": "during rinsing and sample transfer into the UHV system. Apparently, the thickness"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1155,
+                    1126,
+                    1183
+                ],
+                "score": 0.996,
+                "text": "of the surface oxide film formed spontaneously is of the same order as that of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1186,
+                    1126,
+                    1217
+                ],
+                "score": 0.993,
+                "text": "passive film resulting from anodic polarization. A similar behaviour has previously"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1218,
+                    589,
+                    1250
+                ],
+                "score": 0.976,
+                "text": "been observed for Fe-Cr-Mo alloys.\"1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    1255,
+                    1126,
+                    1283
+                ],
+                "score": 0.992,
+                "text": "In order to reduce the influence of possible sputter effects, in particular preferen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1289,
+                    1129,
+                    1317
+                ],
+                "score": 0.992,
+                "text": "tial sputtering of Fe and Cr with respect to V, all depth profiles were evaluated on a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1323,
+                    1126,
+                    1350
+                ],
+                "score": 0.998,
+                "text": "relative basis. For that purpose the profiles of cathodically polarized samples were"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1355,
+                    1126,
+                    1383
+                ],
+                "score": 0.996,
+                "text": "taken as reference and the difference between a profile measured on a sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1388,
+                    1126,
+                    1416
+                ],
+                "score": 1.0,
+                "text": "polarized at a given anodic potential and the reference was calculated numerically for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1421,
+                    1125,
+                    1449
+                ],
+                "score": 0.992,
+                "text": "each point and plotted as a function of depth. Thus, in the Figs 6 and 7 a positive value"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1454,
+                    1125,
+                    1483
+                ],
+                "score": 0.998,
+                "text": "indicates a relative enrichment compared to the cathodically polarized sample. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    1487,
+                    1125,
+                    1515
+                ],
+                "score": 0.992,
+                "text": "described procedure is applicable if the film thickness and the composition of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    1521,
+                    1125,
+                    1547
+                ],
+                "score": 0.987,
+                "text": "compared samples are not too different. For converting peak amplitudes into"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1551,
+                    1126,
+                    1580
+                ],
+                "score": 0.985,
+                "text": "concentration elemental sensitivity factors were employed.21 To convert the time"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    1586,
+                    695,
+                    1614
+                ],
+                "score": 0.998,
+                "text": "scale into a depth scale the mean sputter rate of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    775,
+                    1586,
+                    966,
+                    1611
+                ],
+                "score": 0.99,
+                "text": "on Ta was used."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1620,
+                    654,
+                    1645
+                ],
+                "score": 0.986,
+                "text": "Figures 6 and 7 show difference profiles of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    861,
+                    1614,
+                    912,
+                    1647
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1651,
+                    1120,
+                    1678
+                ],
+                "score": 0.996,
+                "text": "respectively, for different potentials. In the passive potential region Cr is enriched in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1683,
+                    1120,
+                    1712
+                ],
+                "score": 0.998,
+                "text": "the anodic film. With increasing potential this enrichment becomes more pro-"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9353,
+                "bbox": [
+                    312,
+                    125,
+                    883,
+                    157
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9007,
+                "bbox": [
+                    1050,
+                    121,
+                    1102,
+                    147
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.985,
+                "bbox": [
+                    172,
+                    191,
+                    1007,
+                    814
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9642,
+                "bbox": [
+                    155,
+                    841,
+                    1030,
+                    903
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9849,
+                "bbox": [
+                    174,
+                    1028,
+                    1013,
+                    1642
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9652,
+                "bbox": [
+                    148,
+                    1666,
+                    1024,
+                    1727
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    315,
+                    131,
+                    878,
+                    150
+                ],
+                "score": 0.992,
+                "text": "The passivation behaviour of iron-chromium alloys in HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1052,
+                    123,
+                    1100,
+                    149
+                ],
+                "score": 1.0,
+                "text": "1123"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    846,
+                    1027,
+                    869
+                ],
+                "score": 0.982,
+                "text": "FiG. 6. AES difference profiles of Cr for Fe-26Cr–6V alloys polarized anodically into the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    337,
+                    875,
+                    849,
+                    898
+                ],
+                "score": 0.997,
+                "text": "active, low passive and high passive potential regions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1671,
+                    1020,
+                    1693
+                ],
+                "score": 0.982,
+                "text": "FiG. 7. AES difference profiles of V for Fe-26Cr–6V alloys polarized anodically into the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    330,
+                    1700,
+                    842,
+                    1723
+                ],
+                "score": 0.999,
+                "text": "active, low passive and high passive potential regions."
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8871,
+                "bbox": [
+                    133,
+                    122,
+                    185,
+                    148
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9445,
+                "bbox": [
+                    434,
+                    123,
+                    835,
+                    153
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    122,
+                    190,
+                    1134,
+                    693
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9278,
+                "bbox": [
+                    536,
+                    723,
+                    716,
+                    752
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    119,
+                    758,
+                    1131,
+                    959
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    117,
+                    958,
+                    1129,
+                    1494
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873,
+                "bbox": [
+                    114,
+                    1493,
+                    1127,
+                    1728
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    122,
+                    184,
+                    152
+                ],
+                "score": 1.0,
+                "text": "1124"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    437,
+                    125,
+                    830,
+                    152
+                ],
+                "score": 0.981,
+                "text": "R. GOETZ, J. LAURENT and D. LANDOLT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    317,
+                    1130,
+                    358
+                ],
+                "score": 0.989,
+                "text": "behaviour of the Mo- and the W-containing alloys11.13 but it is consistent with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    354,
+                    1128,
+                    391
+                ],
+                "score": 0.996,
+                "text": "polarization data of Fig. 3 which show that Mo or W decrease the current-density in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    489,
+                    1127,
+                    525
+                ],
+                "score": 0.984,
+                "text": "region the outermost atomic layers of the oxide film are apparently depleted in V in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    522,
+                    1127,
+                    558
+                ],
+                "score": 0.997,
+                "text": "both the passive low [200 mV(SHE)] and passive high [950 mV(SHE)] potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    589,
+                    1127,
+                    625
+                ],
+                "score": 0.996,
+                "text": "cannot be explained by enrichment of the film with this element. In comparison, Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    657,
+                    348,
+                    685
+                ],
+                "score": 0.96,
+                "text": "on the potential.11"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    189,
+                    1132,
+                    222
+                ],
+                "score": 0.992,
+                "text": "nounced. The same behaviour has previously been observed on Mo-containing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    222,
+                    1131,
+                    253
+                ],
+                "score": 0.989,
+                "text": "alloys.\" Because of the unfavourable signal to noise ratio the V difference profiles"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    256,
+                    1128,
+                    289
+                ],
+                "score": 0.991,
+                "text": "are less certain. Active dissolution apparently does not lead to any substantial change"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    291,
+                    1127,
+                    320
+                ],
+                "score": 0.987,
+                "text": "in the V surface concentration with respect to the reference. This is different from the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    389,
+                    1128,
+                    422
+                ],
+                "score": 0.992,
+                "text": "the active potential region much more than V. In the case of Mo and W the inhibiting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    425,
+                    1127,
+                    454
+                ],
+                "score": 0.991,
+                "text": "effect for active dissolution results from accumulation of these elements at the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    455,
+                    1128,
+                    489
+                ],
+                "score": 0.975,
+                "text": "surface.\"1.13 It is therefore much less pronounced with V. In the passive potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    558,
+                    1126,
+                    590
+                ],
+                "score": 0.991,
+                "text": "regions. The beneficial action of the presence of V on pitting (Fig. 2), therefore,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    624,
+                    1126,
+                    657
+                ],
+                "score": 0.999,
+                "text": "under the same conditions may be enriched or depleted in the passive film depending"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    729,
+                    710,
+                    754
+                ],
+                "score": 0.998,
+                "text": "DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    756,
+                    1125,
+                    793
+                ],
+                "score": 0.998,
+                "text": "The purpose of the study was to compare the influence of the alloying elements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    893,
+                    1122,
+                    927
+                ],
+                "score": 0.989,
+                "text": "current density and on the pitting potential has been observed. Each phenomenon,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    924,
+                    624,
+                    957
+                ],
+                "score": 0.998,
+                "text": "therefore, should be discussed separately."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    793,
+                    1123,
+                    822
+                ],
+                "score": 0.995,
+                "text": "Mo, W, V and Si present in equal atomic concentration on passivation and passivity"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    828,
+                    1125,
+                    857
+                ],
+                "score": 0.992,
+                "text": "breakdown of Fe-Cr alloys in HCl. The most important result is that no direct"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    860,
+                    1123,
+                    889
+                ],
+                "score": 0.995,
+                "text": "correlation between the influence of a given alloying element on the passivation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    990,
+                    1125,
+                    1027
+                ],
+                "score": 0.986,
+                "text": "occurs most readily with higher chromium contents.1,2 The present data in 1 M HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1092,
+                    1125,
+                    1128
+                ],
+                "score": 0.987,
+                "text": "(Fig. 2). Alloying of Mo, W, V or Si favours passivation of Fe–13Cr alloys. This is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1125,
+                    1121,
+                    1162
+                ],
+                "score": 0.995,
+                "text": "readily understood by considering the polarization curves of the pure elements (Fig."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    1158,
+                    1122,
+                    1194
+                ],
+                "score": 0.994,
+                "text": "1) which all exhibit passivity in the potential region of interest (Si could not be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1191,
+                    1122,
+                    1228
+                ],
+                "score": 0.996,
+                "text": "measured due to low conductivity). The most efficient passivating element at equal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1227,
+                    1122,
+                    1260
+                ],
+                "score": 0.998,
+                "text": "atomic concentration is Mo which previously has been shown to become enriched at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1259,
+                    1121,
+                    1295
+                ],
+                "score": 1.0,
+                "text": "the alloy surface during active dissolution of the alloy. Vanadium, on the other hand,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1293,
+                    1122,
+                    1329
+                ],
+                "score": 0.991,
+                "text": "is not measurably enriched at the surface during active dissolution (Fig. 7). The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1325,
+                    1122,
+                    1362
+                ],
+                "score": 0.997,
+                "text": "presence of Si in Fe-24Cr unfavourably influences the passivation behaviour; the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1359,
+                    1122,
+                    1396
+                ],
+                "score": 0.997,
+                "text": "passivation current density is higher than in the absence of Si as well as the current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1392,
+                    1120,
+                    1429
+                ],
+                "score": 0.993,
+                "text": "density in the passive state up to potentials of 800 mV(SHE) (Fig. 3). Interestingly,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1426,
+                    1120,
+                    1463
+                ],
+                "score": 0.996,
+                "text": "at still higher potentials the passive current density decreases and pitting is sup-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1461,
+                    226,
+                    1490
+                ],
+                "score": 1.0,
+                "text": "pressed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    960,
+                    1124,
+                    989
+                ],
+                "score": 0.995,
+                "text": "Passivation of Fe-Cr alloys is due to formation of a chromium rich oxide film. It"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1027,
+                    1126,
+                    1059
+                ],
+                "score": 0.984,
+                "text": "are consistent with this view. Within the current density range of the present"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    1062,
+                    1123,
+                    1090
+                ],
+                "score": 0.991,
+                "text": "experiments Fe-24Cr exhibits an active-passive transition (Fig. 3) but not Fe-13Cr"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1491,
+                    1121,
+                    1527
+                ],
+                "score": 0.994,
+                "text": "Previously, it has been shown that both Mo and W are enriched (with respect to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1557,
+                    1120,
+                    1593
+                ],
+                "score": 0.997,
+                "text": "in the low passive potential region, but depleted when it is polarized in the high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1588,
+                    1120,
+                    1625
+                ],
+                "score": 0.993,
+                "text": "passive potential region.\" The present AES data indicate that V is depleted in both"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    119,
+                    1623,
+                    1121,
+                    1658
+                ],
+                "score": 0.995,
+                "text": "the low as well as the high passive potential region (Fig. 7). Although in the case of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1657,
+                    1119,
+                    1690
+                ],
+                "score": 0.993,
+                "text": "the V alloy surface concentration changes are small and subject to an analytical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    1691,
+                    1118,
+                    1722
+                ],
+                "score": 0.997,
+                "text": "uncertainty as described above, it may be concluded that for all three elements Mo,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1527,
+                    1120,
+                    1555
+                ],
+                "score": 0.99,
+                "text": "a cathodically polarized standard) in the passive film when the electrode is polarized"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9453,
+                "bbox": [
+                    339,
+                    122,
+                    911,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8934,
+                "bbox": [
+                    1077,
+                    122,
+                    1128,
+                    146
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9756,
+                "bbox": [
+                    118,
+                    187,
+                    1131,
+                    254
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    118,
+                    255,
+                    1133,
+                    488
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    115,
+                    489,
+                    1131,
+                    725
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9385,
+                "bbox": [
+                    518,
+                    755,
+                    729,
+                    784
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819,
+                "bbox": [
+                    115,
+                    791,
+                    1127,
+                    891
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5443,
+                "bbox": [
+                    822,
+                    825,
+                    994,
+                    854
+                ],
+                "index": 8,
+                "latex": "> \\mathbf { V } > \\mathbf { S i } > \\mathbf { W }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737,
+                "bbox": [
+                    116,
+                    892,
+                    1127,
+                    959
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    115,
+                    959,
+                    1128,
+                    1124
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    114,
+                    1125,
+                    1127,
+                    1226
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9208,
+                "bbox": [
+                    528,
+                    1276,
+                    716,
+                    1304
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9322,
+                "bbox": [
+                    130,
+                    1307,
+                    880,
+                    1336
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9361,
+                "bbox": [
+                    130,
+                    1336,
+                    721,
+                    1363
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9589,
+                "bbox": [
+                    130,
+                    1364,
+                    1120,
+                    1416
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9294,
+                "bbox": [
+                    130,
+                    1418,
+                    850,
+                    1447
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9172,
+                "bbox": [
+                    129,
+                    1447,
+                    534,
+                    1473
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9351,
+                "bbox": [
+                    129,
+                    1475,
+                    831,
+                    1502
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9235,
+                "bbox": [
+                    129,
+                    1503,
+                    806,
+                    1529
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9151,
+                "bbox": [
+                    129,
+                    1529,
+                    600,
+                    1556
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9147,
+                "bbox": [
+                    127,
+                    1557,
+                    526,
+                    1583
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9301,
+                "bbox": [
+                    120,
+                    1584,
+                    622,
+                    1611
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9352,
+                "bbox": [
+                    120,
+                    1612,
+                    753,
+                    1638
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9299,
+                "bbox": [
+                    120,
+                    1640,
+                    947,
+                    1667
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.927,
+                "bbox": [
+                    120,
+                    1667,
+                    926,
+                    1693
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9361,
+                "bbox": [
+                    119,
+                    1694,
+                    789,
+                    1721
+                ],
+                "index": 26
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    345,
+                    125,
+                    906,
+                    148
+                ],
+                "score": 0.994,
+                "text": "The passivation behaviour of iron-chromium alloys in HCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1079,
+                    123,
+                    1127,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1125"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    188,
+                    1127,
+                    218
+                ],
+                "score": 0.998,
+                "text": "W and V surface enrichment in the passive film is not the reason for the non-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    226,
+                    597,
+                    252
+                ],
+                "score": 0.978,
+                "text": "occurrence of pitting in Fe-24Cr alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    167,
+                    257,
+                    1127,
+                    285
+                ],
+                "score": 0.993,
+                "text": "The mechanism for passive film breakdown leading to pitting is still not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    292,
+                    1126,
+                    319
+                ],
+                "score": 0.992,
+                "text": "suifficiently understood. In particular, it is an open question whether the passive film"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    325,
+                    1127,
+                    351
+                ],
+                "score": 0.98,
+                "text": "behaves as a static, non-porous oxide layer through which an ionic current flows²² or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    359,
+                    1125,
+                    387
+                ],
+                "score": 0.995,
+                "text": "whether a dynamic equilibrium of film dissolution and build up at randomly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    391,
+                    1128,
+                    419
+                ],
+                "score": 0.996,
+                "text": "distributed local sites takes place.23 The interpretation of the observed influence of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    426,
+                    1126,
+                    454
+                ],
+                "score": 1.0,
+                "text": "alloying elements on the pitting potential depends on the model used for describing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    459,
+                    319,
+                    487
+                ],
+                "score": 0.997,
+                "text": "the passive film."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    490,
+                    1124,
+                    520
+                ],
+                "score": 0.988,
+                "text": "The occurrence of pitting in binary iron-chromium alloys is known to depend on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    524,
+                    1124,
+                    553
+                ],
+                "score": 0.989,
+                "text": "the Cr/Fe ratio, i.e. on the activity of iron. Adding V decreases the iron activity in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    560,
+                    1123,
+                    587
+                ],
+                "score": 0.993,
+                "text": "alloy and thus is expected to diminish susceptibility to pitting. Whether such an effect"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    592,
+                    1125,
+                    621
+                ],
+                "score": 0.994,
+                "text": "involves a modification of ionic transport processes in a compact passive film as"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    625,
+                    1125,
+                    655
+                ],
+                "score": 0.99,
+                "text": "suggested by Mott,24 a change in charge transfer kinetics at the film-solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    655,
+                    1129,
+                    690
+                ],
+                "score": 0.981,
+                "text": "interface²5 or a change in repassivation kinetics on a film in dynamic equilibrium²"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    692,
+                    475,
+                    721
+                ],
+                "score": 1.0,
+                "text": "cannot be decided at present."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    524,
+                    761,
+                    725,
+                    789
+                ],
+                "score": 1.0,
+                "text": "CONCLUSIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    791,
+                    1125,
+                    822
+                ],
+                "score": 0.984,
+                "text": "Added at equal atomic concentration (6 at.%) to Fe-13Cr alloys, Mo, W, V and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    826,
+                    821,
+                    855
+                ],
+                "score": 0.993,
+                "text": "Si increase the pitting potential in 1 M HCl in the order Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    995,
+                    825,
+                    1124,
+                    857
+                ],
+                "score": 0.988,
+                "text": ". The same"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    858,
+                    853,
+                    891
+                ],
+                "score": 0.998,
+                "text": "elements added to an Fe-24Cr alloy suppress pitting entirely."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    890,
+                    1124,
+                    924
+                ],
+                "score": 0.992,
+                "text": "There is no correlation between the influence of the different alloying elements"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    928,
+                    774,
+                    958
+                ],
+                "score": 1.0,
+                "text": "on passivation current density and on pitting potential."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    959,
+                    1122,
+                    989
+                ],
+                "score": 0.991,
+                "text": "The relative concentration of Mo, W and V at the surface of an Fe-24Cr-X alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    993,
+                    1122,
+                    1024
+                ],
+                "score": 0.998,
+                "text": "(X = 6 at.% Mo, W, V) polarized in the high passive potential region is lower than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1027,
+                    1121,
+                    1058
+                ],
+                "score": 0.996,
+                "text": "in the cathodically polarized standard. Surface enrichment of these elements can,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1059,
+                    1121,
+                    1092
+                ],
+                "score": 0.999,
+                "text": "therefore, be excluded as a significant factor for explaining suppression of pitting in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1092,
+                    273,
+                    1124
+                ],
+                "score": 1.0,
+                "text": "these alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    1125,
+                    1123,
+                    1158
+                ],
+                "score": 0.991,
+                "text": "The beneficial influence of additions of Mo, W, V and Si on the pitting resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1159,
+                    1123,
+                    1191
+                ],
+                "score": 0.992,
+                "text": "of ferritic iron-chromium alloys is tentatively attributed to a decrease in the iron"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    1196,
+                    370,
+                    1222
+                ],
+                "score": 1.0,
+                "text": "activity of the alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    532,
+                    1282,
+                    710,
+                    1303
+                ],
+                "score": 0.998,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1308,
+                    876,
+                    1337
+                ],
+                "score": 0.978,
+                "text": "1. H. KAescHE, Die Korrosion der Metalle, 2, p. 193. Springer, Berlin (1979)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1337,
+                    715,
+                    1363
+                ],
+                "score": 0.942,
+                "text": "2. K. SuGIMOTo and Y. SAWADA, Corros. Sci. 17, 425 (1977)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    1391,
+                    479,
+                    1417
+                ],
+                "score": 0.986,
+                "text": "McGraw-Hill, New York (1977)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1366,
+                    1119,
+                    1391
+                ],
+                "score": 0.969,
+                "text": "3. C. J. NoVAK, Handbook of Stainless Steels (eds D. PeCHNER and I. M. BERNSTEIN), p. 4.1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1419,
+                    846,
+                    1448
+                ],
+                "score": 0.965,
+                "text": "4. G. P. CHERNOVA and N. D. ToMASHOv, Z. phys. Chem. 226, 136 (1964)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1446,
+                    530,
+                    1474
+                ],
+                "score": 0.985,
+                "text": "5. G. HERBSLEB, VDI Z. 123, 505 (1981)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1475,
+                    827,
+                    1502
+                ],
+                "score": 0.978,
+                "text": "6. H. J. ENGELL. and T. RAMCHANDRAN, Z. phys. Chem. 215, 176 (1960)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1502,
+                    801,
+                    1529
+                ],
+                "score": 0.969,
+                "text": "7. J. HoRVATH and H. H. UHLIG, J. electrochem. Soc. 115, 791 (1968)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1531,
+                    597,
+                    1556
+                ],
+                "score": 0.967,
+                "text": "8. P. MoNNARTZ, Metallurgie 8, 161, 193 (1911)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1557,
+                    521,
+                    1584
+                ],
+                "score": 0.976,
+                "text": "9. W. RoHN, Z. Metallk. 18, 387 (1926)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1585,
+                    618,
+                    1611
+                ],
+                "score": 0.979,
+                "text": "10. R. GoETz, Ph.D. thesis, EPFL, No. 469 (1982)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1612,
+                    750,
+                    1639
+                ],
+                "score": 0.982,
+                "text": "11. R. GoETZ and D. LANDoLT, Electrochim. Acta 29, 667 (1984)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    1642,
+                    944,
+                    1665
+                ],
+                "score": 0.939,
+                "text": "12. N. D. ToMASHov, G. P. CHERNoVA and O. N. MARCoVA, Corrosion 20, 166 (1964)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1666,
+                    921,
+                    1694
+                ],
+                "score": 0.965,
+                "text": "13. R. GoETz, C. BoBAND and D. LANDoLT, Proc. 8th ICMC, p. 247. Mainz (1981)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1696,
+                    785,
+                    1719
+                ],
+                "score": 0.974,
+                "text": "14. K. J. BLOM and J. DEGERBECK, Mater. Performance 22, 51 (1983)."
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1262,
+            "height": 1962
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9033,
+                "bbox": [
+                    123,
+                    124,
+                    174,
+                    147
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9404,
+                "bbox": [
+                    423,
+                    123,
+                    824,
+                    149
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9491,
+                "bbox": [
+                    123,
+                    191,
+                    741,
+                    218
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9419,
+                "bbox": [
+                    123,
+                    219,
+                    589,
+                    246
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9455,
+                "bbox": [
+                    123,
+                    247,
+                    700,
+                    273
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9388,
+                "bbox": [
+                    123,
+                    274,
+                    1102,
+                    302
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.935,
+                "bbox": [
+                    122,
+                    303,
+                    766,
+                    329
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9468,
+                "bbox": [
+                    122,
+                    331,
+                    931,
+                    357
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9717,
+                "bbox": [
+                    121,
+                    358,
+                    1121,
+                    412
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.947,
+                "bbox": [
+                    121,
+                    415,
+                    952,
+                    441
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9708,
+                "bbox": [
+                    121,
+                    442,
+                    1121,
+                    496
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9693,
+                "bbox": [
+                    121,
+                    498,
+                    1121,
+                    551
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9436,
+                "bbox": [
+                    121,
+                    554,
+                    641,
+                    580
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9688,
+                "bbox": [
+                    121,
+                    582,
+                    1118,
+                    636
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.5305,
+                "bbox": [
+                    453,
+                    1512,
+                    465,
+                    1529
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    124,
+                    172,
+                    150
+                ],
+                "score": 1.0,
+                "text": "1126"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    426,
+                    123,
+                    820,
+                    148
+                ],
+                "score": 0.922,
+                "text": "R. GOETz, J. LAURENT and D. LANDOLT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    193,
+                    736,
+                    217
+                ],
+                "score": 0.976,
+                "text": "15. I. CLASs and H. GRAEFEN, Werkstoffe Korros. 15, 79 (1964)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    222,
+                    583,
+                    244
+                ],
+                "score": 0.956,
+                "text": "16. J. M. DEFRANoUx, Corros. Sci. 3, 75 (1963)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    249,
+                    696,
+                    272
+                ],
+                "score": 0.958,
+                "text": "17. H. BoíNI and H. H. UHLIG, Corros. Sci. 9, 353 (1969)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    278,
+                    1100,
+                    301
+                ],
+                "score": 0.978,
+                "text": "18. M. G. FonTANA and N. D. GREEN, Corrosion Engineering, p. 66. McGraw-Hill, New York (1967)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    305,
+                    761,
+                    328
+                ],
+                "score": 0.98,
+                "text": "19. R. GoETZ and D. LANDoLT, Electrochim. Acta 27, 1061 (1982)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    332,
+                    926,
+                    357
+                ],
+                "score": 0.951,
+                "text": "20. R. GoETz and D. LANDoLT, Proc. 9th ICMC, Vol. 4, pp. 23–27. Toronto (1984)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    362,
+                    1117,
+                    383
+                ],
+                "score": 0.987,
+                "text": "21. L. E. Davıs et al., Handbook of Auger Electron Spectroscopy (2nd edn). Physical Electronics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    164,
+                    389,
+                    574,
+                    413
+                ],
+                "score": 0.98,
+                "text": "Industries, Eden Prarie, Minnesota (1976)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    417,
+                    949,
+                    440
+                ],
+                "score": 0.966,
+                "text": "22. J. K. VErtEr, Electrochemical Kinetics, p. 748. Academic Press, New York (1967)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    444,
+                    1118,
+                    468
+                ],
+                "score": 0.955,
+                "text": "23. B. MAcDoUGALL, D. F. MITCHELL, G. I. SPROULE and M. J. GRAHAM, J. electrochem. Soc. 130, 543"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    473,
+                    234,
+                    498
+                ],
+                "score": 1.0,
+                "text": "(1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    501,
+                    1119,
+                    524
+                ],
+                "score": 0.974,
+                "text": "24. N. F. MorT, Passivity of Metals and Semiconductors (ed. M. FRomENT), p. 1. Elsevier, Amsterdam"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    528,
+                    234,
+                    554
+                ],
+                "score": 1.0,
+                "text": "(1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    555,
+                    637,
+                    580
+                ],
+                "score": 0.971,
+                "text": "25. K. E. HEusLER, Electrochim. Acta 28, 439 (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    584,
+                    1117,
+                    608
+                ],
+                "score": 0.98,
+                "text": "26. J. KruGER, Passivity and its Breakdown on Iron and Iron Base Alloys (eds R. W. STAEHLE and H."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    611,
+                    778,
+                    635
+                ],
+                "score": 0.974,
+                "text": "OκADa), p. 91. Natl. Assoc. Corr. Eng., Houston, Texas (1976)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    455,
+                    1513,
+                    462,
+                    1527
+                ],
+                "score": 0.613,
+                "text": "ts"
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1262,
+            "height": 1962
+        }
+    }
+]

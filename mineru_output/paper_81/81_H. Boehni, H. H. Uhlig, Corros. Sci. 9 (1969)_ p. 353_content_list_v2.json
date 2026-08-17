@@ -1,0 +1,795 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SHORT COMMUNICATION"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                349,
+                292,
+                620,
+                310
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EFFECT OF ALLOYED Re ON THE CRITICAL PITTING POTENTIALS OF 18%Cr/10%Ni STAINLESS STEELS"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                217,
+                330,
+                754,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "H. BöHNI and H. H. UHLIG"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                390,
+                584,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Metallurgy and Materials Science, Massachusetts Institute of Technology, Cambridge, Massachusetts"
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                407,
+                753,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract—Stainless steels of the 18–8 variety at 25°C in 0·1N NaCl or 0·1N NaBr show increasingly noble critical pitting potentials, but at 0°C decreasingly noble critical potentials with added per cent Re. A likely cause is temperature-sensitive hydration effects within the double layer."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                454,
+                781,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IN A RECENT paper¹ it was shown that Mo alloyed with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\% \\mathrm { { C r } / 1 3 \\% N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "stainless steel shifted the critical pitting potential in 0·1N NaCl in the noble direction corresponding to the well-known improved resistance of such alloys to pitting corrosion. The noble shift of potential, however, was shown to occur only at room and at somewhat above room temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 4 0 ^ { \\circ } \\mathbf { C } ) . \\ \\mathbf { A } \\mathbf { t } \\ 0 ^ { \\circ } \\mathbf { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by way of contrast, the effect of Mo was to lower the critical pitting potential or to shift it in the active direction corresponding to decreased resistance to pitting corrosion. Immersion tests in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\% \\mathrm { F e C l _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "confirmed that whereas pitting of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textbf { a } 2 { \\cdot } 4 \\% \\mathbf { M } \\mathrm { o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "stainless steel did not occur within two days at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ^ \\circ C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "pitting was observed under the same conditions at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { o } \\mathfrak { c } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "This is opposite to the effect found for 18-8 stainless steel without Mo, pitting being observed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\displaystyle 2 5 \\mathrm { ‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but not at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { 0 ^ { \\circ } } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It was of interest to learn whether alloyed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { R e } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which is also reported to improve pitting resistance of 18–8 stainless steel,² shows a similar temperature effect."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                508,
+                782,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloys were prepared by vacuum melting in dense alumina crucibles decarburized electrolytic "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electrolytic Cr and carbonyl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N i } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the latter supplied by courtesy of the International Nickel Company. Re containing 15ppm Fe but less than 1ppm of any other detectable impurity was supplied by courtesy of Ledgemont Laboratory, Kennecott Copper Corporation. The melt was cast in a purified argon atmosphere by drawing into 7mm dia. Vycor tubes and quenching in water. The alloys were homogenized at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 5 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 17h, swaged to 0·4cm dia. rods, annealed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 5 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and water quenched. They were mostly austenitic as quenched, being only slightly magnetic. Chemical analyses are given in Table 1. Electrodes measuring about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\mathsf { c m } \\times 0 { \\cdot } 4 \\mathsf { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dia. were abraded to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 / 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "emery paper and then pickled in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\% \\mathrm { { H N O _ { 3 } } , 2 \\% H F \\ a t \\ 8 0 ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Mounting of the alloy specimens using a Teflon gasket to ensure exposure only of the alloy to the electrolyte was the same as previously described.¹ Potentiostatic polarization curves were obtained at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textstyle 2 5 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textstyle { \\boldsymbol { 0 } } ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N _ { 2 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "-saturated 0·1N NaCl and 0·1N NaBr. The electrode totally immersed was first polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated and the current showed a marked increase. This was followed by longer-time runs of 12-15h at a single potential in the neighbourhood of the critical potential in order to establish the steady state value. The least noble potential at which the current did not continuously increase with time and at which no pits could be observed under a low power microscope was taken as the final value. Reproducibility was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 1 0 \\mathrm { - } \\pm 1 5 \\mathrm { m V }"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                693,
+                782,
+                862
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion Science, 1969, Vol. 9, pp. 353 to 355. Pergamon Press. Printed in Great Britain"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                148,
+                627,
+                161
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Manuscript received 15 August 1968."
+                    }
+                ]
+            },
+            "bbox": [
+                212,
+                863,
+                441,
+                877
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "353"
+                    }
+                ]
+            },
+            "bbox": [
+                464,
+                878,
+                488,
+                890
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/02d31cd5f05030b860925d62e163db6c618c224c327a2c978215a483bfebb01f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. COMPOSITION OF ALLOYS"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td> $\\% 0 \\mathtt { r }$ </td><td> $\\% \\mathbf { N i }$ </td><td> $\\% \\tt R e$ </td></tr><tr><td>No.1</td><td>17.6</td><td>10.3</td><td>0</td></tr><tr><td>No.2</td><td>17.4</td><td>10-2</td><td>0.84</td></tr><tr><td>No.3</td><td>17.8</td><td>10.0</td><td>1.84</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                320,
+                195,
+                641,
+                271
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fd1440b787fc68a51cd90d237d974157958e1fcba9737204bf8db8ea55088334.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 1. Critical pitting potentials of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\% \\mathbf { C r } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "10%Ni, Re stainless steels in 0·1N NaCl."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                324,
+                305,
+                628,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                189,
+                570,
+                783,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Critical pitting potentials in 0·1N NaCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "shown in Fig. 1 indicate that alloyed Re, like alloyed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M } \\circ ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "shifts the critical potential in the noble direction corresponding to an increased resistance to pitting corrosion. Similar to alloyed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the shift at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\mathfrak { O } } ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is in the opposite or more active direction. The 75mV decrease at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { 0 } } ^ { \\circ } { \\bf C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on adding "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { \\cdot } 8 4 \\% \\mathsf { R e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(0.55at.%), however, is less than the corresponding decrease of almost 500mV on adding 1·8%Mo (1·05at.%)."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                722,
+                783,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The observed effects in 0·1N NaBr (Fig. 2) at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { { ^ \\circ C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are somewhat different fiom those for the Mo stainless steels in that alloyed Re increases the critical pitting potential whereas alloyed Mo decreases it. Also at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } { \\bf C } , 1 { \\cdot } 8 4 \\% { \\bf R e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "causes a slight shift of critical potential of 30mV in the active direction whereas "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 5 \\% \\mathbf { M } \\mathbf { o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "produces a change of over"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                814,
+                785,
+                876
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "354"
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                150,
+                216,
+                161
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. BÖhNI and H. H. UHLiG"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                148,
+                572,
+                161
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b5f34e958cbf10c126b9a54c01144b80455a81f6b60a6fd0880471eb82179078.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 2. Critical pitting potentials of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\% \\mathrm { { C r } , 1 0 \\% N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Re stainless steels in0·1N NaBr."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                336,
+                189,
+                642,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "100mV in the same direction. Stainless steels of the 18-8 variety at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are more resistant to pitting in NaBr than in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf N a C l"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but the critical potentials indicate that the alloy containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { \\cdot } 8 \\% 8 e"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is almost equally resistant in either medium. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { A t 0 ^ { \\circ } C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "resistance is better in chlorides than in bromides whether or not the alloys contain Re."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                439,
+                782,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results requiring explanation are (1) the much more noble critical potential for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\text{‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "stainless steel at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "compared to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 2 5 \\mathrm { ‰} }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 0·1N NaCl. On the other hand in 0·1N NaBr, the less noble critical potential at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { 0 } } ^ { \\circ } { \\bf C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ^ \\circ C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(2) The increase of critical potential brought about by alloyed Re at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but the decrease at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in either 0·1N NaCl or 0·1N NaBr. (3) The greater sensitivity to temperature of the Mo- compared to the Re-stainless steels. As is discussed in the earlier reference¹ these effects are not readily explained by temperature coefficients of diffusion through a supposed oxide film. The effect of temperature is more likely due to an alteration of double layer structure caused by a temperature-dependent hydration of the relevant ions and of the passive film itself, thereby affecting competitive adsorption of anions with adsorbed oxygen of the passive film for sites on the metal surface."
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                500,
+                784,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement—This study was aided by a grant from the Office of Saline Water, U.S. Department of the Interior."
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                683,
+                782,
+                708
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                429,
+                717,
+                545,
+                729
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. J. HoRVATH and H. UHLIG, J. electrochem. Soc. 115, 791 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. N. ToMASHOV, G. CHERNOVA and O. MARCOVA, Corrosion 20, 166t (1964)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                732,
+                589,
+                744
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Effect of alloyed Re on the critical pitting potentials of 18%Cr/10%Ni stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                232,
+                148,
+                740,
+                162
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "355"
+                    }
+                ]
+            },
+            "bbox": [
+                758,
+                148,
+                782,
+                161
+            ]
+        }
+    ]
+]

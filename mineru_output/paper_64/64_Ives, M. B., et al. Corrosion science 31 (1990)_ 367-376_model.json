@@ -1,0 +1,5308 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9584,
+                "bbox": [
+                    129,
+                    118,
+                    515,
+                    167
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9566,
+                "bbox": [
+                    920,
+                    121,
+                    1152,
+                    172
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9696,
+                "bbox": [
+                    231,
+                    281,
+                    1038,
+                    347
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9416,
+                "bbox": [
+                    243,
+                    377,
+                    1028,
+                    409
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9608,
+                "bbox": [
+                    368,
+                    434,
+                    913,
+                    489
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9263,
+                "bbox": [
+                    294,
+                    565,
+                    428,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.99,
+                "bbox": [
+                    128,
+                    619,
+                    1151,
+                    971
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9372,
+                "bbox": [
+                    296,
+                    1018,
+                    441,
+                    1045
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692,
+                "bbox": [
+                    130,
+                    1071,
+                    1150,
+                    1130
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9379,
+                "bbox": [
+                    296,
+                    1178,
+                    489,
+                    1206
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    130,
+                    1233,
+                    1152,
+                    1478
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    132,
+                    1498,
+                    1152,
+                    1583
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9228,
+                "bbox": [
+                    179,
+                    1636,
+                    795,
+                    1666
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9532,
+                "bbox": [
+                    178,
+                    1664,
+                    1151,
+                    1717
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9396,
+                "bbox": [
+                    179,
+                    1716,
+                    915,
+                    1747
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9123,
+                "bbox": [
+                    618,
+                    1769,
+                    657,
+                    1793
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    118,
+                    512,
+                    143
+                ],
+                "score": 0.993,
+                "text": "Corrosion Science, Vol. 31, pp. 367–376, 1990"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    143,
+                    324,
+                    164
+                ],
+                "score": 1.0,
+                "text": "Printed in Great Britain"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    928,
+                    125,
+                    1148,
+                    144
+                ],
+                "score": 0.995,
+                "text": "0010-938X/90 $3.00+0.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    923,
+                    149,
+                    1147,
+                    169
+                ],
+                "score": 0.985,
+                "text": "© 1990 Pergamon Press plc"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    286,
+                    1036,
+                    322
+                ],
+                "score": 0.999,
+                "text": "CORROSION BEHAVIOUR OF MOLYBDENUM-IMPLANTED"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    514,
+                    319,
+                    766,
+                    354
+                ],
+                "score": 1.0,
+                "text": "STAINLESS STEEL"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    380,
+                    1023,
+                    407
+                ],
+                "score": 0.987,
+                "text": "M.B. IVES, U. G. AKANO1, Y.C. LU, GUO RUIJIN², S.C. SRIVASTAVA³"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    372,
+                    437,
+                    907,
+                    461
+                ],
+                "score": 0.993,
+                "text": "Institute for Materials Research, McMaster University"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    451,
+                    462,
+                    828,
+                    487
+                ],
+                "score": 0.974,
+                "text": "Hamilton, Ontario, L8S 4M1, Canada"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    298,
+                    570,
+                    424,
+                    595
+                ],
+                "score": 1.0,
+                "text": "ABSTRACT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    622,
+                    1145,
+                    646
+                ],
+                "score": 0.989,
+                "text": "A low-molybdenum austenitic stainless steel (UNS S30100) has been surface implanted with molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    648,
+                    1145,
+                    671
+                ],
+                "score": 0.993,
+                "text": "ions, using various doses of 50 keV and 140 keV ions at room temperature. It is found that in aqueous"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    675,
+                    1145,
+                    698
+                ],
+                "score": 0.995,
+                "text": "sulphate/chloride solutions similar to the constitution of sea-waters the implantation does not affect the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    702,
+                    1147,
+                    726
+                ],
+                "score": 0.985,
+                "text": "potentiostatically-determined critical pitting potential, but does change the density and morphology of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    728,
+                    1146,
+                    751
+                ],
+                "score": 0.992,
+                "text": "corrosion pits. Pitting initiation after the addition of chloride at a fixed potential indicates little change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    755,
+                    1146,
+                    779
+                ],
+                "score": 0.992,
+                "text": "the time for measurable current increase, but the rate of increase of the current is much lower for implanted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    782,
+                    1146,
+                    806
+                ],
+                "score": 0.996,
+                "text": "material. Detailed examination using optical microscopy, scanning electron microscopy, transmission electron"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    809,
+                    1146,
+                    830
+                ],
+                "score": 0.998,
+                "text": "microscopy and selected area diffraction suggests that the pits produced in implanted material are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    835,
+                    1146,
+                    857
+                ],
+                "score": 0.995,
+                "text": "hemispherical with smooth covers of unattacked alloy. The use of half-implanted samples demonstrates that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    862,
+                    1145,
+                    883
+                ],
+                "score": 0.992,
+                "text": "molybdenum implantation causes the formation of smooth-covered pits rather than \"lacy\" attack characteristic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    888,
+                    1146,
+                    912
+                ],
+                "score": 0.992,
+                "text": "of stainless steel attack in chloride solutions. The energy of implantation also affects the density of pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    915,
+                    1145,
+                    936
+                ],
+                "score": 0.981,
+                "text": "nucleation, suggesting that passive films formed after implantation at low energies are not able to completely"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    942,
+                    373,
+                    966
+                ],
+                "score": 0.982,
+                "text": "protect the steel surfaces."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    300,
+                    1023,
+                    436,
+                    1046
+                ],
+                "score": 1.0,
+                "text": "KEYWORDS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1074,
+                    1146,
+                    1097
+                ],
+                "score": 0.992,
+                "text": "austenitic stainless steel; molybdenum; ion implantation; pitting corrosion; Rutherford backscatter"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1105,
+                    267,
+                    1127
+                ],
+                "score": 1.0,
+                "text": "spectroscopy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    299,
+                    1184,
+                    486,
+                    1211
+                ],
+                "score": 0.999,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1232,
+                    1148,
+                    1260
+                ],
+                "score": 0.993,
+                "text": "It is known that the addition of molybdenum to austenitic stainless steels increases their pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1261,
+                    1146,
+                    1284
+                ],
+                "score": 0.985,
+                "text": "corrosion resistance in chloride-containing aqueous environments. This is demonstrated, for example,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1287,
+                    1147,
+                    1311
+                ],
+                "score": 0.995,
+                "text": "by a shift of the critical pitting potential towards a more noble value (1),(2),(3) and by the incrcase in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1314,
+                    1147,
+                    1338
+                ],
+                "score": 0.98,
+                "text": "the critical pitting temperature with increasing molybdenum alloy content (4),(5). It is known that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1341,
+                    1147,
+                    1363
+                ],
+                "score": 0.998,
+                "text": "molybdenum incorporates itself into the protective passive film (6),(7), and some have reported that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1367,
+                    1147,
+                    1390
+                ],
+                "score": 0.993,
+                "text": "presence of molybdenum in these alloys appears to promote a generally thicker passive film, with the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1394,
+                    1147,
+                    1415
+                ],
+                "score": 0.99,
+                "text": "thickness tending to be proportional to the molybdenum content of the alloy (8). But how this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    1420,
+                    1147,
+                    1443
+                ],
+                "score": 0.989,
+                "text": "improves the resistance to chloride attack remains unclear, although models describing competitive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1449,
+                    455,
+                    1473
+                ],
+                "score": 0.982,
+                "text": "adsorption have becn proposed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    1500,
+                    1148,
+                    1524
+                ],
+                "score": 0.993,
+                "text": "Ashworth et al. (9),(10),(11) have studied the properties of molybdenum-implanted Type UNS S30400"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1528,
+                    1147,
+                    1550
+                ],
+                "score": 0.992,
+                "text": "stainless steel, finding that such a treated alloy behaved like the higher-molybdenum steel, type UNS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1554,
+                    1147,
+                    1576
+                ],
+                "score": 0.991,
+                "text": "S31600, at least as far as pitting resistance is concerned. It was found that after three successive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1636,
+                    791,
+                    1667
+                ],
+                "score": 0.993,
+                "text": "1 Now at University of Western Ontario, London, Ontario."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1664,
+                    197,
+                    1683
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    1665,
+                    1146,
+                    1689
+                ],
+                "score": 0.991,
+                "text": "On leave from Dalian Institute of Technology, Peoples Republic of China. Now at University"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    1693,
+                    684,
+                    1717
+                ],
+                "score": 0.998,
+                "text": "of British Columbia, Vancouver, B.C., Canada."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    181,
+                    1714,
+                    909,
+                    1744
+                ],
+                "score": 0.987,
+                "text": "3 On leave from National Metallurgical Laboratory, Jamshedpur, India"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    617,
+                    1770,
+                    656,
+                    1795
+                ],
+                "score": 1.0,
+                "text": "367"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8994,
+                "bbox": [
+                    140,
+                    120,
+                    182,
+                    145
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9342,
+                "bbox": [
+                    567,
+                    117,
+                    727,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    138,
+                    161,
+                    1157,
+                    247
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    138,
+                    266,
+                    1159,
+                    350
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9406,
+                "bbox": [
+                    301,
+                    397,
+                    669,
+                    426
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9683,
+                "bbox": [
+                    137,
+                    451,
+                    1157,
+                    511
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9404,
+                "bbox": [
+                    300,
+                    558,
+                    860,
+                    587
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9555,
+                "bbox": [
+                    140,
+                    601,
+                    1145,
+                    717
+                ],
+                "index": 8,
+                "html": "<table><tr><td>C .108</td><td>Si .55</td><td>Mn 1.01</td><td>P .04</td><td>S .012</td><td>Cr 17.0</td><td>Mo 0.17</td><td>Ni 8.1</td><td>Co .16</td><td>Cu .19</td><td><eq>\\mathbf { _ { 0 } ^ { 0 } } _ { . 0 1 2 }</eq></td><td><eq>\\mathbf { \\Delta } _ { . 0 5 } ^ { \\aleph _ { 2 } }</eq></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824,
+                "bbox": [
+                    136,
+                    743,
+                    1158,
+                    855
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    136,
+                    876,
+                    1158,
+                    1043
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4687,
+                "bbox": [
+                    713,
+                    954,
+                    788,
+                    983
+                ],
+                "index": 13,
+                "latex": "3 0 ~ \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5432,
+                "bbox": [
+                    1023,
+                    953,
+                    1143,
+                    983
+                ],
+                "index": 14,
+                "latex": "1 0 ^ { - 6 } \\mathrm { \\ A } / \\mathrm { c m } ^ { 2 } ."
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9821,
+                "bbox": [
+                    137,
+                    1061,
+                    1159,
+                    1176
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4636,
+                "bbox": [
+                    893,
+                    1112,
+                    940,
+                    1142
+                ],
+                "index": 16,
+                "latex": "1 0 ^ { - 6 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    137,
+                    1195,
+                    1160,
+                    1495
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861,
+                "bbox": [
+                    138,
+                    1514,
+                    1161,
+                    1680
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    123,
+                    180,
+                    147
+                ],
+                "score": 1.0,
+                "text": "368"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    569,
+                    117,
+                    724,
+                    144
+                ],
+                "score": 0.981,
+                "text": "M. B. IVES et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    166,
+                    1150,
+                    185
+                ],
+                "score": 0.988,
+                "text": "polarization sweeps, some 36% of the implanted dose had been removed from the surface. However,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    190,
+                    1152,
+                    213
+                ],
+                "score": 0.994,
+                "text": "it was not possible to determine in what manner the molybdenum had been dissolved, or the precise"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    216,
+                    865,
+                    241
+                ],
+                "score": 0.986,
+                "text": "mechanism through which it improves the pitting resistance of the alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    267,
+                    1154,
+                    295
+                ],
+                "score": 0.996,
+                "text": "The present study was made in order to elucidate the mechanism by which molybdenum controls pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    296,
+                    1153,
+                    320
+                ],
+                "score": 0.995,
+                "text": "susceptibility, by implanting known quantities of molybdenum ions into the near-surface region of a low-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    323,
+                    418,
+                    346
+                ],
+                "score": 0.992,
+                "text": "molybdenum stainless steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    401,
+                    664,
+                    431
+                ],
+                "score": 0.997,
+                "text": "EXPERIMENTAL PROCEDURES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    456,
+                    1151,
+                    477
+                ],
+                "score": 0.997,
+                "text": "A 2 mm thick sheet of annealed UNS S30100 austenitic stainless steel was the starting material for this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    481,
+                    764,
+                    506
+                ],
+                "score": 0.994,
+                "text": "study. The chemical analysis of this alloy is shown in Table 1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    561,
+                    855,
+                    585
+                ],
+                "score": 0.997,
+                "text": "Table 1: Composition of the Alloy Used (in weight %)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    745,
+                    1154,
+                    770
+                ],
+                "score": 0.993,
+                "text": "Samples were cut into 10 mm circular discs, designed either to fit into a specially constructed Teflon"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    772,
+                    1154,
+                    798
+                ],
+                "score": 0.992,
+                "text": "sample holder or to be coated at the edges and back with a protective epoxy (Lepage \"5-minute\"), for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    799,
+                    1154,
+                    824
+                ],
+                "score": 0.999,
+                "text": "the electrochemical measurements. One side of each disc was metallographically polished to 1 micron"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    827,
+                    539,
+                    849
+                ],
+                "score": 0.983,
+                "text": "diamond finish before ion implantation."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    878,
+                    1154,
+                    902
+                ],
+                "score": 0.995,
+                "text": "The steel samples were ion-implanted at room temperature, using the McMaster 400 keV ion implanter,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    906,
+                    1153,
+                    930
+                ],
+                "score": 0.989,
+                "text": "described elsewhere (12) equipped with a universal ion source capable of producing sharply focused"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    931,
+                    1154,
+                    957
+                ],
+                "score": 0.989,
+                "text": "gaseous and solid ion beams. The ion beam was rastered across the sample using a pair of electrostatic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    958,
+                    712,
+                    982
+                ],
+                "score": 0.984,
+                "text": "beam sweep plates, so that the beam covered an area of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    961,
+                    1021,
+                    981
+                ],
+                "score": 0.994,
+                "text": "at a current density of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    983,
+                    1153,
+                    1007
+                ],
+                "score": 0.995,
+                "text": "The molybdenum source used consisted of a heated molybdenum wire over which oxygen gas is passed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1012,
+                    1153,
+                    1033
+                ],
+                "score": 0.988,
+                "text": "to improve ionization. Two implantation energies, viz. 50 keV and 140 keV, were used in this work."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1064,
+                    1154,
+                    1088
+                ],
+                "score": 0.992,
+                "text": "Rutherford backscattering spectroscopy (RBS) was used to analyze the implanted samples for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1092,
+                    1153,
+                    1113
+                ],
+                "score": 0.992,
+                "text": "retained molybdenum dose and distribution, either before or after anodic dissolution. Each"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1117,
+                    892,
+                    1142
+                ],
+                "score": 0.988,
+                "text": "backscattering spectrum was obtained, at a scattering angle of 160°, using 4 x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    941,
+                    1117,
+                    1154,
+                    1142
+                ],
+                "score": 0.98,
+                "text": "C of 2.0 MeV helium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1146,
+                    607,
+                    1169
+                ],
+                "score": 0.999,
+                "text": "ions produced in a Van der Graaf accelerator."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1198,
+                    1155,
+                    1222
+                ],
+                "score": 0.987,
+                "text": "Figure 1 is a typical RBS spectrum of a molybdenum-implanted stainless steel specimen. It shows the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1225,
+                    1154,
+                    1250
+                ],
+                "score": 0.999,
+                "text": "contributions from the host metal (iron) atoms and the implanted molybdenum peak centred at channel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1251,
+                    1154,
+                    1276
+                ],
+                "score": 0.994,
+                "text": "382. From this spectrum it may be determined that the maximum molybdenum concentration is beneath"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1278,
+                    1156,
+                    1302
+                ],
+                "score": 0.995,
+                "text": "the alloy surface, denoted by the arrows, as would be expected from the physics of the implantation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1305,
+                    1156,
+                    1328
+                ],
+                "score": 0.989,
+                "text": "process. By integrating the area under the molybdenum peak, the total retained dose can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1331,
+                    1155,
+                    1354
+                ],
+                "score": 0.994,
+                "text": "determined. The concentration of implanted ions, as a function of distance into the alloy surface, can"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1358,
+                    1156,
+                    1381
+                ],
+                "score": 0.991,
+                "text": "be obtained from the RBS spectrum, by taking into account the sputter erosion of the surface by the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1385,
+                    1154,
+                    1409
+                ],
+                "score": 0.993,
+                "text": "implantation beam. The best fit to the data was obtained by assuming a sputter efficiency of 2.3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1411,
+                    1155,
+                    1435
+                ],
+                "score": 0.992,
+                "text": "atoms/ion. Figure 2 shows such a relationship for two samples implanted with approximately the same"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1438,
+                    1154,
+                    1461
+                ],
+                "score": 0.993,
+                "text": "dose, but at different implantation energies. It is seen that implanting at 140 keV produces a deeper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1464,
+                    537,
+                    1487
+                ],
+                "score": 1.0,
+                "text": "and more uniform implant distribution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1516,
+                    1155,
+                    1539
+                ],
+                "score": 0.999,
+                "text": "Table 2 summarizes the data obtained on all the samples studied in this work, including the measured"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1544,
+                    1155,
+                    1565
+                ],
+                "score": 0.993,
+                "text": "retained dose and the surface and maximum molybdenum concentrations. The implantation clearly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1571,
+                    1154,
+                    1592
+                ],
+                "score": 0.989,
+                "text": "produces local molybdenum concentrations far in excess of those normally present in molybdenum-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1597,
+                    1155,
+                    1620
+                ],
+                "score": 0.998,
+                "text": "containing commercial stainless steels. However, these high concentrations are localized, since the peaks"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1624,
+                    1155,
+                    1644
+                ],
+                "score": 0.992,
+                "text": "in concentration are typically between 10 and 20 nm, and significant concentrations are rarely deeper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1649,
+                    448,
+                    1673
+                ],
+                "score": 0.983,
+                "text": "than 40 nm, as seen in Fig. 2."
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9399,
+                "bbox": [
+                    387,
+                    121,
+                    778,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.896,
+                "bbox": [
+                    1062,
+                    118,
+                    1104,
+                    142
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.501,
+                "bbox": [
+                    656,
+                    254,
+                    794,
+                    291
+                ],
+                "index": 3,
+                "latex": "4 \\times 1 0 ^ { 1 6 } M 0 ^ { + }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9839,
+                "bbox": [
+                    269,
+                    203,
+                    905,
+                    843
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9663,
+                "bbox": [
+                    188,
+                    856,
+                    1046,
+                    915
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.745,
+                "bbox": [
+                    913,
+                    877,
+                    1010,
+                    909
+                ],
+                "index": 6,
+                "latex": "1 0 ^ { l \\bar { 6 } } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.985,
+                "bbox": [
+                    340,
+                    1064,
+                    802,
+                    1636
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9675,
+                "bbox": [
+                    193,
+                    1664,
+                    1049,
+                    1723
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    124,
+                    774,
+                    146
+                ],
+                "score": 0.994,
+                "text": "Corrosion of Mo-implanted stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1061,
+                    118,
+                    1103,
+                    146
+                ],
+                "score": 1.0,
+                "text": "369"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    273,
+                    888,
+                    910,
+                    908
+                ],
+                "score": 0.982,
+                "text": "stecl implanted with 50 keV molybdenum ions to a dose of 5 x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    858,
+                    1042,
+                    884
+                ],
+                "score": 0.978,
+                "text": "Fig. 1. Rutherford Backscattering spectrum obtained from a sample of UNS S30100"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1670,
+                    1045,
+                    1690
+                ],
+                "score": 0.99,
+                "text": "Fig. 2. Distribution of molybdenum within the implanted alloy, comparing the same"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    279,
+                    1696,
+                    658,
+                    1719
+                ],
+                "score": 0.985,
+                "text": "dose for different implanting energies."
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.4844,
+                "bbox": [
+                    142,
+                    756,
+                    1127,
+                    777
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9092,
+                "bbox": [
+                    140,
+                    117,
+                    183,
+                    143
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9383,
+                "bbox": [
+                    571,
+                    117,
+                    730,
+                    145
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9198,
+                "bbox": [
+                    303,
+                    168,
+                    1017,
+                    200
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9858,
+                "bbox": [
+                    143,
+                    223,
+                    1124,
+                    763
+                ],
+                "index": 6,
+                "html": "<table><tr><td colspan=\"2\">ニニニ二 I Sample# Energy keV</td><td>Retained Implanted Molybdenum <eq>( \\mathbf { X } \\ \\mathbf { i 0 } ^ { 1 6 } \\ c m ^ { - 2 } )</eq></td><td colspan=\"2\">=リ= Relative Mo Fraction <eq>\\Nu _ { \\varkappa _ { 0 } } / \\Nu _ { \\sf F e } ( \\% )</eq></td></tr><tr><td colspan=\"3\"></td><td>Surface</td><td>Peak</td></tr><tr><td colspan=\"3\"></td><td></td><td></td></tr><tr><td>1 2</td><td>50 50</td><td>0.23 0.56</td><td>0.23 1.06</td><td>0.88</td></tr><tr><td>3 50</td><td></td><td>2.20</td><td>5.3</td><td>2.3</td></tr><tr><td>4</td><td>50</td><td>4.00</td><td>14.1</td><td>10.0</td></tr><tr><td>5</td><td>50</td><td>5.20</td><td>21.0</td><td>18.6 24.8</td></tr><tr><td>6 50</td><td></td><td>5.30</td><td>23.0</td><td>27.2</td></tr><tr><td>7</td><td>50</td><td>9.70</td><td>44.0</td><td>44.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9 10</td><td>140</td><td>3.10</td><td>2.4</td><td>14.1</td></tr><tr><td>11</td><td>140</td><td>5.55</td><td>10.6</td><td>24.7</td></tr><tr><td></td><td>140</td><td>7.15</td><td>17.6</td><td>30.0</td></tr><tr><td>12</td><td>140</td><td>8.22</td><td>28.2</td><td>36.0</td></tr><tr><td>13</td><td>140</td><td>3.22</td><td></td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7715,
+                "bbox": [
+                    302,
+                    882,
+                    613,
+                    911
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9356,
+                "bbox": [
+                    140,
+                    963,
+                    366,
+                    993
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6961,
+                "bbox": [
+                    493,
+                    1013,
+                    645,
+                    1043
+                ],
+                "index": 10,
+                "latex": "0 . 5 \\mathrm { ~ x ~ } 1 0 ^ { 1 6 } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.918,
+                "bbox": [
+                    753,
+                    1066,
+                    901,
+                    1096
+                ],
+                "index": 11,
+                "latex": "2 . 2 \\times 1 0 ^ { 1 6 } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.836,
+                "bbox": [
+                    191,
+                    1120,
+                    301,
+                    1150
+                ],
+                "index": 12,
+                "latex": "5 . 5 5 \\times 1 0 ^ { 1 6 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.858,
+                "bbox": [
+                    480,
+                    1119,
+                    531,
+                    1150
+                ],
+                "index": 13,
+                "latex": "/ \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8639,
+                "bbox": [
+                    525,
+                    1204,
+                    557,
+                    1235
+                ],
+                "index": 14,
+                "latex": "\\mathbf { E } _ { c }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8622,
+                "bbox": [
+                    743,
+                    1178,
+                    774,
+                    1208
+                ],
+                "index": 15,
+                "latex": "\\mathtt { E } _ { \\mathtt { c } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    137,
+                    1014,
+                    1161,
+                    1689
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8773,
+                "bbox": [
+                    978,
+                    1231,
+                    1014,
+                    1261
+                ],
+                "index": 17,
+                "latex": "\\mathbf { E } _ { \\mathbf { c } } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8508,
+                "bbox": [
+                    1077,
+                    1258,
+                    1111,
+                    1289
+                ],
+                "index": 18,
+                "latex": "\\mathbf { E } _ { \\mathbf { c } } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4602,
+                "bbox": [
+                    1090,
+                    1549,
+                    1115,
+                    1575
+                ],
+                "index": 19,
+                "latex": "{ \\mathfrak { s } } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8918,
+                "bbox": [
+                    1012,
+                    1624,
+                    1155,
+                    1654
+                ],
+                "index": 20,
+                "latex": "2 \\dot { \\mathrm { ~ x ~ } } 1 0 ^ { 1 6 } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    118,
+                    182,
+                    146
+                ],
+                "score": 1.0,
+                "text": "370"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    573,
+                    118,
+                    729,
+                    144
+                ],
+                "score": 0.987,
+                "text": "M. B. IvES et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    171,
+                    1012,
+                    196
+                ],
+                "score": 0.99,
+                "text": "Table 2: Samples and The Corresponding lon-Implantation Parameters"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    887,
+                    608,
+                    913
+                ],
+                "score": 0.99,
+                "text": "EXPERIMENTAL RESULTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    968,
+                    361,
+                    989
+                ],
+                "score": 0.998,
+                "text": "Electrochemical Tests"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1018,
+                    487,
+                    1041
+                ],
+                "score": 0.996,
+                "text": "Samples implanted with less than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    651,
+                    1017,
+                    1157,
+                    1044
+                ],
+                "score": 0.98,
+                "text": "(Samples #1 and #2 in Table 2) did not behave"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1046,
+                    1155,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "appreciably differently to the unimplanted alloy, and were not studied further. The anodic polarization"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1071,
+                    752,
+                    1094
+                ],
+                "score": 0.995,
+                "text": "characteristics of samples implanted with a dose in excess of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    902,
+                    1072,
+                    1154,
+                    1095
+                ],
+                "score": 0.999,
+                "text": "in the standard sulphate/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1099,
+                    1154,
+                    1122
+                ],
+                "score": 0.989,
+                "text": "chloride solution is typified by the observations shown in Fig. 3, which compares sample #10, implanted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1124,
+                    190,
+                    1150
+                ],
+                "score": 1.0,
+                "text": "with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    302,
+                    1125,
+                    479,
+                    1149
+                ],
+                "score": 1.0,
+                "text": "molybdenum ions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    532,
+                    1124,
+                    1155,
+                    1150
+                ],
+                "score": 0.996,
+                "text": "and an unimplanted control sample. It is seen that implantation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1150,
+                    1156,
+                    1177
+                ],
+                "score": 0.997,
+                "text": "of sufficient molybdenum changes the open circuit potential approximately 100 mV in the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1179,
+                    742,
+                    1205
+                ],
+                "score": 0.992,
+                "text": "direction. The change in apparent critical pitting potential,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    775,
+                    1179,
+                    1156,
+                    1205
+                ],
+                "score": 0.997,
+                "text": "is however less reproducible. Sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1205,
+                    524,
+                    1232
+                ],
+                "score": 0.984,
+                "text": "#10, shown in Fig. 3, shows a lower"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    559,
+                    1205,
+                    1156,
+                    1232
+                ],
+                "score": 0.982,
+                "text": "than the base unimplanted alloy, but other similarly-dosed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1233,
+                    977,
+                    1258
+                ],
+                "score": 0.998,
+                "text": "samples showed any of a slightly lower, slightly higher, or almost identical value of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    1233,
+                    1155,
+                    1258
+                ],
+                "score": 0.954,
+                "text": "with no clear"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1257,
+                    1076,
+                    1283
+                ],
+                "score": 0.992,
+                "text": "trend. More significant is the observation that after continuing the potential scan beyond"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1112,
+                    1257,
+                    1156,
+                    1283
+                ],
+                "score": 1.0,
+                "text": "the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1285,
+                    1156,
+                    1312
+                ],
+                "score": 0.998,
+                "text": "current always increases at a significantly slower rate than the unimplanted alloy. In summary, it may"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1312,
+                    1154,
+                    1335
+                ],
+                "score": 0.985,
+                "text": "be concluded that the anodic polarization characteristics are not significantly affected by the ion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1340,
+                    1154,
+                    1363
+                ],
+                "score": 0.992,
+                "text": "implantation treatment, except for the slower increase in anodic current following passivity breakdown."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1366,
+                    1156,
+                    1390
+                ],
+                "score": 0.988,
+                "text": "As an alternative electrochemical test, pit initiation was studied by monitoring the variation of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1392,
+                    1156,
+                    1415
+                ],
+                "score": 0.992,
+                "text": "anodic current with time after the addition of chloride to the solution, with the sample maintained at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1417,
+                    1156,
+                    1443
+                ],
+                "score": 0.992,
+                "text": "a constant potential (500 mV(SCE) which would be within the passive range for the alloy immersed in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1445,
+                    1154,
+                    1468
+                ],
+                "score": 0.989,
+                "text": "the 0.1M sodium sulphate. Figure 4 shows the current-time curves of implanted sample #9 (Table 2)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1471,
+                    1154,
+                    1495
+                ],
+                "score": 0.99,
+                "text": "and a blank alloy control sample. Chloride was added at the 30 min mark, to create a 0.6M sodium"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1498,
+                    1155,
+                    1521
+                ],
+                "score": 0.994,
+                "text": "chloride solution. Breakdown of the control sample, as indicated by a sharp increase in anodic current,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1524,
+                    1154,
+                    1548
+                ],
+                "score": 0.99,
+                "text": "is seen to occur within one minute. However, the implanted alloy also exhibits breakdown within only"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    138,
+                    1550,
+                    1089,
+                    1574
+                ],
+                "score": 0.998,
+                "text": "a little longer period, but the increase in current is much slower. For the samples of Fig."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1116,
+                    1550,
+                    1157,
+                    1574
+                ],
+                "score": 1.0,
+                "text": "the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1575,
+                    1156,
+                    1601
+                ],
+                "score": 0.998,
+                "text": "implanted sample exhibits less than 100-fold increase after 10 minutes in the chloride solution, whereas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1604,
+                    1156,
+                    1626
+                ],
+                "score": 0.995,
+                "text": "after the same time lapse the current in the unimplanted UNS S30100 current is many orders of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1631,
+                    1004,
+                    1652
+                ],
+                "score": 0.993,
+                "text": "magnitude greater. Initiation tests on other samples implanted with more than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1659,
+                    585,
+                    1679
+                ],
+                "score": 0.998,
+                "text": "molybdenum ions showed similar behaviour."
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9397,
+                "bbox": [
+                    443,
+                    117,
+                    833,
+                    147
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8911,
+                "bbox": [
+                    1115,
+                    119,
+                    1154,
+                    145
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9839,
+                "bbox": [
+                    149,
+                    199,
+                    654,
+                    839
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9747,
+                "bbox": [
+                    210,
+                    871,
+                    634,
+                    1011
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9844,
+                "bbox": [
+                    673,
+                    201,
+                    1151,
+                    836
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.976,
+                "bbox": [
+                    701,
+                    872,
+                    1157,
+                    1010
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9439,
+                "bbox": [
+                    139,
+                    1126,
+                    431,
+                    1156
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9822,
+                "bbox": [
+                    136,
+                    1179,
+                    1157,
+                    1294
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9796,
+                "bbox": [
+                    136,
+                    1313,
+                    1157,
+                    1427
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    136,
+                    1446,
+                    1158,
+                    1692
+                ],
+                "index": 10
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    446,
+                    120,
+                    829,
+                    145
+                ],
+                "score": 1.0,
+                "text": "Corrosion of Mo-implanted stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1114,
+                    119,
+                    1154,
+                    148
+                ],
+                "score": 1.0,
+                "text": "371"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    875,
+                    630,
+                    901
+                ],
+                "score": 0.992,
+                "text": "Fig. 3. Potentiostatically-controlled"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    902,
+                    629,
+                    926
+                ],
+                "score": 0.994,
+                "text": "anodic polarization characteristics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    931,
+                    628,
+                    953
+                ],
+                "score": 0.987,
+                "text": "of an unimplanted control sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    956,
+                    630,
+                    981
+                ],
+                "score": 0.997,
+                "text": "and implanted alloy sample #10"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    984,
+                    404,
+                    1008
+                ],
+                "score": 1.0,
+                "text": "(Table 2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    706,
+                    875,
+                    1152,
+                    900
+                ],
+                "score": 0.993,
+                "text": "Fig. 4. Current density as a function of time,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    903,
+                    1153,
+                    924
+                ],
+                "score": 0.996,
+                "text": "before and after the addition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    927,
+                    1153,
+                    954
+                ],
+                "score": 0.979,
+                "text": "chloride ions, for a control sample"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    786,
+                    956,
+                    1153,
+                    980
+                ],
+                "score": 0.985,
+                "text": "and implanted alloy sample #9 (Table"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    783,
+                    979,
+                    818,
+                    1011
+                ],
+                "score": 1.0,
+                "text": "2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1129,
+                    426,
+                    1153
+                ],
+                "score": 0.999,
+                "text": "Microstructural Examination"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1182,
+                    1151,
+                    1207
+                ],
+                "score": 0.997,
+                "text": "A combination of optical and electron-optical microscopy revealed both the extent of local attack on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1210,
+                    1152,
+                    1232
+                ],
+                "score": 0.992,
+                "text": "the implanted samples and the detailed form of the particular pits produced in samples with high doses"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1237,
+                    1151,
+                    1259
+                ],
+                "score": 0.989,
+                "text": "of implanted molybdenum. The low-dose samples (#1 and #2) showed no difference in pitting attack"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1264,
+                    629,
+                    1287
+                ],
+                "score": 0.992,
+                "text": "morphology to the unimplanted control samples."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1315,
+                    1153,
+                    1340
+                ],
+                "score": 0.997,
+                "text": "A comparison of the pitting characteristics of the implanted and unimplanted material was demonstrated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1341,
+                    1152,
+                    1367
+                ],
+                "score": 0.994,
+                "text": "particularly vividly on a sample which had been ion-implanted over only half its surface area, by masking"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1371,
+                    1151,
+                    1393
+                ],
+                "score": 0.993,
+                "text": "the sample in the implanter. Figure 5(a) shows an optical micrograph of this sample, after anodic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1395,
+                    1151,
+                    1421
+                ],
+                "score": 0.992,
+                "text": "polarization at 600 mV(SCE) for a time necessary to pass 1 C/cm² of total charge through the sample."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1449,
+                    1153,
+                    1473
+                ],
+                "score": 0.989,
+                "text": "The differences in attack of the unimplanted and implanted regions of the surface, and the straight"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1474,
+                    1153,
+                    1501
+                ],
+                "score": 0.992,
+                "text": "boundary between them, are clearly seen. In particular, the unimplanted alloy exhibits relatively large"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1502,
+                    1152,
+                    1526
+                ],
+                "score": 0.992,
+                "text": "irregular pits, exhibiting a \"lacy\" surround, as originally reported some years ago by Rosenfeld and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1529,
+                    1153,
+                    1553
+                ],
+                "score": 0.988,
+                "text": "Danilov (13), and typical of pits produced in this alloy under potentiostatic control, as shown in more"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1556,
+                    1152,
+                    1580
+                ],
+                "score": 0.993,
+                "text": "detail in Fig. 5(b). In contrast, the implanted region shows a much higher density of smaller pits which,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1580,
+                    1153,
+                    1609
+                ],
+                "score": 0.994,
+                "text": "on examination at higher resolution with scanning electron microscopy, are seen (Fig. 6(a).) to be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1610,
+                    1152,
+                    1630
+                ],
+                "score": 0.993,
+                "text": "completely circular in outline and covered by smooth caps. In addition, a few pits were found to have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1635,
+                    1151,
+                    1659
+                ],
+                "score": 0.987,
+                "text": "formed along the boundary between the implanted and unimplanted region and exhibited features"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1662,
+                    652,
+                    1686
+                ],
+                "score": 0.994,
+                "text": "appropriate to both regions, as shown in Fig. 6(b)."
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9091,
+                "bbox": [
+                    141,
+                    118,
+                    183,
+                    145
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9424,
+                "bbox": [
+                    562,
+                    116,
+                    722,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8834,
+                "bbox": [
+                    145,
+                    152,
+                    195,
+                    194
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9816,
+                "bbox": [
+                    202,
+                    188,
+                    619,
+                    502
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8858,
+                "bbox": [
+                    630,
+                    152,
+                    681,
+                    194
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9845,
+                "bbox": [
+                    702,
+                    189,
+                    1112,
+                    499
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9704,
+                "bbox": [
+                    297,
+                    521,
+                    1158,
+                    607
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8789,
+                "bbox": [
+                    141,
+                    655,
+                    191,
+                    699
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.984,
+                "bbox": [
+                    185,
+                    728,
+                    597,
+                    1034
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9004,
+                "bbox": [
+                    625,
+                    656,
+                    676,
+                    700
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9852,
+                "bbox": [
+                    681,
+                    707,
+                    1091,
+                    1037
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9706,
+                "bbox": [
+                    297,
+                    1062,
+                    1157,
+                    1151
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8836,
+                "bbox": [
+                    140,
+                    1247,
+                    190,
+                    1289
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9823,
+                "bbox": [
+                    181,
+                    1314,
+                    602,
+                    1635
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8985,
+                "bbox": [
+                    624,
+                    1246,
+                    676,
+                    1290
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9818,
+                "bbox": [
+                    689,
+                    1314,
+                    1097,
+                    1630
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9685,
+                "bbox": [
+                    298,
+                    1666,
+                    1158,
+                    1726
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    120,
+                    182,
+                    147
+                ],
+                "score": 1.0,
+                "text": "372"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    565,
+                    119,
+                    720,
+                    143
+                ],
+                "score": 0.971,
+                "text": "M. B. IvES et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    151,
+                    199,
+                    215
+                ],
+                "score": 1.0,
+                "text": "(a)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    626,
+                    151,
+                    684,
+                    215
+                ],
+                "score": 1.0,
+                "text": "(b)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    524,
+                    1153,
+                    550
+                ],
+                "score": 0.988,
+                "text": "Fig. 5. (a) Optical micrograph of a UNS S30100 sample half-implanted with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    383,
+                    550,
+                    1154,
+                    578
+                ],
+                "score": 0.99,
+                "text": "molybdenum at 50 keV and anodically polarized. (b) Typical pit formed on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    579,
+                    702,
+                    603
+                ],
+                "score": 0.986,
+                "text": "unimplanted UNS S30100 alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    138,
+                    657,
+                    192,
+                    720
+                ],
+                "score": 1.0,
+                "text": "(a)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    656,
+                    680,
+                    721
+                ],
+                "score": 1.0,
+                "text": "(b)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    1065,
+                    1152,
+                    1093
+                ],
+                "score": 0.991,
+                "text": "Fig. 6. Scanning electron micrographs of typical pits produced on (a) the implanted"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    382,
+                    1092,
+                    1152,
+                    1120
+                ],
+                "score": 0.991,
+                "text": "side of the half-implant sample shown in Fig. 5(a); (b) at the boundary"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    383,
+                    1121,
+                    806,
+                    1146
+                ],
+                "score": 0.995,
+                "text": "between implanted and unimplanted alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1247,
+                    193,
+                    1311
+                ],
+                "score": 1.0,
+                "text": "(a)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    1247,
+                    678,
+                    1310
+                ],
+                "score": 1.0,
+                "text": "(b)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    1671,
+                    1152,
+                    1695
+                ],
+                "score": 0.982,
+                "text": "Fig. 7. Transmission electron microscopy of an extracted pit cover: (a) Bright field"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    386,
+                    1698,
+                    1143,
+                    1721
+                ],
+                "score": 0.997,
+                "text": "micrograph of cover fragments; (b) Selected area electron diffraction pattern."
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9405,
+                "bbox": [
+                    432,
+                    118,
+                    822,
+                    145
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8944,
+                "bbox": [
+                    1110,
+                    121,
+                    1151,
+                    146
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    125,
+                    159,
+                    1151,
+                    405
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.942,
+                "bbox": [
+                    128,
+                    451,
+                    400,
+                    481
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5769,
+                "bbox": [
+                    212,
+                    553,
+                    264,
+                    582
+                ],
+                "index": 5,
+                "latex": "\\kappa ^ { 8 4 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986,
+                "bbox": [
+                    125,
+                    504,
+                    1149,
+                    671
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.494,
+                "bbox": [
+                    633,
+                    555,
+                    700,
+                    585
+                ],
+                "index": 7,
+                "latex": "\\mathbf { \\hat { M } } \\mathbf { o } ^ { \\otimes 6 } )"
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.8036,
+                "bbox": [
+                    404,
+                    727,
+                    826,
+                    1041
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9689,
+                "bbox": [
+                    289,
+                    1067,
+                    1146,
+                    1127
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9814,
+                "bbox": [
+                    126,
+                    1195,
+                    1148,
+                    1310
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9885,
+                "bbox": [
+                    125,
+                    1329,
+                    1150,
+                    1683
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    435,
+                    119,
+                    819,
+                    144
+                ],
+                "score": 1.0,
+                "text": "Corrosion of Mo-implanted stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1110,
+                    123,
+                    1148,
+                    147
+                ],
+                "score": 1.0,
+                "text": "373"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    156,
+                    1147,
+                    188
+                ],
+                "score": 0.986,
+                "text": "A number of aspects of these pit fcatures were examined in greater detail. High-resolution Auger"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    185,
+                    1146,
+                    212
+                ],
+                "score": 0.997,
+                "text": "electron spectroscopy (AES) was not particularly helpful in determining the nature of the covers. A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    212,
+                    1145,
+                    240
+                ],
+                "score": 0.981,
+                "text": "cover was extracted for examination by floating it onto an aluminum grid and placing in a Philips EM-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    236,
+                    1146,
+                    269
+                ],
+                "score": 0.994,
+                "text": "301 electron microscope. Figure 7(a) shows the bright field transmission image of the pieces of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    265,
+                    1145,
+                    294
+                ],
+                "score": 0.997,
+                "text": "broken cover. Energy dispersive X-ray analysis showed high concentrations of the component metal ions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    293,
+                    1144,
+                    319
+                ],
+                "score": 0.998,
+                "text": "of the alloy, suggesting that the cover comprises a significant amount of alloy metal. This conclusion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    318,
+                    1144,
+                    347
+                ],
+                "score": 0.993,
+                "text": "was confirmed by examination of the selected area diffraction pattern, shown in Fig. 7(b), which suggests"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    346,
+                    1144,
+                    373
+                ],
+                "score": 0.998,
+                "text": "that the cover has a fine mosaic structure. Indexing the spots in this pattern could not be related to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    375,
+                    964,
+                    399
+                ],
+                "score": 0.985,
+                "text": "any metal oxide in the system, further supporting the metallic nature of the covers."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    454,
+                    394,
+                    477
+                ],
+                "score": 0.992,
+                "text": "Radiation Damage Effects"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    506,
+                    1143,
+                    530
+                ],
+                "score": 0.991,
+                "text": "The high density of pits produced on the implanted side of the sample shown in Fig. 5(a) was confirmed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    534,
+                    1143,
+                    558
+                ],
+                "score": 0.994,
+                "text": "to be a consequence of radiation damage: Anodic polarization of a similar sample half-implanted with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    558,
+                    211,
+                    583
+                ],
+                "score": 0.995,
+                "text": "50 keV"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    267,
+                    559,
+                    630,
+                    583
+                ],
+                "score": 0.999,
+                "text": "ions (which have a mass similar to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    706,
+                    560,
+                    1144,
+                    584
+                ],
+                "score": 0.989,
+                "text": "produced the attack shown in Fig. 8. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    583,
+                    1144,
+                    614
+                ],
+                "score": 0.977,
+                "text": "difference in density of small pit features is seen to be similar in Figs. 5(a) and 8, while \"lacy\" large pits"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    611,
+                    1143,
+                    636
+                ],
+                "score": 0.995,
+                "text": "also occur on both sides of the krypton-implanted sample. The implanted krypton thus causes radiation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    639,
+                    1060,
+                    663
+                ],
+                "score": 0.993,
+                "text": "damage to the alloy substrate without the pit-moderating influence provided by molybdenum."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    295,
+                    1071,
+                    1141,
+                    1095
+                ],
+                "score": 0.988,
+                "text": "Fig. 8. Optical micrograph of sample half-implanted with krypton and anodically"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    375,
+                    1099,
+                    845,
+                    1122
+                ],
+                "score": 0.988,
+                "text": "polarized identically to the sample of Fig. 5(a)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1198,
+                    1143,
+                    1223
+                ],
+                "score": 0.992,
+                "text": "In passing, it is worth observing that the passivating films formed on the 50 keV implanted samples"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1227,
+                    1143,
+                    1249
+                ],
+                "score": 0.995,
+                "text": "(both molybdenum or krypton) would appear to inherit a high density of weak points, which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1254,
+                    1142,
+                    1276
+                ],
+                "score": 0.992,
+                "text": "subsequently produce fine pits once the anodic potential is increased above the critical pitting potential."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    1280,
+                    963,
+                    1303
+                ],
+                "score": 0.975,
+                "text": "This supports the \"weak link\" concept of the local breakdown of passive films (14)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1329,
+                    1145,
+                    1357
+                ],
+                "score": 0.992,
+                "text": "When alloy samples were implanted with 140 keV, instead of 50 keV, molybdenum ions the density of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1357,
+                    1143,
+                    1383
+                ],
+                "score": 0.993,
+                "text": "pits on anodically polarized samples was much less. Figure 9(a) shows a region of one typical such"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1385,
+                    1144,
+                    1409
+                ],
+                "score": 0.996,
+                "text": "sample, showing some surface staining due to corrosion product. This sample, even though polarized"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1411,
+                    1145,
+                    1435
+                ],
+                "score": 0.994,
+                "text": "for 15 minutes after breakdown, showed very few regions like this with pits of any kind. This is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1439,
+                    1143,
+                    1462
+                ],
+                "score": 0.992,
+                "text": "consistent with the fact that radiation damage is reduced as the energy of the implanted ion is increased,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    1461,
+                    1144,
+                    1491
+                ],
+                "score": 0.992,
+                "text": "as has been observed by Howe et al (15) for the thermal oxidation of iron, and by Ashworth et al.(16)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1489,
+                    1146,
+                    1518
+                ],
+                "score": 0.993,
+                "text": "for the growth of native oxides on iron. But while the density of pits is greatly reduced by using the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    1519,
+                    1144,
+                    1543
+                ],
+                "score": 0.996,
+                "text": "higher implantation energy, the morphology of the pits is similar. Figure 10 shows an optical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1543,
+                    1145,
+                    1571
+                ],
+                "score": 0.984,
+                "text": "micrograph of one such pit on a sample which was only rinsed after anodic treatment by dipping into"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1569,
+                    1145,
+                    1598
+                ],
+                "score": 0.996,
+                "text": "distilled water with no agitation, and dried in air. This procedure appears to avoid tearing the pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    1597,
+                    1145,
+                    1623
+                ],
+                "score": 0.995,
+                "text": "covers. Figure 10 suggests that the covers have relaxed following removal from solution, since they have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1622,
+                    1144,
+                    1650
+                ],
+                "score": 0.989,
+                "text": "a slightly crinkled appearance, which is exaggerated by the Nomarski interference contrast technique"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    1649,
+                    1136,
+                    1677
+                ],
+                "score": 0.995,
+                "text": "(17), and which if viewed in the scanning electron microscope would appear like the pits in Fig. 6(a)."
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9076,
+                "bbox": [
+                    137,
+                    118,
+                    178,
+                    144
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9438,
+                "bbox": [
+                    566,
+                    116,
+                    725,
+                    144
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7015,
+                "bbox": [
+                    140,
+                    165,
+                    189,
+                    206
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.983,
+                "bbox": [
+                    199,
+                    178,
+                    611,
+                    491
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7265,
+                "bbox": [
+                    625,
+                    165,
+                    674,
+                    207
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9867,
+                "bbox": [
+                    692,
+                    185,
+                    1103,
+                    490
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.967,
+                "bbox": [
+                    297,
+                    510,
+                    1156,
+                    571
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9878,
+                "bbox": [
+                    448,
+                    669,
+                    860,
+                    975
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9689,
+                "bbox": [
+                    298,
+                    1013,
+                    1156,
+                    1070
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9324,
+                "bbox": [
+                    300,
+                    1144,
+                    451,
+                    1172
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7149,
+                "bbox": [
+                    170,
+                    1249,
+                    317,
+                    1280
+                ],
+                "index": 11,
+                "latex": "0 . 5 \\times 1 0 ^ { 1 6 } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    136,
+                    1197,
+                    1158,
+                    1366
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    137,
+                    1385,
+                    1159,
+                    1550
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852,
+                "bbox": [
+                    138,
+                    1568,
+                    1159,
+                    1708
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    119,
+                    177,
+                    147
+                ],
+                "score": 1.0,
+                "text": "374"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    568,
+                    117,
+                    724,
+                    143
+                ],
+                "score": 0.961,
+                "text": "M. B. IVES et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    163,
+                    194,
+                    227
+                ],
+                "score": 1.0,
+                "text": "(a)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    163,
+                    678,
+                    228
+                ],
+                "score": 1.0,
+                "text": "(b)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    514,
+                    1151,
+                    538
+                ],
+                "score": 0.99,
+                "text": "Fig. 9. Pits produced after long anodic polarization above the critical pitting potential:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    385,
+                    542,
+                    1008,
+                    566
+                ],
+                "score": 0.983,
+                "text": "(a) on molybdenum-implanted alloy; (b) on unimplanted alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    1017,
+                    1151,
+                    1041
+                ],
+                "score": 0.996,
+                "text": "Fig. 10. Nomarski interference contrast in optical micrograph of a typical pit on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    383,
+                    1045,
+                    618,
+                    1065
+                ],
+                "score": 0.999,
+                "text": "implanted steel surface."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    1151,
+                    445,
+                    1172
+                ],
+                "score": 0.994,
+                "text": "DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1200,
+                    1152,
+                    1224
+                ],
+                "score": 0.999,
+                "text": "Despite the fact that the layer of implanted molybdenum is very thin, it does seem to be sufficient,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1226,
+                    1153,
+                    1251
+                ],
+                "score": 0.995,
+                "text": "particularly when implantation is carried out at the higher energy (140 keV) and an ion dose in excess"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1254,
+                    169,
+                    1279
+                ],
+                "score": 1.0,
+                "text": "of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    318,
+                    1254,
+                    1153,
+                    1278
+                ],
+                "score": 0.987,
+                "text": ", to markedly improve the density of pitting attack on UNS S30100 stainless steel."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1279,
+                    1152,
+                    1306
+                ],
+                "score": 0.998,
+                "text": "Comparison of Fig. 9(a) with the pits in Fig. 9(b), representing a similarly-treated unimplanted sample,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1308,
+                    1153,
+                    1332
+                ],
+                "score": 0.998,
+                "text": "clearly shows this, and also indicates that the pit growth rates are reduced considerably by molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1336,
+                    569,
+                    1360
+                ],
+                "score": 0.999,
+                "text": "implantation of sufficient dose and energy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1387,
+                    1153,
+                    1411
+                ],
+                "score": 0.993,
+                "text": "Of additional interest in the observations of this study is the particular morphology of the pits produced"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1413,
+                    1154,
+                    1439
+                ],
+                "score": 0.992,
+                "text": "in implanted material. Comparison of Figs. 5(b) and 6 demonstrates the differences in pit morphology"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1440,
+                    1154,
+                    1463
+                ],
+                "score": 0.998,
+                "text": "after anodic treatment of unimplanted and implanted material. The unimplanted alloy exhibits \"lacy\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1469,
+                    1154,
+                    1489
+                ],
+                "score": 0.992,
+                "text": "edges to the pits, while the implanted alloy pits are circular in plan view and have smooth covers, which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1494,
+                    1154,
+                    1515
+                ],
+                "score": 0.99,
+                "text": "include alloy metal, and little more than a small hole at their centre. It is assumed that the tears and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1520,
+                    1021,
+                    1543
+                ],
+                "score": 0.99,
+                "text": "folds seen at some of the covers are artifacts produced during processing of the sample."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1571,
+                    1153,
+                    1594
+                ],
+                "score": 0.985,
+                "text": "We can suppose that the process of forming the \"lacy\" pits follows the scheme outlined in Fig. 11."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1597,
+                    1153,
+                    1622
+                ],
+                "score": 0.981,
+                "text": "After initial breakdown of the protective passive film by agglomeration of aggressive (chloride) ions (a)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1624,
+                    1154,
+                    1648
+                ],
+                "score": 0.997,
+                "text": "a pit develops into the unprotected alloy below (b). The next stage is described by Pickering(18)(19),"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1651,
+                    1154,
+                    1673
+                ],
+                "score": 0.997,
+                "text": "using the concept of IR drop within the pit mouth, which leads to an active potential which can permit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1677,
+                    1154,
+                    1700
+                ],
+                "score": 0.996,
+                "text": "dissolution of the vertical walls, leading to undercutting (c). The final stage involves the dissolution"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9394,
+                "bbox": [
+                    440,
+                    117,
+                    829,
+                    145
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8974,
+                "bbox": [
+                    1120,
+                    118,
+                    1161,
+                    143
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9304,
+                "bbox": [
+                    266,
+                    210,
+                    1056,
+                    391
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9522,
+                "bbox": [
+                    298,
+                    424,
+                    1038,
+                    456
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    136,
+                    497,
+                    1157,
+                    583
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9876,
+                "bbox": [
+                    137,
+                    603,
+                    1159,
+                    795
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9849,
+                "bbox": [
+                    448,
+                    903,
+                    858,
+                    1208
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9687,
+                "bbox": [
+                    303,
+                    1238,
+                    1158,
+                    1296
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868,
+                "bbox": [
+                    139,
+                    1348,
+                    1162,
+                    1513
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9348,
+                "bbox": [
+                    305,
+                    1561,
+                    483,
+                    1588
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851,
+                "bbox": [
+                    140,
+                    1614,
+                    1163,
+                    1752
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    444,
+                    120,
+                    825,
+                    143
+                ],
+                "score": 0.999,
+                "text": "Corrosion of Mo-implanted stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1118,
+                    119,
+                    1159,
+                    146
+                ],
+                "score": 1.0,
+                "text": "375"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    427,
+                    1033,
+                    452
+                ],
+                "score": 0.997,
+                "text": "Fig. 11. Schematic development of \"lacy\" pits by undercutting mechanism."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    499,
+                    1153,
+                    523
+                ],
+                "score": 0.998,
+                "text": "of the underside of the undercut alloy, resulting in a new perforation, which when it has occurred at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    526,
+                    1152,
+                    549
+                ],
+                "score": 0.989,
+                "text": "many locations around the pit, results in the lacy effect (d). This model is similar to one proposed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    553,
+                    818,
+                    576
+                ],
+                "score": 0.995,
+                "text": "recently by Egert (20) for surfaces with protective metallic coatings."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    605,
+                    1153,
+                    628
+                ],
+                "score": 0.981,
+                "text": "Howcver, the process of pit development in the molybdenum-implanted matcrial will be different due"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    633,
+                    1154,
+                    656
+                ],
+                "score": 0.989,
+                "text": "to the highly alloyed surface layer. Consequently, if a pit forms undercutting can still occur but the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    658,
+                    1155,
+                    683
+                ],
+                "score": 0.991,
+                "text": "breakthrough from below is impeded by the highly-protective alloy laycr. That there is an attempt at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    684,
+                    1155,
+                    709
+                ],
+                "score": 0.975,
+                "text": "attack on the underside of the covers by thc highly corrosive pit solution is shown in Fig. 12. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    713,
+                    1152,
+                    735
+                ],
+                "score": 0.985,
+                "text": "pock-marks on the curled underside are clcarly scen, but no perforation is possible due to the highly-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    739,
+                    1154,
+                    762
+                ],
+                "score": 0.997,
+                "text": "alloyed material. This model explains the metallic nature of the covers, as concluded from the detailed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    769,
+                    434,
+                    788
+                ],
+                "score": 0.985,
+                "text": "electron microscopic analysis."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1240,
+                    1156,
+                    1265
+                ],
+                "score": 0.999,
+                "text": "Fig. 12. Optical micrograph of curled-up covers from pits on a sample similar to that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    387,
+                    1270,
+                    679,
+                    1293
+                ],
+                "score": 0.99,
+                "text": "shown in Figs. 5(a) and 9(a)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1350,
+                    1156,
+                    1374
+                ],
+                "score": 0.985,
+                "text": "It follows that one rcason for the slow growth rate of the covered pits is that the growth is controlled"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1377,
+                    1156,
+                    1401
+                ],
+                "score": 0.992,
+                "text": "by mass transport through the central perforation, rather than being due to the increasingly aggressive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1404,
+                    1158,
+                    1426
+                ],
+                "score": 0.991,
+                "text": "solution including, for example, a decreased pH, within the extremely \"occluded\" cell. Dissolution of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1432,
+                    1156,
+                    1452
+                ],
+                "score": 0.984,
+                "text": "the highly concentratcd molybdenum might also contribute to inhibition of the anodic dissolutíon within"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1458,
+                    1157,
+                    1481
+                ],
+                "score": 0.988,
+                "text": "the occluded pit. The crinkling effect (Fig. 10) could also be an indication of the relaxation occurring"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1484,
+                    1111,
+                    1506
+                ],
+                "score": 0.986,
+                "text": "after clastic stretching of the covers by the corrosion product build-up within the constricted pit."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1567,
+                    479,
+                    1591
+                ],
+                "score": 0.989,
+                "text": "CONCLUSIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1615,
+                    1157,
+                    1638
+                ],
+                "score": 0.999,
+                "text": "It is concluded that implanting molybdenum into an austenitic stainless stecl, at sufficient energy to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1642,
+                    1157,
+                    1664
+                ],
+                "score": 0.987,
+                "text": "avoid significant radiation damage and at doses sufficicnt to produce a ncar-surface maximum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1669,
+                    1158,
+                    1692
+                ],
+                "score": 0.997,
+                "text": "concentration of greater than 10 at%, can significantly reduce the pitting corrosion susceptibility under"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1695,
+                    1158,
+                    1719
+                ],
+                "score": 0.992,
+                "text": "anodic polarization control in marine-like environments. The feasibility of such processing for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1725,
+                    601,
+                    1746
+                ],
+                "score": 0.993,
+                "text": "commercial purposes is, however, not proven."
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1300,
+            "height": 1942
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9044,
+                "bbox": [
+                    137,
+                    118,
+                    179,
+                    141
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.925,
+                "bbox": [
+                    559,
+                    119,
+                    718,
+                    145
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    136,
+                    157,
+                    1157,
+                    268
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9436,
+                "bbox": [
+                    302,
+                    314,
+                    564,
+                    341
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9754,
+                "bbox": [
+                    137,
+                    368,
+                    1158,
+                    452
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9385,
+                "bbox": [
+                    301,
+                    526,
+                    467,
+                    554
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9477,
+                "bbox": [
+                    140,
+                    607,
+                    766,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9376,
+                "bbox": [
+                    140,
+                    635,
+                    649,
+                    661
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9344,
+                "bbox": [
+                    141,
+                    661,
+                    887,
+                    688
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9361,
+                "bbox": [
+                    140,
+                    688,
+                    607,
+                    714
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.941,
+                "bbox": [
+                    140,
+                    714,
+                    1076,
+                    766
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9396,
+                "bbox": [
+                    140,
+                    766,
+                    831,
+                    794
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9307,
+                "bbox": [
+                    140,
+                    793,
+                    862,
+                    820
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9423,
+                "bbox": [
+                    140,
+                    819,
+                    802,
+                    846
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.938,
+                "bbox": [
+                    141,
+                    846,
+                    1138,
+                    874
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9319,
+                "bbox": [
+                    141,
+                    873,
+                    1051,
+                    899
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9363,
+                "bbox": [
+                    142,
+                    900,
+                    1070,
+                    927
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9359,
+                "bbox": [
+                    143,
+                    927,
+                    812,
+                    953
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9687,
+                "bbox": [
+                    142,
+                    954,
+                    1092,
+                    1005
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9713,
+                "bbox": [
+                    142,
+                    1006,
+                    1087,
+                    1059
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9692,
+                "bbox": [
+                    142,
+                    1060,
+                    1127,
+                    1112
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9672,
+                "bbox": [
+                    142,
+                    1112,
+                    1097,
+                    1164
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9408,
+                "bbox": [
+                    142,
+                    1165,
+                    924,
+                    1193
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9436,
+                "bbox": [
+                    142,
+                    1193,
+                    715,
+                    1221
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9658,
+                "bbox": [
+                    142,
+                    1220,
+                    1099,
+                    1272
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9441,
+                "bbox": [
+                    140,
+                    1274,
+                    582,
+                    1303
+                ],
+                "index": 26
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    137,
+                    118,
+                    179,
+                    145
+                ],
+                "score": 1.0,
+                "text": "376"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    562,
+                    120,
+                    716,
+                    144
+                ],
+                "score": 0.977,
+                "text": "M. B. IVES et al."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    159,
+                    1152,
+                    183
+                ],
+                "score": 0.992,
+                "text": "The morphology of pits produced in molybdenum surface-implanted stainless steels is very different to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    185,
+                    1153,
+                    209
+                ],
+                "score": 0.983,
+                "text": "that produced on untreated commercial alloys. Pits are less dense, and those that do form are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    211,
+                    1152,
+                    238
+                ],
+                "score": 0.999,
+                "text": "constrained in their growth by the presence of a persistent cover of implanted alloy, and, perhaps, by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    240,
+                    698,
+                    262
+                ],
+                "score": 0.988,
+                "text": "an inhibiting excess of molybdenum ions within the pit."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    320,
+                    559,
+                    346
+                ],
+                "score": 1.0,
+                "text": "ACKNOWLEDGMENTS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    369,
+                    1153,
+                    395
+                ],
+                "score": 0.996,
+                "text": "This research was supported under a contract with Chemetics International Ltd. and the University"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    394,
+                    1154,
+                    422
+                ],
+                "score": 0.983,
+                "text": "Research Incentive Fund of the Province of Ontario, the provision of funds for which are gratefully"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    422,
+                    1115,
+                    448
+                ],
+                "score": 0.989,
+                "text": "acknowledged. The support of one of us (S.C.S.) by the Government of India is also recognised."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    532,
+                    462,
+                    553
+                ],
+                "score": 0.979,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    610,
+                    761,
+                    634
+                ],
+                "score": 0.975,
+                "text": "1. K. Sugimoto and Y. Sawada, Corrosion 32, 347 (1976)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    634,
+                    643,
+                    662
+                ],
+                "score": 0.988,
+                "text": "2. Ja M. Kolotyrkin, Corrosion 19, 261 (1963)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    660,
+                    883,
+                    688
+                ],
+                "score": 0.979,
+                "text": "3. A.P. Bond and E.A. Lizlovs, J. Electrochem. Soc. 115, 1130 (1968)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    686,
+                    602,
+                    716
+                ],
+                "score": 0.987,
+                "text": "4. R.J. Brigham, Corrosion 28, 177 (1972)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    715,
+                    171,
+                    740
+                ],
+                "score": 1.0,
+                "text": "5."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    714,
+                    1073,
+                    740
+                ],
+                "score": 0.981,
+                "text": "Guo Ruijin, S.C. Srivastava, M.B. Ives, in Proceedings 10th. International Congress on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    740,
+                    950,
+                    766
+                ],
+                "score": 0.976,
+                "text": "Metallic Corrosion, Oxford & IBH Publishing Co., Calcutta, 1987, p. 3225"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    765,
+                    825,
+                    794
+                ],
+                "score": 0.968,
+                "text": "6. M. Moriya and M.B. Ives, J. Microscopy, 133, 155-170, (1984)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    792,
+                    858,
+                    820
+                ],
+                "score": 0.988,
+                "text": "7. C.R. Clayton and Y.C. Lu, J. Electrochem. Soc. 133, 2465 (1986)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    819,
+                    795,
+                    846
+                ],
+                "score": 0.983,
+                "text": "8. K. Sugimoto and Y. Sawada, Corrosion Sci. 17, 425 (1977)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    845,
+                    1137,
+                    875
+                ],
+                "score": 0.981,
+                "text": "9. V,. Ashworth, W.A. Grant, R.P.M. Proctor, R.T.P. Wellington, Corrosion Sci. 16, 393 (1976)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    872,
+                    1048,
+                    900
+                ],
+                "score": 0.989,
+                "text": "10. V. Ashworth, D. Baxter, W.A. Grant, R.P.M. Proctor, Corrosion Sci. 16, 775 (1976)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    900,
+                    1066,
+                    927
+                ],
+                "score": 0.982,
+                "text": "11. V. Ashworth, W.A. Grant, R.P.M. Proctor, E.J. Wright, Corrosion Sci. 18, 681 (1978)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    925,
+                    808,
+                    954
+                ],
+                "score": 0.982,
+                "text": "12. U.G. Akano, PhD Dissertation, McMaster University (1987)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    954,
+                    1088,
+                    980
+                ],
+                "score": 0.97,
+                "text": "13. J.L. Rosenfeld and J.S. Danilov, in Proceedings, 3rd. International Congress on Metallic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    981,
+                    536,
+                    1004
+                ],
+                "score": 0.99,
+                "text": "Corrosion, Moscow (1969) p.139"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1006,
+                    1085,
+                    1034
+                ],
+                "score": 0.993,
+                "text": "14. See, for example, H.H. Uhlig and R.W. Revie, \"Corrosion and Corrosion Control\", Third"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1035,
+                    589,
+                    1059
+                ],
+                "score": 0.991,
+                "text": "edition, Wiley-Interscience, 1985, p.74"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1060,
+                    1125,
+                    1085
+                ],
+                "score": 0.986,
+                "text": "15. C.I. Howe, B. McEnaney, V.D. Scott and G. Dearnley, in \"Ion Implantation into Metals\", ed."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1088,
+                    699,
+                    1112
+                ],
+                "score": 0.986,
+                "text": "V. Ashworth et al., Pergamon Press (1982) p.211"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1112,
+                    1093,
+                    1139
+                ],
+                "score": 0.991,
+                "text": "16. V. Ashworth, W.A. Grant and R.P.M. Proctor, Ind. Eng. Chem. Prod. Res. Dev. 17, 177"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1139,
+                    277,
+                    1165
+                ],
+                "score": 1.0,
+                "text": "(1978)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1164,
+                    920,
+                    1194
+                ],
+                "score": 0.985,
+                "text": "17. R.D. Allen, G.B. David and G. Nomarski, Z. wiss. Mikr. 69 193 (1969)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1193,
+                    711,
+                    1221
+                ],
+                "score": 0.989,
+                "text": "18. H.W. Pickering, Corrosion Science, 29, 325 (1989)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1219,
+                    1096,
+                    1248
+                ],
+                "score": 0.985,
+                "text": "19. A. Valdes and H.W. Pickering, in \"Advances in Localised Corrosion\", NACE, Houston, in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1250,
+                    268,
+                    1274
+                ],
+                "score": 1.0,
+                "text": "press."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1272,
+                    578,
+                    1303
+                ],
+                "score": 0.987,
+                "text": "20. C.M. Egert, Corrosion, 44, 36 (1988)"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1300,
+            "height": 1942
+        }
+    }
+]

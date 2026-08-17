@@ -1,0 +1,4479 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "THE ROLE OF MOLYBDENUM ADDITIONS TO AUSTENITIC STAINLESS STEELS IN THE INHIBITION OF PITTING IN ACID CHLORIDE SOLUTIONS*"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                96,
+                167,
+                883,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                257,
+                637,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Metallurgy, Faculty of Engineering, Tohoku University, Sendai, Japan"
+                    }
+                ]
+            },
+            "bbox": [
+                123,
+                290,
+                825,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract—In order to clarify the mechanism for increased resistance to pitting in acid chloride solutions by addition of Mo to Cr-Ni stainless steels, the anodic polarization curves, a.c. electrode impedances, ellipsometric parameters and X-ray photo-electron spectra have been measured on the Mo-containing steels passivated in 1N HCl. The results showed that the presence of an adequate amount of Cr is indispensable for the improvement of pitting resistance by the Mo addition. The passive films of the Mo-containing steels were found to be composed of a complex oxyhydroxide containing Crª+ Fe³+, Ni²+, Moª+ and Cl- and showed a rather higher d.c. resistance in HCl solution than in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 8 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. The thickness of the passive film increases with increase in Mo content."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                320,
+                901,
+                427
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                400,
+                450,
+                588,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT HAs long been known that additions of Mo to austenitic Cr-Ni stainless steels, to a marked degree, improve resistance to chloride pitting.1-1s The mechanism by which the increased resistance is obtained is not well understood. According to the literature, the following propositions have been made as to the effect of alloyed Mo: (1) thickening of the passive films of the steels,14 (2) forming a heteropoly acid† film which is less readily hydrolysed and more readily polymerized,1⁵ (3) impeding the adsorption of Cl- on to the surface of the steel by increasing the oxygen affinity of the steel,8 and (4) forming an amorphous oxide film with a glassy structure.1º Each of these effects is thought to be important and has to be taken into account in elucidating the mechanism for the improvement of pitting resistance by alloying with Mo. In addition, however, the electrochemical behaviour of Mo in the potential region of passivity for Mo-containing Cr-Ni steels must also be an important factor to be considered."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                469,
+                903,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In previous work, it has been reported that alloyed Mo in Cr-Ni stainless steels causes the transpassive reaction in the potential range where the Mo-containing Cr-Ni steels passivate.17 A theoretical examination of thermodynamic data shows that the product of the transpassive reaction of Mo depends on the pH of test solutions; that is, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is formed in solutions with pH < ca. 3.5 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(or HMoO{) in solutions with pH > ca. 3.5.18 Consequently, alloyed Mo in Cr-Ni stainless steels will be retained in the passive films as a Mo(VI) oxide or dissolve into solutions as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "according to the pH of the solutions used when the Mo-containing Cr-Ni steels are polarized up to the potentials at which the steole pasivate."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                695,
+                903,
+                852
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Corrosion Science, 1977, Vol. 17, pp. 425 to 445. Pergamon Press. Printed in Great Britain"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                67,
+                695,
+                82
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Manuscript received 28 November 1975."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                858,
+                458,
+                874
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "†A heteropoly acid is an acid in which some or all of the oxygen atoms in the radical have been replaced by a different acid radical."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                875,
+                901,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "425"
+                    }
+                ]
+            },
+            "bbox": [
+                480,
+                907,
+                514,
+                920
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Since "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "can serve as a very effective pitting inhibitor, pitting of the Mocontaining steels in neutral chloride solutions may be inhibited by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions which are formed by dissolution of Mo in the steels.17,19 In the case of acid chloride solutions in which "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O } _ { 4 } ^ { 2 - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions are thermodynamically unstable, an increase in pitting resistance by the addition of Mo to the steels should be brought about by the improvement of properties of the passive films by Mo(VI) oxide present in the films."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                104,
+                906,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The purpose of the present investigation is to clarify the origin of increased pitting resistance with increasing Mo content in acid chloride solutions by examination of the composition and characteristics of the passive films formed in these solutions. For this purpose, measurements of anodic polarization curves in HCl solution and, in some cases, in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution, were performed on the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r { - } N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "stainless steels with varying amounts of Mo, several pure components of the steels, and combinations of the two alloying components. On the basis of the results of these polarization measurements, subsequent experiments were carried out to determine the critical composition at which Mo makes the steels highly resistant to pitting. Measurements of a.c. impedance, ellipsometric parameters, and X-ray photo-electron spectra were then conducted on the passive films formed on the surfaces of the Mo-containing Cr-Ni steels in order to investigate how the electrical properties, thickness, optical constants, and chemical composition of the films change with the Mo content of the steels. On the basis of these experimental results, the role of alloyed Mo in the steels in the inhibition of pitting in acid chloride solutions is considered and discussed."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                209,
+                906,
+                471
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL METHOD"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                344,
+                484,
+                651,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                498,
+                181,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rolled sheets of austenitic 20Cr-25Ni steels containing 0–5 wt% Mo were used as specimens and the analytical compositions of these steels are listed in Table 1. All of these specimens were heated in vacuo at 1050°C for 2 h and then water-quenched to 0°C. In addition, 25Ni-5Mo steels containing 5–20 wt % Cr, Fe–-Cr alloys (Cr:15–70 wt %), Fe-Mo alloys (Mo:4–59wt %), Ni–Mo alloys (Mo:5–20 wt%, and pure Fe, Cr, Ni and Mo were also used as specimens. These specimens were subjected to suitable heat treatments to obtain homogeneous and annealed structures. The specimens were cut to a size of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 \\times 2 0 \\times 1 . 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "mm for the electrochemical polarization and the a.c. impedance measurements, 30 × 20 × 1.5 mm for ellipsometry, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 \\times 5 \\times 0 . 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "mm for X-ray photo-electron spectroscopy (XPS or ESCA)."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                511,
+                901,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Specimens, except for those used for ellipsometry, were mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide, degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting. The specimens used for ellipsometry were finished with polishing by use of diamond paste and degreased in ultrasonic baths of petroleum ether and absolute ethyl alcohol."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                628,
+                901,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The surfaces of specimens were masked with PTFE seal tapes attached to an epoxy-resin under coating except for an area of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\ \\times \\ 1 \\ \\mathrm { c m } ^ { \\bullet }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for electrochemical polarization measurements and a.c. impedance measurements and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\times 1 ~ { \\mathsf { c m } } ^ { \\mathrm { ~ \\circ ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for ellipsometry, while those for XPS measurements were not masked."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                693,
+                899,
+                748
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0764fc055e6eb998990ec57f061c8fda8962a826251d6c3c098a3c4d07cc1cc8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. COMPOSITIONS OF THE STEELS STUDIED (Wt %)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Specimen</td><td>C</td><td>Si</td><td>Mn</td><td>P</td><td>S</td><td>Cr</td><td>Ni</td><td>Mo</td></tr><tr><td>20Cr-25Ni</td><td>0.053</td><td>0.54</td><td>1.53</td><td>0.009</td><td>0.010</td><td>20.06</td><td>25.58</td><td>0.01</td></tr><tr><td>20Cr-25Ni-1Mo</td><td>0.057</td><td>0.48</td><td>1.48</td><td>0.009</td><td>0.010</td><td>19.99</td><td>25.88</td><td>1.05</td></tr><tr><td>20Cr-25Ni-3Mo</td><td>0.064</td><td>0.52</td><td>1.47</td><td>0.009</td><td>0.010</td><td>20.16</td><td>25.52</td><td>2.97</td></tr><tr><td>20Cr-25Ni-5Mo</td><td>0.059</td><td>0.46</td><td>1.44</td><td>0.008</td><td>0.010</td><td>19.96</td><td>25.66</td><td>5.06</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                791,
+                892,
+                904
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "426"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                69,
+                129,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                69,
+                621,
+                85
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrolytic solutions"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                102,
+                261,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1NHCl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathbf { p } \\mathbf { H } = \\mathbf { 0 } . 0 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was mainly used as the test solution and, in some cases, 1] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\aleph \\mathbf { H _ { 2 } S O _ { 4 } } ( \\mathbf { p H } = 0 . 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was used for comparison. All solutions used were de-aerated by bubbling purified nitrogen for more than 30 min."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                115,
+                899,
+                157
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrochemical polarization measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                167,
+                434,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the measurement of anodic polarization curves, the electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting of the potential which was increased successively in steps of 25 mV from the corrosion potential. The reference electrode, to which all potentials are referred, was a saturated calomel electrode. Measurements were carried out in de-oxygenated solutions at room temperature "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 5 ^ { \\circ } \\mathbf { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "under stationary conditions."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                180,
+                901,
+                260
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A.C. impedance measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                271,
+                335,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The a.c. electrode impedances of various stainless steels were measured at a fixed potential in the passive region by using an apparatus for measuring Lissajou's ellipse, coupled to a potentiostat or a galvanostat.2º The applied a.c. amplitude was held at ca. 5 mV. For the frequency range 104–1 Hz, Lissajou's figures were recored on the Braun tube of a synchroscope and, for the range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 - 1 0 ^ { - 3 } \\ H z , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "on an X-Y chart recorder. The series capacitive reactance, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 / \\omega C _ { \\cdots }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the series resistance, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { R } _ { \\pmb { \\imath } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were obtained by analysis of the resulting ellipse and the complex impedance, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Z = R _ { * } - \\mathrm { j } \\mathrm { / o c } _ { w }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was plotted at each potential, It is clear that the resistance at zero frequency, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { \\odot  \\infty }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the complex impedance diagram is the d.c. resistance of the passive film, which is thought to be directly proportional to the corrosion resistance of the film.²1"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                284,
+                901,
+                404
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ellipsometric measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                414,
+                315,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To determine the thickness and optical constants of passive films formed on the Mo-containing 20Cr-25Ni steels, the ellipsometric measurements were carried out on the steel surfaces during anodic polarization in solutions. The electrochemical-optical cell had the same shape as that used by Sato'et al. and two optical windows whose angle of incidence was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ^ { \\circ } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "A Mizojiri Kogaku type MD-36M ellipsometer was used for the measurements. Ellipsometric parameters, ∆ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Psi ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at the extinction point were measured after specimens had been held at each potential for 1 h. The wavelength of the monochromatic light used for the measurement was 5461 Å, its angle of incidence being 60.00°. The film thickness and the optical constants were calculated from the values of ∆ and ψ with the aid of a NEAC 2200 MOD VII computer on the basis of exact Drude's equations.ªª"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                427,
+                901,
+                547
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "XPS measurements"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                557,
+                248,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to investigate the kinds and valencies of the constituent atoms of passive films formed on specimens in HCl solution, the surfaces of specimens treated at various potentials for 1 h were analyzed by means of XPS using a Kokusai Denki type KES-X-2001 electron spectrometer. Specimens were irradiated with Al Kα radiation with a mean energy of 1486.6eV. The voltage and the current applied to an X-ray tube were 10KV and 20mA, respectively. The specimen container was evacuated to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\bar { 1 0 ^ { - 7 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Torr and held at r.t. The photo-electron spectra of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 } / _ { 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\pmb { p } _ { \\pmb { \\imath } } / \\bullet"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for Fe, Cr, Ni and Cl, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 8 i \\geq }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for Mo, and the 1s level for O and C were measured. The binding energies at the peaks observed in the photo-electron spectra obtained were corrected by using the value of the energy of C 1s level observed as the background spectrum, assuming the difference in energy between the 1s level of C and the Fermi level of metallic Pd to be 285.0eV."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                570,
+                901,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "EXPERIMENTAL RESULTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                355,
+                725,
+                651,
+                741
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anodic polarization curves"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                745,
+                342,
+                761
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1 shows anodic polarization curves for 20Cr-25Ni stainless steels containing 0-5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ^ \\circ C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "As clearly seen in the Figure, an increase in the Mo content shifts the pitting potential in the noble direction and pitting does not occur on the steel with 5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "up to the potential for the onset of transpassive dissolution "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( c a . + 0 . 8 5 \\ : \\mathrm { V } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Investigations to find the cause of this increase in resistance to pitting by Mo alloying were made."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                763,
+                906,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The anodic polarization curves in 1N HCl of pure Fe, Cr, Ni and Mo which are the main components of the Mo-containing 20Cr-25Ni steel are compared in Fig. 2 with those for the 20Cr-25Ni steel and the 20Cr-25Ni-5Mo steel. Pure Fe and Ni show the active dissolution from their corrosion potentials and are not passivated. Pure Mo exhibits the transpassive dissolution above — 0·03 V and dissolves at a high rate in the passive region of the 20Cr-25Ni-5Mo steel. The occurrence of the transpassive dissolution of Mo above — 0.03 V was also observed on the anodic polarization curve of Mo in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "A thick dark blue oxide layer formed on the surface of a Mo electrode during the transpassive dissolution. This layer was found to be composed of Mo(VI) oxide, e.g. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "by means of XPS. The layer was so fragile and porous that it could not inhibit the dissolution of a Mo electrode. Pure Cr did not show pitting in this solution and maintained its passivity up to + 0.85 V above which the transpassive dissolution occurred. It should be noted that the passive region of Cr completely covers that of the 20Cr-25Ni-5Mo steel."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                867,
+                906,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                67,
+                702,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "427"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                69,
+                897,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/88f26496ca78590bef0d8923e1674454368dcd568377494c0b98cdbc973a7f54.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 1. Anodic polarization curves for 20Cr-25Ni stainless steels containing 0–5 wt%Mo in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf 2 5 ^ { \\circ } C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                156,
+                127,
+                789,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                82,
+                624,
+                903,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These results show that Cr makes the greatest contribution to the increase in the pitting resistance among the components of the 20Cr-25Ni-5Mo steel. It seems strange that alloyed Mo increases dramatically the pitting resistance of stainless steels while pure Mo dissolves at a high rate in the potential region where the 20Cr-25Ni-5Mo steel passivates. This suggests that Mo takes part in increased resistance to pitting only as an alloying element."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                833,
+                903,
+                906
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "1N HCl"
+                    }
+                ]
+            },
+            "bbox": [
+                266,
+                101,
+                326,
+                115
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "428"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                69,
+                125,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                67,
+                619,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/c350da23fae866955d338edbc8961dfb32d05cc019283c489e298df3da5a1bbf.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 2. Anodic polarization curves for pure Fe, Cr, Ni and Mo and 20Cr-25Ni stainless steels with and without Mo in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { \\pmb { 2 5 } } ^ { \\circ } \\mathsf { \\bf C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                100,
+                130,
+                872,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                712,
+                901,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An examination was carried out to find a combination between Mo and Fe, Cr or Ni which could exhibit a higher resistance to chloride pitting, by measuring anodic polarization curves of the binary alloys of Fe-Cr, Fe-Mo, and Ni-Mo in 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                747,
+                901,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3 shows the anodic polarization curves of Fe-Cr alloys containing 15- 70 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% 0 ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The pitting potential of the alloys shifts in the noble direction with increase in Cr content. When the alloys contained "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "> 4 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathrm { \\Omega }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", pitting did not occur in the alloys. It should be noted that, in the case of the Fe-Cr alloys without Mo, the amount of Cr needed to attain complete inhibition of pitting in 1N HCl is about twice that of the 20Cr-25Ni-5Mo steel."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                799,
+                901,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                67,
+                702,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "429"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                69,
+                899,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2f9f554afbf6e43461b7c272403cf9a80a3bc6b70200aec98b605e7a138e27ac.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 3. Anodic polarization curves for Fe-Cr binary alloys containing 15-70 wt % Cr in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathbf { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                100,
+                125,
+                870,
+                550
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4 shows the anodic polarization curves of Fe-Mo alloys containing 4 20 wt%Mo. The alloys of this type dissolve actively from their corrosion potentials and are not passivated in 1N HCl at all. Combinations of Fe and Mo do not bring about improved pitting resistance. Since Fe-Mo alloys can be passivated in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the effect of Mo alloyed with Fe on the current density in the passive state was examined by using the anodic polarization curves measured in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The results are shown in Fig. 5. It is shown that the current density in the passive region of the alloy increases with increasing Mo content. Therefore, Mo is an alloying element which decreases the corrosion resistance of the passive film when alloyed with Fe. This decrease in the corrosion resistance is thought to be caused by the transpassive reaction of alloyed Mo as judged by the fact that pure Mo causes transpassive dissolution above - 0.03 V in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                625,
+                901,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although the presentation of the real anodic polarization curves is omitted, the curves of Ni-Mo alloys containing 5–20 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 8 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "showed the same behaviour as that of Fe-Mo alloys. All Ni-Mo alloys used could not be passivated in 1N HCl and their current densities in the passive state in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increased with increase in Mo content. This implies that combinations of Ni and Mo similar to those of Fe-Mo alloys do not result in an increase in pitting resistance."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                833,
+                901,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "430"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                70,
+                123,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                67,
+                617,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/5a513124a1cf516734ad6f9dca7c1472898711d074d65a0c67cea94ab56b8849.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 4. Anodic polarization curves for Fe-Mo binary alloys containing 4–20 wt % Mo in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { z s o } } _ { \\mathbb { C } } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                297,
+                98,
+                677,
+                547
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                82,
+                624,
+                897,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Since alloying with Mo produces an excellent improvement in the pitting resistance of the 20Cr-25Ni steel, it can be predicted that Mo added to alloys will exhibit an inhibiting action to pitting only when the amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "above an adequate level is contained in the alloys. To substantiate this prediction, the anodic polarization curves of the 25Ni-5Mo steels containing 5-20 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { C r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were measured in 1N HCl and the result is shown in Fig. 6. As already shown in Fig. 1, this type of steel with 20 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { C r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is not subject to pitting in this solution. However, even if the steel contained 5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the pitting resistance decreases with decreasing Cr content. The steel with 17wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% 0 \\mathbf { r }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "becomes susceptible to pitting above + 0.40 V and the steels which contain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "< 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cannot be passivated in this solution."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                658,
+                899,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From the results of Figs. 1 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 6 , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the existence of an interaction between Mo and Cr in the stęels for the inhibition of pitting can be understood. In the presence of an adequate amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { c _ { r } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Mo becomes a beneficial alloying element for pitting inhibition. Increase in Mo content decreases the corrosion resistance of the passive film, however, when the steel contains a very small amount of Cr. Experimental evidence that the pitting resistance of the Mo-containing Cr-Ni steels depends on both Cr and Mo contents of the steels has been reported by Streicher¹² on the basis of immersion corrosion tests."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                832,
+                899,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                67,
+                702,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "431"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                69,
+                897,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/64c8ad2ba5ada2f4773050ac5bc2de621ca09cac6c8a6fce75d912a7b071080e.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 5. Anodic polarization curves for Fe-Mo binary alloys containing 4–59 wt % Mo in IN "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\dot { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                71,
+                135,
+                921,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                89,
+                554,
+                908,
+                625
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A.C. impedance of passive film"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                91,
+                641,
+                389,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The complex impedance diagrams measured at + 0.5 V in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 8 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the 20Cr-25Ni-5Mo steel are shown in Fig. 7. The passivation treatment of the specimen was performed as follows: at first, specimens were passivated at + 0.5 V for 3 h in test solutions by use of a potentiostat. The power source was switched over to a galvanostat and constant currents which were equal to the currents immediately after 3 h oxidation by a potentiostat were applied. After confirming that the specimen potential remained at + 0.5 V under the galvanostatic condition, the measurement of a.c. impedance of the specimen was started."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                660,
+                908,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The reason why the measurement of a.c. impedance was carried out under the polarization by a galvanostat was to minimize the influence of the impedance of a power source on the data measured. The internal impedance of the galvanostat used in this experiment was approximately 10 MΩ, which was much larger than the impedance of passivated specimens at the extremely low frequencies, which were frequently in the range 200400 kΩ.cm²."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                799,
+                910,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "432"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                70,
+                129,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                375,
+                67,
+                624,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "IN H2SO_4"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                101,
+                252,
+                118
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0eb1ce23521766d7420f31266b4c03d1ffd006739a689d90237b8eb80a1e2175.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 6. Anodic polarization curves for 25Ni-5Mo stainless steels containing 5-20 wt% Cr in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { 2 5 } } ^ { \\circ } \\mathbf { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                102,
+                105,
+                803,
+                533
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/36207061cc056d3de0102f55960d8dd7ba182ff07a08984ede451b3e320285b6.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 7. Complex impedance diagrams for the 20Cr-25Ni-5Mo steel passivated at + 0.5V in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H } _ { 8 } S O _ { 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Numbers in the diagrams denote frequencies in Hz."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                147,
+                619,
+                780,
+                868
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                261,
+                69,
+                680,
+                85
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "433"
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                69,
+                876,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As shown in Fig. 7, the resistance of the electrode at zero frequency, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { \\infty  0 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is ca. 380 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { k } \\Omega . \\mathsf { c m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N HCl and ca. 240 kΩ.cm² in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The d.c. resistance of the passive film of the 20Cr-25Ni–5Mo steel formed in 1N HCl was thus larger than that formed in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Since the shapes of the impedance loci obtained in both solutions are not perfect but distorted hemi-cycles, the passive films formed in these solutions should be approximated by the electrical equivalent circuits with various time constants."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                104,
+                901,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To make clear the influence of alloyed Mo on the impedance of the passive film, the impedance diagrams of the 20Cr-25Ni and 20Cr-25Ni-5Mo steels were measured at + 0.5 V in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the result is shown in Fig. 8. The values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { \\infty \\to 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were ca. 260 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\pmb { \\Omega } . \\mathbf { c m ^ { 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the 20Cr-25Ni steel and ca. 240 kΩ.cm² for the 20Cr-25Ni-5Mo steel. The d.c. resistance of the passive film formed in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decreases slightly with increasing Mo content of the steels."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                225,
+                901,
+                330
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/742e66ce62e7899e321fa156efc81c917f9a50c1415e1896738c2b1630207bc8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 8. Complex impedance diagrams for 20Cr-25Ni stainless steels with and without Mo passivated at + 0.5V in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 8 } S O _ { 4 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Numbers in the diagrams denote frequencies in Hz."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                217,
+                359,
+                729,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thickness and optical constants of passive film"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                676,
+                525,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to determine the variation of the thickness and optical constants of the passive film with Mo content, in situ ellipsometric measurements were made on the 20Cr-25Ni steels containing 0-5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which were potentiostatically passivated in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf H _ { 2 } S O _ { 4 } \\ ( 2 0 ^ { \\circ } C )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In these measurements, to avoid surface roughening by the dissolution in the active potentials, the potential of specimens was set directly at — 0.01 V which was a potential in the passive range and then the potential was increased successively in the noble direction in steps of 100 mV after holding the potential at each setting for 1 h."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                695,
+                901,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potential dependence of the ellipsometric parameters, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Psi ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the passive range is shown in Fig. 9, in which the vertical axes, d∆ and dΨ, denote the difference between the parameters at the start potential of — 0.01 V, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta _ { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Psi _ { \\mathfrak { d } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and those at each potential, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { \\Delta }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Ψ, respectively."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                833,
+                903,
+                904
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "434"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                70,
+                125,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                369,
+                69,
+                619,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/2777b97c2f002fc1d0edd2f2d72dc3e088b1738658b1fb61850c118cedcf174d.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 9. Variation of the ellipsometric parameters, Δ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Psi ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with potential for 20Cr-25Ni stainless steels containing 0-5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\dot { 2 } } 0 ^ { \\circ } \\mathbf { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                199,
+                99,
+                749,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For all specimens measured, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "decreases linearly with increasing potential, whereas Ψ does not depend on the potential. The rate of decrease in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with increasing potential becomes larger with increase in Mo content. If the optical constants of the passive films of the steels used show little change with the change in Mo content because of small amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the decrease in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at constant Ψ should mean the growth of film at a given potential becomes larger with increase in the Mo content. This will be confirmed later."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                411,
+                899,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to determine the effect of Cl- in solutions on the nature of the passive films, the same measurements as stated above were carried out in IN HCl using the 20Cr-25Ni-5Mo steel which was not subject to pitting in this solution. Figure 10 represents the changes in d "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and dΨ with potential measured in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The rate of decrease in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with increase in potential was larger in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                534,
+                901,
+                640
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/bd76b246b5678c693645864c77560881d5d237f56460a129ac64e53a8423156f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 10. Variation of the ellipsometric parameters, ∆ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Psi ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with potential for the 20Cr-25Ni-5Mo stainless steel in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { 2 0 } \\pmb { \\circ } \\pmb { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                252,
+                653,
+                711,
+                871
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                279,
+                69,
+                700,
+                85
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "435"
+                    }
+                ]
+            },
+            "bbox": [
+                859,
+                69,
+                892,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To calculate the thickness and the optical constants of the passive film from ∆ and Ψ measured during the anodic oxidation, the optical constants of the steel substrates are indispensable. However, in the case of stainless steels, the passive films of which are stable and hard to reduce, the determination of the optical constants of the substrates is always difficult because the film-free surfaces cannot be obtained easily."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                105,
+                901,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This difficulty can be overcome by measuring "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Ψ on the film-free surfaces of stainless steels in dehydrated methanol immediately after the film-removing treatment in a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bromine-methanol solution.²ª This method was first explored²4 to determine the optical constant of the substrate of AISI 304 stainless steel and a value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tilde { n } } _ { 3 } ="
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 6 7 - 4 . 0 3 i"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(at 5461 Å) was obtained. Accordingly, this method was applied to determine the optical constants of the substrates of the Mo-containing 20Cr-25Ni steels in the present study and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tilde { n } _ { 8 } = 2 . 4 3 - 4 { \\cdot } 1 9 i"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the 20Cr-25Ni steel and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\widetilde { n } _ { 3 } ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "2.43 — 4.14i for the 20Cr-25Ni-5Mo steel was obtained. The difference in the optical constant of the substrate caused by changes in the Mo content of the steels seemed to be very small."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                190,
+                901,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Using the above optical constants for the substrates and the optical constant of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n _ { 1 } = 1 . 3 3 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for solution used, the theoretical "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta - \\Psi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "charts were calculated assuming that surface films with various optical constants in the range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 5 \\le n _ { 2 } \\le 3 . 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 \\leq k _ { 2 } \\leq 0 . 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "grow in thickness from 0 to 100 Å. By comparing the experimental "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta - \\Psi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "locus with the theoretical "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta \\sim \\Psi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "charts, the thickness and the complex refractive index of the passive film for each steel were determined and the data are listed in Table 2. For the passive films formed in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the optical constants were 2.3 — 0.2i in the Mo composition range investigated, being almost independent of Mo content. However, the thickness and growth rates of the films tend to increase with increasing Mo content. From a comparison between the film formed on the 20Cr-25Ni-5Mo steel in 1N HCl and that formed on the same steel in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "it is obvious that the real part of the optical constant, thickness, and growth rate of the former are smaller than those of the latter."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                364,
+                901,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chemical composition of passive films"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                606,
+                447,
+                624
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to investigate the change in the chemical composition of passive films with the Mo content of the steels, XPS spectra were measured on the surfaces of the 20Cr-25Ni steels containing 0–5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "after 1 h anodic passivation at + 0.30 V in 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                624,
+                901,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The binding energies at the peaks observed in the XPS spectrum for the specimens are listed in Table 3. As clearly seen from this Table, the value of binding energy for the electron level of each element measured scarcely depends on Mo content. Plural peaks were observed in each spectrum for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels of Fe, Cr and Ni and the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { \\mathfrak { s } / 2 } - 3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels of Mo. Between the two peaks observed in the spectrum for each electron level, one with higher energy is thought to result from an atom in the oxidized state and the other with lower energy from the same atom in the metallic state, as exemplified by the spectra of the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 3 / 2 } - 3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels as follows."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                693,
+                901,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 11 illustrates a comparison of the spectra of the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 8 / 2 } - 3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for the 20Cr-25Ni-5Mo steel, passivated in 1N HCl at + 0.30 V for 1 h, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "powder, and a freshly polished sheet of metallic Mo. It can clearly be understood that among the four peaks observed in the spectrum of the 20Cr-25Ni-5Mo steel the peaks at 235.5 and 232.3 eV originate from Mo oxidized to the hexavalent state and the peaks at 230.4 and 227.7 eV come from metallic Mo. A similar comparison of the XPS spectra for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Fe, Cr and Ni for the passivated 20Cr-25Ni-5Mo steel revealed that the binding energy of the oxide peak observed in the spectrum for each component of the steel agreed approximately with that of the Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 8 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "peak of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e _ { 2 } O _ { 3 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "711.6 eV, the Cr "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { \\mathbf { 3 / 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "peak of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf C r _ { 2 } O _ { 3 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "577.1 eV, and the Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { \\mathrm { { s / 2 } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "peak of Ni(OH)g, 856.5 eV, respectively.2⁵ Therefore, Mo, Fe, Cr and Ni in the passive film of the steel appear to exist in the state of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } , F e ^ { 3 + } , C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N i ^ { 2 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. This interpretation holds for the passive films of the other steels listed in Table 3."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                833,
+                901,
+                904
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "436"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                69,
+                125,
+                82
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                69,
+                619,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6dee1db6224417973ff90d82f08fea6d0122a2946754db5f2fa420f070117c4b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2. OPTICAL CONSTANTS, THICKNESS AND GROWTH RATE FOR THE PASSIVE FILMS OF MO-CONTAINING 20Cr-25Ni STEELS DETERMINED FROM THE ELLIPSOMETRIC PARAMETERS MEASURED AT THE WAVELENGTH 5461 Å"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Specimen</td><td>Solution</td><td>of passive film</td><td>Optical constant Film thickness(Å)  $- \\ : 0 . 0 8 v - + 0 . { \\dot { 7 } } 9 { \\dot { 2 } }$ </td><td>Growth  $\\mathrm { r a t e } ( { \\hat { \\mathbf { A } } } / \\mathbf { V } )$ </td></tr><tr><td>20Cr-25Ni Steel</td><td> $\\mathbf { 1 N \\mathbf { - H _ { 2 } S O _ { 4 } } }$ </td><td>2.3–0.2 i</td><td>11-18</td><td>9</td></tr><tr><td>20Cr-25Ni–1Mo Steel</td><td> $1 \\mathbf { N } \\mathbf { - } \\mathbf { H _ { 2 } S O _ { 4 } }$ </td><td>2.3-0.2 i</td><td>14-22</td><td>10</td></tr><tr><td>20Cr-25Ni-3Mo Steel</td><td> $\\bf { 1 N - H _ { \\mathrm { { z } } } S O _ { 4 } }$ </td><td>2.3-0.2 i</td><td>12-21</td><td>11</td></tr><tr><td>20Cr-25Ni-5Mo Steel</td><td> $1 \\mathbf { N } \\mathbf { - } \\mathbf { H _ { 2 } S O _ { 4 } }$ </td><td>2.3–0.2 i</td><td>15-30</td><td>19</td></tr><tr><td>20Cr-25Ni-5Mo Steel</td><td> $\\mathbf { 1 } \\mathbf { N } \\mathbf { - } \\mathbf { H } \\mathbf { C } \\mathbf { l }$ </td><td>2.0-0.2 i</td><td>17-26</td><td>11</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                151,
+                892,
+                274
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a5b840260582854946f38a036335cad2fcd24f5b5da42fe143c8b27dd7c0a3f0.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 11. Comparison of the XPS spectra of the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 8 } / _ { 8 } { - 3 d _ { 5 } } / _ { 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels for the 20Cr-25Ni-5Mo steel passivated at + 0.30V in 1N HCl for 1 h, MoO₃ powder, and a freshly polished sheet of metallic Mo."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                257,
+                313,
+                731,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                851,
+                903,
+                906
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                69,
+                700,
+                85
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "437"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                69,
+                897,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1562da806db8cef68bca61078ce6b1d62404ca183c2c66f580e67cba313b78f3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TINS  E I PS F RS  IRE IRA"
+                    },
+                    {
+                        "type": "text",
+                        "content": "studd  s t   s  ."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td></td><td>Electrons analysed (binding energy, eV)</td></tr><tr><td></td><td colspan=\"10\"></td><td colspan=\"5\"></td></tr><tr><td>Specimen</td><td>Passivation treatment</td><td>Fe 2p312 oxide  metal</td><td></td><td>Cr 2p{318 oxide</td><td>metal</td><td>Ni 2ps/2 oxide</td><td>metal</td><td>oxide 3d312</td><td>3d5/8</td><td>metal 3d312</td><td>3ds/2</td><td>O 1s</td><td>Cl2p1/2 and 2ps/3 2P1/12</td><td>2p312</td></tr><tr><td>20Cr-21Ni steel</td><td>1N HCl</td><td>s</td><td>w</td><td>s</td><td>sh</td><td>w</td><td>s</td><td></td><td></td><td></td><td></td><td>s</td><td>sh</td><td>s</td></tr><tr><td></td><td>+ 0.3V 1h</td><td>711.7</td><td>707.7</td><td>577.4</td><td>574.2 sh</td><td>857.6</td><td>853.8</td><td></td><td></td><td></td><td>531.8</td><td>530.5</td><td>199.9</td><td>198.5</td></tr><tr><td>20Cr-25Ni-1Mo steel</td><td>1N HCl</td><td>s 712.0</td><td>w 707.8</td><td>s 577.5</td><td>574.3</td><td>W 856.8</td><td>s 853.9</td><td>w 235.1</td><td>S 232.5</td><td>sh 230.4 227.8</td><td>W</td><td>sh</td><td>w</td><td>s</td></tr><tr><td>20Cr-25Ni-3Mo</td><td>+ 0.3V 1h</td><td>s</td><td>w</td><td>S</td><td>sh</td><td>W</td><td>s</td><td>w</td><td>s</td><td>sh</td><td>531.8</td><td>530.4 sh</td><td>199.8</td><td>198.6</td></tr><tr><td>steel</td><td>1N HCl</td><td>712.1</td><td>707.5</td><td>577.5</td><td>574.3</td><td>857.7</td><td>853.7</td><td>235.4</td><td>232.3</td><td>230.2 227.3</td><td>W 531.7</td><td>530.3</td><td>sh</td><td>s 198.4</td></tr><tr><td>20Cr-25Ni-5Mo</td><td>+ 0.3V 1h</td><td>s</td><td>w</td><td>S</td><td>sh</td><td>W</td><td>s</td><td>W</td><td>s</td><td>sh</td><td></td><td></td><td>199.8</td><td></td></tr><tr><td>steel</td><td>1N HCl</td><td>712.0</td><td>707.6</td><td>577.4</td><td>574.2</td><td>856.3</td><td>853.5</td><td>234.9</td><td>232.2</td><td>230.7 227.7</td><td>W 531.9</td><td>s</td><td>sh sh</td><td>s</td></tr><tr><td>20Cr-25Ni-5Mo</td><td>+ 0.3V 1h</td><td></td><td></td><td></td><td>sh</td><td>w</td><td>s</td><td>w</td><td>S</td><td>w</td><td></td><td>530.4 S</td><td>200.3 sh</td><td>198.6</td></tr><tr><td></td><td>1N H2SO,</td><td>S 712.4</td><td>S 707.6</td><td>S 577.5</td><td>574.4</td><td>856.7</td><td>853.8</td><td>235.5</td><td>232.1</td><td>231.0 227.6</td><td>w 532.1</td><td></td><td></td><td></td></tr><tr><td>steel</td><td>± 0V 1h</td><td>s</td><td></td><td></td><td></td><td></td><td></td><td>W</td><td>S</td><td></td><td>W</td><td>530.7</td><td></td><td></td></tr><tr><td>Fe-4Mo alloy</td><td>1N HCl</td><td>711.0</td><td></td><td></td><td></td><td></td><td></td><td>235.2</td><td>232.1</td><td></td><td>227.8</td><td></td><td></td><td></td></tr><tr><td></td><td>+ 0.1V 10min</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>W</td><td>s</td><td>sh</td><td>S</td><td></td></tr><tr><td>Mo sheet</td><td>freshly polished</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>231.0</td><td>227.9</td><td>533.3 531.3</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>W 235.8</td><td>S 232.7</td><td></td><td></td><td></td><td>S</td><td></td></tr><tr><td>MoO₃ powder</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>531.1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                306,
+                101,
+                794,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "438"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                69,
+                185,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                429,
+                69,
+                677,
+                85
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                85,
+                104,
+                899,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On the basis of the results obtained by Auger electron spectroscopy, Lumsden et "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a l . ^ { 2 8 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reported that AISI 316 stainless steel (ca. 2.3 wt %Mo) passivated at 442 mV (vs NHE) in 1.0M "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N a C l + 0 . 1 M \\ N a _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution contained no Mo in its passive film. However, the present study by XPS showed undoubtedly the existence of oxidized Mo, which was probably in the hexavalent state, in the passive films of the steels containing 1-5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                208,
+                899,
+                312
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As shown in Table 3, the spectra of the O 1s level for all of the steels used have two peaks at ca. 531.8 and 530.5 eV. This means that the passive films of the steels contain two types of oxygen differing in the method of chemical bonding. One with higher binding energy comes from oxygen in the M-OH (M: metal element) or O-OH bond and the other with lower binding energy arises from that in the M-O bond.2⁵ It can be suggested that the passive films of the steels used are composed of a complex oxyhydroxide rather than an oxide. The intensity ratio between these two peaks in the O 1s spectrum depended slightly on the Mo content and the intensity of the peak with lower energy increased with increasing Mo content."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                312,
+                899,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pronounced spectra of the Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 / 2 } - 2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electron levels were obtained for all the steels treated in 1N HCl, showing the existence of chlorine in the passive film which came from the solution. Since the binding energies of the Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 8 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electron level for the steels listed in Table 3 are almost equal to that for NaCl powder, 198.5 eV,17 chlorine in the passive films should exist as Cl-."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                468,
+                899,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to clarify the quantitative relationship between the constituent atoms of the passive films, the peak area ratios of an oxide peak observed in the spectrum for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { \\mathfrak { s } / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Fe and Ni and the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Mo vs that in the spectrum of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Cr were calculated for each steel. These ratios as a function of Mo content are shown in Fig. 12, in which the results obtained for the steels passivated at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm \\boldsymbol { \\mathfrak { 0 } } \\ : \\mathbf { V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 1 h are also illustrated. It is clear that the ratio of Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 } / \\mathrm { C r } 2 p _ { 9 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increases with increasing Mo content in both cases of the passivation in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Therefore, the amount of Mo contained in the passive films should increase with increasing Mo content. Although the possibility of a high concentration of Mo in the passive films of AISI 304 and 316 steels has been suggested by Rhodin²7 and Barnes et al.,2º this possibility can hardly be expected for the films of the steels used in the present study because the ratio of Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 } / \\mathrm { C r } 2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is considerably smaller than that of Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 8 / 2 } / \\mathrm { C r } 2 p _ { 9 / 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as shown in Fig. 12."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                554,
+                901,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As to the effect of the solutions used for the passivation treatment on the composition of the passive films, the films formed in 1N HCl were thought to have a higher "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content and lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { M } \\circ ^ { \\pmb { \\otimes } + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "contents than those formed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 N H _ { 2 } S O _ { 4 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "because the ratios of Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 2 p _ { 3 / 2 } } / \\mathrm { C r } ~ 2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 } / \\mathrm { C r } 2 p _ { \\mathbb { 3 } / 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 8 / 2 } / \\mathbf { C r } 2 p _ { \\tilde { 8 } / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the steels passivated in 1N HCl were smaller than those for the steels passivated in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". However, the difference in the Mo content between the passive films in the two solutions is not substantially large."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                780,
+                901,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                69,
+                702,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "439"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                69,
+                897,
+                82
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7666a4e158449ad0d98af0ebd4d5b7d48f9622bf74c6fbc43ba6287ee740e43f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 12. Variation of area ratios of oxide peaks in XPS spectra with the Mo content for Mo-containing 20Cr-25Ni steels passivated in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 9 } S O _ { 4 } }"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                304,
+                111,
+                677,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 13 shows the area ratio of the peaks in the spectrum of the Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 / 2 } - 2 p _ { \\mathbb { 3 / 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels vs those of the O 1s level as a function of Mo content. The ratio of the Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 / 2 } -"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 2 p _ { \\tt S I O } } / { 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1s was almost independent of the Mo content up to 3 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\textcircled { \\scriptsize { \\cdot } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but'slightly decreased when the steel contained 5 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Consequently, the amount of Clcontained in the passive films of the 20Cr-25Ni-5Mo steel which has good resistance to chloride attack is thought to be lower than that for steels containing < 3 wt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\% \\mathbf { M } \\bullet"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which show poor resistance to such attack."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                476,
+                906,
+                602
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/cebe84c217e1b7c8ff6c4a22cf03cf6f1d071be6f00fbe21477433c60801bd5a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 13. Variation of the peak area ratio, Cl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 / 8 } - 2 p _ { 9 / 2 / 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1s, with the Mo content for the XPS spectrum of the 20Cr-25Ni-5Mo steel passivated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { a t } + \\mathbf { 0 . 3 0 V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N HCl for 1 h."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                317,
+                615,
+                664,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to clarify the variation of the passive film composition with potential, XPS spectra were measured on the 20Cr-25Ni-5Mo steel which was anodically oxidized for 1 h in the range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 0 . 3 5 - + 0 . 7 0 \\ : \\mathrm { v }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 1N HCl. The binding energies of the peaks observed in an XPS spectrum for each alloying component are tabulated in Table 4. It is shown that the value for the oxide peak for each component is almost independent of the oxidation potential. The oxidation state of each component atom of the passive films probably shows little change with potential within the range examined."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                851,
+                901,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "440"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                69,
+                131,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                375,
+                69,
+                624,
+                85
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                82,
+                102,
+                899,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 14 shows the area ratio of an oxide peak observed in each spectrum for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 8 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Fe and Ni, the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { 5 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Mo, and the peaks in the spectrum for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { 1 / 2 } - 2 p _ { 3 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "levels of Cl and the 1s level of O vs an oxide peak in the spectrum for the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { \\mathsf { 3 / 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "level of Cr as a function of potential. Almost all the ratios shown in this Figure, excepting the ratio of Ni "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 p _ { \\mathrm { { s / 2 } } } / \\mathrm { { C r } } ~ 2 p _ { \\mathrm { { \\ s / 2 } } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "change greatly in the potential range of the active dissolution, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf e . g . } \\ - \\ 0 . 3 5 { \\mathrm { - - } } \\ 0 . { \\dot { 1 } } 0 \\ ^ { \\cdot }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "V, but moderately in the range of passivity, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { e . g . \\pm 0 . + 0 . 7 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "V, with raising potential."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                189,
+                901,
+                313
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/8aaa7ca55b08a51cf6ce78fa6df0bc7cf2cbff0f4f7277a96c73adf50982f98b.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "FiG. 14. Variation of the peak area ratios with potential for the XPS spectrum of the 20Cr-25Ni-5Mo steel passivated in 1N HCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathbf { C } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                275,
+                320,
+                709,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ratio of Fe "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ 2 p _ { 3 / 2 } } / \\mathrm { C r } ~ 2 p _ { 9 / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "exhibits the largest change and decreases with the rise of potential even if within the range of passivity. Accordingly, an accumulation of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a shortage of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the passive film will be promoted by raising the potential, but the amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } , \\ N i ^ { 2 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Cl⁻ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { O ^ { 2 - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "contained in the film will be scarcely affected by the change in potential. On the basis of the fact that the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf C l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content of the passive film is independent of potential, it can be suggested that the improved resistance to pitting of the 20Cr-25Ni-5Mo steel results from the protective function of its passive film which impedes the take-up of Cl- all over the range of passivity."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                744,
+                906,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                67,
+                700,
+                82
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "441"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                67,
+                894,
+                80
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c0d431f06d48dd7aa1b2aa12a89c33772773299d0c6684b0acce7ae70a1b37a2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "JS E  G S  IE& IS S-- HL I RES E  I S E R SG IIS ICL"
+                    },
+                    {
+                        "type": "text",
+                        "content": "whuu =   == e. St = S"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Film formation</td><td colspan=\"10\">Electrons analysed (binding energy, eV)</td><td colspan=\"5\"></td></tr><tr><td rowspan=\"2\">potential (V vs SCE)</td><td colspan=\"2\">Fe 2ps12</td><td colspan=\"2\">Cr 2ps12</td><td colspan=\"2\">Ni 2ps/8</td><td colspan=\"4\">Mo3d3/s and 3d{/3</td><td colspan=\"4\"></td></tr><tr><td>oxide</td><td>metal</td><td>oxide</td><td>metal</td><td>oxide</td><td>metal</td><td>oxide 3dg/2</td><td>3ds12</td><td>3d312</td><td>metal 3ds/2</td><td>O 1s</td><td></td><td>Cl 2p1&#x27;2 and 2pa/2 2p{1/2</td><td>2pa/s</td></tr><tr><td>-0.35</td><td>s 712.2 s</td><td>W 707.5 W</td><td>s 577.2 s</td><td>sh 574.1 sh</td><td>W 856.4</td><td>s 853.7</td><td>w 235.1</td><td>s 232.2</td><td>sh 230.3</td><td>w 227.6</td><td>s 531.8</td><td>530.3</td><td>W 200.4</td><td>s 198.5</td></tr><tr><td>- 0.25</td><td>711.8 s</td><td>707.5 w</td><td>577.1 s</td><td>574.2 sh</td><td>w 856.9 w.</td><td>s 853.8 s</td><td>W 235.3 W</td><td>S 232.4 S</td><td>sh 230.7</td><td>W 227.8 w</td><td>s 531.5</td><td>sh 530.4</td><td>sh 200.5</td><td>s 198.3</td></tr><tr><td>- 0.10</td><td>712.3 S</td><td>707.6 w</td><td>577.4 s</td><td>574.2 sh</td><td>856.3 W</td><td>853.9 S</td><td>235.5 W</td><td>232.1</td><td>w 230.7</td><td>228.0 W</td><td>s 531.6</td><td>sh 530.3 sh</td><td>sh 199.8 sh</td><td>s 198.2 s</td></tr><tr><td>± 0</td><td>712.5 S</td><td>707.6 w</td><td>577.3 S</td><td>574.4 sh</td><td>856.7 W</td><td>853.6 s</td><td>235.2 w</td><td>S 232.3 S</td><td>W 230.9 sh</td><td>227.5 W</td><td>s 531.7</td><td>530.4</td><td>200.1</td><td>198.2 s</td></tr><tr><td>+ 0.30</td><td>712.0 S</td><td>707.6 w</td><td>577.4 s</td><td>574.2 sh</td><td>856.3 W</td><td>853.5</td><td>234.9 W</td><td>232.2</td><td>230.7</td><td>227.7</td><td>S 531.9</td><td>sh 530.4 sh</td><td>sh 200.3 w</td><td>198.6 s</td></tr><tr><td>+ 0.70</td><td>711.6</td><td>707.7</td><td>577.3</td><td>574.5</td><td>856.8</td><td>s 853.8</td><td>235.4</td><td>S 231.6</td><td>sh 230.6</td><td>W 227.5</td><td>s 531.9</td><td>530.2</td><td>200.4</td><td>198.4</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                241,
+                105,
+                626,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "442"
+                    }
+                ]
+            },
+            "bbox": [
+                35,
+                69,
+                71,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                315,
+                69,
+                565,
+                86
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                418,
+                102,
+                565,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Measurements of the anodic polarization curves in 1N HCl for the Mocontaining Cr-Ni stainless steels with various compositions lead to the conclusion that additions of Mo improve the pitting resistance of the steels in the presence of Cr above a certain level which depends on the amount of Mo added. Mo decreases the corrosion resistance of the passive films when added to iron base alloys without Cr. Therefore, in order to clarify the mechanism for the improvement of the resistance to pitting by alloyed Mo, it must be explained why the existence of Cr in steels is indispensable for deriving the beneficial effect of the Mo addition, and in particular, why the transpassive dissolution of Mo in the passive films is suppressed by the presence of Cr in the films of the steels. Since this type of improvement was thought to be concerned with the composition and structure of the passive films, a consideration was given at first to the chemical composition of the passive films formed on the 20Cr-25Ni-5Mo steel having a high corrosion resistance in 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                121,
+                899,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to the XPS studies, the passive film of the 20Cr-25Ni-5Mo steel is considered to be an oxyhydroxide which contains "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e ^ { 3 + } , ~ C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ni²+ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 8 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as cations. Among these ions, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "should play a very important role in improving the corrosion resistance of the films. The corrosion resistance of the steels should increase when films which are mainly composed of Cr(III) oxyhydroxide and Mo(VI) oxide are formed on the surfaces of the steels. It must be remembered, however, that Mo(VI) oxide, e.g. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cannot form by itself a compact surface film having a good resistance to corrosion, as can be seen from Fig. 2, which shows that pure Mo dissolves with a large rate producing an unprotective oxide film of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the potential range above "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm \\ 0 \\ \\mathbf { V } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The observed phenomenon that the current density in the passive state of the Fe-Mo binary alloy increases with increase in Mo content is thought to result from the nature of the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 3 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "oxide. On the other hand, Cr(III) oxyhydroxide, e.g. CrOOH, can compose very compact surface films which are stable to the attack of Cl- and acids as can be seen from the fact that pure Cr is not subject to pitting in 1N HCl. Therefore, the formation of a surface film which is mainly composed of a Cr(III) oxyhydroxide should result in increased resistance to pitting as in the case of Fe-Cr alloys with high Cr contents."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                346,
+                901,
+                643
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In previous work concerning the analysis of the chemical composition of Fe-Cr alloys by XPS, it has been suggested that the passive films of the alloys with high Cr contents were composed of oxyhydroxides of Cr and Fe and the amount of Cr increased with increasing Cr content.2⁵ Since sites where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "exist in high concentrations in the passive films are thought to be less resistant to the attack of Cl-, the pitting resistance of Fe-Cr alloys will be considerably improved by overcoming this drawback with an increase of Cr(III) oxyhydroxide in the films."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                641,
+                903,
+                763
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Even if Mo is added to the Cr-Ni stainless steels, these steels are subject to pitting when the Cr content is low, because the passive films of the steels with low Cr content consist mostly of Fe or Ni oxides (or oxyhydroxides) which are not stable in acid solutions containing Cl-. Since Cr concentrates in the films of the steels with increasiņg Cr content, the surface film made up of a Cr(III) oxyhydroxide containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 8 + } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pmb { F e ^ { 8 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N i ^ { 2 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the state of solid solution may be formed on Mo-containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r - N i }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "steels with relatively high Cr content. This type of film should be as compact as the film on Fe-Cr alloys with higher Cr content. When a compact film is formed on the"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                763,
+                906,
+                904
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                69,
+                700,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "443"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                69,
+                894,
+                83
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mo-containing stainless steels, the transpassive dissolution of alloyed Mo will be inhibited because Mo is fixed in the film. The Mo(VI) oxide which is fixed in the state of solid solution in the film is thought to promote the ability of a Cr(III) oxyhydroxide film for the corrosion protection, since the stability of the Mo(VI) oxide is very high in acid solutions with Cl-. Even if the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "content of the passive film is relatively small, a high resistance of the film to pitting should result from a film containing an adequate amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 8 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the state of solid solution in the film."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                105,
+                906,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On the basis of the results of measurements of the electrode impedance, the d.c. resistance of the passive film on the 20Cr-25Ni-5Mo steel in HCl solution is considerably larger than that formed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. This means that there is a difference in properties between the surface films formed in 1N HCl and 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "One of the possible ways to explain this difference is the formation of a kind of insoluble oxychloride or basic chloride of Mo. Unfortunately, it has been impossible to prove the formation of these compounds because the values of the binding energy of the Mo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 d _ { \\mathfrak { s } / 2 } - 3 d _ { \\mathfrak { s } / 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "electrons for the film formed in 1N HCl are nearly equal to those for the film formed in 1N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(see Table 3). As shown in Fig. 12, however, quantitative analysis showed clear differences in chemical composition between the two films. The film formed in HCl solution shows a higher concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a lower concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than that formed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. Since the difference in Mo content between the two films is very small, the film formed in HCl solution, which contains a higher amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C } \\mathbf { r } ^ { 3 + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", may become more compact than that formed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. Therefore, the effect of alloyed Mo may appear more distinctly in HCl solution than in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. This prediction deriyes support from the fact that there is only a little difference in d.c. resistance in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution between the 20Cr-25Ni steels with and without Mo (see Fig. 13)."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                225,
+                906,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From the results of ellipsometry, it can be seen that the thickness of the passive film increases with increase in the Mo content. Since an increase in film thickness generally prolongs the induction period of the initiation of pitting, thickening of the film by alloyed Mo may lead to increased corrosion resistance of steels."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                537,
+                903,
+                608
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUMMARY"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                431,
+                622,
+                559,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to explain the reason that the addition of Mo to the Cr-Ni stainless steels results in improved resistance to pitting in acid solutions containing Cl-, the pitting inhibition of the passive films have been examined by measurements of the anodic polarization curves, a.c. electrode impedances, ellipsometric parameters and X-ray photoelectron spectra of the steels, with varying Mo content, passivated in 1N HCl."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                641,
+                903,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1) The presence of a certain amount of Cr is essential to increase the pitting resistance of steels in acid chloride solutions by Mo alloying."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                729,
+                901,
+                763
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2) The passive films of the Mo-containing Cr-Ni steels consist of complex oxyhydroxide containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Fe³+, Ni²+ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The Mo content of the films increases almost linearly with increasing the Mo content of the steels."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                763,
+                901,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3) Compact surface films which are composed of Cr(III) oxyhydroxide containing a relatively large amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\mathbf { F e ^ { 3 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and small amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o ^ { 6 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and a trace amount of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { N i ^ { 2 + } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "may be formed on the 20Cr–25Ni–5Mo steel which shows no pitting in 1N HCl at room temperature. Mo(VI) oxide which is contained in Cr(III) oxyhydroxide in the state of solid solution is suppressed from its transpassive dissolution and contributes to the remarkably increased resistance to attacks of Cl- and acids due to the stability of Mo(VI) oxide by its nature in acid solution."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                816,
+                903,
+                904
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "444"
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                69,
+                125,
+                82
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K. SUGIMOTO and Y. SAWADA"
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                69,
+                619,
+                85
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                82,
+                104,
+                897,
+                138
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4) The thickness of the passive film of Cr-Ni steels increases with increase in Mo content both in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and HCl solutions and further, the d.c. resistance of the passive film of a Cr-Ni steel alloyed with Mo in HCl solution is larger than that in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution, although the thickness of the film formed in HCl solution is thinner than that of the film formed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { H _ { 2 } S O _ { 4 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "solution. These facts also show one of the reasons that the addition of Mo to stainless steel is effective for the inhibition of pitting in HCl solution."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                138,
+                899,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement—The authors are indebted to Mr. S. Matsuda, Mr. S. Soma and Mr. Y. Hara of Tohoku University for their technical assistance throughout this work. Thanks are also due to Prof. S. Ikeda and Dr. K. Kishi of Osaka University for the XPS analyses."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                276,
+                897,
+                317
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                413,
+                328,
+                570,
+                341
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. H. H. UHLIG and J. WuLFF, Trans. AIME 135, 494 (1939)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. M. A. STREICHER, J. electrochem. Soc. 103, 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. J. M. KoLOTYRKIN, Corrosion 19, 261 (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. N. TomASHOV, G. CHERNOVA and O. MARCOVA, Corrosion 20, 166t (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. V. HosPODARUK and J. V. PETROCELLI, J. electrochem. Soc. 113, 878 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. J. HoRvATH and H. H. UHLIG, J. electrochem. Soc. 115, 791 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. A. P. BoND and E. A. LizLovs, J. electrochem. Soc. 115, 1130 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. P. FoRCHHAMMER and H. J. ENGELL, Werkstoffe und Korros. 20, 1 (1969)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. R. J. BRIGHAm, Corrosion 28, 177 (1972)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. R. J. BRIGHAm and E. W. TozER, Corrosion 29, 33 (1972)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. R. J. BrIGHAM and E. W. TozeR, Corrosion 30, 161 (1974)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. M. A. STREICHER, Corrosion 30, 77 (1974)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. G. HERBSLEB and W. SCHWENK, Werkstoffe und Korros. 26, 5 (1975)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. A. P. BoND and E. A. LizLovs, J. electrochem. Soc. 115, 1130 (1968)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. N. A. NIELSEN and T. N. RHoDIN, Z. Elektrochem. 62, 707 (1958)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. T. P. HoAR, J. electrochem. Soc. 117, 17C (1970)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. K. SuGImOTO and Y. SAwADA, submitted to Corrosion."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. E. DELTOMBE, N. DE ZouBOV and M. PoURBAIx, Atlas of Electrochemical Equilibria in Aqueous Solutions (Ed. M. PouRBaIx) Pergamon Press, Oxford, p. 272 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. K. SuGImOTO and Y. SAWADA, Boshoku Gijutsu 20, 264 (1971)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Y. HARA, K. SuGImoTo and Y. SAwADA, submitted to J. Japan. Inst. Metals."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. K. SuGImOTO and Y. SAWADA, Boshoku Gijutsu 24, 669 (1975)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. N. SAτo and K. KuDo, Electrochim. Acta 16, 447 (1971)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. F. L. McCRACKIN and J. P. CoLsoN, Ellipsometry in the Measurement of Surfaces and Thin Films, Symp. Proc., Washington (1963) Natl. Bur. Std. Misc. Publ., 61 (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. S. MATSUDA, K. SUGimOTO and Y. SAWADA, J. Japan Inst. Metals 39, 40 (1975)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. K. SuGImOTO, K. KIsHI, S. IKEDA and Y. SAWADA, J. Japan Inst. Metals 38, 54 (1974)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. J. B. LUMsDEN and R. W. STAEHLE, Scripta Metallurgica 6, 1205 (1972)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. T. N. RHoDIN, Corrosion 12, 123t and 465t (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. G. J. BARNEs, A. W. ALDAG and R. C. JERNER, J. electrochem. Soc. 119, 648 (1972)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                345,
+                597,
+                358
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Molybdenum additions to austenitic stainless steels"
+                    }
+                ]
+            },
+            "bbox": [
+                284,
+                67,
+                702,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "445"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                69,
+                897,
+                82
+            ]
+        }
+    ]
+]

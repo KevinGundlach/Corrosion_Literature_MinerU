@@ -1,0 +1,2262 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                205,
+                39,
+                787,
+                94
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Horvath¹ and H. H. Uhlig*"
+                    }
+                ]
+            },
+            "bbox": [
+                390,
+                108,
+                601,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Department of Metallurgy and Materials Science,"
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                129,
+                676,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Massachusetts Institute of Technology, Cambridge, Massachusetts"
+                    }
+                ]
+            },
+            "bbox": [
+                262,
+                148,
+                734,
+                163
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                449,
+                182,
+                545,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Critical pitting potentials for the binary Cr-Fe and Cr-Ni alloys in 0.1N NaCl become more noble (correspondingly more resistant to pitting) with increasing Cr content, particularly in the region 25-40% Cr and 10-20% Cr, respectively. The potentials for 57.8% Cr-Fe and pure Cr fall within the transpassive region. Ni containing 3.2% Mo, to the contrary, shows a lower (more active) critical potential; higher per cent Mo-Ni alloys appear to fall within the transpassive region corroding anodically as MoO₄-- plus Ni+ + without pitting. Ni alloyed with 15% Cr-Fe shifts the potential in the noble direction; Mo alloyed with 15% Cr, 13% Ni stainless steel has a similar but even greater effect. At 0°C, 15% Cr, 13% Ni stainless steel exhibits a potential 0.5v more noble than at 25°C, corresponding to greatly increased resistance to pitting. This shift is less pronounced for the stainless steels containing Mo; in fact, at or above 1.5% Mo, the critical potentials at 0°C are below those at 25°Ć. In 0.1N NaBr, alloyed Mo shifts the potentials slightly in the active direction, contrary to a marked noble shift in 0.1N NaCl. At 0°C the potentials are still more active. These trends correlate with observed pitting for 15% Cr, 13% Ni stainless steel and the similar alloy containing 2.4% Mo in 10% FeBr3 both at 0° and 25°C. Absence of pitting is observed in 10% FeCl3 at 0°C for 15% Cr, 13% Ni stainless steel, but not for the similar alloy containing 2.4% Mo, which pits. The over-all results are explained on the basis of competitive adsorption at the metal surface and an effect of temperature on the structure of the double layer."
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                199,
+                782,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The concept of a critical potential above which passive alloys are liable to pitting corrosion in halide solutions, but below which they resist pitting, presumably for an indefinite period of exposure, has been described by several investigators. This subject was reviewed, among others, in an earlier paper by Kolotyrkin (1) and briefly by Leckie and Uhlig (2). The latter reported the effect of various environmental factors on the observed critical potentials of 18-8 stainless steel in NaCl solutions."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                448,
+                484,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In view of the electrochemical mechanism of pit initiation and growth, it is concluded that pitting should be observed in aerated halide solutions, e.g., sea water, only in those metals and alloys whose critical potentials lie below the reversible oxygen electrode (approximately 0.8v in air). This is supported by data of Table I listing critical potentials for several metals in 0.1N NaCl. In sea water (approximately 0.5N NaCl) these values (1, 2) would be expected to be a few centivolts more active. Metals such as Cr and Ti, therefore, having critical potentials above 1v successfully resist pitting corrosion in aerated sea water in contrast to the other listed metals with values below 0.8v. The only exceptions that may arise in practice result from crevices at which stagnant electrolyte of higher CI- concentration accumulates because of electrochemical transport (lowering the critical potential) and, more importantly, of lower pH and dissolved O2 concentration causing localized breakdown of passivity (7). In general, the more noble the critical potential, the more resistant is the metal to pitting attack. But how fast pits grow once initiated usually depends on rate of the cathodic reaction, which in aerated NaCl is dependent on rate of O2 diffusion and reduction. The over-all rate, in turn, is a function of available total cathode surface (8) and conductivity of the electrolyte."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                560,
+                484,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this paper, the effect of alloying on the critical potentials of the Cr-Fe-Ni-Mo system in aqueous NaCl solution is reported, first as exhibited by several binary alloys and then by some of the ternary and quaternary alloys of the usual stainless alloy compositions. Data also include an interesting, perhaps unexpected, effect of temperature on the critical potentials of stainless steels containing alloyed Mo."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                850,
+                483,
+                886
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                506,
+                449,
+                909,
+                507
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Experimental Procedure"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                621,
+                513,
+                796,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloys were prepared in the laboratory from pure components by vacuum melting in dense alumina crucibles. After allowing A or He to enter the furnace the melt was drawn into 7 mm diam Vycor tubes and quenched in water. The ingots were homogenized in A or He, usually at 1050°-1100°C for several hours after which each composition was determined chemically. Ingots of Ni-Cr, Ni-Mo, and Cr-Fe were cold rolled to 0.25 cm, then annealed at 1000°-1050°C and water quenched. The Cr-Fe alloys containing more than 40% Cr were difficult to roll or swage, hence electrodes were machined directly from the homogenized ingot. Ingots of the lower % Cr-Fe alloys and of the stainless steels were swaged to about 0.45 cm diam rods, annealed at 1050°C, and water quenched.² All electrodes measured approximately 2 cm long and were either 0.4 cm diam or 0.5 cm wide by 0.2 cm thick. They were mounted as described earlier (2) by a threaded member allowing attachment to a nickel wire. The electrode was firmly pressed by means of the wire against a glass tube separated by a Teflon gasket, assuring exposure of only the electrode, Teflon, and glass surface to the electrolyte. The electrodes were abraded to a final 3/0 emery paper, and pickled usually in 15% HNO3, 5% HF at 80°C for 5 min to remove the cold worked surface."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                527,
+                910,
+                741
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d8a070c1279a61aa0699bf084dab52f531128d89e37056fe1697b84dde703bda.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "\" A subsequent anneal after quenching to avoid intergranular attack was not necessary because of low carbon content (0.001- 0.002%)."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Table I. Critical pitting potentials for various metals in 0.1N NaCI, 25°C*"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "* Estimated from data for various Cl- concentrations."
+                    },
+                    {
+                        "type": "text",
+                        "content": "* This value is characteristic of one commercial composition. Higher values are usually obtained for pure alloys as described later in this paper."
+                    }
+                ],
+                "html": "<table><tr><td>Metal</td><td>Critical potential, v</td><td>Reference</td></tr><tr><td>AI</td><td>-0.45</td><td>(3)</td></tr><tr><td>Ni</td><td>0.28</td><td>Present data</td></tr><tr><td>18-8</td><td>0.26**</td><td>(2)</td></tr><tr><td>Zr</td><td>0.46</td><td>(1)</td></tr><tr><td>Cr</td><td>&gt;1.0</td><td>(4)</td></tr><tr><td>Ti</td><td>&gt;1.0</td><td>(5, 6)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                508,
+                803,
+                905,
+                881
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2016-03-06 to IP 130.203.136.75 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                954,
+                986
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Electrochemical Society Active Member."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                893,
+                348,
+                903
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Institute of General and Physical Chemistry, University of Szeged, Szeged, Hungary."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                902,
+                483,
+                920
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "791"
+                    }
+                ]
+            },
+            "bbox": [
+                481,
+                932,
+                510,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                82,
+                56,
+                484,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Iron used for the melts was electrolytic grade, first deoxidized then decarburized in H2 to approximately 0.001-0.002% C. Chromium was of special high purity obtained from Union Carbide Company. Carbonyl nickel was made available by courtesy of The International Nickel Company. Molybdenum was 99.9% and for some few alloys it was spectroscopic grade, but without differing results."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                136,
+                484,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The electrolyte for most experiments was 0.1N NaCl deaerated with purified nitrogen (passed over Cu at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 0 ^ { \\circ } \\mathrm { C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "but without flow of nitrogen during the time of actual measurements. The Pyrex cell, fitted with ground glass joints as described previously (2), was located in an air thermostat maintained at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { 2 5 ^ { \\circ } } \\pm \\bar { 0 . 2 ^ { \\circ } } \\mathrm { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "which could also be adjusted to constant temperatures higher or lower than room temperature. A Wenking potentiostat was employed in conjunction with a chart recorder. The electrolyte was usually maintained above the Teflon gasket-electrode interface. Several comparative measurements were made holding the electrolyte below the Teflon gasket allowing a meniscus to form at the gas-liquid interface. Under conditions of continuous potential sweep, such critical potentials were found in general to be higher (more noble) than for total immersion. However, for longtime or steady-state conditions, values tended to focus on the same potential for partially or totally immersed electrodes, hence in view of the shorter times needed to achieve steady state under conditions of total immersion, it was this procedure which was usually followed. Pitting was observed to initiate preferably at the Teflon-electrode interface, but was not restricted to such areas in long-time polarization runs."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                224,
+                484,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The experimental procedure was to first polarize the electrode potentiostatically at the least noble potential within the passive region for at least 15 min in order to achieve steady-state passivity. The potential was then advanced in stages of 50 mv, allowing 5 min between each change. Initially the current decreased or remained constant after each potential adjustment, but eventually a steadily increasing current at some potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { ~ c ~ } } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "indicated the onset of pitting (or of transpassivity). Steady-state values "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { V _ { \\mathrm { c } } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were obtained subsequently by holding the potential for long times at a fixed value and then observing pitting or the lack of it under a low power microscope. The lowest potential for which pitting could not be observed after a 10-hr or longer period of constant polarization was considered to be the steady-state value "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { { c } } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Reproducibility was in the order of ±5 mv."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                503,
+                484,
+                696
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                254,
+                706,
+                313,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Binary alloys.—Values of the steady-state critical potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for binary Cr-Fe alloys in 0.1N NaCl at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bf { 2 5 ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are shown in Fig. 1. Similar potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { } _ { V _ { \\mathrm { ~ c ~ } } ^ { \\prime } } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "obtained by changing potentials in 50 mv increments at 5-min intervals were only slightly more noble. Measurements began at 12% Cr because the alloys below this composition exhibited less or no passivity and hence localized breakdown of passivity, leading to pitting, did not occur under present experimental conditions. Values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { V _ { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "rise rapidly in the region of 25-40% Cr indicating appreciably greater resistance to pitting at and above this composition range. Some pitting was observed for the 48.8% Cr-Fe alloy, but not for 57.8% Cr-Fe nor for pure Cr. The latter electrodes corroded uniformly with production of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { { C r O } _ { 4 } } ^ { - - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(transpassivity)."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                723,
+                486,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although the general shape of the curve is the same, data for Cr-Fe alloys reported by Kolotyrkin (1) in 0.1N NaCl show more noble values in the range >25%"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                902,
+                484,
+                938
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/25982a458d30d9e5389ccf415e357060eef1edb458be26bd503b98e7f85523b5.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Critical pitting potentials for Cr-Fe alloys in 0.IN NaCl, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } C ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                506,
+                56,
+                907,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cr. These differences can probably be ascribed to use of more rapid polarization rates than we used, which shifted potentials prematurely into the transpassive region accompanied by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O _ { 4 } } ^ { \\cdot } - \\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "formation. The reported observation by Steigerwald (9) that anodic pitting in 0.1N NaCl does not occur on chromized steel surfaces containing above 29% Cr is not readily explained. Perhaps again, lack of steady state conditions in his experiments, which were achieved in our measurements only through long-time polarization runs, may be accountable for the discrepancy."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                316,
+                909,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Values of steady state potentials "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\displaystyle \\Psi _ { \\mathrm { c } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and also of nonsteady state values "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { ~ c ~ } } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "obtained as described earlier, for Cr-Ni alloys in 0.1N NaCl are shown in Fig. 2. Because Ni itself is passive, measurements for this alloy series began with 0% Cr. Values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ { V } _ { \\mathrm { { c } } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "rise to more noble values especially within the range 10-20% Cr. Pitting was observed for all compositions including the maximum 29.4% Cr alloy. Measurements were not extended to higher Ni compositions because a twophase alloy region forms which complicates interpretation of any potential trend."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                440,
+                909,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Mo-Ni alloys behave quite differently as is shown by potentiostatic polarization curves of Fig. 3. The corrosion potentials, corrosion behavior, and galvanostatic anodic polarization of these alloys have been reported previously (10). Pure nickel exhibits a normal critical potential "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\nabla { } _ { \\mathbf { \\textrm { c } } } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 0.3v, above which pitting occurs. The polarization curve beyond "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { V _ { \\mathrm { ~ c ~ } } ^ { \\prime } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is almost linear up to a current density of 0.4 ma/cm² and no oscillations are observed. Addition of 3.2% Mo to nickel lowers the value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\nabla } \\mathbf { V } _ { \\mathrm { ~ c ~ } } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to about 0.2v and the potential increases abruptly just above 0.1 ma/cm²."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                562,
+                909,
+                689
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/da0a8dce4b9007b8b472b388502ec3596a475bf5ea27828a62dc5618d6aa65f7.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Critical pitting potentials for Cr-Ni alloys in 0.1N NaCl "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                525,
+                699,
+                895,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "792"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                33,
+                116,
+                45
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                33,
+                715,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "August 1968"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                32,
+                912,
+                48
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2016-03-06 to IP 130.203.136.75 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/55183d42f92d1d081e570684f517b10f10c6a15d93c99171b116f25df581f364.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Potentiostatic anodic polarization curves for Mo-Ni alloys in 0.1N NaCl, 25°C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                92,
+                56,
+                489,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloys containing still larger Mo additions show no break, but exhibit instead an increasing current for small increments of potential beginning at values as active as —0.3v. No pitting was observed in alloys of 6.8% or higher Mo content. A long-time run during the initial period of polarization showed only a dark film, probably molybdenum oxide, covering the electrode surface. At about 0.1 ma/cm², current oscillations occur, the peak values of which are indicated in Fig. 3. These cease at about 0.9v, but the potential continues to rise steeply. It is concluded that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { M o O _ { 4 } } ^ { -- } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "forms beginning at the potentials corresponding to current oscillations accompanied by periodic breakdown and formation of passivity, until on reaching a still higher potential range, conditions become stabilized. The upturn of potential at 0.1 ma/cm² for the 3.2% Mo-Ni alloy is probably also the result of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { M o O } _ { 4 } \\mathrm { { ^ { - } } \\mathrm { { } } ^ { } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "- formation. The Pourbaix diagram (11) for pure molybdenum, for example, shows that molybdate formation at pH 7 begins at about —0.4 to —0.5v in line with the formation of molybdates in the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf N i - M o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys beginning at somewhat more noble values. Although molybdenum was detected by chemical analysis of the anolyte after polarization of the Mo-Ni alloys, it was not easy to determine its precise valence. However, the probability that molybdate formation is the cause of current oscillations in the 0-0.9v range is supported by similar oscillations observed for the 15% Cr, 13% Ni stainless steel (Fig. 4) caused by chromate formation in the potential range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 7 \\mathrm { - } 1 . 5 \\mathrm { \\dot { 5 } v } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The Pourbaix diagram for pure Cr (12) at pH 7 shows that "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r O } _ { 4 } \\mathrm { { ^ { - - } } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "forms beginning at 0.5-0.6v which is expectedly lower but in reasonable correspondence with the lower limit of the observed oscillations for the stainless alloy."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                414,
+                489,
+                798
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Cr-Fe-Ni Stainless Steels"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                193,
+                801,
+                380,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The solid solution ternary 15% Cr alloys containing increasing amounts of alloyed Ni were prepared by H. Feller who reported their passive properties in 1.28N "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { { \\bar { H } } _ { 2 } S O _ { 4 } } \\mathbf { \\bar { \\xi } } ( 1 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The critical potentials for these alloys in 0.1N NaCl at 25°C shift in the noble direction as Ni increases (Fig. 5). The shift is not as large as for equivalent Cr additions, but the potential change correlates with the wellknown improved corrosion and pitting resistance of high Ni stainless steels in chloride media as compared to the nickel-free or low-nickel stainless steels."
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                817,
+                488,
+                943
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/e91893f891ff52219d3068e48382797badf75af2809f3cb901bc84a0cea40ba7.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Potentiostatic anodic polarization curve for 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\complement _ { I } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13% Ni stainless steel in 0.1N NaCl, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } C ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                538,
+                56,
+                888,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kolotyrkin (1) also reported more noble critical potentials for Cr-Ni-Fe stainless steels with increasing Ni content."
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                386,
+                914,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alloyed Mo up to 2.4% in a 15% Cr, 13% Ni stainless steel at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 2 5 ^ { \\circ } \\bar { C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "similarly shifts the critical potential toward more noble values (Fig. 6). The change of potential is relatively greater than for corresponding Ni additions, and accompanies the well-known improved resistance of the Mo-containing stainless steels (e.g. Type 316) to pitting corrosion in chlorides. According to Tomashov et al. (14), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ { V } _ { \\mathrm { { c } } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "becomes still more noble with increasing amounts of alloyed Mo above 2.4%. The quantitative interpretation of data for high Mo stainless steels is complicated, however, by the formation of a multiphase structure. The present alloys, relatively low in Cr and high in Ni, were chosen to preserve a single-phase structure, as was confirmed by metallographic examination."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                420,
+                915,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The potentiostatic behavior of the 1.43% Mo stainless steel is shown in Fig. 7. Here current oscillations begin at the somewhat lower potential of 0.55v compared to 0.7v for Mo-free stainless steel (Fig. 4) and reach a similar upper value of 1.5v. It is likely that both "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { M o O _ { 4 } } ^ { -- }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O _ { 4 } } ^ { -- }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "form in this potential range."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                588,
+                914,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hospadaruk and Petrocelli (15) apparently obtained more active values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in 0.5N NaCl for commercial 18-8 (Type 301), 18% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { \\mathop { C r } \\mathrm { - } F e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and 17% Cr, 13% Ni, 2.2% Mo (Type 316) stainless steel than are indicated by our values in 0.1N NaCl. Although their data do not support an effect of Cl- concentration on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { V _ { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 18-8, previous data of Leckie and Uhlig (2) show a shift of 0.07v in the active direction on going from 0.1 to 0.5N NaCl. This shift explains a large part of the difference in their results and those presently reported. It should be mentioned in addition that their use of austenitic alloys slowly cooled from the annealing temperature causes some degree of carbide precipitation and chromium depletion along grain boundaries. This effect would tend to artificially shift measured critical potentials in the active direction and, according to our experience, would also appreciably decrease reproducibility of the measurements."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                666,
+                912,
+                713
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/9eb85b15fcfcaf9b8f1c06e805eb2ee2398023857f3450bf77874a4ef42749c7.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Critical pitting potentials for 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { c r } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { r } } } } } } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\theta } } } } } } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys with increasing Ni content, in 0.1N NaCl, 25°C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                535,
+                725,
+                880,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 115, No.8"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                32,
+                205,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PITTING POTENTIALS OF STAINLESS STEELS"
+                    }
+                ]
+            },
+            "bbox": [
+                282,
+                31,
+                713,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "793"
+                    }
+                ]
+            },
+            "bbox": [
+                880,
+                32,
+                910,
+                45
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2016-03-06 to IP 130.203.136.75 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3c92016b459ad746febb3405aa8a822d987ec16d35e1fa2766d20af1e6a0eb65.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 6. Critical pitting potentials for 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { \\pmb { C } } _ { \\mathsf { \\pmb { r } } _ { \\pmb { \\imath } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13% Ni stainless steel with increasing Mo content, in 0.1N NaCl, 25°C and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { O } } ^ { \\circ } { \\mathsf { C } } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                149,
+                55,
+                419,
+                198
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/3cd51c14f26bf7a5bc02580c5512ccbdaa23f2714357b9ffb4ad31e45051aeb8.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 7. Potentiostatic anodic polarization curve for 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { c r } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13% Ni, 1.43% Mo stainless steel in 0.1N NaCl, 25°C."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                131,
+                242,
+                442,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                80,
+                577,
+                483,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At 40°C, values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the 15% Cr, 13% Ni stainless steel approximate those at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathsf { C } . \\ : \\ : \\mathrm { A t } \\ : \\ : \\ : 0 ^ { \\circ } \\mathsf { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "however, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { v _ { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "shifts to the markedly more noble value of 0.78v (Fig. 6) which is 0.5v more noble than the value at 25°C. This appreciable shift was first reported for 18-8 by Leckie and Uhlig (2) who made the prediction, later confirmed, that pitting of 18-8 would not occur in 10% FeCl3 at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 0 } ^ { \\circ } \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "because the oxidation-reduction potential of 10% FeCl3 is below the observed critical potential at this temperature."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                735,
+                481,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Unexpectedly, the addition of Mo to stainless steel is found to reduce the shift in the noble direction occurring at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } \\mathbf { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "For the 1.3% Mo alloy, the values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 0°C and 25°C are the same, and for 2% Mo the value at 0°C approximates that for the Mo-free stainless steel at 25°C. At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 0 } \\circ \\mathbf { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the 2.4% Mo alloy reaches the transpassive state and no definite critical potential is observed. Instead, current increases continuously with potential and the electrode corrodes uniformly. Pitting can be induced, however, if the alloy is polarized to a value approaching 0.6v. Accordingly the alloy containing 2.4% Mo immersed in 10% FeCl3 at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } \\mathbf { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for which the oxidation-reduction potential lies above 0.6v, showed definite pitting after two days, contrary to the behavior of the alloy without Mo which was free of pitting. In similar tests at 25°C, the 2.4% Mo alloy did not pit within two days (it probably would have for longer time exposure), but the alloy free of Mo was pitted."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                847,
+                483,
+                938
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                508,
+                56,
+                912,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It was observed (16, 17) some years ago that the molybdenum-containing stainless steels, although relatively resistant to pitting in ferric chloride, tend to pit in much shorter time in equivalent bromide solutions. The critical potentials conform to this observation as shown in Fig. 8. The value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { { c } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(0.54v) for the 15% Cr, 13% Ni alloy in 0.1N NaBr at 25°C is 0.26v more noble than in 0.1N NaCl, hence pitting of this composition alloy is less pronounced in bromides than in chlorides. However, on adding molybdenum to the 15% Cr, 13% Ni steel, values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { V } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "change only slightly, tending toward more active values. This is in contrast to a marked shift in the noble direction in chloride solutions, hence pitting in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ > } 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Mo stainless steels, as observed, is more pronounced in bromides than in chlorides. At "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ } \\mathrm { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the value of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in bromides for the Mo-free stainless steel is definitely below the value at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } \\mathbf { C } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "opposite to the pronounced more noble shift observed in chlorides. The critical potential tends to decrease still further on addition of 0.43% Mo. Indefinite results are obtained at 1.43% Mo or above, no well established critical potentials being observed. Apparently the transpassive state of the Mo stainless steels is reached at relatively low potentials and the alloys corrode generally without pitting. Pitting, as before, could be induced by polarizing to a potential in the region of 0.6v. These trends of critical potential were confirmed by two-day pitting tests in 10% FeBr3 solutions, pitting occurring at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and at 25°C for the 0%, 1.4%, and 2.4% Mo alloys."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                179,
+                912,
+                519
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                666,
+                524,
+                747,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The basic mechanism accounting for the critical potential appears to be one of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "adsorbingcompetitively with oxygen of the passive film for sites on the metal surface. As the potential is made more noble, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf C 1 ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ions move into the double layer of the electrode surface, eventually reaching at the critical potential the concentration required to displace adsorbed oxygen (or an oxygen-H2O complex) at favored locations. Adsorbed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "greatly reduces the overvoltage for anodic dissolution of metal, compared to the situation for adsorbed oxygen, thereby initiating a pit. This is essentially the mechanism described by Leckie and Uhlig (2), the Russian school (1) and by Brauns and"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                537,
+                909,
+                687
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b302b2ca7a29895ba140d571b4909cf25aa297fc0353bb7fab61cfd83e26c38f.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 8. Critical pitting potentials for 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { c r } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13% Ni stainless steel with increasing Mo content in O.1N NaBr, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 ^ { \\circ } C"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { O } } ^ { \\circ } { \\mathsf { C } } ."
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                577,
+                707,
+                835,
+                911
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "794"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                33,
+                116,
+                45
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Electrochem. Soc.: ELECTROCHEMICAL SCIENCE"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                32,
+                717,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "August 1968"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                32,
+                912,
+                47
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2016-03-06 to IP 130.203.136.75 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schwenk (18). A different model requiring penetration and breakdown of a supposed metal oxide passive film was described by Streicher (17) and by Hoar, Mears, and Rothwell (19)."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                57,
+                486,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to the adsorption model, the observed more noble values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r - F e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "alloys with increasing Cr content is ascribed to the increasing affinity of the alloys for oxygen compared to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C l ^ { - } } \\bar { . }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Since the Flade potential is a measure of passive film stability (20), it also changes with Cr content but in the negative or more active direction. The sharp rise of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { \\nabla _ { \\mathrm { c } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at 25-40% Cr shown in Fig. 1 compared to the similar pronounced decrease of Flade potential at 10-30% Cr reported by King and Uhlig (21) suggests, however, that increased stability of the passive film is only one factor affecting "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { V _ { \\mathrm { c } } } ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the relative affinity of the alloy for Cl- is also a factor."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                102,
+                486,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\boldsymbol { v _ { \\mathrm { c } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "becomes sufficiently noble to overlap the transpassive region, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O _ { 4 } - \\bar { \\ p l u s } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { F e ^ { + + } } + \\mathtt { + }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "are produced as anodic products, and corrosion of the electrode surface may then proceed uniformly with little or no localized attack. Hence the 57.8% Cr-Fe alloy, and probably higher Cr alloys including pure Cr as well, do not pit at the noble potentials corresponding to pronounced rise of current in the potentiostatic curves, but they corrode uniformly instead. Whether pitting occurs in any of the Cr-Fe alloys at some potential within the transpassive region probably depends on whether "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is exceeded for a particular alloy, the rate of stirring, and whether the uniform corrosion rate by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r O } _ { 4 } \\mathrm { { ^ { - } - } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "formation exceeds the rate of localized corrosion. Since pitting was observed in some Cr-Fe alloys and also in some of the Cr-Ni alloys polarized well into the transpassive region, it is apparently possible for Cl- to adsorb despite simultaneous "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\mathrm { C r O _ { 4 } } } \\mathrm { { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "formation. However, the two ions adsorb competitively and it is expected that for a sufficiently high surface concentration of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C r O _ { 4 } \\mathrm { ^ { - - } \\mathrm { ^ { - } \\mathrm { _ { \\Omega } } } } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "adsorption of Cl- would be less probable and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { C r O } _ { 4 } - - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "would act as a pitting inhibitor in the same sense as do other anions, e.g., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\bf S O _ { 4 } - - , C l O _ { 4 } - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N O _ { 3 } - \\Gamma ( 2 ) }"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                247,
+                486,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Steigerwald (9) noted that >30% Cr-Fe alloys are resistant to pitting on immersion in 10% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { F e C l } _ { 3 } { \\cdot } 6 H _ { 2 } O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at room temperature for 10 days. The measured oxidation-reduction potential of 18-8 in 10% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { F e C l } _ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "inhibited with 5% NaNO3 to avoid pitting (which does not affect oxidation-reduction kinetics of Fe+ + + ← Fe+ +) (22) is about 0.8v (23). Lack of pitting is consistent with reported values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "shown in Fig. 1 equal to or greater than 0.8v at or above approximately 34% Cr."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                516,
+                484,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The same considerations mentioned above apply to increasing values of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Cr-Ni alloys (Fig. 2). In the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\% \\mathrm { ^ { - } C r - F e }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "series, alloyed Ni shifts "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar { v _ { \\mathrm { c } } } ^ { - }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the noble direction perhaps because Ni, for one reason, has less affinity for Cl- than does Cr. This is shown by the relative free energies of formation for the metal chlorides (Table II). Molybdenum, similarly, but to a greater extent, shifts "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\boldsymbol { V } } _ { \\mathbf { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the 15% "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { C r } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "13% Ni alloy series both because of decreased affinity of Mo for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\dot { C } l ^ { - } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and because of its increased affinity for oxygen. It is probable furthermore that the greater tendency of the Mo stainless steels to pit in bromide compared to chloride solutions corresponds to a relatively higher affinity of Mo for Br-, although corresponding free energy data are not available."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                618,
+                484,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The situation becomes more complex at low temperatures where the shift of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathrm { c } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "may be large but where relative affinities are not expected to differ appreciably from those applying at room temperature. However, the structure of the double layer is probably sensitive to temperature, as for example occurs through relative hydration of ions in the outer and perhaps also the inner Helmholtz layers, as well as through hydration of the passive film itself. In other words, it is plausible that the relatively greater hydration of both the passive film and adsorbed ions (altering their effective radii) at low temperatures changes both concentration of ions in the double layer and their critical separation from oxygen of the passive film. thereby affecting conditions for competitive adsorption. Hence the critical potential is also changed, the direction of which is sensitive to specific chemical affinities. in particular accounted for by alloyed Mo. Any alternative mechanism based on relative ease of penetration of ions through a supposed passive oxide film brought about by similar temperature changes is considered to be less plausible."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                785,
+                484,
+                810
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/91ac4040e0dd43bf70ff4b1ea6c912abeed8d87243cbdfd3b527c3cb205e5616.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table II. Free energies of formation, 25°C (24)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Kcal CrCl2 (c) -85.2 NiCl2 (c) -65.1 MoCl₂ (c) -34.6  $\\bf { M o O _ { 4 } } \\mathrm { ~ - ~ } \\left( a q . \\right)$  -218.8</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                839,
+                420,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                506,
+                56,
+                910,
+                283
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgment"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                644,
+                294,
+                774,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The present research was aided by a grant from the Office of Saline Water. U.S. Department of the Interior. One of us (J. H.) is grateful for the award of a fellowship by the Ford Foundation. H. P. Leckie contributed some of the preliminary data and in particular the final data appearing in Fig. 5."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                307,
+                909,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manuscript submitted Nov. 29, 1967; revised manuscript received ca. April 30, 1968. This paper was presented at the Chicago Meeting, Oct. 15-19, 1967, as Paper 77."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                384,
+                909,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Any discussion of this paper will appear in a Discussion Section to be published in the June 1969 JOURNAL."
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                435,
+                909,
+                468
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                654,
+                468,
+                767,
+                479
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Ya. Kolotyrkin, Corrosion, 19, 261t (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. H. Leckie and H. Uhlig, This Journal, 113, 1262 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. H. Kaesche, Z. Physik. Chem. N. F., 34, 87 (1962)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. N. Greene, 'C. Bishop, and M. Stern, This Journal, 108, 836 (1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. N. Hackerman and C. Hall, J. Phys. Chem., 57, 262(1953)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. F. Posey and E. Bohlmann, Second Symp. on Fresh Water from the Sea, Athens, Greece, May 1967."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. H. Uhlig, This Journal, 108, 327 (1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. O. Ellis and F. LaQue, Corrosion, 7, 362 (1951)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. R. Steigerwald, ibid., 22, 107 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. H. Uhlig, P. Bónd, and H. Feller, This Journal, 110, 650 (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. M, Pourbaix, \"Atlas of Electrochemical Equilibria in Aqueous Solutions,\" p. 275, Pergamon Press, New York (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Ref. 11, pp. 262-264."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. H. Feller and H. Uhlig, This Journal, 107, 864 (1960)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. N. Tomashov, G. Chernova, and O. Marcova, Corrosion, 20, 166t (1964)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. V. Hospadaruk and J. Petrocelli, This Journal, 113, 878 (1966)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. H. H. Uhlig and J. Wulff, Trans. A.I.M.E., Iron and Steel Div., 135, 494 (1939)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. M. Streicher, This Journal, 103, 375 (1956)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. E. Brauns andW. Schwenk, Archiv. Eisenhüttenw., 32,387(1961)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. T. Hoar, D. Mears, and G. Rothwell, Corros. Sci., 5, 279(1965)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. H. Uhiig, \"Corrosion and Corrosion Control,\" pp. 61-62, John Wiley & Sons, Inc., New York (1963)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. P. King and H. Úhlig, J. Phýs. Chem., 63, 2026 (1959)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. M. Stern, This Journal, 104, 559, 600 (1957)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. H. Leckie, Unpublished data."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. W. Latimer, \"Oxidation Potentials,\" Prentice-Hall, New York (1952)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                480,
+                838,
+                492
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Vol. 115, No.8"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                32,
+                205,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PITTING POTENTIALS OF STAINLESS STEELS"
+                    }
+                ]
+            },
+            "bbox": [
+                282,
+                33,
+                712,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "795"
+                    }
+                ]
+            },
+            "bbox": [
+                880,
+                32,
+                909,
+                45
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded on 2016-03-06 to IP 130.203.136.75 address. Redistribution subject to ECS terms of use (see ecsdl.org/site/terms_use) unless CC License in place (see abstract)."
+                    }
+                ]
+            },
+            "bbox": [
+                25,
+                974,
+                956,
+                986
+            ]
+        }
+    ]
+]

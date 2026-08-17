@@ -1,0 +1,5458 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9555,
+                "bbox": [
+                    194,
+                    174,
+                    645,
+                    220
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.948,
+                "bbox": [
+                    967,
+                    172,
+                    1198,
+                    219
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9778,
+                "bbox": [
+                    226,
+                    366,
+                    1163,
+                    471
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9229,
+                "bbox": [
+                    595,
+                    506,
+                    797,
+                    538
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9389,
+                "bbox": [
+                    242,
+                    566,
+                    1150,
+                    596
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9874,
+                "bbox": [
+                    194,
+                    641,
+                    1200,
+                    841
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9345,
+                "bbox": [
+                    586,
+                    871,
+                    807,
+                    900
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    193,
+                    906,
+                    1200,
+                    1074
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9883,
+                "bbox": [
+                    192,
+                    1075,
+                    1201,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9816,
+                "bbox": [
+                    236,
+                    1274,
+                    1199,
+                    1372
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    237,
+                    1375,
+                    1200,
+                    1474
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733,
+                "bbox": [
+                    237,
+                    1475,
+                    1199,
+                    1542
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9747,
+                "bbox": [
+                    237,
+                    1543,
+                    1199,
+                    1607
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9731,
+                "bbox": [
+                    237,
+                    1609,
+                    1200,
+                    1675
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.8893,
+                "bbox": [
+                    199,
+                    1688,
+                    1200,
+                    1743
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.938,
+                "bbox": [
+                    232,
+                    1744,
+                    895,
+                    1772
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9008,
+                "bbox": [
+                    671,
+                    1776,
+                    709,
+                    1800
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    177,
+                    641,
+                    198
+                ],
+                "score": 0.998,
+                "text": "Corrosion Science, Vol. 25, No. 5, pp. 341–350, 1985"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    198,
+                    400,
+                    216
+                ],
+                "score": 0.999,
+                "text": "Printed in Great Britain"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    971,
+                    175,
+                    1195,
+                    195
+                ],
+                "score": 0.958,
+                "text": "0010-938X/85 $3.00 + 0.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    195,
+                    1194,
+                    218
+                ],
+                "score": 1.0,
+                "text": "Pergamon Press Ltd."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    244,
+                    374,
+                    1151,
+                    406
+                ],
+                "score": 0.988,
+                "text": "THE DISSOLUTION AND PASSIVATION KINETICS OF"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    230,
+                    407,
+                    1162,
+                    439
+                ],
+                "score": 0.977,
+                "text": "STAINLESS ALLOYS CONTAINING MOLYBDENUM—II."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    441,
+                    1083,
+                    473
+                ],
+                "score": 0.976,
+                "text": "DISSOLUTION KINETICS IN ARTIFICIAL PITS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    599,
+                    507,
+                    797,
+                    539
+                ],
+                "score": 0.914,
+                "text": "R. C. NEWMAN*"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    570,
+                    1146,
+                    593
+                ],
+                "score": 0.991,
+                "text": "Department of Applied Science, Brookhaven National Laboratory, Upton, NY 11973, U.S.A."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    643,
+                    1197,
+                    667
+                ],
+                "score": 0.974,
+                "text": "Abstract—Artificial pit electrodes of Fe-Cr-Ni and Fe-Cr-Ni-Mo alloys have been polarized in a neutral"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    671,
+                    1196,
+                    695
+                ],
+                "score": 0.998,
+                "text": "1M KCl solution at 22°C. The active dissolution kinetics in the nearly saturated pit environments have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    699,
+                    1196,
+                    723
+                ],
+                "score": 0.995,
+                "text": "been determined; 1.6 at.% Mo depresses the anodic dissolution rate in the active region by a factor of 5–10,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    727,
+                    1197,
+                    753
+                ],
+                "score": 0.981,
+                "text": "depending on the potential. The consequent displacement of the corrosion potential in the pit is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    756,
+                    1194,
+                    780
+                ],
+                "score": 0.995,
+                "text": "approximately the same as the change in pitting potential caused by the molybdenum addition."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    783,
+                    1195,
+                    808
+                ],
+                "score": 0.985,
+                "text": "Experiments with 0.0065M sodium thiosulphate added to the bulk solution indicate that the alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    811,
+                    1123,
+                    836
+                ],
+                "score": 0.999,
+                "text": "containing molybdenum is considerably less sensitive to the activating effect of adsorbed sulphur."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    589,
+                    877,
+                    803,
+                    906
+                ],
+                "score": 0.999,
+                "text": "INTRODUCTION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    907,
+                    1195,
+                    937
+                ],
+                "score": 0.983,
+                "text": "In PART I we examined the mechanism of the molybdenum effect on active dissolution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    941,
+                    1195,
+                    971
+                ],
+                "score": 0.998,
+                "text": "of Fe-Cr alloys. Part II deals with the effect of molybdenum on active dissolution in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    977,
+                    1196,
+                    1004
+                ],
+                "score": 0.997,
+                "text": "simulated pits. In these experiments an alloy containing nickel has been used, for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1009,
+                    1196,
+                    1038
+                ],
+                "score": 0.994,
+                "text": "continuity with earlier artificial pit studies.1,2 The effects of molybdenum additions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1043,
+                    760,
+                    1070
+                ],
+                "score": 0.991,
+                "text": "are quite similar in Fe-Cr and Fe-Cr-Ni alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    237,
+                    1073,
+                    1197,
+                    1107
+                ],
+                "score": 0.994,
+                "text": "It is well known that molybdenum at 0.5–4 at.% raises the pitting potential and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1108,
+                    1196,
+                    1138
+                ],
+                "score": 0.997,
+                "text": "crevice corrosion resistance of stainless steels in chloride solutions. Very resistant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1142,
+                    1196,
+                    1172
+                ],
+                "score": 0.995,
+                "text": "nickel-based alloys are also produced commercially with molybdenum concentra-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1176,
+                    1194,
+                    1206
+                ],
+                "score": 0.995,
+                "text": "tions as high as 17 wt% (11 at.%). Many attempts have been made to explain the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1208,
+                    1194,
+                    1239
+                ],
+                "score": 0.985,
+                "text": "beneficial effect of molybdenum, and these have been reviewed by Wanklyn.³ Some"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1242,
+                    832,
+                    1271
+                ],
+                "score": 0.986,
+                "text": "of the relevant experimental evidence is listed below:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    244,
+                    1277,
+                    1195,
+                    1304
+                ],
+                "score": 0.993,
+                "text": "(1) Molybdenum is effective in conjunction with chromium. It inhibits active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1309,
+                    1195,
+                    1338
+                ],
+                "score": 0.998,
+                "text": "dissolution in acidic solutions and is enriched with chromium on the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    284,
+                    1340,
+                    403,
+                    1371
+                ],
+                "score": 0.979,
+                "text": "surface.⁴"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1377,
+                    1195,
+                    1407
+                ],
+                "score": 0.998,
+                "text": "(2) The inhibiting effect of molybdenum on active dissolution is more pro-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    288,
+                    1410,
+                    1196,
+                    1441
+                ],
+                "score": 0.999,
+                "text": "nounced in mildly acidic solutions (pH ≥ 0.5) than in more concentrated ones"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    292,
+                    1444,
+                    432,
+                    1473
+                ],
+                "score": 0.985,
+                "text": "(pH ≤ 0.5)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    243,
+                    1478,
+                    1196,
+                    1506
+                ],
+                "score": 0.988,
+                "text": "(3) Molybdenum usually has a small effect on the potential of the IR-corrected"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    290,
+                    1511,
+                    1130,
+                    1540
+                ],
+                "score": 0.991,
+                "text": "anodic current maximum, whereas this is the main effect of chromium."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1543,
+                    1195,
+                    1575
+                ],
+                "score": 0.99,
+                "text": "(4) Molybdenum is usually depleted in well-established passive films, though it"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1579,
+                    599,
+                    1607
+                ],
+                "score": 1.0,
+                "text": "is almost always detected."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1611,
+                    1195,
+                    1641
+                ],
+                "score": 0.992,
+                "text": "(5) Additions of molybdate ions to the solution have an inhibiting effect similar"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    288,
+                    1643,
+                    711,
+                    1674
+                ],
+                "score": 0.991,
+                "text": "to that of molybdenum in the alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    236,
+                    1690,
+                    1197,
+                    1717
+                ],
+                "score": 0.989,
+                "text": "* Present address: Corrosion and Protection Centre, UMIST, P.O. Box 88, Manchester M60 1QD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    1717,
+                    258,
+                    1743
+                ],
+                "score": 1.0,
+                "text": "U.K."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    238,
+                    1748,
+                    888,
+                    1768
+                ],
+                "score": 0.99,
+                "text": "Manuscript received 11 May 1984; in amended form 8 October 1984."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    670,
+                    1776,
+                    709,
+                    1804
+                ],
+                "score": 1.0,
+                "text": "341"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8954,
+                "bbox": [
+                    203,
+                    172,
+                    244,
+                    199
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9329,
+                "bbox": [
+                    622,
+                    171,
+                    779,
+                    200
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9843,
+                "bbox": [
+                    309,
+                    235,
+                    1037,
+                    701
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6836,
+                "bbox": [
+                    779,
+                    712,
+                    869,
+                    740
+                ],
+                "index": 4,
+                "latex": "{ \\bf M o } { \\bf - H } _ { 2 } { \\bf O }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6136,
+                "bbox": [
+                    264,
+                    740,
+                    336,
+                    770
+                ],
+                "index": 5,
+                "latex": "[ \\mathbf { M o } ^ { 3 + } ]"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5459,
+                "bbox": [
+                    367,
+                    740,
+                    554,
+                    769
+                ],
+                "index": 6,
+                "latex": "\\left[ \\mathrm { H M o O _ { 4 } ^ { - } } \\right] = \\mathbf { 0 } . 1 \\mathbf { M } ."
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9688,
+                "bbox": [
+                    259,
+                    711,
+                    1133,
+                    800
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.637,
+                "bbox": [
+                    962,
+                    712,
+                    1015,
+                    739
+                ],
+                "index": 8,
+                "latex": "2 5 ^ { \\circ } \\mathbf { C } ,"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4686,
+                "bbox": [
+                    250,
+                    961,
+                    435,
+                    994
+                ],
+                "index": 9,
+                "latex": "\\mathbf { M o }  \\mathbf { M o } ( \\mathbf { V } \\mathbf { I } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7542,
+                "bbox": [
+                    347,
+                    1126,
+                    414,
+                    1160
+                ],
+                "index": 10,
+                "latex": "\\mathbf { I v e s } ^ { 7 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    191,
+                    860,
+                    1201,
+                    1364
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7803,
+                "bbox": [
+                    1136,
+                    1191,
+                    1193,
+                    1224
+                ],
+                "index": 12,
+                "latex": "\\mathbf { C r ^ { 3 + } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9868,
+                "bbox": [
+                    191,
+                    1362,
+                    1202,
+                    1564
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9425,
+                "bbox": [
+                    471,
+                    1585,
+                    898,
+                    1615
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9747,
+                "bbox": [
+                    334,
+                    1621,
+                    1036,
+                    1763
+                ],
+                "index": 15,
+                "html": "<table><tr><td></td><td>Cr</td><td>Ni</td><td>Mo</td><td>S</td><td>Fe</td></tr><tr><td>A</td><td>18.7</td><td>10.3</td><td></td><td>&lt;0.005</td><td>Bal.</td></tr><tr><td>B</td><td>16.6</td><td>11.0</td><td>2.7</td><td>&lt;0.005</td><td>Bal.</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    174,
+                    243,
+                    201
+                ],
+                "score": 1.0,
+                "text": "342"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    624,
+                    173,
+                    776,
+                    200
+                ],
+                "score": 0.992,
+                "text": "R. C. NEWMAN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    715,
+                    777,
+                    738
+                ],
+                "score": 0.975,
+                "text": "FiG. 1. Segment of the potential-pH diagram for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    872,
+                    715,
+                    961,
+                    738
+                ],
+                "score": 0.993,
+                "text": "system at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1016,
+                    715,
+                    1128,
+                    738
+                ],
+                "score": 0.954,
+                "text": "drawn with"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    337,
+                    745,
+                    366,
+                    769
+                ],
+                "score": 1.0,
+                "text": "or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    555,
+                    744,
+                    1128,
+                    766
+                ],
+                "score": 0.993,
+                "text": "From M. Pourbaix, Atlas of Electrochemical Equilibria in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    443,
+                    771,
+                    949,
+                    794
+                ],
+                "score": 0.984,
+                "text": "Aqueous Solutions, Pergamón Press, London (1966)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    863,
+                    1194,
+                    891
+                ],
+                "score": 0.998,
+                "text": "Observation (5) has led to suggestions tha the inhibiting species in molybdenum-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    896,
+                    1193,
+                    926
+                ],
+                "score": 0.992,
+                "text": "containing alloys is a form of precipitated iron molybdate (e.g. reference 5)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    930,
+                    1195,
+                    959
+                ],
+                "score": 0.995,
+                "text": "However, this seems inconsistent with the kinetics of the pit initiation process, since"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    962,
+                    244,
+                    995
+                ],
+                "score": 1.0,
+                "text": "the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    444,
+                    963,
+                    1197,
+                    990
+                ],
+                "score": 0.996,
+                "text": "reaction (if it can occur at all) must be several orders of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    996,
+                    1195,
+                    1027
+                ],
+                "score": 1.0,
+                "text": "magnitude slower than the other anodic processes which can occur at a pit nucleus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1032,
+                    1194,
+                    1058
+                ],
+                "score": 0.991,
+                "text": "where active dissolution has initiated. The situation may be different in a more"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1064,
+                    1195,
+                    1093
+                ],
+                "score": 1.0,
+                "text": "advanced stage of pit growth or after pit repassivation; evidence for molybdenum-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1095,
+                    1195,
+                    1127
+                ],
+                "score": 0.994,
+                "text": "rich material in pits has been obtained by Kodama and Ambrose6 and recently by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1132,
+                    346,
+                    1160
+                ],
+                "score": 1.0,
+                "text": "Moriya and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    415,
+                    1130,
+                    1195,
+                    1160
+                ],
+                "score": 0.987,
+                "text": "using a Ni-Mo alloy and an elegant microscopic technique. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1165,
+                    1194,
+                    1193
+                ],
+                "score": 0.997,
+                "text": "likelihood of forming solid molybdenum compounds depends on the molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1199,
+                    1132,
+                    1224
+                ],
+                "score": 0.992,
+                "text": "content of the alloy, the presence of chromium (because of the low pH of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1232,
+                    1193,
+                    1259
+                ],
+                "score": 0.994,
+                "text": "solutions), the potential of pit growth and the presence of anions other than chloride."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1265,
+                    1195,
+                    1294
+                ],
+                "score": 0.991,
+                "text": "The Moriya and Ives experiment is subject to all these reservations, since they used"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1298,
+                    1195,
+                    1327
+                ],
+                "score": 0.998,
+                "text": "high-Mo, Cr-free alloys, a rather high potential of 0.5 V(SCE) and had a sulphate to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1334,
+                    461,
+                    1359
+                ],
+                "score": 0.999,
+                "text": "chloride ratio of 15:1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1364,
+                    1194,
+                    1392
+                ],
+                "score": 0.994,
+                "text": "One can express the inhibiting effect of molybdenum in terms of the change in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1398,
+                    1195,
+                    1425
+                ],
+                "score": 0.999,
+                "text": "pitting resistance per wt.% of molybdenum (e.g. critical pitting temperature). In this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1431,
+                    1195,
+                    1457
+                ],
+                "score": 0.995,
+                "text": "way the pitting behaviour of a number of different alloys can be rationalized.8 The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1463,
+                    1196,
+                    1494
+                ],
+                "score": 0.999,
+                "text": "improvement which molybdenum imparts to a relatively susceptible Fe-Cr alloy is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1498,
+                    1194,
+                    1524
+                ],
+                "score": 0.995,
+                "text": "comparable with the improvement in a more highly alloyed material with about the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1530,
+                    1194,
+                    1557
+                ],
+                "score": 0.998,
+                "text": "same chromium content. However, there does seem to be a relationship between"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    477,
+                    1590,
+                    891,
+                    1610
+                ],
+                "score": 0.983,
+                "text": "TABLE 1. COMPOSITIONS OF ALLOYS IN WT%"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.94,
+                "bbox": [
+                    413,
+                    175,
+                    963,
+                    206
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8881,
+                "bbox": [
+                    1148,
+                    172,
+                    1189,
+                    198
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9838,
+                "bbox": [
+                    542,
+                    240,
+                    827,
+                    708
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9475,
+                "bbox": [
+                    410,
+                    725,
+                    986,
+                    755
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.989,
+                "bbox": [
+                    192,
+                    798,
+                    1203,
+                    1471
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819,
+                "bbox": [
+                    193,
+                    1471,
+                    1203,
+                    1606
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9405,
+                "bbox": [
+                    519,
+                    1637,
+                    877,
+                    1665
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792,
+                "bbox": [
+                    193,
+                    1668,
+                    1204,
+                    1782
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    416,
+                    179,
+                    960,
+                    202
+                ],
+                "score": 0.992,
+                "text": "Kinetics of stainless alloys containing molybdenum—I."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1146,
+                    173,
+                    1187,
+                    201
+                ],
+                "score": 1.0,
+                "text": "343"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    416,
+                    730,
+                    982,
+                    750
+                ],
+                "score": 0.984,
+                "text": "FiG. 2. Cell used for artificial pit experiments (schematic)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    802,
+                    1196,
+                    830
+                ],
+                "score": 0.985,
+                "text": "chromium content and the effectiveness of small molybdenum additions.º At around"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    834,
+                    1197,
+                    864
+                ],
+                "score": 0.995,
+                "text": "25% chromium, strong inhibition of pitting results from the addition of only about"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    868,
+                    1196,
+                    896
+                ],
+                "score": 0.986,
+                "text": "1 wt.% Mo. All these observations are significant in assessing models of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    903,
+                    1197,
+                    931
+                ],
+                "score": 0.995,
+                "text": "molybdenum effect which involve high oxidation states—for example, if molybdates"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    937,
+                    1197,
+                    964
+                ],
+                "score": 0.995,
+                "text": "were involved one would expect them to be produced at the high potentials on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    968,
+                    1195,
+                    1000
+                ],
+                "score": 1.0,
+                "text": "resistant alloys, but not at the much lower potentials on the more susceptible alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1001,
+                    1197,
+                    1033
+                ],
+                "score": 0.993,
+                "text": "Nevertheless, molybdenum is effective in alloys with quite low pitting potentials,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1037,
+                    1195,
+                    1064
+                ],
+                "score": 0.997,
+                "text": "including those examined in this paper. If one regards the molybdenum effect on the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1071,
+                    1197,
+                    1099
+                ],
+                "score": 0.996,
+                "text": "pitting potential as an effect of enriched elemental molybdenum on the active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1100,
+                    1199,
+                    1133
+                ],
+                "score": 0.993,
+                "text": "dissolution kinetics,4,1º then it is not surprising that molybdenum has a comparable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1134,
+                    1197,
+                    1167
+                ],
+                "score": 0.998,
+                "text": "effect on a variety of different alloys. The stronger effect of molybdenum at high"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1168,
+                    1197,
+                    1201
+                ],
+                "score": 0.995,
+                "text": "chromium concentrations9 might be due to a reduced number of surface"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1205,
+                    1196,
+                    1232
+                ],
+                "score": 0.992,
+                "text": "heterogeneities which must become enriched in molybdenum by preferential dissolu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1237,
+                    1199,
+                    1266
+                ],
+                "score": 1.0,
+                "text": "tion of iron. In general, the role of chromium is to passivate the alloy, and that of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1271,
+                    1196,
+                    1299
+                ],
+                "score": 0.996,
+                "text": "molybdenum is to inhibit active dissolution. Wanklyn³ showed that it was unlikely"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1306,
+                    1199,
+                    1334
+                ],
+                "score": 0.989,
+                "text": "that molybdates were responsible for the resistance to crevice corrosion introduced"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1339,
+                    1197,
+                    1367
+                ],
+                "score": 1.0,
+                "text": "by molybdenum, but did not commit himself firmly on the role of molybdenum in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1374,
+                    1196,
+                    1401
+                ],
+                "score": 0.986,
+                "text": "pitting at high' potentials. His argument was essentially thermodynamic; we include"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1406,
+                    1195,
+                    1435
+                ],
+                "score": 0.991,
+                "text": "Fig. 1 to indicate the relative stability of various species in non-complexing solutions."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1439,
+                    1170,
+                    1467
+                ],
+                "score": 0.997,
+                "text": "One should bear in mind that the pH of the saturated pit solution is less than 0.5.²"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    240,
+                    1474,
+                    1197,
+                    1502
+                ],
+                "score": 0.989,
+                "text": "The present work aims to understand the pitting dissolution of an Fe-Cr-Ni-Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1505,
+                    1198,
+                    1536
+                ],
+                "score": 0.999,
+                "text": "alloy in a neutral chloride solution. For this purpose a uniform pitting dissolution is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1538,
+                    1199,
+                    1569
+                ],
+                "score": 0.996,
+                "text": "established at the bottom of an artificial pit. The kinetics are compared with those of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1575,
+                    426,
+                    1601
+                ],
+                "score": 0.975,
+                "text": "an Fe-Cr-Ni alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    524,
+                    1641,
+                    871,
+                    1666
+                ],
+                "score": 1.0,
+                "text": "EXPERIMENTAL METHOD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    1670,
+                    1198,
+                    1695
+                ],
+                "score": 0.979,
+                "text": "High purity Fe-Cr-Ni and Fe-Cr-Ni-Mo alloys (Table 1) were melted as small ingots and drawn into"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1697,
+                    1198,
+                    1722
+                ],
+                "score": 0.995,
+                "text": "1 mm wire with several intermediate anneals. Small coupons were also prepared by hot rolling. The wires"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1725,
+                    1197,
+                    1750
+                ],
+                "score": 0.991,
+                "text": "were abraded, annealed at 1200°C for 24 h and water quenched. They were then mounted in rods of epoxy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1752,
+                    1195,
+                    1776
+                ],
+                "score": 0.983,
+                "text": "resin to make lead-in-pencil' electrodes'² as shown in Fig. 2. An initial depth of 1 mm was established by"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8877,
+                "bbox": [
+                    190,
+                    173,
+                    232,
+                    198
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9337,
+                "bbox": [
+                    613,
+                    172,
+                    770,
+                    200
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7517,
+                "bbox": [
+                    341,
+                    239,
+                    946,
+                    721
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9762,
+                "bbox": [
+                    246,
+                    740,
+                    1122,
+                    885
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7288,
+                "bbox": [
+                    403,
+                    966,
+                    499,
+                    994
+                ],
+                "index": 5,
+                "latex": "2 2 \\pm 1 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6718,
+                "bbox": [
+                    187,
+                    1133,
+                    263,
+                    1162
+                ],
+                "index": 6,
+                "latex": "\\mathrm { C r C l } _ { 3 } { } ^ { 1 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9887,
+                "bbox": [
+                    181,
+                    939,
+                    1192,
+                    1360
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    187,
+                    1359,
+                    1197,
+                    1552
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    187,
+                    1550,
+                    1196,
+                    1634
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    187,
+                    1631,
+                    1198,
+                    1774
+                ],
+                "index": 10
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    174,
+                    231,
+                    202
+                ],
+                "score": 1.0,
+                "text": "344"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    614,
+                    173,
+                    767,
+                    199
+                ],
+                "score": 0.997,
+                "text": "R. C. NEWMAN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    251,
+                    744,
+                    1116,
+                    765
+                ],
+                "score": 0.987,
+                "text": "FiG. 3. Schematic variation of potential and current during an artificial pit experiment to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    772,
+                    1118,
+                    793
+                ],
+                "score": 0.99,
+                "text": "measure the pitting dissolution kinetics. A: establish uniform diffusion-controlled pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    252,
+                    801,
+                    1117,
+                    821
+                ],
+                "score": 0.987,
+                "text": "dissolution; B: drop potential briefly to remove salt film; C: return to a potential where"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    251,
+                    828,
+                    1117,
+                    850
+                ],
+                "score": 0.994,
+                "text": "active dissolution rate is equal to former diffusion-controlled rate; D: begin measuring"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    475,
+                    857,
+                    891,
+                    878
+                ],
+                "score": 0.999,
+                "text": "potential dependence of pitting dissolution."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    940,
+                    1184,
+                    963
+                ],
+                "score": 0.997,
+                "text": "dissolution in 3M HCl at 400 mV(SCE). Then the pits were washed and the HCl replaced with 1M NaCl."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    972,
+                    399,
+                    991
+                ],
+                "score": 1.0,
+                "text": "The temperature was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    500,
+                    967,
+                    1189,
+                    995
+                ],
+                "score": 0.985,
+                "text": "throughout. Uniform pitting dissolution was established by applying a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    996,
+                    1188,
+                    1020
+                ],
+                "score": 0.996,
+                "text": "potential of 400 mV(SCE) as shown schematically in Fig. 3. After about 1500 s the current had reached a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    1024,
+                    1186,
+                    1049
+                ],
+                "score": 0.99,
+                "text": "very slowly decreasing value and was potential-independent, as indicated by its response to a small"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1053,
+                    1188,
+                    1076
+                ],
+                "score": 0.996,
+                "text": "potential excursion. The solution in the pits was dark green. In this condition the dissolving surface is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1081,
+                    1186,
+                    1104
+                ],
+                "score": 0.985,
+                "text": "covered with a thin salt film. The two alloys gave similar diffusion-controlled current densities of about"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1109,
+                    1188,
+                    1132
+                ],
+                "score": 0.998,
+                "text": "90 mA/cm² for a 1 mm deep pit. Incidentally, this shows that the effect of molybdenum on the solubility of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    1136,
+                    1185,
+                    1160
+                ],
+                "score": 0.998,
+                "text": "is negligible at this molybdenum level. Then the potential was momentarily switched to a low value"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1165,
+                    1186,
+                    1188
+                ],
+                "score": 0.996,
+                "text": "(to dissolve the salt film) and back to a value where the active (ohmically limited) current was equal to the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1193,
+                    1188,
+                    1216
+                ],
+                "score": 0.995,
+                "text": "diffusion-controlled current. This potential was typically between 0 and 100 mV(SCE). Now the current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1222,
+                    1186,
+                    1245
+                ],
+                "score": 0.994,
+                "text": "was potential-dependent indicating the absence of the salt film (Fig. 3). The salt film did not precipitate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    1250,
+                    1186,
+                    1270
+                ],
+                "score": 0.993,
+                "text": "again because that would require a supersaturation of the solution.\"Active dissolution was allowed to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1277,
+                    1186,
+                    1300
+                ],
+                "score": 0.983,
+                "text": "proceed at this rate for 1000 s to make sure that the system was in a steady state. The solution resistance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1305,
+                    1186,
+                    1329
+                ],
+                "score": 0.994,
+                "text": "was measured using an imposed 1 MHz ac current; the true (IR-corrected) potentials during active"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    1333,
+                    1117,
+                    1357
+                ],
+                "score": 0.948,
+                "text": "dissolution at 90 mA/cm² were -170 and –110 mV for Fe-Cr-Ni and Fe-Cr-Ni-Mo respectively."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1359,
+                    1191,
+                    1382
+                ],
+                "score": 0.998,
+                "text": "To measure the active dissolution kinetics in the pit solution, the potential was progressively stepped"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    1389,
+                    1189,
+                    1410
+                ],
+                "score": 0.995,
+                "text": "to more negative values with intermediate periods at the original value between 0 and 100 mV (Fig. 3)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1417,
+                    1191,
+                    1437
+                ],
+                "score": 0.995,
+                "text": "The hold time at the original value was 14 s and the time at each of the more negative potentials was 7 s."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1445,
+                    1194,
+                    1465
+                ],
+                "score": 0.982,
+                "text": "The current after 5 s at each potential was used to plot E-log icurves. The solution resistance was measured"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1473,
+                    1193,
+                    1493
+                ],
+                "score": 0.995,
+                "text": "at the beginning and end of this procedure, and an averaged value was used to apply an IR correction to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1500,
+                    1191,
+                    1520
+                ],
+                "score": 0.987,
+                "text": "the E-log i curves. The decrease in metal ion concentration at the pit bottom resulting from the 5 s delay"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    1524,
+                    587,
+                    1551
+                ],
+                "score": 0.971,
+                "text": "at each potential was estimated as 2% .1.2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1553,
+                    1194,
+                    1576
+                ],
+                "score": 0.99,
+                "text": "In one set of experiments the effect of sulphur impurities was studied by adding 1 g/l (0.0065M) of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1582,
+                    1192,
+                    1601
+                ],
+                "score": 0.999,
+                "text": "sodium thiosulphate to the 1M KCl solution. Thiosulphate is known to enhance the pitting of stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1608,
+                    884,
+                    1631
+                ],
+                "score": 0.98,
+                "text": "alloys³ and acts through an adsorbed sulphur layer on the metal surface."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    1634,
+                    1194,
+                    1656
+                ],
+                "score": 0.986,
+                "text": "Pitting and protection potentials were measured in 1M KCl, using mechanically polished 0.4 cm²"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1662,
+                    1192,
+                    1685
+                ],
+                "score": 0.988,
+                "text": "coupons of the experimental alloys. To measure the pitting potentials, the potential was stepped upwards"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    1691,
+                    1192,
+                    1711
+                ],
+                "score": 0.989,
+                "text": "by 25 mV every 400 s, beginning at -300 mV(SCE). Pitting was verified with a binocular microscope. To"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1747,
+                    719,
+                    1765
+                ],
+                "score": 0.992,
+                "text": "potential was swept in the negative direction at 1 mV/s."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    1716,
+                    1191,
+                    1741
+                ],
+                "score": 0.991,
+                "text": "measure the protection potential, many pits were produced by polarizing at +500 mV for 120 s; then the"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9263,
+                "bbox": [
+                    416,
+                    174,
+                    967,
+                    204
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8803,
+                "bbox": [
+                    1153,
+                    172,
+                    1194,
+                    196
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9874,
+                "bbox": [
+                    389,
+                    232,
+                    996,
+                    914
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9669,
+                "bbox": [
+                    258,
+                    932,
+                    1131,
+                    989
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9392,
+                "bbox": [
+                    390,
+                    1045,
+                    1007,
+                    1075
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8873,
+                "bbox": [
+                    196,
+                    1080,
+                    628,
+                    1113
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9882,
+                "bbox": [
+                    192,
+                    1114,
+                    1202,
+                    1350
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9891,
+                "bbox": [
+                    191,
+                    1348,
+                    1204,
+                    1784
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5796,
+                "bbox": [
+                    822,
+                    1747,
+                    899,
+                    1779
+                ],
+                "index": 9,
+                "latex": "\\mathbf { M o O } _ { 2 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    421,
+                    178,
+                    964,
+                    201
+                ],
+                "score": 0.992,
+                "text": "Kinetics of stainless alloys containing molybdenum—II."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1150,
+                    174,
+                    1192,
+                    199
+                ],
+                "score": 1.0,
+                "text": "345"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    262,
+                    936,
+                    1126,
+                    959
+                ],
+                "score": 0.973,
+                "text": "FiG. 4. Results of a single artificial pit experiment on Fe-Cr-Ni alloy. showing IR"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    642,
+                    966,
+                    748,
+                    986
+                ],
+                "score": 1.0,
+                "text": "correction."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    395,
+                    1050,
+                    1001,
+                    1075
+                ],
+                "score": 1.0,
+                "text": "EXPERIMENTAL RESULTS AND DISCUSSION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    203,
+                    1084,
+                    620,
+                    1112
+                ],
+                "score": 0.983,
+                "text": "Artificial pit experiments in 1M KCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    1113,
+                    1197,
+                    1146
+                ],
+                "score": 0.999,
+                "text": "The artificial pit experiments typically produced data like those shown in Fig. 4."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    1150,
+                    1198,
+                    1178
+                ],
+                "score": 0.992,
+                "text": "The IR corrections were large and R varied slowly with time, necessitating several"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    1184,
+                    1198,
+                    1211
+                ],
+                "score": 0.992,
+                "text": "experiments because of the inevitable scatter in the corrected data. Some earlier"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1217,
+                    1193,
+                    1245
+                ],
+                "score": 0.976,
+                "text": "results on the Fe-Cr-Ni alloy were slightly overcorrected.1.2 The anodic ‘Tafel slope"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1251,
+                    1196,
+                    1279
+                ],
+                "score": 0.999,
+                "text": "is closer to 80 mV than 60 mV. At low potentials there was also some scatter even"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1284,
+                    1196,
+                    1312
+                ],
+                "score": 0.999,
+                "text": "though the IR correction was negligible; this seems to be due to irreversible"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1318,
+                    948,
+                    1346
+                ],
+                "score": 0.999,
+                "text": "perturbations caused by the multiple potential pulsing method."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    240,
+                    1351,
+                    1196,
+                    1378
+                ],
+                "score": 0.978,
+                "text": "Figure 5 gives the results of two artificial pit experiments on each alloy. In the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1383,
+                    1197,
+                    1413
+                ],
+                "score": 0.99,
+                "text": "linear portion above about 1 mA/cm², molybdenum reduces the current density at a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1418,
+                    1197,
+                    1446
+                ],
+                "score": 0.986,
+                "text": "given potential by a factor of about five. The consequent displacement of the ‘Tafel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1451,
+                    1196,
+                    1479
+                ],
+                "score": 0.974,
+                "text": "line' on the potential axis is about 60 mV. The difference between the corrosion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1485,
+                    1197,
+                    1513
+                ],
+                "score": 0.993,
+                "text": "potentials in the pit solutions is larger (about 130 mV). Very similar polarization"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1517,
+                    1196,
+                    1544
+                ],
+                "score": 0.995,
+                "text": "curves, not shown, were obtained for flat coupon electrodes in acidic solutions such"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1550,
+                    1197,
+                    1580
+                ],
+                "score": 0.996,
+                "text": "as 4M HCl. The inhibiting effects of molybdenum are tabulated in Table 2, showing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1585,
+                    1196,
+                    1613
+                ],
+                "score": 0.992,
+                "text": "that its effect in the pit solution is less than in 1M HCl but similar to that found in 4M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1619,
+                    1197,
+                    1647
+                ],
+                "score": 0.988,
+                "text": "HCl. The effect of molybdenum is also very similar to its effect in Fe-Cr alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1650,
+                    1198,
+                    1680
+                ],
+                "score": 0.988,
+                "text": "(reference 9, Fig. 1). The main difference between the Fe-Cr and Fe-Cr-Ni alloys is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1683,
+                    1200,
+                    1711
+                ],
+                "score": 0.999,
+                "text": "a shift of the active region by about +150 mV; this is due to surface enrichment of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1712,
+                    1200,
+                    1747
+                ],
+                "score": 0.989,
+                "text": "nickel.14 In many ways, the effects of nickel and molybdenum are similar except that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1749,
+                    819,
+                    1777
+                ],
+                "score": 0.994,
+                "text": "molybdenum is more likely to form an oxide such as"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8936,
+                "bbox": [
+                    210,
+                    173,
+                    253,
+                    199
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9318,
+                "bbox": [
+                    629,
+                    172,
+                    787,
+                    201
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9855,
+                "bbox": [
+                    394,
+                    233,
+                    1002,
+                    905
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9655,
+                "bbox": [
+                    260,
+                    924,
+                    1133,
+                    985
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8899,
+                "bbox": [
+                    196,
+                    1048,
+                    1078,
+                    1083
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    192,
+                    1083,
+                    1204,
+                    1285
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9684,
+                "bbox": [
+                    194,
+                    1286,
+                    1205,
+                    1356
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9622,
+                "bbox": [
+                    424,
+                    1412,
+                    933,
+                    1470
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9809,
+                "bbox": [
+                    425,
+                    1478,
+                    930,
+                    1700
+                ],
+                "index": 9,
+                "html": "<table><tr><td>iFeCrNi/iFeCrNiMo</td></tr><tr><td>1MHCl</td></tr><tr><td></td></tr><tr><td>4 5</td></tr><tr><td>(artificial pit)</td></tr><tr><td>1.5MH2SO₄</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8489,
+                "bbox": [
+                    423,
+                    1713,
+                    930,
+                    1769
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6794,
+                "bbox": [
+                    556,
+                    1713,
+                    792,
+                    1746
+                ],
+                "index": 11,
+                "latex": "i _ { \\mathrm { F e C r N i } } = 1 { - } 2 0 ~ \\mathrm { m A / c m } ^ { 2 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    173,
+                    252,
+                    202
+                ],
+                "score": 1.0,
+                "text": "346"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    632,
+                    173,
+                    783,
+                    201
+                ],
+                "score": 0.947,
+                "text": "R. C. NEWMAN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    926,
+                    1128,
+                    954
+                ],
+                "score": 0.992,
+                "text": "FiG. 5. Dissolution kinetics in artificial pits (IR corrected) for both alloys. Two experi-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    563,
+                    956,
+                    830,
+                    982
+                ],
+                "score": 0.992,
+                "text": "ments shown for each alloy."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1050,
+                    1072,
+                    1082
+                ],
+                "score": 1.0,
+                "text": "Pitting and protection potential measurements: correlation with pit kinetics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    1081,
+                    1198,
+                    1117
+                ],
+                "score": 0.995,
+                "text": "Table 3 gives the results of the pitting tests. A result for Type 304L stainless steel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1116,
+                    1198,
+                    1149
+                ],
+                "score": 0.993,
+                "text": "is also included. This was the same material used in reference 2. The presence of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1149,
+                    1197,
+                    1184
+                ],
+                "score": 0.994,
+                "text": "molybdenum caused a change in pitting or protection potential of about 125 mV. This"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1216,
+                    1197,
+                    1251
+                ],
+                "score": 0.999,
+                "text": "densities (Fig. 5), but approximately equal to the 130 mV difference between the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1251,
+                    729,
+                    1282
+                ],
+                "score": 0.998,
+                "text": "corrosion potentials in the pit environments."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1186,
+                    1197,
+                    1214
+                ],
+                "score": 0.987,
+                "text": "is larger than the 60 mV displacement of the polarization curves at high current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    241,
+                    1285,
+                    1201,
+                    1322
+                ],
+                "score": 0.994,
+                "text": "The pit initiation and repassivation processes can be regarded as requiring"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1322,
+                    1198,
+                    1351
+                ],
+                "score": 0.999,
+                "text": "different critical current densities in order to maintain a critical solution composition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    459,
+                    1446,
+                    898,
+                    1469
+                ],
+                "score": 0.995,
+                "text": "WITHOUT MOLYBDENUM FOR VARIOUS SOLUTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    427,
+                    1417,
+                    929,
+                    1441
+                ],
+                "score": 0.97,
+                "text": "TABLE 2. RATIO OF CURRENT DENSITIES WITH AND"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    428,
+                    1717,
+                    553,
+                    1740
+                ],
+                "score": 1.0,
+                "text": "Measured at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    1718,
+                    928,
+                    1741
+                ],
+                "score": 1.0,
+                "text": "depending on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    427,
+                    1744,
+                    549,
+                    1767
+                ],
+                "score": 1.0,
+                "text": "the solution."
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.935,
+                "bbox": [
+                    412,
+                    172,
+                    962,
+                    204
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8957,
+                "bbox": [
+                    1147,
+                    170,
+                    1187,
+                    196
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8444,
+                "bbox": [
+                    588,
+                    240,
+                    633,
+                    269
+                ],
+                "index": 3,
+                "latex": "( E _ { p } )"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9687,
+                "bbox": [
+                    279,
+                    237,
+                    1087,
+                    329
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9043,
+                "bbox": [
+                    915,
+                    237,
+                    967,
+                    268
+                ],
+                "index": 5,
+                "latex": "( E _ { p p } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8683,
+                "bbox": [
+                    546,
+                    297,
+                    623,
+                    326
+                ],
+                "index": 6,
+                "latex": "( \\Delta E _ { \\mathrm { c o r r } } )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7685,
+                "bbox": [
+                    753,
+                    266,
+                    814,
+                    295
+                ],
+                "index": 7,
+                "latex": "( \\Delta E _ { T } )"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9798,
+                "bbox": [
+                    283,
+                    335,
+                    1085,
+                    531
+                ],
+                "index": 10,
+                "html": "<table><tr><td></td><td><eq>E _ { p }</eq> (mVŚCE)</td><td><eq>E _ { p p }</eq> <eq>( \\mathsf { m } \\mathbf { V } \\dot { \\mathbf { S } } { \\mathbf { C } } \\mathbf { E } )</eq></td><td><eq>\\Delta E _ { p }</eq> (mV) (mV)</td><td><eq>\\Delta E _ { p p }</eq></td><td><eq>\\Delta E _ { T }</eq> (mV)</td><td><eq>\\Delta E _ { \\mathrm { c o r r } }</eq> (mV)</td></tr><tr><td>Fe-Cr-Ni</td><td>-75</td><td>-205</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Fe-Cr-Ni-Mo</td><td>50</td><td>-80</td><td>125</td><td>125</td><td>60</td><td>130</td></tr><tr><td>304L SS</td><td>100</td><td>-200</td><td>175</td><td>5</td><td>70</td><td>170</td></tr></table>"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.6037,
+                "bbox": [
+                    199,
+                    745,
+                    368,
+                    778
+                ],
+                "index": 16,
+                "latex": "1 2 5 \\pm 2 5 ~ \\mathrm { m V }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9886,
+                "bbox": [
+                    191,
+                    577,
+                    1202,
+                    1317
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5462,
+                "bbox": [
+                    919,
+                    1047,
+                    972,
+                    1080
+                ],
+                "index": 18,
+                "latex": "\\mathrm { H } _ { 2 } \\mathbf { S }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9056,
+                "bbox": [
+                    254,
+                    1116,
+                    329,
+                    1150
+                ],
+                "index": 19,
+                "latex": "\\Delta E _ { \\mathrm { c o r r } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8866,
+                "bbox": [
+                    1082,
+                    1015,
+                    1125,
+                    1050
+                ],
+                "index": 20,
+                "latex": "E _ { p p }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8819,
+                "bbox": [
+                    1143,
+                    1081,
+                    1196,
+                    1116
+                ],
+                "index": 21,
+                "latex": "\\Delta E _ { \\eta }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7257,
+                "bbox": [
+                    459,
+                    1248,
+                    508,
+                    1281
+                ],
+                "index": 22,
+                "latex": "0 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    191,
+                    1315,
+                    1203,
+                    1785
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5762,
+                "bbox": [
+                    253,
+                    1447,
+                    359,
+                    1481
+                ],
+                "index": 24,
+                "latex": "8 \\ \\mathrm { A } / \\mathrm { c m } ^ { 2 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.5538,
+                "bbox": [
+                    906,
+                    1414,
+                    1030,
+                    1448
+                ],
+                "index": 25,
+                "latex": "1 . 5 \\mathrm { \\bf A } / \\mathrm { \\bar { c } } \\mathrm { m } ^ { 2 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    415,
+                    177,
+                    958,
+                    199
+                ],
+                "score": 0.987,
+                "text": "Kinetics of stainless alloys containing molybdenum—I."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1146,
+                    171,
+                    1187,
+                    199
+                ],
+                "score": 1.0,
+                "text": "347"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    284,
+                    245,
+                    584,
+                    265
+                ],
+                "score": 0.988,
+                "text": "TABLE 3. PITTING POTENTIALS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    636,
+                    246,
+                    910,
+                    263
+                ],
+                "score": 0.986,
+                "text": "AND PROTECTION POTENTIALS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    972,
+                    241,
+                    1083,
+                    260
+                ],
+                "score": 0.937,
+                "text": "IN 1M KCl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    820,
+                    273,
+                    1083,
+                    293
+                ],
+                "score": 0.996,
+                "text": "AND CORROSION POTENTIALS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    626,
+                    304,
+                    821,
+                    321
+                ],
+                "score": 0.998,
+                "text": "IN THE PIT SOLUTIONS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    284,
+                    273,
+                    746,
+                    295
+                ],
+                "score": 0.992,
+                "text": "COMPARED WITH DISPLACEMENTS IN TAFEL LINES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    580,
+                    1195,
+                    608
+                ],
+                "score": 0.99,
+                "text": "against a diffusion gradient.15 Depending on the amount of ohmic polarization in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    616,
+                    1195,
+                    640
+                ],
+                "score": 0.985,
+                "text": "pit or pit nucleus, this model predicts that the displacement in critical potential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    649,
+                    1195,
+                    674
+                ],
+                "score": 0.996,
+                "text": "caused by molybdenum should be between 60 mV (the displacement in the Tafel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    682,
+                    1193,
+                    710
+                ],
+                "score": 0.991,
+                "text": "line') and 130 mV (the displacement in the corrosion potential in the pit solution)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    715,
+                    1196,
+                    742
+                ],
+                "score": 0.999,
+                "text": "These extremes represent activation and ohmic control, respectively. The result of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    370,
+                    748,
+                    1196,
+                    776
+                ],
+                "score": 0.997,
+                "text": "is therefore a good preliminary indication of the correctness of this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    783,
+                    1195,
+                    810
+                ],
+                "score": 0.994,
+                "text": "extension of the model of Galvele. The main difference between stainless alloys and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    817,
+                    1195,
+                    842
+                ],
+                "score": 0.999,
+                "text": "the simple systems considered by Galvele is that the critical pit solution for stainless"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    849,
+                    1196,
+                    876
+                ],
+                "score": 0.988,
+                "text": "alloys is very concentrated, at least 1M in ferrous ions.1,² Table 3 also shows some"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    883,
+                    1195,
+                    909
+                ],
+                "score": 0.994,
+                "text": "results for Type 304L stainless steel. The pitting potential is within 50 mV of that of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    916,
+                    1195,
+                    944
+                ],
+                "score": 0.975,
+                "text": "the Fe-Cr-Ni-Mo alloy and the anodic kinetics in the pit12 are very similar. The extra"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    950,
+                    1196,
+                    978
+                ],
+                "score": 0.983,
+                "text": "resistance of the 304L steel compared with the pure Fe-Cr-Ni alloy is due to its"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    985,
+                    1195,
+                    1012
+                ],
+                "score": 0.988,
+                "text": "content of molybdenum, copper, nitrogen, etc., which outweighs any deleterious"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1018,
+                    1081,
+                    1045
+                ],
+                "score": 0.997,
+                "text": "effect of its higher sulphur content. The only apparent anomaly is the low"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1126,
+                    1018,
+                    1194,
+                    1043
+                ],
+                "score": 1.0,
+                "text": "value"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1052,
+                    916,
+                    1078
+                ],
+                "score": 0.989,
+                "text": "for the stainless steel, which is almost certainly influenced by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    1052,
+                    1194,
+                    1076
+                ],
+                "score": 0.962,
+                "text": "in the pits, derived"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1085,
+                    1142,
+                    1111
+                ],
+                "score": 0.992,
+                "text": "from sulphide inclusions. The most convincing correlation in Table 3 is between"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1117,
+                    250,
+                    1147
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    330,
+                    1118,
+                    1196,
+                    1146
+                ],
+                "score": 0.988,
+                "text": ". Somewhat different considerations would apply to alloys with higher"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1152,
+                    1196,
+                    1179
+                ],
+                "score": 0.995,
+                "text": "molybdenum contents where molybdenum would begin to have a significant effect on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1186,
+                    1195,
+                    1212
+                ],
+                "score": 0.995,
+                "text": "the critical metal ion concentration for pitting. Below a certain temperature, all"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1218,
+                    1196,
+                    1247
+                ],
+                "score": 0.995,
+                "text": "alloys will passivate in their saturated pit solutionis and pitting will be impossible—this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1254,
+                    458,
+                    1280
+                ],
+                "score": 0.999,
+                "text": "temperature is below"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    509,
+                    1253,
+                    1195,
+                    1280
+                ],
+                "score": 0.986,
+                "text": "for the present alloys but would be above room tempera-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1287,
+                    590,
+                    1315
+                ],
+                "score": 1.0,
+                "text": "ture for high-Cr, high-Mo alloys."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    241,
+                    1318,
+                    1197,
+                    1347
+                ],
+                "score": 0.983,
+                "text": "If the ‘Tafel lines' in Fig. 5 are extrapolated to the respective pitting potentials of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1353,
+                    1196,
+                    1380
+                ],
+                "score": 1.0,
+                "text": "the alloys, we obtain the maximum current density which could be flowing at a pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1386,
+                    1195,
+                    1413
+                ],
+                "score": 0.991,
+                "text": "initiation site if there was no ohmic polarization, if the saturated pit solution is the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1419,
+                    903,
+                    1447
+                ],
+                "score": 0.992,
+                "text": "relevant one and if the extrapolation is valid. The result is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1032,
+                    1419,
+                    1195,
+                    1444
+                ],
+                "score": 0.966,
+                "text": "for Fe-Cr-Ni"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1450,
+                    250,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    363,
+                    1453,
+                    1196,
+                    1480
+                ],
+                "score": 0.986,
+                "text": "for Fe-Cr-Ni-Mo. This calculation illustrates the main difficulty in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1486,
+                    1196,
+                    1513
+                ],
+                "score": 0.999,
+                "text": "accounting for pit initiation on smooth surfaces of stainless steels, which is that these"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1521,
+                    1195,
+                    1545
+                ],
+                "score": 0.989,
+                "text": "current densities are at least two orders of magnitude too low to retain a solution"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1554,
+                    1195,
+                    1581
+                ],
+                "score": 0.995,
+                "text": "containing about 1M of metal ions in a defect (such as a crack in the passive film)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1586,
+                    1196,
+                    1614
+                ],
+                "score": 0.987,
+                "text": "about 10 nm in depth.15 This suggests that the defects which initiate pitting are"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1620,
+                    1195,
+                    1649
+                ],
+                "score": 0.997,
+                "text": "diffusionally equivalent to at least a 1 μm-deep cavity. Such a cavity could be a crack"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1655,
+                    1195,
+                    1678
+                ],
+                "score": 0.992,
+                "text": "at the boundary of an inclusion, or could arise from local delamination' of the passive"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1684,
+                    1197,
+                    1711
+                ],
+                "score": 0.98,
+                "text": "film. The latter is similar to the salt staining' hypothesis of Smialowska.'6 Alterna-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1719,
+                    1197,
+                    1746
+                ],
+                "score": 0.997,
+                "text": "tively, one could argue that the diffusion length is simply related to the surface"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1745,
+                    356,
+                    1783
+                ],
+                "score": 0.978,
+                "text": "roughness.17"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8971,
+                "bbox": [
+                    196,
+                    172,
+                    238,
+                    199
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9352,
+                "bbox": [
+                    615,
+                    172,
+                    771,
+                    201
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9867,
+                "bbox": [
+                    380,
+                    234,
+                    986,
+                    907
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.7861,
+                "bbox": [
+                    513,
+                    931,
+                    596,
+                    958
+                ],
+                "index": 4,
+                "latex": "{ \\bf N a } _ { 2 } { \\bf S } _ { 2 } { \\bf O } _ { 3 }"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9679,
+                "bbox": [
+                    258,
+                    928,
+                    1127,
+                    987
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9039,
+                "bbox": [
+                    196,
+                    1045,
+                    604,
+                    1079
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    191,
+                    1079,
+                    1199,
+                    1347
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877,
+                "bbox": [
+                    234,
+                    1346,
+                    1200,
+                    1513
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9825,
+                "bbox": [
+                    237,
+                    1512,
+                    1200,
+                    1610
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9818,
+                "bbox": [
+                    237,
+                    1610,
+                    1200,
+                    1707
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8355,
+                "bbox": [
+                    745,
+                    1609,
+                    813,
+                    1640
+                ],
+                "index": 11,
+                "latex": "{ \\bf M o } ^ { 3 + }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9756,
+                "bbox": [
+                    192,
+                    1708,
+                    1201,
+                    1776
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    174,
+                    237,
+                    201
+                ],
+                "score": 1.0,
+                "text": "348"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    617,
+                    173,
+                    768,
+                    200
+                ],
+                "score": 0.985,
+                "text": "R. C. NEWMAN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    935,
+                    511,
+                    955
+                ],
+                "score": 0.959,
+                "text": "FiG. 6. Effect of 0.0065M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    599,
+                    933,
+                    1124,
+                    956
+                ],
+                "score": 0.992,
+                "text": "on the IR corrected dissolution kinetics in artificial pits."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    465,
+                    959,
+                    923,
+                    982
+                ],
+                "score": 0.982,
+                "text": "The data of Fig. 5 are indicated by straight lines."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    1046,
+                    597,
+                    1080
+                ],
+                "score": 0.993,
+                "text": "The effects of sulphur compounds"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    1082,
+                    1192,
+                    1109
+                ],
+                "score": 0.992,
+                "text": "Figure 6 reproduces the data of Fig. 5 as schematic straight lines, and adds the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1115,
+                    1194,
+                    1143
+                ],
+                "score": 0.99,
+                "text": "data obtained with 0.0065M sodium thiosulphate added to the 1M KCl. The"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1150,
+                    1194,
+                    1177
+                ],
+                "score": 0.992,
+                "text": "Fe-Cr-Ni alloy showed a spectacular acceleration of anodic dissolution by more than"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1183,
+                    1194,
+                    1211
+                ],
+                "score": 0.999,
+                "text": "an order of magnitude; the salt film could be maintained at (IR corrected) potentials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1215,
+                    1194,
+                    1243
+                ],
+                "score": 0.982,
+                "text": "as low as -250 mV. The acceleration was much less marked on the Fe-Cr-Ni–Mo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1250,
+                    1194,
+                    1277
+                ],
+                "score": 0.992,
+                "text": "alloy, where it amounted to a factor of 3–7, depending on the potential. These data"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1283,
+                    1194,
+                    1311
+                ],
+                "score": 0.987,
+                "text": "can be explained in several ways, and more work is needed. The following hypothesis"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1317,
+                    685,
+                    1344
+                ],
+                "score": 1.0,
+                "text": "seems consistent with the available facts:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    241,
+                    1348,
+                    1196,
+                    1378
+                ],
+                "score": 0.991,
+                "text": "(1) The anodic dissolution of the Fe-Cr-Ni alloy is controlled by a surface nickel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    288,
+                    1384,
+                    1193,
+                    1412
+                ],
+                "score": 0.99,
+                "text": "monolayer (or sub-monolayer) which like pure nickel is very sensitive to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    287,
+                    1413,
+                    1194,
+                    1446
+                ],
+                "score": 0.999,
+                "text": "sulphur adsorption.14,18 The consequent acceleration of nickel dissolution by"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1450,
+                    1194,
+                    1479
+                ],
+                "score": 0.996,
+                "text": "sulphur makes the alloy behave very much like a nickel-free alloy in a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1484,
+                    806,
+                    1512
+                ],
+                "score": 0.993,
+                "text": "sulphur-free solution (reference 10, Fig. 1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    1514,
+                    1196,
+                    1542
+                ],
+                "score": 0.988,
+                "text": "(2) The dissolution of the Fe-Cr-Ni-Mo alloy is controlled by molybdenum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1545,
+                    1197,
+                    1574
+                ],
+                "score": 0.997,
+                "text": "atoms enriched at critical sites10,19which are not as sensitive as nickel atoms"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    1582,
+                    557,
+                    1609
+                ],
+                "score": 1.0,
+                "text": "to sulphur adsorption."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    243,
+                    1614,
+                    744,
+                    1642
+                ],
+                "score": 0.996,
+                "text": "(3) Alternatively (or simultaneously) the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    816,
+                    1612,
+                    1196,
+                    1640
+                ],
+                "score": 0.985,
+                "text": "ion may react with adsorbed or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    1646,
+                    1195,
+                    1674
+                ],
+                "score": 0.999,
+                "text": "dissolved sulphur species and reduce their availability for adsorption on"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    1680,
+                    544,
+                    1705
+                ],
+                "score": 0.982,
+                "text": "surface nickel atoms."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1711,
+                    1196,
+                    1738
+                ],
+                "score": 0.992,
+                "text": "It is well known that austenitic stainless steels, containing nickel, pit almost exclu-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1743,
+                    1194,
+                    1770
+                ],
+                "score": 0.992,
+                "text": "sively at sulphide inclusions, whereas ferritic steels pit more randomly and can be"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9426,
+                "bbox": [
+                    420,
+                    174,
+                    969,
+                    204
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8823,
+                "bbox": [
+                    1156,
+                    172,
+                    1196,
+                    197
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8399,
+                "bbox": [
+                    485,
+                    270,
+                    536,
+                    303
+                ],
+                "index": 3,
+                "latex": "{ \\bf H } _ { 2 } { \\bf S }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9884,
+                "bbox": [
+                    193,
+                    236,
+                    1203,
+                    708
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9423,
+                "bbox": [
+                    196,
+                    738,
+                    657,
+                    770
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8965,
+                "bbox": [
+                    315,
+                    1074,
+                    396,
+                    1107
+                ],
+                "index": 6,
+                "latex": "\\mathbf { M o O } _ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9888,
+                "bbox": [
+                    192,
+                    771,
+                    1204,
+                    1446
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8709,
+                "bbox": [
+                    635,
+                    974,
+                    715,
+                    1006
+                ],
+                "index": 8,
+                "latex": "\\mathbf { M o O } _ { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9627,
+                "bbox": [
+                    193,
+                    1471,
+                    1199,
+                    1556
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8935,
+                "bbox": [
+                    599,
+                    1579,
+                    785,
+                    1607
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9406,
+                "bbox": [
+                    203,
+                    1611,
+                    921,
+                    1639
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9578,
+                "bbox": [
+                    204,
+                    1639,
+                    1188,
+                    1690
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9324,
+                "bbox": [
+                    202,
+                    1693,
+                    658,
+                    1720
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9616,
+                "bbox": [
+                    202,
+                    1720,
+                    1191,
+                    1772
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    425,
+                    178,
+                    966,
+                    201
+                ],
+                "score": 0.991,
+                "text": "Kinetics of stainless alloys containing molybdenum—II."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1154,
+                    173,
+                    1195,
+                    200
+                ],
+                "score": 1.0,
+                "text": "349"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    236,
+                    1197,
+                    267
+                ],
+                "score": 0.997,
+                "text": "tested for pitting using a scratch test.2º If one assigns a chemical role to the sulphide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    273,
+                    484,
+                    302
+                ],
+                "score": 0.997,
+                "text": "inclusions (e.g. forming"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    537,
+                    271,
+                    1198,
+                    300
+                ],
+                "score": 0.99,
+                "text": "which accelerates metal dissolution by adsorption), then"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    306,
+                    1197,
+                    334
+                ],
+                "score": 0.994,
+                "text": "the presence of nickel (which is especially sensitive to sulphur) will make the alloy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    340,
+                    1197,
+                    367
+                ],
+                "score": 0.999,
+                "text": "more sensitive to the presence of the inclusions because the dissolution rate of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    373,
+                    1199,
+                    402
+                ],
+                "score": 0.996,
+                "text": "alloy is controlled by nickel. From the present results we can speculate that alloys"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    406,
+                    1197,
+                    435
+                ],
+                "score": 0.997,
+                "text": "containing molybdenum, which are less sensitive to sulphur impurities, will also have"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    441,
+                    1196,
+                    468
+                ],
+                "score": 0.995,
+                "text": "less preference (other things being equal) for sulphide inclusions as pitting sites. In"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    473,
+                    1197,
+                    502
+                ],
+                "score": 0.987,
+                "text": "earlier work on the effects of sulphur compounds on pitting³ it was observed in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    507,
+                    1199,
+                    536
+                ],
+                "score": 0.992,
+                "text": "passing (last paragraph) that thiosulphate ions did not have much effect on materials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    541,
+                    1197,
+                    569
+                ],
+                "score": 0.995,
+                "text": "more highly alloyed than Type 304 stainless steel. It was speculated that thiosulphate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    574,
+                    1197,
+                    602
+                ],
+                "score": 0.995,
+                "text": "would not be reduced to adsorbed sulphur at the higher potentials required to pit the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    607,
+                    1195,
+                    634
+                ],
+                "score": 0.992,
+                "text": "more resistant alloys. However, since the more resistant alloys contained molyb-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    641,
+                    1197,
+                    669
+                ],
+                "score": 0.999,
+                "text": "denum, it is also possible that the sulphur (though present in its active form) was"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    672,
+                    748,
+                    702
+                ],
+                "score": 0.988,
+                "text": "being rendered harmless by the molybdenum."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    740,
+                    651,
+                    770
+                ],
+                "score": 1.0,
+                "text": "Additional comments and conclusions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    242,
+                    773,
+                    1197,
+                    803
+                ],
+                "score": 0.999,
+                "text": "The understanding of the effects of molybdenum which we have gained in this"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    807,
+                    1197,
+                    838
+                ],
+                "score": 0.991,
+                "text": "work will now be summarized. First, there was nothing unusual or grossly time-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    841,
+                    1197,
+                    870
+                ],
+                "score": 0.986,
+                "text": "dependent about the behaviour of the Mo-containing alloy in the artificial pit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    876,
+                    1197,
+                    902
+                ],
+                "score": 1.0,
+                "text": "experiments. It maintained a steady active state or could become salt-covered at"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    907,
+                    1198,
+                    939
+                ],
+                "score": 0.995,
+                "text": "higher potentials. Although its active dissolution could not be studied at the pitting"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    940,
+                    1197,
+                    972
+                ],
+                "score": 0.994,
+                "text": "potential (because of salt precipitation) there is no reason to suppose that important"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    976,
+                    630,
+                    1004
+                ],
+                "score": 0.998,
+                "text": "new anodic processes (except slow"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    718,
+                    976,
+                    1195,
+                    1002
+                ],
+                "score": 0.99,
+                "text": "formation) would occur in the 150 mV"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1008,
+                    1195,
+                    1038
+                ],
+                "score": 0.998,
+                "text": "between the pitting potential and the highest potential examined. It is most unlikely"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1042,
+                    1195,
+                    1070
+                ],
+                "score": 1.0,
+                "text": "that molybdates are involved in the pitting of alloys at these relatively low potentials,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1075,
+                    311,
+                    1104
+                ],
+                "score": 1.0,
+                "text": "although"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    398,
+                    1076,
+                    1195,
+                    1104
+                ],
+                "score": 0.997,
+                "text": "may be important in an advanced stage of pitting. Nevertheless,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1110,
+                    1196,
+                    1137
+                ],
+                "score": 0.991,
+                "text": "molybdenum exerted a strong inhibiting effect on pitting which was closely related to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1141,
+                    1196,
+                    1170
+                ],
+                "score": 0.997,
+                "text": "its 5-10 times reduction of the anodic kinetics in the pit environment. It can be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1177,
+                    1197,
+                    1204
+                ],
+                "score": 1.0,
+                "text": "concluded that both pit initiation and pit propagation are related to the inhibition of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1203,
+                    1201,
+                    1241
+                ],
+                "score": 0.991,
+                "text": "active dissolution by submonolayer surface enrichment of molybdenum.10,18 In"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1242,
+                    1196,
+                    1271
+                ],
+                "score": 0.992,
+                "text": "addition, some evidence was obtained that molybdenum mitigates the activating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1276,
+                    1196,
+                    1305
+                ],
+                "score": 0.989,
+                "text": "effect of sulphur compounds on pitting dissolution. Future work should aim to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1309,
+                    1196,
+                    1338
+                ],
+                "score": 0.991,
+                "text": "understand the co-operative behaviour of chromium and molybdenum, and will"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1343,
+                    1196,
+                    1371
+                ],
+                "score": 0.992,
+                "text": "involve measurement of dissolution and passivation in solutions of less than the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1377,
+                    1194,
+                    1404
+                ],
+                "score": 0.994,
+                "text": "saturated metal ion concentration, since this is where chromium exerts its effect."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    1407,
+                    1185,
+                    1441
+                ],
+                "score": 0.997,
+                "text": "Artificial pit studies of the roles of copper, tungsten and nitrogen are also in progress."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1473,
+                    1196,
+                    1500
+                ],
+                "score": 0.984,
+                "text": "Acknowledgement—-This work was performed under the auspices of the U.S. Department of Energy,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1500,
+                    1196,
+                    1529
+                ],
+                "score": 0.99,
+                "text": "Division of Materials Sciences, Office of Basic Energy Sciences, under Contract No."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1530,
+                    424,
+                    1552
+                ],
+                "score": 1.0,
+                "text": "DE-AC02-76CH00016."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    604,
+                    1585,
+                    780,
+                    1606
+                ],
+                "score": 0.995,
+                "text": "REFERENCES"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1613,
+                    919,
+                    1638
+                ],
+                "score": 0.975,
+                "text": "1. R. C. NEwMAN and H. S. IsAACs, J. Electrochem. Soc. 130, 1621 (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1640,
+                    1188,
+                    1666
+                ],
+                "score": 0.959,
+                "text": "2. R. C. NEwMAN and H. S. IsAACs, Passivity of Metals and Semiconductors (ed. M. FRomENτ), p. 269."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    235,
+                    1669,
+                    512,
+                    1689
+                ],
+                "score": 0.996,
+                "text": "Elsevier, Amsterdam (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    1694,
+                    655,
+                    1719
+                ],
+                "score": 0.977,
+                "text": "3. J. N. WANKLYN, Corros. Sci. 21, 211 (1981)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    203,
+                    1721,
+                    1190,
+                    1747
+                ],
+                "score": 0.953,
+                "text": "4. 1. OLEFJoRD and B. BRox, Passivity of Metals and Semiconductors (ed. M. FRomENT), p. 561. Elsevier."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    236,
+                    1751,
+                    421,
+                    1771
+                ],
+                "score": 0.987,
+                "text": "Amsterdam (1983)"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1400,
+            "height": 2000
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.902,
+                "bbox": [
+                    206,
+                    173,
+                    249,
+                    197
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9219,
+                "bbox": [
+                    628,
+                    175,
+                    784,
+                    201
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9477,
+                "bbox": [
+                    208,
+                    236,
+                    630,
+                    264
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9415,
+                "bbox": [
+                    207,
+                    264,
+                    794,
+                    292
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9421,
+                "bbox": [
+                    207,
+                    293,
+                    754,
+                    320
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9403,
+                "bbox": [
+                    206,
+                    320,
+                    797,
+                    347
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.939,
+                "bbox": [
+                    205,
+                    348,
+                    902,
+                    376
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9437,
+                "bbox": [
+                    201,
+                    376,
+                    662,
+                    403
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9698,
+                "bbox": [
+                    199,
+                    404,
+                    1197,
+                    459
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9494,
+                "bbox": [
+                    199,
+                    460,
+                    1099,
+                    487
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9505,
+                "bbox": [
+                    198,
+                    488,
+                    918,
+                    515
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9765,
+                "bbox": [
+                    199,
+                    516,
+                    1196,
+                    596
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9455,
+                "bbox": [
+                    199,
+                    599,
+                    745,
+                    626
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9717,
+                "bbox": [
+                    199,
+                    627,
+                    1196,
+                    682
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.971,
+                "bbox": [
+                    198,
+                    682,
+                    1194,
+                    738
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.945,
+                "bbox": [
+                    198,
+                    739,
+                    770,
+                    767
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9499,
+                "bbox": [
+                    197,
+                    767,
+                    920,
+                    794
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9439,
+                "bbox": [
+                    196,
+                    795,
+                    801,
+                    823
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    173,
+                    248,
+                    201
+                ],
+                "score": 1.0,
+                "text": "350"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    629,
+                    175,
+                    781,
+                    201
+                ],
+                "score": 0.995,
+                "text": "R. C. NEWMAN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    238,
+                    626,
+                    263
+                ],
+                "score": 0.959,
+                "text": "5. J. R. AmBrosE, Corrosion 34, 27 (1978)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    266,
+                    790,
+                    291
+                ],
+                "score": 0.956,
+                "text": "6. T. KoDAMA and J. R. AmBRosE, Corrosion 33, 155 (1977)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    294,
+                    749,
+                    318
+                ],
+                "score": 0.979,
+                "text": "7. M. MorIYA and M. B. Ives, Corrosion 40, 105 (1984)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    322,
+                    792,
+                    347
+                ],
+                "score": 0.956,
+                "text": "8. R. BANDY and D. VAN RooYEN, Corrosion 39, 227 (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    349,
+                    898,
+                    375
+                ],
+                "score": 0.974,
+                "text": "9. E. A. LizLovs and A. P. BoND, J. Electrochem. Soc. 122, 720 (1975)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    380,
+                    656,
+                    402
+                ],
+                "score": 0.97,
+                "text": "10. R. C. NEwMAN, Corros. Sci. 25, 331 (1985)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    406,
+                    1196,
+                    430
+                ],
+                "score": 0.98,
+                "text": "11. H. S. IsAACS and R. C. NEwMAN, Corrosion and Corrosion Protection (eds. R. P. FRANKENTHAL and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    436,
+                    966,
+                    457
+                ],
+                "score": 0.987,
+                "text": "F. MAnsFELD), p. 120. The Electrochemical Society, Pennington, NJ (1981)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    463,
+                    1096,
+                    485
+                ],
+                "score": 0.971,
+                "text": "12. J. R. GALVELE, J. B. LUMSDEN and R. W. STAEHLE, J. Electrochem. Soc. 125, 1204 (1978)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    491,
+                    913,
+                    513
+                ],
+                "score": 0.974,
+                "text": "13. R. C. NEwMAN, H. S. IsAACS and B. ALMAN, Corrosion 38, 261 (1982)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    519,
+                    1191,
+                    541
+                ],
+                "score": 0.974,
+                "text": "14. P. MaRcus and J. OuDAR, Fundamental Aspects of Corrosion Protection by Surface Modification (eds."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    237,
+                    545,
+                    1192,
+                    570
+                ],
+                "score": 0.976,
+                "text": "E. McCAFFERTY, C. R. CLAYToN and J. OuDAR), p. 173. The Electrochemical Society, Pennington, NJ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    237,
+                    573,
+                    311,
+                    598
+                ],
+                "score": 1.0,
+                "text": "(1984)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    601,
+                    742,
+                    625
+                ],
+                "score": 0.98,
+                "text": "15. J. R. GALvELE, J. Electrochem. Soc. 123, 464 (1976)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    202,
+                    631,
+                    1192,
+                    652
+                ],
+                "score": 0.971,
+                "text": "16. S. SzKLARsKA-SmIALowsKA, Proceedings of the 7th International Congress on Metallic Corrosion, Rio"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    659,
+                    461,
+                    680
+                ],
+                "score": 0.982,
+                "text": "de Janeiro 1978 (1980)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    201,
+                    687,
+                    1189,
+                    708
+                ],
+                "score": 0.944,
+                "text": "17. D. E. WiLLIAMs, C. WESTCorT and M. FLEIsCHMANN, Passivity of Metals and Semiconductors (ed. M"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    238,
+                    714,
+                    695,
+                    737
+                ],
+                "score": 0.964,
+                "text": "FromENT), p. 217. Elsevier, Amsterdam (1983)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    200,
+                    741,
+                    765,
+                    766
+                ],
+                "score": 0.976,
+                "text": "18. P. MARCus and J. OuDAR, Appl. Surf. Sci. 3, 48 (1979)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    770,
+                    917,
+                    792
+                ],
+                "score": 0.975,
+                "text": "19. R. C. NEwMAN and E. M. FRANz, J. Electrochem. Soc. 131, 223 (1984)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    798,
+                    798,
+                    821
+                ],
+                "score": 0.974,
+                "text": "20. N. PessALL and C. LIU, Electrochim. Acta 16, 1987 (1971)."
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1400,
+            "height": 2000
+        }
+    }
+]

@@ -1,0 +1,1632 @@
+[
+    {
+        "type": "text",
+        "text": "Differences in Corrosion Behavior of Ferritic and Austenitic Stainless Steels✫",
+        "text_level": 1,
+        "bbox": [
+            71,
+            169,
+            842,
+            241
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "T. Ujiro,\\* K. Yoshioka,\\*\\* and R.W. Staehle\\*\\*\\*",
+        "bbox": [
+            73,
+            291,
+            420,
+            307
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT",
+        "text_level": 2,
+        "bbox": [
+            73,
+            446,
+            182,
+            464
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of chromium (Cr) and molybdenum (Mo) on differences in corrosion behavior of ferritic and austenitic stainless steels (SS) were investigated to clarify the reason for the superior corrosion resistance of high-alloy ferritic SS to austenitic SS. In the region where the corrosion index (Cr + 3xMo [mass%]) exceeded 32 to 35, ferritic SS showed superior pitting and crevice corrosion resistance to austenitic SS. Cr produced different effects on the anodic polarization behavior of ferritic and austenitic SS in solutions with low pH and high concentrations of chloride. The superiority of high-alloy ferritic SS could be explained by this behavior.",
+        "bbox": [
+            71,
+            480,
+            488,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: anodic polarization, austenitic stainless steel, chromium, crevice corrosion, depassivation, ferritic stainless steel, general corrosion, molybdenum, nickel, pitting corrosion, seawater, stainless steel",
+        "bbox": [
+            71,
+            655,
+            476,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION",
+        "text_level": 2,
+        "bbox": [
+            73,
+            724,
+            232,
+            740
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The present work was undertaken to clarify reasons for the superiority of high-alloy ferritic stainless steels (SS) for seawater applications.",
+        "bbox": [
+            71,
+            757,
+            485,
+            805
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A typical example of a high-alloy ferritic SS contains 27.5% chromium (Cr) and 3.5% molybdenum (Mo). A typical example of a high-alloy austenitic SS contains 20% Cr, 24% nickel (Ni), and 6% Mo. Although the corrosion index (Cr + 3xMo [mass%] = 38) is the same for both alloys, the ferritic SS shows significantly better corrosion resistance to seawater than austenitic SS.",
+        "bbox": [
+            521,
+            446,
+            940,
+            570
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerous investigators have agreed that highalloy ferritic SS are superior.<sup>1-14</sup> With one exception, none of these investigators has rationalized the superiority of the ferritic steels.<sup>10</sup> In the one proposed explanation, the superiority was explained by the presence of small additions of Ni to ferritic SS.",
+        "bbox": [
+            521,
+            570,
+            933,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, the present results suggested that the high-alloy ferritic SS that did not contain Ni remained superior. Therefore, the small amount of alloying Ni was not the primary reason.",
+        "bbox": [
+            521,
+            662,
+            933,
+            724
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the low-alloy ferritic SS (Cr + 3xMo < \\~ 30) have inferior crevice corrosion resistance to austenitic steels. Kain reported the austenitic type 304 SS (UNS S30400)<sup>(1)</sup> and type 316 SS (UNS S31600) were more resistant to crevice corrosion propagation than the ferritic steels, type 430 SS (UNS S43000) and 18% Cr-2% Mo steel.<sup>15</sup> Since the corrosion rate of ferritic SS usually is higher than that of austenitic SS, these results were not surprising. However, the superiority of high-alloy ferritic SS has not been explained.",
+        "bbox": [
+            519,
+            724,
+            935,
+            892
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generally, it is assumed that the resistance of SS to localized corrosion can be correlated by the index of Cr + 3xMo regardless of the alloy structures.",
+        "bbox": [
+            521,
+            892,
+            936,
+            939
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            747,
+            43,
+            940,
+            57
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "✫ Submitted for publication January 1994.",
+        "bbox": [
+            82,
+            828,
+            311,
+            841
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Stainless Steel Laboratory, Iron and Steel Research Division, Kawasaki Steel Corp., 1 Kawasaki-cho, Chuo-ku, Chiba 260, Japan.",
+        "bbox": [
+            80,
+            840,
+            480,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*\\* Iron and Steel Research Division, Kawasaki Steel Corp., 1 Kawasakicho, Chuo-ku, Chiba 260, Japan.",
+        "bbox": [
+            78,
+            862,
+            470,
+            885
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "\\*\\*\\* Corrosion Research Center, University of Minnesota, 112 Amundson Hall, 221 Church Street SE, Minneapolis, MN, 55455.",
+        "bbox": [
+            73,
+            882,
+            466,
+            905
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>(1)</sup> UNS numbers are listed in Metals and Allo<sub>y</sub>s in the Unified Numberin<sub>g</sub> , published by the Society of Automotive Engineers (SAE) and cosponsored by ASTM.",
+        "bbox": [
+            76,
+            905,
+            473,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–Vol. 50, No. 12",
+        "bbox": [
+            73,
+            957,
+            317,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "0010-9312/94/000219/\\$5.00+\\$0.50/0 © 1994, NACE International",
+        "bbox": [
+            389,
+            946,
+            622,
+            973
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "953",
+        "bbox": [
+            909,
+            961,
+            943,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea3ab853975c97ad61a56f795a6c9ab9f23fcf8b9f47509ad24db88a486db4bc.jpg",
+        "table_caption": [
+            "TABLE 1",
+            "Chemical Composition of the Steels Used (mass%) (A)"
+        ],
+        "table_footnote": [
+            "<sup>(A)</sup> C, carbon; Si, silicon; Mn, manganese; Cr, chromium; Mo, molybdenum; Ni, nickel; and N, nitrogen."
+        ],
+        "table_body": "<table><tr><td></td><td>C</td><td>Si</td><td>Mn</td><td>Cr</td><td>Mo</td><td>Ni</td><td>N</td><td> $C r + 3 \\times 1 0 0$ </td></tr><tr><td>F1</td><td>0.009</td><td>0.29</td><td>1.00</td><td>18.0</td><td>&lt; 0.003</td><td>0.004</td><td>0.004</td><td>18.0</td></tr><tr><td>F2</td><td>0.010</td><td>0.28</td><td>1.08</td><td>18.4</td><td>1.96</td><td>0.004</td><td>0.005</td><td>24.3</td></tr><tr><td>F3</td><td>0.009</td><td>0.31</td><td>0.99</td><td>22.2</td><td>0.03</td><td>0.007</td><td>0.004</td><td>22.3</td></tr><tr><td>F4</td><td>0.009</td><td>0.30</td><td>0.99</td><td>22.4</td><td>1.91</td><td>0.004</td><td>0.003</td><td>28.2</td></tr><tr><td>F5</td><td>0.008</td><td>0.30</td><td>1.00</td><td>26.5</td><td>0.04</td><td>0.004</td><td>0.004</td><td>26.7</td></tr><tr><td>F6</td><td>0.010</td><td>0.30</td><td>0.97</td><td>26.9</td><td>1.91</td><td>0.004</td><td>0.004</td><td>32.6</td></tr><tr><td>F7</td><td>0.009</td><td>0.26</td><td>0.98</td><td>26.7</td><td>3.99</td><td>0.006</td><td>0.005</td><td>38.7</td></tr><tr><td>A1</td><td>0.010</td><td>0.29</td><td>1.00</td><td>18.6</td><td>0.03</td><td>12.6</td><td>0.003</td><td>18.7</td></tr><tr><td>A2</td><td>0.008</td><td>0.24</td><td>1.00</td><td>18.5</td><td>1.91</td><td>15.3</td><td>0.003</td><td>24.2</td></tr><tr><td>A3</td><td>0.010</td><td>0.31</td><td>0.96</td><td>22.9</td><td>0.02</td><td>17.6</td><td>0.003</td><td>22.9</td></tr><tr><td>A4</td><td>0.011</td><td>0.27</td><td>0.99</td><td>22.6</td><td>1.85</td><td>20.8</td><td>0.003</td><td>28.2</td></tr><tr><td>A5</td><td>0.010</td><td>0.29</td><td>0.98</td><td>26.2</td><td>0.08</td><td>24.0</td><td>0.002</td><td>26.4</td></tr><tr><td>A6</td><td>0.012</td><td>0.31</td><td>1.01</td><td>26.5</td><td>1.87</td><td>26.9</td><td>0.003</td><td>32.2</td></tr><tr><td>A7</td><td>0.010</td><td>0.24</td><td>1.00</td><td>26.3</td><td>3.82</td><td>28.8</td><td>0.002</td><td>37.8</td></tr></table>",
+        "bbox": [
+            186,
+            112,
+            801,
+            333
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From this point of view, the superiority of the highalloy ferritic SS is important for practical applications.",
+        "bbox": [
+            54,
+            401,
+            466,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explain the mechanism for this superiority, experiments were carried out to measure crevice corrosion, pitting, repassivation potential (E<sub>R</sub>), general corrosion, corrosion potential $( \\mathsf { E } _ { \\mathsf { c o r r } } )$ , and anodic polarization. Alloys for these experiments were selected to include compositions from the highand low-alloy groups, as well as from ferritic and austenitic structures.",
+        "bbox": [
+            54,
+            432,
+            468,
+            555
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL",
+        "text_level": 2,
+        "bbox": [
+            58,
+            567,
+            211,
+            584
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies were conducted using ferritic and austenitic SS containing 18% to 26% Cr and 0% to 4% Mo. Chemical compositions are given in Table 1. These steels were produced from 50 kg vacuummelted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling.",
+        "bbox": [
+            54,
+            600,
+            466,
+            693
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pitting corrosion resistance was evaluated in 6% ferric chloride $( \\mathsf { F e C l } _ { 3 } ) + 0 . 1 8 \\%$ hydrochloric acid (HCl) solutions at $6 0 ^ { \\circ } \\mathsf { C }$ . Crevice corrosion resistance was evaluated in 6% $\\mathsf { F e C l } _ { 3 } + 0 . 1 8 \\%$ HCl solutions and in 3% $\\mathsf { F e C l } _ { 3 }$ solutions that were adopted to minimize pitting corrosion outside the crevice for the low-alloy SS. Immersion time was 24 h for the pitting test and usually was 48 h for the crevice corrosion test.",
+        "bbox": [
+            54,
+            692,
+            468,
+            830
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specimens for the pitting and crevice corrosion tests were 30 mm by 30 mm by 1 mm to 1.5 mm and 30 mm by 50 mm by 1 mm, respectively. Specimens for the crevice corrosion test were prepared using a polytetrafluoroethylene (PTFE) washer on both sides of the flat sample. The washers were held in place with a PTFE nut and bolt inserted through a hole in the specimen. The outer and inner diameters of the washer were 16 mm and 9 mm, respectively.",
+        "bbox": [
+            54,
+            830,
+            473,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            401,
+            911,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { E } _ { \\mathsf { c o r r } }$ values of some specimens were monitored for the test period using a potentiostat. General corrosion was evaluated by measuring weight loss of the specimens in boiling 10% sulfuric acid $( \\mathsf { H } _ { 2 } \\mathsf { S O } _ { 4 } )$ solutions for 0.5 h to 24 h depending on the corrosion resistance of the steels. All specimens for pitting, crevice, and general corrosion tests were polished to a 320-grit finish and degreased with acetone.",
+        "bbox": [
+            505,
+            448,
+            921,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pitting potentials $( \\mathsf { E } _ { \\mathsf { p } } )$ were measured in deaerated 3.5% sodium chloride (NaCl) solutions at $8 0 ^ { \\circ } \\mathsf { C }$ by anodic polarization. These specimens were polished to a 600-grit finish. $\\mathsf { E } _ { \\mathsf { p } }$ values were determined as the potentials at which the polarizing current exceeded $1 0 \\mu \\mathsf { A } / \\mathsf { c m } ^ { 2 }$ and continued to increase without oscillation. Anodic polarization curves also were measured in the various deaerated solutions with low pH and high concentrations of chloride (Cl<sup>–</sup>) using a potentiostat. The pH was adjusted by adding HCl. The sweep rate in the polarization measurements was 20 mV/min for $\\mathsf { E } _ { \\mathsf { p } }$ and anodic polarization curves.",
+        "bbox": [
+            505,
+            570,
+            917,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { E } _ { \\mathsf { R } }$ was measured in deaerated 3.5% NaCl solutions at $6 0 ^ { \\circ } \\mathsf { C }$ in accordance with the method developed by Tsujikawa.<sup>16-17</sup> Specimens were the same as those of the crevice corrosion test. Specimens were polarized in the noble direction with 10 mV/min steps and held for 1 h at the potential at which the polarizing current $\\mathsf { w a s } > 1 0 0 \\mu { \\mathsf { A } }$ Specimens then were polarized in the active direction with 10 mV/min steps until the polarizing current decreased to $1 0 \\mu \\mathsf { A }$ . Under $1 0 \\mu \\mathsf { A }$ , the steps were decreased to 10 mV/h. Since the solution was",
+        "bbox": [
+            505,
+            770,
+            924,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            56,
+            43,
+            249,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "954",
+        "bbox": [
+            58,
+            960,
+            94,
+            974
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–DECEMBER 1994",
+        "bbox": [
+            659,
+            957,
+            926,
+            974
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2db50477d61b1d7d6e63ac0a0a1ce8ab9c92b2744b6ced051887326d9936632e.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 1. Pittin<sub>g</sub> corrosion rate vs the Cr + 3xMo index for ferritic and austenitic SS exposed to 6% $F e C l _ { 3 } + { \\cal O } .$ 18% HCl at 60°C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            75,
+            80,
+            487,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "deaerated, $\\mathsf { E } _ { \\mathsf { R } }$ was determined as the potential at which the polarizing current became negative.",
+        "bbox": [
+            71,
+            508,
+            454,
+            541
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL RESULTS",
+        "text_level": 2,
+        "bbox": [
+            73,
+            551,
+            324,
+            569
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pitting Corrosion",
+        "text_level": 2,
+        "bbox": [
+            73,
+            582,
+            232,
+            600
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pitting corrosion was evaluated by measuring the weight loss of specimens exposed to 6% $\\mathsf { F e C l } _ { 3 } +$ 0.18% HCl solutions for 24 h and determining the corrosion rate. Since weight loss depended on the alloy composition and the surface area of the specimens, it was thought that the average corrosion rate divided by the surface area was the best comparative indicator of pitting of the steels. The data are summarized in Figure 1.",
+        "bbox": [
+            70,
+            601,
+            487,
+            739
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pitting corrosion resistance was improved with increasing value of the index of Cr + 3xMo, especially for ferritic SS. Austenitic SS showed better corrosion resistance than ferritic steels in the low-alloy region of the index values from 18 to 33; but in the highalloy region, such as where the index value was 38 (26% Cr-4% Mo steel), the ferritic SS showed better corrosion resistance than the austenitic steel for the same concentrations of Cr and Mo. The change in superiority of the two structures occurred where the Cr + 3xMo index was \\~ 33. Figure 2 shows the relationship between the value of the Cr + 3xMo index and $\\mathsf { E } _ { \\mathsf { p } } .$ The result was almost the same as in",
+        "bbox": [
+            70,
+            739,
+            487,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e02126317b7676822a5695ed00b4173cc375ee7f0ee722eb73fe6ba0c2d239dd.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 2. $E _ { p }$ vsthe Cr+ 3xMo indexforferriticand austenitic SS in deaerated 3.5% NaCl solutions at ${ } ^ { 8 0 ^ { \\circ } C . }$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            521,
+            80,
+            938,
+            409
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. In the low-alloy region, ferritic SS were inferior to austenitic steels. However, in the high-alloy region where the Cr + 3xMo index exceeded 35, the ferritic SS were superior.",
+        "bbox": [
+            521,
+            508,
+            940,
+            570
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crevice Corrosion",
+        "text_level": 2,
+        "bbox": [
+            523,
+            582,
+            695,
+            598
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crevice corrosion was evaluated by measuring weight loss of specimens exposed to $3 \\% F e C l _ { 3 }$ solutions for 48 h. Unlike results from pitting corrosion, the weight loss of crevice corrosion depended not only on the surface area of the specimens but also on the configuration of the crevice and the cathode areas. Since all the crevices were of the same geometry, the crevice corrosion resistance was compared by the amount of corrosion without dividing by the crevice area.",
+        "bbox": [
+            521,
+            600,
+            940,
+            753
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the relationship between the overall corrosion rate for the crevice specimen and the value of the Cr + 3xMo index. These results were similar to those for pitting in Figure 1. Specimen F1 sustained crevice corrosion as well as pitting and general corrosion in the solution. Specimen F3 also sustained pitting corrosion. Therefore, these data were not exactly comparable for crevice corrosion. Ferritic SS showed superior crevice corrosion resistance to austenitic steels where the Cr + 3xMo index exceeded 32. Figure 4 shows the changes in weight loss and corrosion rate with the immersion",
+        "bbox": [
+            521,
+            753,
+            933,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            748,
+            43,
+            940,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–Vol. 50, No. 12",
+        "bbox": [
+            73,
+            957,
+            317,
+            975
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "955",
+        "bbox": [
+            911,
+            961,
+            943,
+            975
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "chart",
+        "img_path": "images/8979e9296afac4eb3993f6d3b9929ca3e8ef3d2e400f1f27313891af115fa038.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 3. Crevice corrosion rate vs the $C r +$ 3xMo index for ferritic and austenitic SS exposed to 3% $F e C l _ { 3 }$ at $3 0 ^ { \\circ } C .$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            59,
+            81,
+            466,
+            402
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2fa826602eed96e906db9905dc938d6d7cecb79017075e3ae0cec0b3bece4d0b.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 4. Corrosion rateandwei<sub>g</sub>htlossasafunction oftime in crevice corrosion test for ferritic and austenitic SS containing 26% Cr and 4% Mo exposed to 6% FeCl₃ + 0.18% HCl at 50° C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            58,
+            484,
+            471,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "time of the crevice corrosion test for ferritic and austenitic SS containing 26% Cr and 4% Mo. The high-alloy ferritic SS showed superior crevice corrosion resistance to the austenitic steel. The corrosion rate of the ferritic SS was much lower than that of the austenitic steel. In a previous work, Kovach and Redmond noted that “the ferriticstructured alloys may exhibit higher propagation rates at a given temperature once initiation has occurred.”<sup>13</sup> Their suggestion agreed with results of the present study in the low-alloy region but was contradicted in the high-alloy region. In their paper, they quoted results of Bond and Dundas that supported the present results.<sup>1-2</sup>",
+        "bbox": [
+            54,
+            860,
+            464,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            80,
+            907,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows $\\mathsf { E } _ { \\mathsf { c o r r } }$ as a function of time in the crevice corrosion test for austenitic and ferritic SS of the low- and high-alloy types. These data showed $\\mathsf { E } _ { \\mathsf { c o r r } }$ reached a stable value in a relatively short time, which indicated that the incubation time for crevice corrosion was relatively short. Therefore, it could be concluded that the superiority of the high-alloy ferritic steels was not related to the initiation process.",
+        "bbox": [
+            505,
+            218,
+            921,
+            342
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "General Corrosion",
+        "text_level": 2,
+        "bbox": [
+            509,
+            352,
+            685,
+            370
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the relationship between the value of the Cr + 3xMo index and the rate of general corrosion in boiling 10% ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ solutions. Contrary to the results obtained for pitting and crevice corrosion in the present study, the high-alloy ferritic SS containing 26% Cr and 4% Mo showed a much higher corrosion rate than the comparable austenitic steel. This was as expected. However, results in Figure 4 which showed the ferritic SS to be superior to austenitic steel in the high-alloy region even in the propagating mode were surprising in view of normal expectations regarding the relative behavior of these alloys. $\\mathsf { E } _ { \\mathsf { c o r r } }$ of the SS containing 26% Cr and 4% Mo in $1 0 \\% \\mathsf { H } _ { 2 } \\mathsf { S } \\mathsf { O } _ { 4 }$ solutions were \\~ –0.45 V (vs a silversilver chloride [Ag-AgCl] electrode) for the ferritic steel and $\\sim - 0 . 2 \\ V _ { \\tt A g - A g C l }$ for the austenitic steel, respectively.",
+        "bbox": [
+            505,
+            370,
+            919,
+            633
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Anodic Polarization",
+        "text_level": 2,
+        "bbox": [
+            507,
+            643,
+            692,
+            661
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The anodic polarization behavior of the ferritic and austenitic steels was investigated in solutions with low pH and high concentrations of Cl<sup>–</sup> to simulate the chemistry of the solution inside a crevice. Anodic polarization curves were measured in various solutions. Results shown in Figures 7 through 10 were chosen to compare low- to high-alloy steels in the same condition.",
+        "bbox": [
+            505,
+            662,
+            924,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the effect of Cr concentration with Mo constant at 2%. Figure 8 shows the effect of Cr without Mo. Figure 9 shows the effect of Mo at constant Cr of 26%. Figure 10 shows the effect of Mo at constant Cr of 22%.",
+        "bbox": [
+            505,
+            784,
+            923,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Increasing Cr concentration (Figures 7 and 8) decreased the anodic current density over the entire polarization range. For the ferritic steels, especially the steels containing 2% Mo, increasing Cr reduced the rate of increase of the current density above the breakdown potential $( \\mathsf { E } _ { \\mathsf { b } } )$ . For the austenitic steels, the comparable rates of increase were not affected much by increasing Cr.",
+        "bbox": [
+            504,
+            862,
+            914,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            56,
+            43,
+            249,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "956",
+        "bbox": [
+            58,
+            960,
+            92,
+            974
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–DECEMBER 1994",
+        "bbox": [
+            659,
+            957,
+            926,
+            974
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            80,
+            470,
+            126
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The addition of Mo (Figures 9 and 10) decreased the anodic current density but did not reduce the rate of increase above $\\mathsf { E } _ { \\mathsf { b } }$ for the ferritic or austenitic SS. Consequently, the anodic current density of highalloy ferritic SS (such as 26% Cr-4% Mo steel) was smaller than that of austenitic steels above $\\mathsf { E } _ { \\mathsf { b } }$ (Figure 9).",
+        "bbox": [
+            71,
+            126,
+            487,
+            233
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the polarization behavior of highalloy steels, it was thought that the passive films of the high-alloy SS were unstable in the high-potential range in the solutions with low pH and high concentrations of Cl<sup>–</sup>. Destruction of the passive film of the austenitic steels above $\\mathsf { E } _ { \\mathsf { b } }$ propagated quickly. On the other hand, that of the ferritic steels propagated relatively slowly. The reason for the difference in these anodic polarization behavior was not clear, but these behaviors may have been affected by alloy structure or Ni concentration. These mechanisms require further investigation.",
+        "bbox": [
+            71,
+            232,
+            487,
+            420
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION",
+        "text_level": 2,
+        "bbox": [
+            73,
+            429,
+            203,
+            446
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was undertaken to explain the superiority of high-alloy ferritic SS over high-alloy austenitic SS, especially in crevice corrosion situations. This superiority was somewhat surprising in view of the generally better corrosion performance of austenitic steels, which has been observed by many investigators, and specifically in view of the superiority of high-alloy austenitic steels in general corrosion, as observed in this study.",
+        "bbox": [
+            71,
+            462,
+            483,
+            601
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bases for the differences in performance of the ferritic and austenitic steels are shown schematically in Figures 11 and 12 for the high-alloy and low-alloy groups, respectively. Basically, anodic curves in these figures represent the anodic polarization behavior of the steels in the solution inside a pit or crevice.",
+        "bbox": [
+            71,
+            601,
+            482,
+            708
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In reviewing these results, the differences in behavior of high- and low-alloy ferritic and austenitic structures, as well as low-potential processes such as general corrosion and high-potential processes such as pitting and crevice corrosion, were considered.",
+        "bbox": [
+            71,
+            708,
+            478,
+            799
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 11 shows the relative behavior of highalloy ferritic and austenitic steels in crevice corrosion, pitting corrosion, and general corrosion. The anodic curves (F and A) were derived from F7 in Figure 9(a) and A7 in Figure 9(b), respectively. These curves were considered to correspond to the anodic polarization behavior in the solution inside a crevice. The anodic curves $( \\mathsf { F ^ { \\prime } }$ and A´) corresponded to pitting. These curves were estimated from the F and",
+        "bbox": [
+            70,
+            800,
+            485,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/4d01034b977f2f8b4b85f5224c6fb248c267eccff5d9292e2363c9cde9d3bef0.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 5. $E _ { c o r r }$ as a function oftime in crevice corrosion test for ferritic and austenitic SS exposed to 6% $F e C l _ { 3 }$ +0.18% HCl at 20° C and at 60° C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            523,
+            77,
+            938,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ce9e04099707695e1410e081b3cd7b2ec64d3fffd99452334b319867da897cd8.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 6. General corrosion rate vs the Cr + 3xMo index for ferritic and austenitic SS exposed to boiling 10% $H _ { 2 } S O _ { 4 }$ solutions."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            523,
+            409,
+            936,
+            739
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A curves and the understanding that the inner solution of a pit is more corrosive than that of a crevice. The cathodic curve C correspond to the reduction reaction of strong oxidants such as $\\mathsf { F e C l } _ { 3 } ,$ and the curve C´ corresponded to the reduction reaction at lower potentials, similar to the reduction of water to hydrogen gas.",
+        "bbox": [
+            519,
+            830,
+            940,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            748,
+            43,
+            940,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–Vol. 50, No. 12",
+        "bbox": [
+            73,
+            957,
+            317,
+            975
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "957",
+        "bbox": [
+            911,
+            961,
+            943,
+            975
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c6689cdbd6b0ee3b8943ec19ef573cd4bc5e68e2d5ab21539e2b66e771b7e776.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            76,
+            80,
+            451,
+            344
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/5a29cf088a96de8fdd2c2c18a8e9e540ca86320a5730d2f158f0a2be98912e1f.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b)",
+            "FIGURE 7. Effect of Cr on anodic <sub>p</sub>olarization behavior for: (a) ferritic and (b) austenitic SS containin<sub>g</sub> 18% to 26% Cr and constant 2% Mo in deaerated 5 M NaCl + HCl (pH 0.5) solutions at ${ } _ { 3 0 ^ { \\circ } C . }$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            528,
+            79,
+            900,
+            343
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/406afafc03d20cc9960f9dae14607dc092e64a662f9469850ec955002f2d77dd.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            80,
+            445,
+            452,
+            711
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/3d138ee2bb540a277f714b54283bf9671f0fcde5c0c380771b4134bd650116a5.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b)",
+            "FIGURE 8. Effect of Cr on anodic <sub>p</sub>olarization behavior for: (a) ferritic and (b) austenitic SS containin<sub>g</sub> 18% to 26% Cr and no Mo in deaerated solutions: (a) 2 M NaCl + HCI (pH 1.0) and (b) 3 M NaCl + HCI (pH 0.5) at 30° C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            531,
+            446,
+            900,
+            710
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To explain the superiority of high-alloy ferritic SS, two types of crevice corrosion must be considered: crevice corrosion of a depassivation type and crevice corrosion of a pitting type.<sup>18</sup> Crevice corrosion of a depassivation type occurs where crevice corrosion initiates by the depassivation of the surface inside a crevice as a result of the pH drop of the inner solution and where the passive film is destroyed extensively.",
+        "bbox": [
+            54,
+            814,
+            475,
+            939
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Crevice corrosion of a pitting type occurs where crevice corrosion initiates by pitting inside a crevice as a result of an increase in Cl<sup>–</sup> concentration of the inner solution and where the pits coalesce into extended areas, but where local destruction of the passive film is maintained.<sup>18-20</sup>",
+        "bbox": [
+            505,
+            816,
+            911,
+            908
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Crevice corrosion of high-alloy SS (such as 26% Cr-4% Mo steel) in the $\\mathsf { F e C l } _ { 3 }$ solution was considered to correspond to the conditions indicated by the symbol V in Figure 11 because $\\mathsf { E } _ { \\mathsf { c o r r } }$ values were within the range 0.25 $V _ { \\mathsf { A g - A g C l } }$ to 0.4 $\\mathsf { V } _ { \\mathsf { A g - A g C l } } . \\mathsf { E } _ { \\mathsf { c o r r } }$ of ferritic SS was higher than that of austenitic steel, as shown in Figure 5. The report by Suzuki that crevice corrosion of high-alloy SS usually is of a pitting type supports this correspondence.18 In contrast, corrosion in the ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ solutions corresponded to conditions indicated by symbol ∆ because of active $\\mathsf { E } _ { \\mathsf { c o r r } }$ in the range –0.45 $\\mathsf { V } _ { \\mathsf { A g - A g C l } } \\mathsf { t o } - 0 . 2 \\mathsf { V } _ { \\mathsf { A g - A g C l } }$ . In this low potential range, $\\mathsf { E } _ { \\mathsf { c o r r } }$ of the austenitic steel was higher than that of the ferritic steel.",
+        "bbox": [
+            507,
+            908,
+            923,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            56,
+            43,
+            249,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "958",
+        "bbox": [
+            58,
+            960,
+            92,
+            974
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–DECEMBER 1994",
+        "bbox": [
+            659,
+            957,
+            926,
+            974
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/403932da568c9ec3e7741116197bec7774f5e29ec1b7a1b9a08f5d1410c4057b.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            94,
+            77,
+            468,
+            342
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/a2e6d1b8af0994e22637ef79de886c9691b6e03fc079e44b8df6fa5a85e8954d.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b)",
+            "FIGURE 9. Effect of Mo on anodic <sub>p</sub>olarization behaviorfor: (a) ferritic and (b) austenitic SS containin<sub>g</sub> 26% Cr and 0% to 4% Mo in deaerated 5 M NaCl + HCl (pH 0) solutions at ${ 5 0 } ^ { \\circ } C .$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            545,
+            77,
+            914,
+            342
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            448,
+            488,
+            632
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As current densities corresponding to the various symbols indicated, the high-alloy ferritic SS showed superior corrosion resistance to the austenitic steel in the noble potential range. However, the same ferritic steel showed inferior corrosion resistance to the austenitic steel in the active potential range.",
+        "bbox": [
+            70,
+            632,
+            487,
+            724
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conditions for the low-alloy SS are illustrated in Figure 12. Basically, the anodic curves (F and A) were derived from F2 in Figure 7(a) and A2 in Figure 7(b), respectively. The other curves were defined in the same way as in Figure 11. As shown in Figures 7 and 8, the ferritic 18% Cr and 18% Cr-2% Mo steels exhibited generally higher anodic current densities than those of the corresponding austenitic steels. Crevice corrosion was considered to correspond to either ∆ or V in Figure 12. As shown in Figure 5, $\\mathsf { E } _ { \\mathsf { c o r r } }$ of the F2 steel was lower than that of the A2 steel, but this result corresponded to both V and ∆; therefore, which was responsible could not be distinguished. However, since crevice corrosion of",
+        "bbox": [
+            70,
+            724,
+            487,
+            939
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "low-alloy SS is usually of the depassivation type,<sup>18</sup> these crevice corrosion conditions were considered to correspond to those indicated by the ∆ symbols. Observations of this study as summarized in Figure 12 were supported by the work of Kain, who reported that $\\mathsf { E } _ { \\mathsf { c o r r } }$ of type 430 and 18% Cr-2% Mo ferritic SS were lower than those of types 304 and 316 austenitic steels.<sup>15</sup>",
+        "bbox": [
+            521,
+            446,
+            935,
+            569
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the discussion of Figure 11, it was shown that the high-alloy ferritic steel was superior when higher potential processes occur, as indicated by the V and M symbols. However, for the lower potential processes, as noted by ∆, the austenitic steel was superior. The lower potential processes were related to the active peaks in the anodic polarization curves and were of the depassivation type. When the crevice corrosion of high-alloy SS occurred in this depassivation range, the ferritic high-alloy was expected to be inferior to the comparable austenitic alloy.",
+        "bbox": [
+            521,
+            570,
+            936,
+            739
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 13 shows the relationship between the value of the $C r + 3 { \\times } M 0$ index and $\\mathsf { E } _ { \\mathsf { R } }$ for crevice corrosion. $\\mathsf { E } _ { \\mathsf { R } }$ values of the ferritic steels were lower than those of the austenitic steels, even in the highalloy region (i.e., the high-alloy ferritic SS showed inferior crevice corrosion resistance to the comparable austenitic steels). Judging from the data indicating $\\mathsf { E } _ { \\mathsf { R } }$ values in this study were in the active potential range and $\\mathsf { E } _ { \\mathsf { R } }$ was related closely to depassivation pH,<sup>21-22</sup> the crevice corrosion in Figure 13 was considered to be of a depassivation type.",
+        "bbox": [
+            521,
+            739,
+            931,
+            908
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 11 shows that superiority of the high-alloy ferritic steel depended on the cathode kinetics.",
+        "bbox": [
+            521,
+            908,
+            935,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            748,
+            43,
+            940,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–Vol. 50, No. 12",
+        "bbox": [
+            73,
+            957,
+            317,
+            975
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "959",
+        "bbox": [
+            911,
+            961,
+            943,
+            975
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/56fe04aa9a031da88d7997c832ac7e13f62aab10f69f89f34f7f2ae56b39ca7a.jpg",
+        "content": "",
+        "chart_caption": [
+            "(a)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            78,
+            77,
+            451,
+            344
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9f53a70ce9f86f1ba9d14093ea7593c2b137a44ebde678357162e9883ff71df5.jpg",
+        "content": "",
+        "chart_caption": [
+            "(b)",
+            "FIGURE 10. Effect of Mo on anodic <sub>p</sub>olarization behavior for: (a) ferritic and (b) austenitic SS containin<sub>g</sub> 22% Cr and 0% to 2% Mo in deaerated solutions: (a) 2 M NaCl + HCl (pH 1.0) and (b) 3 M NaCl + HCl (pH 0.5) at 30° C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            533,
+            77,
+            897,
+            342
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Increased cathodic kinetics favored superiority of the ferritic alloy, and decreased cathodic kinetics favored superiority of the austenitic alloy. The 26% Cr-2% Mo steels illustrated this effect. As shown in Figures 1 through 3, these steels were at the point of transition between the superiority of ferritic and austenitic steels. Figure 14 shows the effect of cathodic kinetics where increasing the concentration of $\\mathsf { F e C l } _ { 3 }$ caused the relative superiority of the steel to change. Here, the austenitic steel was superior at low concentrations, and the ferritic steel was superior at high concentrations. A similar effect of cathodic kinetics was shown in a previous finding that the superiority of high-alloy ferritic SS in $\\mathsf { F e C l } _ { 3 }$ solutions was greater than in natural seawater, which contained weaker oxidants than $\\mathsf { F e C l } _ { 3 } .$ <sup>23</sup> Results in Figures 13 and 14 supported the mechanism in Figure 11.",
+        "bbox": [
+            54,
+            448,
+            473,
+            708
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The general explanation for the behavior of the ferritic and austenitic steels could be applied in explaining the effect of the small alloying addition of Ni to ferritic steels. It has been reported that Ni added to ferritic SS is important to the superiority of the highalloy ferritic ${ \\tt S S ^ { 1 0 } }$ because a few percent of Ni lowers depassivation pH of the ferritic steels<sup>22</sup> and raises $\\mathsf { E } _ { \\mathsf { R } }$ .<sup>24</sup> However, the high-alloy ferritic steels used in this study contained negligible Ni (0.004% to 0.007%) but still were superior to the high-alloy austenitic steels in the high-potential processes. The lack of effect of Ni on ferritic steels in the high-potential processes could be explained by the fact that Ni in these small quantities affected only the depassivation process, corresponding to ∆ in Figure 11.",
+        "bbox": [
+            54,
+            708,
+            475,
+            939
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It also has been reported that the high-alloy ferritic SS corrode when connected with low-alloy austenitic SS such as type 316 to form a dissimilar metal crevice.<sup>14</sup> However, the high-alloy austenitic steels in this study were immune from this kind of dissimilar metal crevice corrosion. In this case the process of crevice corrosion was that pH of the solution inside the dissimilar metal crevice decreased as corrosion of the lower alloy progressed. Eventually, the acidic Cl<sup>–</sup> solution depassivated the high-alloy ferritic steel. Therefore, this crevice corrosion was considered to be of a depassivation type. This assumption was supported by results that the austenitic steels, which have lower depassivation pH, and the ferritic steel containing 2% Ni, which decreased the depassivation pH of ferritic steels, did not corrode.<sup>14</sup> As mentioned above, austenitic steels were superior to ferritic steels in the case of depassivation-type crevice corrosion.",
+        "bbox": [
+            505,
+            446,
+            921,
+            739
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Some researchers have reported that the superiority of the high-alloy ferritic steels in crevice corrosion is greater than in pitting corrosion.<sup>7,25-26</sup> To understand this comparison, the M symbols for pitting corrosion of ferritic and austenitic steels in Figure 11 should be compared with the V symbols for crevice corrosion of the same materials. The M symbols were relatively close together because solutions inside the pits were more aggressive and destroyed the passive films more extensively than that inside the crevices. If the passive films were destroyed completely, the anodic polarization curves $( \\mathsf { F } ^ { \\prime }$ and A´) in Figure 11 would become (F´ and A´) in Figure 12. Whereas, the",
+        "bbox": [
+            505,
+            739,
+            926,
+            939
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            56,
+            43,
+            247,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "960",
+        "bbox": [
+            58,
+            960,
+            94,
+            974
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–DECEMBER 1994",
+        "bbox": [
+            659,
+            957,
+            926,
+            974
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5e84d85511373ea0ee4be2c2be6ced0d1e514293c825160f6ddec88c50e9f0f.jpg",
+        "image_caption": [
+            "Current Density",
+            "FIGURE 11. Schematicanodicandcathodic<sub>p</sub>olarizationcurves for the high-alloy group of ferritic and austenitic SS, where V = pittin<sub>g</sub>-t<sub>y</sub>pe crevice corrosion<sub>,</sub> ∆ = <sub>g</sub>eneral corrosion and depassivation-type crevice corrosion, and=pitting corrosion."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            79,
+            475,
+            346
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "V symbols were relatively far apart because solutions inside the crevices were relatively mild, and the corrosion rates of these surfaces inside the crevices were affected by the character of the passive films (i.e., the corrosion rate of pitting depended more on the inherent character of the alloys without the passive films, and the corrosion rate of the crevice was related more to the character of the passive films.",
+        "bbox": [
+            70,
+            477,
+            485,
+            616
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mechanism examined in this study explained the dissimilar metal crevice corrosion and the slight difference of the superiority between pitting and crevice corrosion.",
+        "bbox": [
+            70,
+            616,
+            488,
+            678
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since this study considered only the short incubation times that are obtained in $\\mathsf { F e C l } _ { 3 }$ solutions, this explanation is valid only for the propagation stage of crevice and pitting corrosion. The incubation time in seawater would be expected to be longer and could affect crevice corrosion resistance. The processes involved in incubation times for these alloys in seawater should be investigated. Also, reasons for the difference in the anodic polarization behavior above $\\mathsf { E } _ { \\mathsf { b } }$ between the ferritic and austenitic SS should be clarified.",
+        "bbox": [
+            70,
+            678,
+            485,
+            848
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS",
+        "text_level": 2,
+        "bbox": [
+            73,
+            856,
+            227,
+            876
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To clarify reasons for the superior corrosion resistance of high-alloy ferritic SS to austenitic steels, the effects of Cr (18% to 26%) and Mo (0% to 4%) on pitting, crevice, and general corrosion behavior of these alloys were investigated.",
+        "bbox": [
+            71,
+            891,
+            488,
+            939
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/80edc3f3d62b6fc0b9dfb434fcd790c492917ffb32452beb3901ab3ad2672aa5.jpg",
+        "image_caption": [
+            "Current Density",
+            "FIGURE 12. Schematicanodicandcathodic<sub>p</sub>olarizationcurves for the low-alloy group of ferritic and austenitic SS, where V = pittin<sub>g</sub>-t<sub>y</sub>pe crevice corrosion ∆ = <sub>g</sub>eneral corrosion and depassivation-type crevice corrosion, and=pitting corrosion."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            533,
+            79,
+            924,
+            344
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            478,
+            909,
+            509
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "❖ The pitting and crevice corrosion resistances of ferritic SS were improved more than the resistances of the austenitic SS as Cr and Mo concentrations were increased. In the range where the corrosion index (Cr + 3xMo) was below 32 to 35, the ferritic SS showed inferior corrosion resistance to the austenitic steels. Above 32 to 35, ferritic steels showed superior corrosion resistance.",
+        "bbox": [
+            521,
+            509,
+            938,
+            632
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "❖ In the crevice corrosion test, corrosion rates of the high-alloy ferritic steels were much lower than those of the austenitic steels containing the same concentrations of Cr and Mo. However, the general corrosion rates of ferritic SS in the ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ solution were higher than those of austenitic steels, even in the high-alloy region.",
+        "bbox": [
+            521,
+            632,
+            935,
+            739
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "❖ In the anodic polarization behavior of the ferritic SS, the increase of Cr concentration decreased not only the anodic current density but also the rate of increase of the anodic current density above $\\mathsf { E } _ { \\mathsf { b } }$ in solutions with low pH and high concentrations of Cl<sup>–</sup>. On the other hand, the increase of Cr did not change the rate of increase for the austenitic steels.",
+        "bbox": [
+            521,
+            738,
+            935,
+            846
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "❖ The addition of Mo decreased the anodic current densities but did not influence the rates of increase of the anodic current density above $\\mathsf { E } _ { \\mathsf { b } }$ for both ferritic and austenitic SS.",
+        "bbox": [
+            521,
+            846,
+            940,
+            908
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "❖ Above $\\mathsf { E } _ { \\mathsf { b } } ,$ the anodic current density of high-alloy ferritic SS such as 26% Cr-4% Mo steel was lower than that of the austenitic steels for the same concentration of Cr and Mo. The superior corrosion resistance of the high-alloy ferritic steels could be explained by these anodic polarization behaviors. ❖ Two types of crevice corrosion, pitting and depassivation types, were shown to exist, at least in high-alloy SS.",
+        "bbox": [
+            521,
+            908,
+            929,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            748,
+            43,
+            940,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–Vol. 50, No. 12",
+        "bbox": [
+            73,
+            957,
+            317,
+            975
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "961",
+        "bbox": [
+            909,
+            961,
+            943,
+            975
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/03dac5f1bae512fd90caa498c1ace89e059af8334495c981ea82d18cf1351c50.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 13. $E _ { R }$ vstheCr+3xMoindexforferriticandaustenitic SS in deaerated 3.5% NaCl solutions at $6 0 ^ { \\circ } C .$"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            66,
+            79,
+            459,
+            385
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            56,
+            463,
+            461,
+            572
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS",
+        "text_level": 2,
+        "bbox": [
+            58,
+            582,
+            278,
+            600
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge the assistance of W.H. Smyrl of the Corrosion Research Center, University of Minnesota.",
+        "bbox": [
+            56,
+            616,
+            470,
+            664
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES",
+        "text_level": 2,
+        "bbox": [
+            58,
+            676,
+            162,
+            692
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. A.P. Bond, H.J. Dundas, MP 24 (1984): p. 39.",
+            "2. H.J. Dundas, MP 24 (1985): p. 54.",
+            "3. T.S. Lee, R.M. Kain, “Factors Influencing the Crevice Corrosion Behavior of Stainless Steels in Seawater,” CORROSION/83, paper no. 69 (Houston, TX: NACE, 1983).",
+            "4. H.P. Hack, “Crevice Corrosion Behavior of 45 Molybdenum-Containing Stainless Steels in Seawater,” CORROSION/82, paper no. 65 (Houston, TX: NACE, 1982).",
+            "5. H.P. Hack, MP 22 (1983): p. 24.",
+            "6. T. Ujiro, T. Narutani, K. Yoshioka, S. Suzuki, Tetsu to Hagane 70 (1984): p. S1348.",
+            "7. T. Ujiro, M. Ishikawa, S. Suzuki, “Differences in Crevice Corrosion Behavior of Ferritic and Austenitic Stainless Steels,” Proc. 34th Corrosion Discussion Meeting, paper no. A-302 (Tokyo, Japan: Japan Society of Corrosion Engineering [JSCE], 1987), p. 91.",
+            "8. T. Ujiro, S. Hasuno, O. Hashimoto, Current Adv. Mater. Processes, Vol. 1 (1988): p. 1,804."
+        ],
+        "bbox": [
+            63,
+            707,
+            333,
+            719
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/d5240f895cc4ea11017687096e384b28d297f2c24822c2a3c5156dd6d5b65f23.jpg",
+        "content": "",
+        "chart_caption": [
+            "FIGURE 14. Crevice corrosion rate vs concentration of FeCl for ferritic and austenitic SS containing 26%Cr and 2%Mo exposed to 1% to 6% $F e C l _ { 3 } + H C I$ (pH 1.25) at 30° C."
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            517,
+            83,
+            912,
+            430
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "9. T. Ujiro, K. Yoshioka, O. Hashimoto, T. Kawasaki, F. Soma, S. Amano, “Development of High-Alloy Stainless Steels with Corrosion Resistance to Seawater Environment,” Proc. Int. Conf. Stainless Steels, Chiba, Japan (Tokyo, Japan: ISIJ, 1991), p. 86.",
+            "10. T. Kudo, Y. Tarutani, Archive for 62nd Corrosion Symp., JSCE, Osaka, Japan (Tokyo, Japan: JSCE, 1985), p. 50.",
+            "11. M.A. Streicher, MP 22 (1983): p. 37.",
+            "12. R.J. Brigham, MP 24 (1985): p. 44.",
+            "13. C.W. Kovach, J.D. Redmond, “Correlations Between the Critical Crevice Temperature, Pre-Number, and Long-Term Crevice Corrosion Data for Stainless Steels,” CORROSION/93, paper no. 267 (Houston, TX: NACE, 1993).",
+            "14. J.R. Maurer, “Results of Seven Years Exposure of Dissimilar Metal Crevice Assemblies in Filtered Seawater,” CORROSION/93, paper no. 490 (Houston, TX: NACE, 1993).",
+            "15. R.M. Kain, MP 23 (1984): p. 24.",
+            "16. S. Tsujikawa, Y. Hisamatsu, Boshoku Gijutsu 29 (1980): p. 37.",
+            "17. T. Shinohara, S. Tsujikawa, Y. Hisamatsu, T. Takano, H. Okamura, Boshoku Gijutsu 31 (1982): p. 650.",
+            "18. T. Suzuki, Boshoku Gijutsu 28 (1979): p. 38",
+            "19. J.W. Oldfield, W.H. Sutton, Brit. Corros. J. 13 (1978): p. 104.",
+            "20. J.L. Dawson, M.G.S. Ferreira, Corros. Sci. 26 (1986): p. 1,027",
+            "21. S. Tsujikawa, Boshoku Gijutsu 31 (1982): p. 488.",
+            "22. S. Okayama, S. Tsujikawa, K. Kikuchi, Boshoku Gijutsu 36 (1987): p. 702.",
+            "23. T. Ujiro, Corros. Eng. 41 (1992): p. 399.",
+            "24. S. Okayama, Y. Uesugi, S. Tsujikawa, Boshoku Gijutsu 36 (1987): p. 157.",
+            "25. M.B. Rockel, M. Renner, Werkst. Korros. 35 (1984): p. 537",
+            "26. S. Azuma, K. Ogawa, H. Miyuki, T. Kudo, M. Nishi, “Corrosion Resistance of 28% Cr Duplex Stainless Steel Tube in Hot Seawater Applications,” Proc. Int. Conf. Stainless Steels, Chiba, Japan (Tokyo, Japan: ISIJ, 1991), p. 133."
+        ],
+        "bbox": [
+            514,
+            536,
+            923,
+            578
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "CORROSION ENGINEERING",
+        "bbox": [
+            56,
+            43,
+            247,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "962",
+        "bbox": [
+            58,
+            960,
+            92,
+            974
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "CORROSION–DECEMBER 1994",
+        "bbox": [
+            661,
+            957,
+            926,
+            974
+        ],
+        "page_idx": 9
+    }
+]
